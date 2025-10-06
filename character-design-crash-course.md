@@ -1,180 +1,13 @@
-<!-- markdownlint-disable MD059 MD024-->
-
-# Character Design Crash Course
-
-- [Character Design Crash Course](#character-design-crash-course)
-  - [Introduction](#introduction)
-    - [What Does The Character Designer Do?](#what-does-the-character-designer-do)
-    - [What is a Character Designer good at?](#what-is-a-character-designer-good-at)
-    - [What is a Model Sheet?](#what-is-a-model-sheet)
-      - [Purpose of Model Sheets](#purpose-of-model-sheets)
-        - [Creating a Character Model Sheet for 2D Animation](#creating-a-character-model-sheet-for-2d-animation)
-        - [Creating a Character Model Sheet for 3D Animation](#creating-a-character-model-sheet-for-3d-animation)
-        - [Creating a Character Model Sheet for Stop-motion Animation](#creating-a-character-model-sheet-for-stop-motion-animation)
-    - [Research \& Preparation](#research--preparation)
-      - [Preliminary Process](#preliminary-process)
-      - [Inspiration](#inspiration)
-      - [Thumbnails](#thumbnails)
-      - [Shape Language](#shape-language)
-    - [Exploration Sketches](#exploration-sketches)
-      - [Concept Art](#concept-art)
-      - [Pre-Design/VisDev](#pre-designvisdev)
-    - [Character Turnaround](#character-turnaround)
-      - [The Rotation](#the-rotation)
-        - [1 - Draw the front view of your character](#1---draw-the-front-view-of-your-character)
-        - [2 - Create some guidelines](#2---create-some-guidelines)
-        - [3 - Draw the 3/4 view](#3---draw-the-34-view)
-        - [4 - Check the guidelines](#4---check-the-guidelines)
-        - [5 - Draw the side view](#5---draw-the-side-view)
-        - [6 - Draw the back view and 3/4 back view](#6---draw-the-back-view-and-34-back-view)
-      - [More Views](#more-views)
-    - [Expression Sheets](#expression-sheets)
-    - [Pose Sheets](#pose-sheets)
-    - [Color Styling](#color-styling)
-      - [Handout](#handout)
-      - [Paint With All The Colors](#paint-with-all-the-colors)
-      - [Matching The Backgrounds](#matching-the-backgrounds)
-      - [Color Design Review](#color-design-review)
-      - [Local Colors and Lighting](#local-colors-and-lighting)
-      - [Right on Schedule](#right-on-schedule)
-      - [Rim Light and Rim Shadow](#rim-light-and-rim-shadow)
-      - [Workflow Pipeline](#workflow-pipeline)
-      - [Who Do I Work With?](#who-do-i-work-with)
-      - [Alternates (ALT)](#alternates-alt)
-      - [Who Do I Affect?](#who-do-i-affect)
-      - [COLOR CONCEPTS](#color-concepts)
-      - [Symbolism](#symbolism)
-      - [Color Relationships](#color-relationships)
-      - [Complementary Colors](#complementary-colors)
-      - [Monochromatic Colors](#monochromatic-colors)
-      - [Triadic Colors](#triadic-colors)
-      - [Warm vs Cool Colors](#warm-vs-cool-colors)
-      - [COLOR BREAKDOWNS](#color-breakdowns)
-      - [Advice for the Aspiring Color Designer](#advice-for-the-aspiring-color-designer)
-    - [Mouth Charts](#mouth-charts)
-      - [Sample mouth charts](#sample-mouth-charts)
-    - [Size Comparison Charts](#size-comparison-charts)
-    - [Distance Models](#distance-models)
-    - [Style Guides](#style-guides)
-    - [Storytelling in Character Design](#storytelling-in-character-design)
-      - [Way Past Cool](#way-past-cool)
-      - [Keep it simple](#keep-it-simple)
-      - [Style and Influences](#style-and-influences)
-    - [Function and Purpose](#function-and-purpose)
-      - [Simplifying vs Complexity](#simplifying-vs-complexity)
-      - [Iconography in Character Design](#iconography-in-character-design)
-      - [Design for Technical Needs](#design-for-technical-needs)
-      - [Knowing the Limitations](#knowing-the-limitations)
-    - [Thoughts on Appeal](#thoughts-on-appeal)
-    - [Anatomy \& Structure](#anatomy--structure)
-      - [How to Improve Your Character Form and Structure](#how-to-improve-your-character-form-and-structure)
-      - [Figure Drawing](#figure-drawing)
-      - [Human Anatomy](#human-anatomy)
-      - [Animals/Creatures](#animalscreatures)
-        - [How to study Bones and Muscles](#how-to-study-bones-and-muscles)
-      - [Boost your Design IQ](#boost-your-design-iq)
-        - [Back to basics](#back-to-basics)
-        - [TIME TO DRAW CUBES](#time-to-draw-cubes)
-      - [Analytical Sketching](#analytical-sketching)
-    - [Stylization](#stylization)
-    - [What is Art Direction?](#what-is-art-direction)
-      - [Environment Art Direction](#environment-art-direction)
-      - [Character Art Direction](#character-art-direction)
-    - [Prop Design](#prop-design)
-    - [Walkthrough the Process](#walkthrough-the-process)
-      - [Pre-Boards and Post Boards](#pre-boards-and-post-boards)
-      - [Design Handout](#design-handout)
-      - [Rough Sketches](#rough-sketches)
-      - [Design Review](#design-review)
-      - [Revisions and Revisions and Revisions](#revisions-and-revisions-and-revisions)
-      - [Rotations](#rotations)
-      - [Does This Turn?](#does-this-turn)
-      - [Clean Lines](#clean-lines)
-      - [Is The Design Finished?](#is-the-design-finished)
-      - [Post Board Designs](#post-board-designs)
-      - [Alternates and Multiple Versions](#alternates-and-multiple-versions)
-      - [Expressions, Mouth Charts \& Special Poses](#expressions-mouth-charts--special-poses)
-      - [Do Character Designers Color Design?](#do-character-designers-color-design)
-      - [Who Do I Work With?](#who-do-i-work-with-1)
-      - [Who Do I Affect?](#who-do-i-affect-1)
-      - [The Finished Product](#the-finished-product)
-    - [Tools of the Trade](#tools-of-the-trade)
-    - [Terminology](#terminology)
-    - [Summary](#summary)
-  - [Assignment #1](#assignment-1)
-    - [Approach for Designing Characters](#approach-for-designing-characters)
-  - [Assignment #2](#assignment-2)
-    - [Expressing Shapes in Design](#expressing-shapes-in-design)
-  - [Assignment #3](#assignment-3)
-    - [Shape Blocking](#shape-blocking)
-    - [Straights \& Curves](#straights--curves)
-    - [Proportions](#proportions)
-  - [Assignment #4](#assignment-4)
-    - [Construction \& Rhythm](#construction--rhythm)
-  - [Assignment #5](#assignment-5)
-    - [Contrasting Shapes](#contrasting-shapes)
-  - [Assignment #6](#assignment-6)
-    - [Thoughts on Color](#thoughts-on-color)
-  - [Assignment #7](#assignment-7)
-    - [Clothes and Costumes](#clothes-and-costumes)
-  - [Assignment #8](#assignment-8)
-    - [Character Dimension](#character-dimension)
-  - [Assignment #9](#assignment-9)
-    - [Explore Gesture Drawing](#explore-gesture-drawing)
-  - [Assignment #10](#assignment-10)
-    - [Structural Drawing](#structural-drawing)
-  - [Assignment #11](#assignment-11)
-    - [Insight \& Guidance](#insight--guidance)
-  - [Assignment #12](#assignment-12)
-    - [Advice \& Tutorials](#advice--tutorials)
-  - [\*Bonus Assignment](#bonus-assignment)
-    - [Character Model Pack](#character-model-pack)
-  - [Conclusion](#conclusion)
-    - [Advice for the Aspiring Character Designer](#advice-for-the-aspiring-character-designer)
-    - [Build Your Portfolio](#build-your-portfolio)
-      - [When can you update your portfolio with your new work?](#when-can-you-update-your-portfolio-with-your-new-work)
-      - [Copyrights](#copyrights)
-    - [Job Applications](#job-applications)
-    - [Studio Design Tests](#studio-design-tests)
-    - [Inside The Studio](#inside-the-studio)
-      - [Attitude](#attitude)
-      - [Ego](#ego)
-      - [Building your confidence level](#building-your-confidence-level)
-      - [Your Growth](#your-growth)
-      - [The Breaks](#the-breaks)
-      - [Breaks include](#breaks-include)
-      - [Other design roles](#other-design-roles)
-      - [Best practices](#best-practices)
-      - [Speed](#speed)
-      - [Feedback](#feedback)
-      - [Addressing notes](#addressing-notes)
-      - [Ebb and flow](#ebb-and-flow)
-      - [Networking](#networking)
-      - [Experience](#experience)
-      - [Review](#review)
-    - [Contracts \& Schedules](#contracts--schedules)
-    - [Commissions](#commissions)
-    - [Freelancing](#freelancing)
-    - [Staying Productive](#staying-productive)
-      - [1. Have a Designated Creative Space](#1-have-a-designated-creative-space)
-      - [2. Start a Multi-Part Project](#2-start-a-multi-part-project)
-      - [3. Create a List](#3-create-a-list)
-      - [4. Take Breaks](#4-take-breaks)
-      - [5. Fifteen Minutes a Day](#5-fifteen-minutes-a-day)
-      - [6. Carry Your Own Sketchbook](#6-carry-your-own-sketchbook)
-      - [7. Just Get Started](#7-just-get-started)
-      - [8. Don't Stop Learning](#8-dont-stop-learning)
-      - [9. Practice Practice Practice](#9-practice-practice-practice)
-      - [10. Organize Your Self-Improvement Lessons](#10-organize-your-self-improvement-lessons)
-      - [11. Compile References / Organize Some Studies To Try Out](#11-compile-references--organize-some-studies-to-try-out)
-      - [12. Work Habits](#12-work-habits)
-    - [Pitching](#pitching)
-      - [Writing \& Developing](#writing--developing)
-      - [Creating a Pitch](#creating-a-pitch)
-      - [Pitching Summary](#pitching-summary)
-    - [Epilogue](#epilogue)
-      - [That's it](#thats-it)
-    - [Donations](#donations)
+---
+title: "Character Design Crash Course - by Ronald Doucet"
+author: "Ronald Doucet"
+lang: "en"
+toc: true
+toc-depth: 3
+document-css: False
+css: style.css
+header-includes: <script src="script.js"></script>
+---
 
 ## Introduction
 
@@ -183,7 +16,7 @@ Here is an intuitive, straight-forward approach to self-directed character desig
 ![image](./images/unnamed_1545.png)
 ![image](./images/unnamed_1447.png)
 
-👈👈👈 Quick links to each topic and chapter in the left column.
+<!-- 👈👈👈 Quick links to each topic and chapter in the left column. -->
 
 Further down you'll see the setup for these **12 assignments**, with a total of 32 different established design styles to learn from. For each assignment you'll have a section called 'Support Material', these are external links to design packs, tutorials, and articles aimed at giving you more knowledge on certain topics from a wide range of sources. There's also some insightful character design history scattered through this site.
 
@@ -3612,7 +3445,7 @@ No pipeline is perfect and TV animation schedules are notoriously hectic with ma
 
 ![image](./images/unnamed_1341.jpg)
 
-#### Who Do I Work With?
+#### Who Do I Work With? - Part two
 
 Primarily, color stylists work closest with the Art Director, this is the person foremost in charge of the overall look of the series.
 
@@ -3633,7 +3466,7 @@ Sometimes creating versions of color schemes and surface details are referred to
 
 ![image](./images/unnamed_341.jpg)
 
-#### Who Do I Affect?
+#### Who Do I Affect? - Part two
 
 Color Stylists most heavily affect the Builds team, they take the finished and approved color designs and convert them into rigged assets, which then goes to the Scene Setup (scene prep) crew to assemble each individual shot for each sequence of the episode, which then goes to the animation crew. When the animators open up their assigned scenes, they see everything has been imported, placed in, sized up and laid out for them to use, and then they can begin [animating](https://www.google.com/url?q=https://www.youtube.com/@AlexGriggAnimation/videos&sa=D&source=editors&ust=1759597864925151&usg=AOvVaw0IJYLuJIkZilYCrIU267F3) the characters.
 
@@ -6457,7 +6290,7 @@ If you happen to have a knack for color, you may be asked to do color concepts i
 
 ![image](./images/unnamed_683.jpg)
 
-#### Who Do I Work With?
+#### Who Do I Work With? - Part one
 
 Primarily, character designers work closest with the Art Director.
 
@@ -6470,7 +6303,7 @@ Character Designers will also receive notes from Directors and Showrunners. They
 ![image](./images/unnamed_1648.png)
 ![image](./images/unnamed_1500.png)
 
-#### Who Do I Affect?
+#### Who Do I Affect? - Part one
 
 Character designers affect the [storyboard artists](https://www.google.com/url?q=https://youtu.be/PmRI0SaO_0I?t%3D58&sa=D&source=editors&ust=1759597865209908&usg=AOvVaw1oiduEyhdqNnqK5LJd-h6A) but they are also heavily affected by them, along with directors as well. The way designers are used for the story can greatly dictate what the design needs. Designs and Boards are two very interdependent departments, and are often very symbiotic.
 
