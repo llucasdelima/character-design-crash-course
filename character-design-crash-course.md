@@ -1,6 +1,180 @@
-<!-- markdownlint-disable MD059-->
+<!-- markdownlint-disable MD059 MD024-->
 
 # Character Design Crash Course
+
+- [Character Design Crash Course](#character-design-crash-course)
+  - [Introduction](#introduction)
+    - [What Does The Character Designer Do?](#what-does-the-character-designer-do)
+    - [What is a Character Designer good at?](#what-is-a-character-designer-good-at)
+    - [What is a Model Sheet?](#what-is-a-model-sheet)
+      - [Purpose of Model Sheets](#purpose-of-model-sheets)
+        - [Creating a Character Model Sheet for 2D Animation](#creating-a-character-model-sheet-for-2d-animation)
+        - [Creating a Character Model Sheet for 3D Animation](#creating-a-character-model-sheet-for-3d-animation)
+        - [Creating a Character Model Sheet for Stop-motion Animation](#creating-a-character-model-sheet-for-stop-motion-animation)
+    - [Research \& Preparation](#research--preparation)
+      - [Preliminary Process](#preliminary-process)
+      - [Inspiration](#inspiration)
+      - [Thumbnails](#thumbnails)
+      - [Shape Language](#shape-language)
+    - [Exploration Sketches](#exploration-sketches)
+      - [Concept Art](#concept-art)
+      - [Pre-Design/VisDev](#pre-designvisdev)
+    - [Character Turnaround](#character-turnaround)
+      - [The Rotation](#the-rotation)
+        - [1 - Draw the front view of your character](#1---draw-the-front-view-of-your-character)
+        - [2 - Create some guidelines](#2---create-some-guidelines)
+        - [3 - Draw the 3/4 view](#3---draw-the-34-view)
+        - [4 - Check the guidelines](#4---check-the-guidelines)
+        - [5 - Draw the side view](#5---draw-the-side-view)
+        - [6 - Draw the back view and 3/4 back view](#6---draw-the-back-view-and-34-back-view)
+      - [More Views](#more-views)
+    - [Expression Sheets](#expression-sheets)
+    - [Pose Sheets](#pose-sheets)
+    - [Color Styling](#color-styling)
+      - [Handout](#handout)
+      - [Paint With All The Colors](#paint-with-all-the-colors)
+      - [Matching The Backgrounds](#matching-the-backgrounds)
+      - [Color Design Review](#color-design-review)
+      - [Local Colors and Lighting](#local-colors-and-lighting)
+      - [Right on Schedule](#right-on-schedule)
+      - [Rim Light and Rim Shadow](#rim-light-and-rim-shadow)
+      - [Workflow Pipeline](#workflow-pipeline)
+      - [Who Do I Work With?](#who-do-i-work-with)
+      - [Alternates (ALT)](#alternates-alt)
+      - [Who Do I Affect?](#who-do-i-affect)
+      - [COLOR CONCEPTS](#color-concepts)
+      - [Symbolism](#symbolism)
+      - [Color Relationships](#color-relationships)
+      - [Complementary Colors](#complementary-colors)
+      - [Monochromatic Colors](#monochromatic-colors)
+      - [Triadic Colors](#triadic-colors)
+      - [Warm vs Cool Colors](#warm-vs-cool-colors)
+      - [COLOR BREAKDOWNS](#color-breakdowns)
+      - [Advice for the Aspiring Color Designer](#advice-for-the-aspiring-color-designer)
+    - [Mouth Charts](#mouth-charts)
+      - [Sample mouth charts](#sample-mouth-charts)
+    - [Size Comparison Charts](#size-comparison-charts)
+    - [Distance Models](#distance-models)
+    - [Style Guides](#style-guides)
+    - [Storytelling in Character Design](#storytelling-in-character-design)
+      - [Way Past Cool](#way-past-cool)
+      - [Keep it simple](#keep-it-simple)
+      - [Style and Influences](#style-and-influences)
+    - [Function and Purpose](#function-and-purpose)
+      - [Simplifying vs Complexity](#simplifying-vs-complexity)
+      - [Iconography in Character Design](#iconography-in-character-design)
+      - [Design for Technical Needs](#design-for-technical-needs)
+      - [Knowing the Limitations](#knowing-the-limitations)
+    - [Thoughts on Appeal](#thoughts-on-appeal)
+    - [Anatomy \& Structure](#anatomy--structure)
+      - [How to Improve Your Character Form and Structure](#how-to-improve-your-character-form-and-structure)
+      - [Figure Drawing](#figure-drawing)
+      - [Human Anatomy](#human-anatomy)
+      - [Animals/Creatures](#animalscreatures)
+        - [How to study Bones and Muscles](#how-to-study-bones-and-muscles)
+      - [Boost your Design IQ](#boost-your-design-iq)
+        - [Back to basics](#back-to-basics)
+        - [TIME TO DRAW CUBES](#time-to-draw-cubes)
+      - [Analytical Sketching](#analytical-sketching)
+    - [Stylization](#stylization)
+    - [What is Art Direction?](#what-is-art-direction)
+      - [Environment Art Direction](#environment-art-direction)
+      - [Character Art Direction](#character-art-direction)
+    - [Prop Design](#prop-design)
+    - [Walkthrough the Process](#walkthrough-the-process)
+      - [Pre-Boards and Post Boards](#pre-boards-and-post-boards)
+      - [Design Handout](#design-handout)
+      - [Rough Sketches](#rough-sketches)
+      - [Design Review](#design-review)
+      - [Revisions and Revisions and Revisions](#revisions-and-revisions-and-revisions)
+      - [Rotations](#rotations)
+      - [Does This Turn?](#does-this-turn)
+      - [Clean Lines](#clean-lines)
+      - [Is The Design Finished?](#is-the-design-finished)
+      - [Post Board Designs](#post-board-designs)
+      - [Alternates and Multiple Versions](#alternates-and-multiple-versions)
+      - [Expressions, Mouth Charts \& Special Poses](#expressions-mouth-charts--special-poses)
+      - [Do Character Designers Color Design?](#do-character-designers-color-design)
+      - [Who Do I Work With?](#who-do-i-work-with-1)
+      - [Who Do I Affect?](#who-do-i-affect-1)
+      - [The Finished Product](#the-finished-product)
+    - [Tools of the Trade](#tools-of-the-trade)
+    - [Terminology](#terminology)
+    - [Summary](#summary)
+  - [Assignment #1](#assignment-1)
+    - [Approach for Designing Characters](#approach-for-designing-characters)
+  - [Assignment #2](#assignment-2)
+    - [Expressing Shapes in Design](#expressing-shapes-in-design)
+  - [Assignment #3](#assignment-3)
+    - [Shape Blocking](#shape-blocking)
+    - [Straights \& Curves](#straights--curves)
+    - [Proportions](#proportions)
+  - [Assignment #4](#assignment-4)
+    - [Construction \& Rhythm](#construction--rhythm)
+  - [Assignment #5](#assignment-5)
+    - [Contrasting Shapes](#contrasting-shapes)
+  - [Assignment #6](#assignment-6)
+    - [Thoughts on Color](#thoughts-on-color)
+  - [Assignment #7](#assignment-7)
+    - [Clothes and Costumes](#clothes-and-costumes)
+  - [Assignment #8](#assignment-8)
+    - [Character Dimension](#character-dimension)
+  - [Assignment #9](#assignment-9)
+    - [Explore Gesture Drawing](#explore-gesture-drawing)
+  - [Assignment #10](#assignment-10)
+    - [Structural Drawing](#structural-drawing)
+  - [Assignment #11](#assignment-11)
+    - [Insight \& Guidance](#insight--guidance)
+  - [Assignment #12](#assignment-12)
+    - [Advice \& Tutorials](#advice--tutorials)
+  - [\*Bonus Assignment](#bonus-assignment)
+    - [Character Model Pack](#character-model-pack)
+  - [Conclusion](#conclusion)
+    - [Advice for the Aspiring Character Designer](#advice-for-the-aspiring-character-designer)
+    - [Build Your Portfolio](#build-your-portfolio)
+      - [When can you update your portfolio with your new work?](#when-can-you-update-your-portfolio-with-your-new-work)
+      - [Copyrights](#copyrights)
+    - [Job Applications](#job-applications)
+    - [Studio Design Tests](#studio-design-tests)
+    - [Inside The Studio](#inside-the-studio)
+      - [Attitude](#attitude)
+      - [Ego](#ego)
+      - [Building your confidence level](#building-your-confidence-level)
+      - [Your Growth](#your-growth)
+      - [The Breaks](#the-breaks)
+      - [Breaks include](#breaks-include)
+      - [Other design roles](#other-design-roles)
+      - [Best practices](#best-practices)
+      - [Speed](#speed)
+      - [Feedback](#feedback)
+      - [Addressing notes](#addressing-notes)
+      - [Ebb and flow](#ebb-and-flow)
+      - [Networking](#networking)
+      - [Experience](#experience)
+      - [Review](#review)
+    - [Contracts \& Schedules](#contracts--schedules)
+    - [Commissions](#commissions)
+    - [Freelancing](#freelancing)
+    - [Staying Productive](#staying-productive)
+      - [1. Have a Designated Creative Space](#1-have-a-designated-creative-space)
+      - [2. Start a Multi-Part Project](#2-start-a-multi-part-project)
+      - [3. Create a List](#3-create-a-list)
+      - [4. Take Breaks](#4-take-breaks)
+      - [5. Fifteen Minutes a Day](#5-fifteen-minutes-a-day)
+      - [6. Carry Your Own Sketchbook](#6-carry-your-own-sketchbook)
+      - [7. Just Get Started](#7-just-get-started)
+      - [8. Don't Stop Learning](#8-dont-stop-learning)
+      - [9. Practice Practice Practice](#9-practice-practice-practice)
+      - [10. Organize Your Self-Improvement Lessons](#10-organize-your-self-improvement-lessons)
+      - [11. Compile References / Organize Some Studies To Try Out](#11-compile-references--organize-some-studies-to-try-out)
+      - [12. Work Habits](#12-work-habits)
+    - [Pitching](#pitching)
+      - [Writing \& Developing](#writing--developing)
+      - [Creating a Pitch](#creating-a-pitch)
+      - [Pitching Summary](#pitching-summary)
+    - [Epilogue](#epilogue)
+      - [That's it](#thats-it)
+    - [Donations](#donations)
 
 ## Introduction
 
@@ -326,17 +500,11 @@ Character design sheets should be used as a guide for any members of the creativ
 **There are many different ways to construct model sheets...**
 
 ![image](./images/unnamed_767.png)
-
 ![image](./images/unnamed_170.png)
-
 ![image](./images/unnamed_1050.jpg)
-
 ![image](./images/unnamed_289.jpg)
-
 ![image](./images/unnamed_899.png)
-
 ![image](./images/unnamed_261.png)
-
 ![image](./images/unnamed_723.png)
 
 #### Purpose of Model Sheets
@@ -3244,7 +3412,7 @@ Whether an actual document or just a conversation with the Art Director, the sty
 
 For example, a style guide might say such things as...
 
-_"The shadows of the characters are always hard edged and so when you are blocking out shadows, use the lasso tool."_
+> _"The shadows of the characters are always hard edged and so when you are blocking out shadows, use the lasso tool."_
 
 ![image](./images/unnamed_329.png)
 ![image](./images/unnamed_442.png)
@@ -3261,7 +3429,7 @@ Terms to know:
 - Shades are created by adding black to a color, making it darker than the original
 - Tints are created by adding white to a color, making it lighter than the original
 
-**Handout**
+#### Handout
 
 The color stylist's job begins once the clean black and white character designs have been approved and turned.
 
@@ -3274,7 +3442,7 @@ Once the Art Director has delegated the designs, it's off to the races!
 ![image](./images/unnamed_1067.jpg)
 ![image](./images/unnamed_626.jpg)
 
-**Paint With All The Colors**
+#### Paint With All The Colors
 
 While the Art Director may have some specific thoughts about certain aspects of the character, the color stylist for the most part makes all of the decisions about the color schemes of the character from hair color to skin color to outfit color/coordination.
 
@@ -3296,7 +3464,7 @@ Sometimes "color roughs" are needed, where the artwork is still rough, but a col
 ![image](./images/unnamed_1380.jpg)
 ![image](./images/unnamed_450.jpg)
 
-**Matching The Backgrounds**
+#### Matching The Backgrounds
 
 Another very important consideration the color designer has to make is whether the character's color scheme/treatment will make sense against the background.
 
@@ -3308,7 +3476,7 @@ Your character colors can clash with the background, it's always good to make a 
 
 ![image](./images/unnamed_638.jpg)
 
-**Color Design Review**
+#### Color Design Review
 
 Once the color stylist has done a few color iterations (usually 3 to 5) of the character in 3/4 front view, it is time for the Art Director and Showrunner to review.
 
@@ -3334,7 +3502,7 @@ Colors combinations can help to create a very iconic casts of character:
 
 ![image](./images/unnamed_896.png)
 
-**Local Colors and Lighting.**
+#### Local Colors and Lighting
 
 Color stylists create and set the character palettes for the characters, props and FX within an episode, taking into account lighting changes that might happen while said elements are on screen. Something that can vary from show to show is whether color stylists are responsible for doing the light adjustments for characters under different lighting conditions.
 
@@ -3394,7 +3562,7 @@ Another thing that can improve the effectiveness of your character design sheet 
 ![image](./images/unnamed_937.png)
 ![image](./images/unnamed_260.jpg)
 
-**Right on Schedule.**
+#### Right on Schedule
 
 Similar to both background design and character design, there are usually about 2 weeks allotted in a production schedule for color design for each episode, however the timeframe can vary. These 2-week-cycles include producing the color concepts, having them reviewed, painting the one view of the character again, having that reviewed, revising those colors, then painting the other views, at least 5 views for a primary characters and at least 2 views for a secondary/incidental character, and usually you are working on two episodes at once, with multiple characters, with some partial re-use and re-dressing from previous episodes, and all overlapping at various stages.
 
@@ -3407,7 +3575,7 @@ Lighting Keys:
 ![image](./images/unnamed_1528.png)
 ![image](./images/unnamed_401.png)
 
-**Rim Light and Rim Shadow**
+#### Rim Light and Rim Shadow
 
 Sometimes you need to make a custom color palette for night time scenes, which includes creating samples for light sources and how they are painted.
 
@@ -3421,7 +3589,7 @@ Night time colors with shadows:
 
 ![image](./images/unnamed_1378.jpg)
 
-**Workflow Pipeline**
+#### Workflow Pipeline
 
 Start off with only coloring one view at a time, you want your color palette approved before applying it to all the other turns.
 
@@ -3444,7 +3612,7 @@ No pipeline is perfect and TV animation schedules are notoriously hectic with ma
 
 ![image](./images/unnamed_1341.jpg)
 
-**Who Do I Work With?**
+#### Who Do I Work With?
 
 Primarily, color stylists work closest with the Art Director, this is the person foremost in charge of the overall look of the series.
 
@@ -3459,19 +3627,19 @@ Color Stylists may communicate with Character Designers to discuss their black a
 ![image](./images/unnamed_1550.png)
 ![image](./images/unnamed_513.png)
 
-**Alternates (ALT)**
+#### Alternates (ALT)
 
 Sometimes creating versions of color schemes and surface details are referred to as ALTs.
 
 ![image](./images/unnamed_341.jpg)
 
-**Who Do I Affect?**
+#### Who Do I Affect?
 
 Color Stylists most heavily affect the Builds team, they take the finished and approved color designs and convert them into rigged assets, which then goes to the Scene Setup (scene prep) crew to assemble each individual shot for each sequence of the episode, which then goes to the animation crew. When the animators open up their assigned scenes, they see everything has been imported, placed in, sized up and laid out for them to use, and then they can begin [animating](https://www.google.com/url?q=https://www.youtube.com/@AlexGriggAnimation/videos&sa=D&source=editors&ust=1759597864925151&usg=AOvVaw0IJYLuJIkZilYCrIU267F3) the characters.
 
 > Early color explorations models can be made to determine which combination works best:
 
-**COLOR CONCEPTS**
+#### COLOR CONCEPTS
 
 ![image](./images/unnamed_1092.png)
 ![image](./images/unnamed_693.png)
@@ -3517,13 +3685,13 @@ When working with just two colors, use the **70-30** rule. One color is about 70
 
 Colors have a similar subconscious effect on our visual interpretation. Creating characters with an appealing and suitable color palette can make an immediate impact in grabbing and holding a viewer's attention. There are a few different aspects of color theory to consider when designing your character:
 
-**Symbolism**
+#### Symbolism
 
 Each color carries its own innate effects on a color scheme. Red is universally alert and energetic, white is universally neutral. Warm colors are associated with action while cool ones are linked with calmness.
 
 If you're creating content for an international audience it's worthwhile keeping in mind that different cultures have different views on color symbolism. Red, for example, can signify danger in the western world, but happiness in China. Likewise, blue represents freedom in many parts of Europe, but can symbolize villainy in Japan. Your intended audience will determine your use of [color symbolism](https://www.google.com/url?q=https://youtu.be/1-SNRBSgXds&sa=D&source=editors&ust=1759597864930110&usg=AOvVaw3e3dszH34-EMh6cNUBYJyJ).
 
-**Color Relationships**
+#### Color Relationships
 
 The relationship between the different colors in your character design is just as important, if not more so, than the separate color significance. Some of the most well-known color arrangements include: monochromatic (different light values of the same hue); Complementary (two colors which are directly opposite each other on the color wheel), Analogous (colors which are adjacent on the color wheel), and Triadic (three colors spread around the color wheel in a triangle formation).
 
@@ -3546,7 +3714,7 @@ You can see how the character's colors can showcase their personalities. How we 
 
 > 👉 [Color Theory in Storytelling!](https://www.google.com/url?q=https://youtu.be/aXgFcNUWqX0&sa=D&source=editors&ust=1759597864932029&usg=AOvVaw3Xv4hX0hjkxZNqZ-D5WtyN)
 
-**Complementary Colors**
+#### Complementary Colors
 
 Complementary colors are the exact opposite of each other on the color wheel. This gives a highly contrasting and bold look. If you want your character to stand out, a complementary color scheme is perfect!
 
@@ -3556,7 +3724,7 @@ As you can see in the below example, the use of complementary colors for a chara
 
 ![A character design with complementary color scheme](./images/unnamed_1333.jpg)\@meikearts
 
-**Monochromatic Colors**
+#### Monochromatic Colors
 
 A monochromatic color scheme uses only the tones, tints, and shades from a single hue on the color wheel. This creates a really unique and often emotive look in an illustration. If you are looking to make relatively simple color choices, this could be the best method for you!
 
@@ -3570,7 +3738,7 @@ A monochromatic color scheme is also a great choice if you are looking to improv
 
 ![Example of a character in monochromatic color](./images/unnamed_1143.jpg)\@meikearts
 
-**Triadic Colors**
+#### Triadic Colors
 
 If you are looking to have a bit more variation in your color scheme, the Triadic method might be just what you need! These color combinations use 3 colors that are equally spaced apart on the color wheel.
 
@@ -3582,7 +3750,7 @@ This color scheme creates a very vibrant look, even when the colors are toned do
 
 ![Example of triadic color scheme](./images/unnamed_568.jpg)\@meikearts
 
-**Warm vs Cool Colors**
+#### Warm vs Cool Colors
 
 ![Cool vs Warm Colors](./images/unnamed_278.jpg)
 
@@ -3600,8 +3768,7 @@ By Noah Ruff
 
 Remember, sometimes there's added details that need to be inserted in. Like rotations of hands, the underneath area of hair, arms, robes, capes, cloaks and wings, including underneath the feet and the inside of mouths - these are all factors that need to be designed for certain productions in order to provide consistent design and color reference for animators later on.
 
-**Video essays to watch:**
-
+- **Video essays to watch:**
 - 👉 [Color Theory in Character Development 1](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DoSemNNBdj20%26ab_channel%3DCinemaStix&sa=D&source=editors&ust=1759597864936900&usg=AOvVaw2ZtOy2CxM6pdk6c_nHHmVy)
 - 👉 [Color Theory in Character Development 2](https://www.google.com/url?q=https://youtu.be/tm_AVxUTu-Q&sa=D&source=editors&ust=1759597864937071&usg=AOvVaw0HbZrnok5TQPwNzP-bTmIs)
 
@@ -3649,7 +3816,7 @@ Other elements to include in color keys (color model sheets) are night-time colo
 
 By William Nichols
 
-**COLOR BREAKDOWNS**
+#### COLOR BREAKDOWNS
 
 ![image](./images/unnamed_624.jpg)
 
@@ -3682,7 +3849,7 @@ Being observant of the way colors interact in the world around you, and explorin
 
 ![image](./images/unnamed_634.jpg)
 
-**Advice for the Aspiring Color Designer**
+#### Advice for the Aspiring Color Designer
 
 If you're interested in becoming a color stylist/designer, here are some helpful things to keep in mind for both your personal growth and your portfolio!
 
@@ -3717,7 +3884,7 @@ Even with simple/cartoony mouths, keep the character's anatomy (and graphic styl
 
 These mouth shape guides are usually the last step in the creation of a full character model pack, as you can see, different productions have different codes and slightly different variations on the look for each syllable.
 
-**Sample mouth charts:**
+#### Sample mouth charts
 
 ![image](./images/unnamed_570.png)
 ![image](./images/unnamed_1702.png)
@@ -4129,7 +4296,7 @@ It\'s not too much of an overestimation to say that character design is one of t
 
 I\'m not a professional character designer, but I wanted to talk a little about the way I go about designing my characters and why I do it that way! Hopefully it will help people avoid some of the common pitfalls. Please feel free to share your tips and advice in the comments below, too. I would love to hear your thoughts and techniques!
 
-**Way Past Cool**
+#### Way Past Cool
 
 The most obvious and common pitfall is designing a character just to look \'cool\'. A character should be designed around a function or personality! Sonic is designed to look cool, sure - but he is also designed to be the fastest thing allliiiiiive! Hence the \'blown back\' spikes (from running so fast, obviously) reminiscent of comic speed lines, his red racing car sneakers, and the endless triangles in his designs!
 
@@ -4144,7 +4311,7 @@ His cool attitude is exemplified not only through his design, but through his po
 
 Have fun with it. How would your character sit, stand, wait, run? All of this is part of the design of the character, not just the job of the animator. When you think about iconic characters like [Bugs Bunny](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Bugs_Bunny&sa=D&source=editors&ust=1759597864973307&usg=AOvVaw23lMMgBfmzxC0PHymJLFer), [Superman](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Superman&sa=D&source=editors&ust=1759597864973414&usg=AOvVaw168RlsZfIMpU187k4-RAdn), or [Jafar](https://www.google.com/url?q=http://disney.wikia.com/wiki/Jafar&sa=D&source=editors&ust=1759597864973495&usg=AOvVaw0xqXI1ReDNzG7Orvi6MJY6), they all have poses that they call to your mind. An important thing to note too is that they are all confident characters. However, the way that this comes through in their posing is very unique to each - they all hold themselves completely differently.
 
-**Keep it simple**
+#### Keep it simple
 
 So, a side effect of having no true idea of purpose or function to your character, and of designing them simply to look appealing is festooning your character in stuff that clutters up their design. Needs more belts!
 
@@ -4158,7 +4325,7 @@ Using Midge from my comic [The Girl and the Glim](https://www.google.com/url?q=h
 
 > \"Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.\" \- Antoine de Saint-Exupéry
 
-**Style and Influences**
+#### Style and Influences
 
 The style you choose to design your characters in will vary depending on the story you are designing them for. Your target audience will also play a big role in these decisions! Setting Stranger Things in the 80\'s had no functionality story-wise. The same story could easily have been told with a modern day setting. However, the creators/designers knew that the story was targeting the generation who grew up on The Goonies and E.T., and wanted to evoke that nostalgia in their audience, and so they chose to set the story within this time period to create the kind of mood and atmosphere they felt would connect with their audience.
 
@@ -4251,11 +4418,11 @@ Most of the time designers need to research and ask lots of questions and perhap
 
 > 👉 The dangers of over-designing your characters are well explained [here](https://www.google.com/url?q=https://youtu.be/bYCf4fWOjmU&sa=D&source=editors&ust=1759597864984389&usg=AOvVaw07GOyUzGPy4HD6eI3_mPdb).
 
-**Simplifying vs Complexity**
+#### Simplifying vs Complexity
 
 ![image](./images/unnamed_104.jpg)
 
-**Iconography in Character Design:**
+#### Iconography in Character Design
 
 Digging a bit deeper on the use of images and symbols to represent ideas and how there's a range within the spectrum of all art and illustration when it pertains to realism, stylization, and visual symbolism. Adding symbols, icons, or signs to your character design can add another layer of depth and mystique. This could be giving your character an object that is strongly associated with them, adding [symbolism](https://www.google.com/url?q=https://attackmotiondesign.com/character-design-and-symbolism-an-in-depth-guide&sa=D&source=editors&ust=1759597864985258&usg=AOvVaw2nm0mO4JoldmWoL3KJXkK6) in the character\'s clothing, or including a unique scar or tattoo.
 
@@ -4273,14 +4440,14 @@ These symbols are used as metaphors - imagery that represents their character, v
 
 Downloadable large version [here](https://www.google.com/url?q=https://drive.google.com/file/d/1NUaaYh2ueN9g-pwWsWEmmYXDdoylW2gj/view?usp%3Dsharing&sa=D&source=editors&ust=1759597864987026&usg=AOvVaw2vrDltTs7IqLdgb_P4nl42).
 
-**Design for Technical Needs:**
+#### Design for Technical Needs
 
 If the production is using cut-out/puppet-style animation, you'll need to design each part of your character with a mindset in how it will connect and rotate with other body parts. [2D rigging](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DSFT1TZvpji8%26ab_channel%3DJuanIsmaelSegura&sa=D&source=editors&ust=1759597864987497&usg=AOvVaw0G-bWG7xBLzMMPHIhYCIQu), with bone tools and deformers, requires lots of forethought on the interactivity of the body parts and often a trial-and-error process to determine how each body part is connected and what pivot shapes will work best for creating smooth or believable movement, while keeping the rig [functional](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DbHtjXRg5gg8&sa=D&source=editors&ust=1759597864987878&usg=AOvVaw3LyuI7mQ6lQt6X02rm3_BN) and easy-to-work with for the animators that pose and operate the characters.
 
 ![image](./images/unnamed_011.gif)
 ![image](./images/unnamed_006.gif)
 
-**Knowing the Limitations:**
+#### Knowing the Limitations
 
 Being aware of the production's parameters and any specific restrictions involved is important knowledge to have and use in your quest to determine the style. Oftentimes, because the design process can start very early in the production pipeline, there are no clearly defined lists of conditions to be conscious of. At some point, your thought process should be mindful of any constraints in the artistic and technical aspects for the characters' anatomy and physical capabilities. Budgetary concerns and even what software/technology is being used can also be factors to consider.
 
@@ -4785,7 +4952,7 @@ How to breakdown and learn from the references you save & compile...
 
 Here's a post from the amazing, [HelpfulHarry](https://www.google.com/url?q=https://helpfulharrie.tumblr.com/tagged/anatomy&sa=D&source=editors&ust=1759597865033474&usg=AOvVaw2FeXypEy5UmnDoZ29fO7_9):
 
-**So let\'s make Bad Art of a Deer because I happen to have one handy**.
+> **So let\'s make Bad Art of a Deer because I happen to have one handy**.
 
 Start with a photo of your subject in a nice/neutral pose with all four feet visible (so not like me).
 
@@ -4826,7 +4993,7 @@ These are from the same shoot which is extra useful for consistency. The lines a
 
 You won\'t know what Important Parts means right off the bat, which is where in-depth study comes in. You need to do this over and over, to learn the hard parts, to do the easy parts right.
 
-**How to study Bones and Muscles**
+##### How to study Bones and Muscles
 
 - \"Study the anatomy"
 - "Study the anatomy\"
@@ -4974,7 +5141,7 @@ There's many examples of people learning and improving through [repetition](http
 
 Some advice on your state-of-mind when it comes to producing art from [Greg Broadmore](https://www.google.com/url?q=https://youtu.be/cfNOXFQMGT4&sa=D&source=editors&ust=1759597865104714&usg=AOvVaw1GhUyVbofQLpwrfrQnxItM).
 
-**Back to basics!**
+##### Back to basics
 
 The following exercise will improve your hand dexterity and ability to efficiently [draw the forms](https://www.google.com/url?q=https://youtu.be/NSvGEpAUO4c&sa=D&source=editors&ust=1759597865104940&usg=AOvVaw32MkaVWF8O3jRLznCJucXK) you need to construct anatomy by sketching circles, ellipses and other shapes while also getting you into the mental state of calmness needed to start work on a real drawing, here's a breakdown:
 
@@ -5012,7 +5179,7 @@ It's just useful to be able to freehand cylinders! And it is a great drawing exe
 ![image](./images/unnamed_470.jpg)
 ![image](./images/unnamed_593.png)
 
-**TIME TO DRAW CUBES!**
+##### TIME TO DRAW CUBES
 
 ![image](./images/unnamed_156.jpg)
 ![image](./images/unnamed_825.jpg)
@@ -5440,7 +5607,7 @@ Associated with Art Direction is the process of [Look Development](https://www.g
 
 In many 3D/CG feature films, Art Directors are involved throughout the entire project, up to its release, acting as a supervisor to the other artists, such as modelers, character designers and environment designers. This is a job that involves a lot of communication with people and needs strong management skills. They are responsible for ensuring all artwork is of a high quality and in keeping with the director's vision. They are also responsible for making sure everyone in the art department stays on budget and on schedule. Art directors are sometimes employed as freelancers working on a project by project basis. Art Direction usually splits into two main categories - **Environments** (also known as: Sets / Backgrounds / Locations) and **Characters**.
 
-**\- Environment Art Direction -**
+#### Environment Art Direction
 
 Set Design Concepts for _Hotel Transylvania_:
 
@@ -5451,7 +5618,7 @@ Set Design Concepts for _Hotel Transylvania_:
 ![image](./images/unnamed_486.jpg)
 ![image](./images/unnamed_705.jpg)
 
-**\- Character Art Direction -**
+#### Character Art Direction
 
 Design Language Guide for Spies in Disguise:
 
@@ -5472,8 +5639,8 @@ In a 2D animated series - Character Design is a portion of the **_Production Des
 ![image](./images/unnamed_271.jpg)
 ![image](./images/unnamed_770.jpg)
 
-**Study Hans Bacher's book for more insight on this process:**
-
+> **Study Hans Bacher's book for more insight on this process:** \
+> \
 > 👉 [Dream Worlds - Production Design for Animation](https://www.google.com/url?q=https://drive.google.com/file/d/1qdAesb6j1zr3tWNdTl_wspAGLT55LGlC/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865150679&usg=AOvVaw2LrggI74F8kmxbQVerzmbh)
 
 Art Direction covers all aspects of design and color, see Brtiney Liu's work on characters, props and locations for this Robin's Ghost concept:![image](./images/unnamed.jpg)
@@ -5992,7 +6159,7 @@ becomes a prop.
 
 ### Walkthrough the Process
 
-**Pre-Boards and Post Boards**.
+#### Pre-Boards and Post Boards
 
 While character design happens continually through the production of each episode of an animated series, there are usually two primary stages:
 
@@ -6014,7 +6181,7 @@ Incidental characters, designed using the storyboard as reference, is a very com
 
 No two productions are alike and the role and scope of a character designer's job can change significantly depending on the production, the pipeline, the supervisors/directors in charge and the style of the show
 
-**Design Handout**.
+#### Design Handout
 
 At the beginning of each episode, the character designer is given the script to read in advance of their design handout.
 
@@ -6057,7 +6224,7 @@ Once the character designer has their allotted characters, they head back to the
 ![image](./images/unnamed_397.jpg)
 ![image](./images/unnamed_685.png)
 
-**Rough Sketches**.
+#### Rough Sketches
 
 Using photo reference, online images, and any specifications from the Director/Showrunner as their guide, the designer will start sketching out their rough ideas for the character.
 
@@ -6074,7 +6241,7 @@ The character designer explores all options.
 
 ![image](./images/unnamed_053.png)
 
-**Design Review**:
+#### Design Review
 
 Once the designers have their rough sketches lined up, it's time for the review!
 
@@ -6091,7 +6258,7 @@ But the Frankenstein-ing approach is far more common.
 ![image](./images/unnamed_398.png)
 ![image](./images/unnamed_126.png)
 
-**Revisions and Revisions and Revisions**:
+#### Revisions and Revisions and Revisions
 
 The process of _Design Review_ \>\> _Tweaks/Adjustments_ \>\> _Repeat_, can go on several more times until the Art Director and then the Showrunner is satisfied with the design.
 
@@ -6113,7 +6280,7 @@ Variations in clothing and hair styles are the most common last-stage adjustment
 
 By Jeff Merghart
 
-**Rotations**
+#### Rotations
 
 Once a rough 3/4 front design of the character is somewhat settled and approved, it's time for the designer to turn the character!
 
@@ -6127,7 +6294,7 @@ They are the guides that show the storyboard artists and more importantly, the a
 ![image](./images/unnamed_1041.jpg)
 ![image](./images/unnamed_1010.jpg)
 
-**Does This Turn?**
+#### Does This Turn?
 
 In order for the Builds team to construct and setup your characters into a proper and efficient rig (and for the animation to be fluid and believable), character designs NEED to be able to turn properly... and often times during this stage of rotating a character, designers will realize where certain features on the character do not turn well. Sometimes more flat and graphic designs are made out of many cheats where they are only meant to look good in a certain way at specific view.
 
@@ -6157,7 +6324,7 @@ Communicating also with the department that will convert your designs into **bui
 ![image](./images/unnamed_1324.png)
 ![image](./images/unnamed_829.jpg)
 
-**Clean Lines**.
+#### Clean Lines
 
 Once the character designer gets the design to rotate and has the roughs approved, they start cleaning up the line work... and once again more inconsistencies or odd things may arise in this stage, final detailing and fine-tuning in this stage of tying things down.
 
@@ -6170,7 +6337,7 @@ Of course this can vary, depending on the production.
 ![image](./images/unnamed_909.jpg)
 ![image](./images/unnamed_1348.png)
 
-**Is The Design Finished?**
+#### Is The Design Finished?
 
 Designs may still be in flux right up until the episode actually goes out to go get animated.
 
@@ -6221,7 +6388,7 @@ Riggers need a combination of technical skills and artistic understanding. They 
 ![image](./images/unnamed_056.gif)
 ![image](./images/unnamed_072.gif)
 
-**Post Board Designs**
+#### Post Board Designs
 
 Once the boards are done, the character designers may receive new designs in addition to whatever designs need to be tweaked based on boards.
 
@@ -6237,7 +6404,7 @@ It is very common for storyboards to be completed with un-approved character des
 
 ![image](./images/unnamed_675.png)
 
-**Alternates and Multiple Versions**
+#### Alternates and Multiple Versions
 
 These can be sometimes referred to as "ALTs" \-- these are designs required for hair and costume changes, but is also used for different states as well, like a charred or burned or wet versions of the character design.
 
@@ -6245,7 +6412,7 @@ These can be sometimes referred to as "ALTs" \-- these are designs required for 
 ![image](./images/unnamed_673.png)
 ![image](./images/unnamed_1217.png)
 
-**Expressions, Mouth Charts & Special Poses**
+#### Expressions, Mouth Charts & Special Poses
 
 Another stage in the TV animation character design process is designing **expressions** and **mouth charts**. Once the boards are finished, the character designer will typically design mouth charts for the characters to be sent to the Builds team along with the turn-around which will have the characters get assembled and rigged into a build then sent to the animation team, along with the animatic (the storyboard assembled into a video with voices and sound effects to have the episode constructed into a blueprint showing all the camera moves, the length of each shot, and with the episode as a whole, at the proper length of time.
 
@@ -6272,7 +6439,7 @@ Sample of Special Poses with storyboard comparisons:
 ![image](./images/unnamed_1087.png)
 ![image](./images/unnamed_1335.png)
 
-**Do Character Designers Color Design?**
+#### Do Character Designers Color Design?
 
 Typically NO.
 
@@ -6290,7 +6457,7 @@ If you happen to have a knack for color, you may be asked to do color concepts i
 
 ![image](./images/unnamed_683.jpg)
 
-**Who Do I Work With?**
+#### Who Do I Work With?
 
 Primarily, character designers work closest with the Art Director.
 
@@ -6303,7 +6470,7 @@ Character Designers will also receive notes from Directors and Showrunners. They
 ![image](./images/unnamed_1648.png)
 ![image](./images/unnamed_1500.png)
 
-**Who Do I Affect?**
+#### Who Do I Affect?
 
 Character designers affect the [storyboard artists](https://www.google.com/url?q=https://youtu.be/PmRI0SaO_0I?t%3D58&sa=D&source=editors&ust=1759597865209908&usg=AOvVaw1oiduEyhdqNnqK5LJd-h6A) but they are also heavily affected by them, along with directors as well. The way designers are used for the story can greatly dictate what the design needs. Designs and Boards are two very interdependent departments, and are often very symbiotic.
 
@@ -6313,7 +6480,7 @@ Another department they communicate with are the artists that take the designs a
 
 ![image](./images/unnamed_064.gif) ![image](./images/unnamed_047.gif)
 
-**The Finished Product**
+#### The Finished Product
 
 Here's a sample of the process from designer [Andy Ivanov](https://www.google.com/url?q=https://www.behance.net/gallery/71843109/The-Butcher-Biff?fbclid%3DIwAR0-a2vaALN3AXHcl9lbomtmHiYUsb58DaWcxGmsDfvnHYplAuc0BaHgL70%26&sa=D&source=editors&ust=1759597865210885&usg=AOvVaw2iTV31wJ12qAMLVfQqpy4f):
 
@@ -6692,101 +6859,57 @@ You will notice a wide range of design aesthetics to learn from, and some visual
 
 ## Assignment #1
 
-Use these two reference packs [STYLE
-GUIDE](https://www.google.com/url?q=https://drive.google.com/file/d/1NhBb2NU1Rn5XPpbubJmKbk5msQWHuNGf/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865264491&usg=AOvVaw2O5PmPOIV_9rijd019A3-b)
-& [MODEL
-SHEETS](https://www.google.com/url?q=https://drive.google.com/file/d/1wGUMeSX7We_tVvWcal1J0F28K0ZDPNYo/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865264588&usg=AOvVaw16vQrY2XPA1HPPbWZKtFT1) +
-[DESIGN
-PACK](https://www.google.com/url?q=https://characterdesignreferences.com/art-of-animation-4/art-of-adventure-time&sa=D&source=editors&ust=1759597865264669&usg=AOvVaw2VTsqADkrNTOtcAkgwu--S)
-to learn the style of this series and create a new character that would
-fit in Cartoon Network's Adventure Time animated series. Another series
-in the same style to research is [Bravest
-Warriors](https://www.google.com/url?q=https://www.google.com/search?q%3Dbravest%2Bwarriors%26sxsrf%3DACYBGNR9UlmykXhNYGBdqcjBFLaKiKXbrw%253a1578275212559%26source%3Dlnms%26tbm%3Disch%26sa%3DX%26ved%3D2ahUKEwi90Jur7e3mAhVDnuAKHV68AZ8Q_AUoAXoECBEQAw%26biw%3D1280%26bih%3D582&sa=D&source=editors&ust=1759597865264954&usg=AOvVaw1FJwODTD8tTT6oEsQ20cnq).
+Use these two reference packs [STYLE GUIDE](https://www.google.com/url?q=https://drive.google.com/file/d/1NhBb2NU1Rn5XPpbubJmKbk5msQWHuNGf/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865264491&usg=AOvVaw2O5PmPOIV_9rijd019A3-b) & [MODEL SHEETS](https://www.google.com/url?q=https://drive.google.com/file/d/1wGUMeSX7We_tVvWcal1J0F28K0ZDPNYo/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865264588&usg=AOvVaw16vQrY2XPA1HPPbWZKtFT1) + [DESIGN PACK](https://www.google.com/url?q=https://characterdesignreferences.com/art-of-animation-4/art-of-adventure-time&sa=D&source=editors&ust=1759597865264669&usg=AOvVaw2VTsqADkrNTOtcAkgwu--S) to learn the style of this series and create a new character that would fit in Cartoon Network's **Adventure Time** animated series. Another series in the same style to research is [Bravest Warriors](https://www.google.com/url?q=https://www.google.com/search?q%3Dbravest%2Bwarriors%26sxsrf%3DACYBGNR9UlmykXhNYGBdqcjBFLaKiKXbrw%253a1578275212559%26source%3Dlnms%26tbm%3Disch%26sa%3DX%26ved%3D2ahUKEwi90Jur7e3mAhVDnuAKHV68AZ8Q_AUoAXoECBEQAw%26biw%3D1280%26bih%3D582&sa=D&source=editors&ust=1759597865264954&usg=AOvVaw1FJwODTD8tTT6oEsQ20cnq).
 
 ![image](./images/unnamed_1177.jpg)
 ![image](./images/unnamed_910.png)
 
-[The Art of
-Ooo](https://www.google.com/url?q=https://drive.google.com/file/d/1QGY7Kd9XgF8RLkXOV08EOvwpUAFouAih/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865265117&usg=AOvVaw3Rw4JRh5jmpyjcC0KNwwab)
+[The Art of Ooo](https://www.google.com/url?q=https://drive.google.com/file/d/1QGY7Kd9XgF8RLkXOV08EOvwpUAFouAih/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865265117&usg=AOvVaw3Rw4JRh5jmpyjcC0KNwwab)
 
-Designs by Pendleton Ward, Andy Ristaino, Natasha Allegri, Alex Campos,
-Michael DeForge, Joy Ang, Jon Vermilyea, Michelle Xin, Matt Forsythe,
-Tom Herpich, Erica Jones, and Derek Kim.
+Designs by Pendleton Ward, Andy Ristaino, Natasha Allegri, Alex Campos, Michael DeForge, Joy Ang, Jon Vermilyea, Michelle Xin, Matt Forsythe, Tom Herpich, Erica Jones, and Derek Kim.
 
-Produce a 4pt turnaround model sheet; Front \| 3/4 Front \| Side \| 3/4 Back
+Produce a 4pt turnaround model sheet: **Front** | **3/4 Front** | **Side** | **3/4 Back**
 
-Line quality: Tiedowns 👉 tight roughs, not clean, but not too
-loose/rough (samples shown below)
+Line quality: **Tiedowns** 👉 tight roughs, not clean, but not too loose/rough (samples shown below)
 
 1 Image file (JPG or PNG format)
 
 Dimensions: 3840x2160 pixels @ 300dpi
 
-Support Material:
+> Support Material:
 
-- [Using Photoshop to Draw
-  Characters](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DXz-ZIixYF04%26list%3DPL3GWcdJcRKNW-2BwkOvJ0xI3de6Wd7vif%26index%3D2%26ab_channel%3DAnimatewithDermot&sa=D&source=editors&ust=1759597865265900&usg=AOvVaw1I--iIsrbUVx4sl6bFZUXa)
-- [Form & Structure in Design with Antonio
-  Stappaerts](https://www.google.com/url?q=https://youtu.be/6T_-DiAzYBc&sa=D&source=editors&ust=1759597865266024&usg=AOvVaw1LTK1yvoPlc0nDv31A97bc)
-- [Character Design Fundamentals from Robert
-  Cory](https://www.google.com/url?q=https://drive.google.com/file/d/1DRvlIbCGbZfZBWYeMti_1y42lazUz5E-/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865266169&usg=AOvVaw0l1y38GlKwRWMKRGjcI4Yz)
+- [Using Photoshop to Draw Characters](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DXz-ZIixYF04%26list%3DPL3GWcdJcRKNW-2BwkOvJ0xI3de6Wd7vif%26index%3D2%26ab_channel%3DAnimatewithDermot&sa=D&source=editors&ust=1759597865265900&usg=AOvVaw1I--iIsrbUVx4sl6bFZUXa)
+- [Form & Structure in Design with Antonio Stappaerts](https://www.google.com/url?q=https://youtu.be/6T_-DiAzYBc&sa=D&source=editors&ust=1759597865266024&usg=AOvVaw1LTK1yvoPlc0nDv31A97bc)
+- [Character Design Fundamentals from Robert Cory](https://www.google.com/url?q=https://drive.google.com/file/d/1DRvlIbCGbZfZBWYeMti_1y42lazUz5E-/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865266169&usg=AOvVaw0l1y38GlKwRWMKRGjcI4Yz)
 
-Begin with lots of rough sketches, study the references provided, and
-start to narrow down the sort of character you want to create.
+Begin with lots of rough sketches, study the references provided, and start to narrow down the sort of character you want to create.
 
-Make some decisions as to which character you wish to refine and create
-a front or 3/4 front view.
+Make some decisions as to which character you wish to refine and create a **front** or **3/4 front** view.
 
-Once you've done one view, use it as a guide to match the proportions
-and positions
-
-of your body parts for other views so they'll line up properly for an
-accurate rotation:
+Once you've done one view, use it as a guide to match the proportions and positions of your body parts for other views so they'll line up properly for an accurate rotation:
 
 ![image](./images/unnamed_042.gif)
 ![image](./images/unnamed_054.gif)
 
-Make sure you have those horizontal guide lines in place, it will help
-drawing the turn-around:
+Make sure you have those horizontal guide lines in place, it will help drawing the turn-around:
 
 ![image](./images/unnamed_1539.png)
 
 By Adem Kaan
 
-Advice from Andy Ristain, lead designer on Adventure Time:
+Advice from Andy Ristain, lead designer on _Adventure Time_:
 
-Developing an understanding of how to construct a successful character
-design, and bringing together the components required to execute it
-commercially, are hard-won skills. But with this expertise comes a
-wealth of opportunity for those with the passion, drive and imagination
-to pursue it.
+Developing an understanding of how to construct a successful character design, and bringing together the components required to execute it commercially, are hard-won skills. But with this expertise comes a wealth of opportunity for those with the passion, drive and imagination to pursue it.
 
-The goal of a character designer is to make the main characters as
-appealing as possible in as simple a way as possible.
+The goal of a character designer is to make the main characters as appealing as possible in as simple a way as possible.
 
-A cartoon about the last human boy, Finn, and a shape-changing dog named
-Jake, Adventure Time follows their journey in a post-apocalyptic world
-called Ooo. I think that challenge is what attracted me to character
-design.
+A cartoon about the last human boy, Finn, and a shape-changing dog named Jake, Adventure Time follows their journey in a post-apocalyptic world called Ooo. I think that challenge is what attracted me to character design.
 
-The cast of characters from the Adventure Time series, featuring the
-main protagonists Finn and Jake, was originally created for a younger
-audience, but the series has grown and matured into a cultural
-phenomenon that appeals to adults and children alike. The show has
-continuity and the actions and decisions the characters make have
-lasting repercussions.
+The cast of characters from the Adventure Time series, featuring the main protagonists Finn and Jake, was originally created for a younger audience, but the series has grown and matured into a cultural phenomenon that appeals to adults and children alike. The show has continuity and the actions and decisions the characters make have lasting repercussions.
 
-To become truly great at crafting characters, illustrators need to
-invest the time in developing their own visual language at the most
-basic level -- by drawing every day. Taking inspiration from nature and
-his surroundings, mastering character design is a process that can\'t be
-rushed.
+To become truly great at crafting characters, illustrators need to invest the time in developing their own visual language at the most basic level -- by drawing every day. Taking inspiration from nature and his surroundings, mastering character design is a process that can\'t be rushed.
 
-If you\'re building a family of characters, it can help to create a set
-of rules that define their graphical elements, before then experimenting
-with size and proportion. And try to think in three dimensions, draw a
-character and consider how it would look from the side, back and front
--- not just flat on the screen.
+If you\'re building a family of characters, it can help to create a set of rules that define their graphical elements, before then experimenting with size and proportion. And try to think in three dimensions, draw a character and consider how it would look from the side, back and front -- not just flat on the screen.
 
 For budding character designers, I have three key tips:
 
@@ -6794,61 +6917,44 @@ For budding character designers, I have three key tips:
 - Take the time to let your mind wonder
 - Keep drawing
 
-"It takes time, practice, effort and a lot of exploration, but if you
-keep digging you\'ll eventually find a place that\'s totally your own."
+> "It takes time, practice, effort and a lot of exploration, but if you keep digging you\'ll eventually find a place that\'s totally your own."
 
 Samples of this design style:
 
 ![image](./images/unnamed_1392.jpg)
-
 ![image](./images/unnamed_1086.jpg)
-
 ![image](./images/unnamed_891.jpg)
 
-Doing clean lines and colors are completely optional at this stage,
-later assignments explore color.
+Doing clean lines and colors are completely optional at this stage, later assignments explore color.
 
 ![image](./images/unnamed_1411.png)
-
 ![image](./images/unnamed_1707.png)
-
 ![image](./images/unnamed_638.png)
-
 ![image](./images/unnamed_094.png)
-
 ![image](./images/unnamed_886.jpg)
 ![image](./images/unnamed_1069.jpg)
 ![image](./images/unnamed_880.jpg)
-
 ![image](./images/unnamed_284.png)
 ![image](./images/unnamed_286.png)
-
 ![image](./images/unnamed_1235.png)
 ![image](./images/unnamed_810.png)
 ![image](./images/unnamed_033.png)
-
 ![image](./images/unnamed_978.png)
-
 ![image](./images/unnamed_1227.png)
 
-Clean- up and color pass is encouraged, but ALWAYS optional for these
-exercises. These are intended to be more black-and-white, line art only.
-Later on, color becomes compulsory for a select few exercises, for now
-tight roughs like these for a turnaround sheet is all you need.
+Clean- up and color pass is encouraged, but ALWAYS optional for these exercises. These are intended to be more black-and-white, line art only. Later on, color becomes compulsory for a select few exercises, for now tight roughs like these for a turnaround sheet is all you need.
 
 ![image](./images/unnamed_245.png)
 
 Feel free to go the extra mile, to do clean-up and color if you want to.
 
 ![image](./images/unnamed_208.jpg)
-
 ![image](./images/unnamed_808.jpg)
-
 ![image](./images/unnamed_1271.png)
 ![image](./images/unnamed_1695.png)
 ![image](./images/unnamed_757.jpg)
 
-The difference between ROUGHS, TIE-DOWNS, and CLEAN-UP:
+> The difference between ROUGHS, TIE-DOWNS, and CLEAN-UP:
 
 ![image](./images/unnamed_179.jpg)
 
@@ -6860,85 +6966,39 @@ Typical tiedown line quality:
 
 ### Approach for Designing Characters
 
-The secret to being a versatile character designer is to absorb the
-knowledge from as many artists as possible and filter-in the aspects
-that speak true to you. Take your time, watch and listen to the video
-essays provided below here, and in all the chapters from all the
-following Assignments. Remember and apply the aspects that make most
-sense to you. But be open to everything, various styles and techniques
-are explored and displayed. These are just to get you in the proper
-mindset, they explore an assortment of different principles, methods,
-and theories:
+The secret to being a versatile character designer is to absorb the knowledge from as many artists as possible and filter-in the aspects that speak true to you. Take your time, watch and listen to the video essays provided below here, and in all the chapters from all the following Assignments. Remember and apply the aspects that make most sense to you. But be open to everything, various styles and techniques are explored and displayed. These are just to get you in the proper mindset, they explore an assortment of different principles, methods, and theories:
 
-- [Learn to Draw in Any Style with Joshua
-  Adeoye](https://www.google.com/url?q=https://youtu.be/eV4fnYhY0z8&sa=D&source=editors&ust=1759597865271689&usg=AOvVaw3726oD085yQ2tgrC-u130S)
-- [Talking About Character Design with Daniel
-  Arriaga](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DHXFj_0wohI8%26ab_channel%3DBobbyChiu&sa=D&source=editors&ust=1759597865271838&usg=AOvVaw2jssRT3ziFjFXPuLWWUQeP)
-
-- [Wouter Tulp Design Tips
-  1](https://www.google.com/url?q=https://youtu.be/xN_ylzPwwYI&sa=D&source=editors&ust=1759597865271930&usg=AOvVaw20nDc1A4xGromUJPa_3M9D)
-- [Wouter Tulp Design Tips
-  2](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D8JdGeo-YaWA%26ab_channel%3DBobbyChiu&sa=D&source=editors&ust=1759597865272031&usg=AOvVaw0ba8bEWbm7vne9SWy-DAj0)
-
-- [Brookes Eggleston - How To Be A Character
-  Designer](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DrjPoNHn9C8M%26pp%3DygUeYWR2aWNlIGZvciBjaGFyYWN0ZXIgZGVzaWduZXJz&sa=D&source=editors&ust=1759597865272178&usg=AOvVaw3Ct4lZT215cLflE87Ph2hs)
-- [Brookes Eggleston - The
-  Process](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DMQ-4EuLe4nc%26pp%3DygUeYWR2aWNlIGZvciBjaGFyYWN0ZXIgZGVzaWduZXJz&sa=D&source=editors&ust=1759597865272296&usg=AOvVaw0l8uuANpGFjsY-rgdNVD2c)
+- [Learn to Draw in Any Style with Joshua Adeoye](https://www.google.com/url?q=https://youtu.be/eV4fnYhY0z8&sa=D&source=editors&ust=1759597865271689&usg=AOvVaw3726oD085yQ2tgrC-u130S)
+- [Talking About Character Design with Daniel Arriaga](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DHXFj_0wohI8%26ab_channel%3DBobbyChiu&sa=D&source=editors&ust=1759597865271838&usg=AOvVaw2jssRT3ziFjFXPuLWWUQeP)
+- [Wouter Tulp Design Tips 1](https://www.google.com/url?q=https://youtu.be/xN_ylzPwwYI&sa=D&source=editors&ust=1759597865271930&usg=AOvVaw20nDc1A4xGromUJPa_3M9D)
+- [Wouter Tulp Design Tips 2](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D8JdGeo-YaWA%26ab_channel%3DBobbyChiu&sa=D&source=editors&ust=1759597865272031&usg=AOvVaw0ba8bEWbm7vne9SWy-DAj0)
+- [Brookes Eggleston - How To Be A Character Designer](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DrjPoNHn9C8M%26pp%3DygUeYWR2aWNlIGZvciBjaGFyYWN0ZXIgZGVzaWduZXJz&sa=D&source=editors&ust=1759597865272178&usg=AOvVaw3Ct4lZT215cLflE87Ph2hs)
+- [Brookes Eggleston - The Process](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DMQ-4EuLe4nc%26pp%3DygUeYWR2aWNlIGZvciBjaGFyYWN0ZXIgZGVzaWduZXJz&sa=D&source=editors&ust=1759597865272296&usg=AOvVaw0l8uuANpGFjsY-rgdNVD2c)
 
 ![image](./images/unnamed_486.png)
 
-Valerio Fabbretti was the art director for The Fungies! animated series
-and Becky Dreisdadt who worked as the character supervisor for Adventure
-Time: Distant Lands, have gone over the process together involved in a
-typical cartoon character design and how to build a portfolio focused on
-this aspect, these are portions from a webinar they had hosted:
+Valerio Fabbretti was the art director for _The Fungies!_ animated series and Becky Dreisdadt who worked as the character supervisor for _Adventure Time: Distant Lands_, have gone over the process together involved in a typical cartoon character design and how to build a portfolio focused on this aspect, these are portions from a webinar they had hosted:
 
-CHARACTER DESIGN FOR AN ANIMATED SERIES
+> CHARACTER DESIGN FOR AN ANIMATED SERIES
 
 ![image](./images/unnamed_479.jpg)
 
-In terms of character design, Becky comments that it is important to
-know how to draw in a great variety of angles. Depending on the
-relevance of each character, it may even be necessary to include
-additional information and sketches. That's why it's better that you are
-deeply familiarized with each character, in case you ever need to bring
-up more details about them as needed.
+In terms of character design, Becky comments that it is important to know how to draw in a great variety of angles. Depending on the relevance of each character, it may even be necessary to include additional information and sketches. That's why it's better that you are deeply familiarized with each character, in case you ever need to bring up more details about them as needed.
 
 ![Cartoon Character Design](./images/unnamed_1366.jpg)
 
-Either way, with every character that you work on you need to create a
-register on how the mouth moves when making sounds or speaking. This is
-of great help to the animators when they need to work on scenes where
-there are dialogues. Of equal importance is to draw the characters with
-different expressions on their faces, for example, when they are happy,
-sad, scared or angry.
+Either way, with every character that you work on you need to create a register on how the mouth moves when making sounds or speaking. This is of great help to the animators when they need to work on scenes where there are dialogues. Of equal importance is to draw the characters with different expressions on their faces, for example, when they are happy, sad, scared or angry.
 
 ![image](./images/unnamed_166.jpg)
 
-And although it is something not done frequently, Becky admits that one
-of the most difficult tasks in character design is to draw scenes where
-there are crowds involved. You need to know not only which characters
-are going to be in the crowd, but also how many of them will be and how
-to draw them together but in a way that each one is easily
-distinguishable. Of course, you need to avoid making tangent lines. This
-can be difficult while working in a unique character design and even
-more so where there are multiple ones in a crowd. If this isn't hard
-enough, you also need to be able to draw the crowds as seen from
-different angles.
+And although it is something not done frequently, Becky admits that one of the most difficult tasks in character design is to draw scenes where there are crowds involved. You need to know not only which characters are going to be in the crowd, but also how many of them will be and how to draw them together but in a way that each one is easily distinguishable. Of course, you need to avoid making tangent lines. This can be difficult while working in a unique character design and even more so where there are multiple ones in a crowd. If this isn't hard enough, you also need to be able to draw the crowds as seen from different angles.
 
 ![image](./images/unnamed_552.png)
-
 ![image](./images/unnamed_1311.png)
 
-Sometimes you also need to modify a character design that's already
-established. This can be either because it needs a new costume,
-accessories or to show some battle damage in their attire. In this case,
-you need to follow the references provided by the artist that made the
-original design, but you are also free to take your own approach and
-give it some of your personal style. This way you can come up with new
-and exciting versions of a character design.
+Sometimes you also need to modify a character design that's already established. This can be either because it needs a new costume, accessories or to show some battle damage in their attire. In this case, you need to follow the references provided by the artist that made the original design, but you are also free to take your own approach and give it some of your personal style. This way you can come up with new and exciting versions of a character design.
 
-THE PROCESS BEHIND CREATING A CHARACTER DESIGN
+> THE PROCESS BEHIND CREATING A CHARACTER DESIGN
 
 ![image](./images/unnamed_889.png)
 
@@ -6946,251 +7006,124 @@ THE PROCESS BEHIND CREATING A CHARACTER DESIGN
 
 ![Cartoon Character Design](./images/unnamed_1025.jpg)
 
-- The Art of Steven Universe
-  [(1)](https://www.google.com/url?q=https://drive.google.com/file/d/1_FSzVfk8WL83pYe7gjN7Mx0bFf9PB01r/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865275294&usg=AOvVaw2YXRWwtFi0VI7QYXj18zin)[(2)](https://www.google.com/url?q=https://drive.google.com/file/d/1WX4Q8DVHZwU0BA_WBuOMSIWPg2GpfIJD/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865275382&usg=AOvVaw1irfd3fl6A8pKoBP_nNYiu)
+- The Art of Steven Universe [(1)](https://www.google.com/url?q=https://drive.google.com/file/d/1_FSzVfk8WL83pYe7gjN7Mx0bFf9PB01r/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865275294&usg=AOvVaw2YXRWwtFi0VI7QYXj18zin)[(2)](https://www.google.com/url?q=https://drive.google.com/file/d/1WX4Q8DVHZwU0BA_WBuOMSIWPg2GpfIJD/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865275382&usg=AOvVaw1irfd3fl6A8pKoBP_nNYiu)
 
-When a team of artists gets a new storyboard, Valerio explains that they
-first analyze it to find if there are any new characters or elements
-that need to be designed for the episode. After taking note of any new
-designs that need to be done, he assigns them to each artist taking in
-consideration their strengths and weaknesses, as well as what they tend
-to like drawing more.
+When a team of artists gets a new storyboard, Valerio explains that they first analyze it to find if there are any new characters or elements that need to be designed for the episode. After taking note of any new designs that need to be done, he assigns them to each artist taking in consideration their strengths and weaknesses, as well as what they tend to like drawing more.
 
 ![image](./images/unnamed_1176.png)
 
-Being the art director, Valerio is responsible for making sure that each
-character design stays true to the show creator's vision. Not only does
-he supervise the design process for the characters, but also the way
-color is applied on them and finally, the way they are animated. After
-all, it's his job to make sure that there aren't any errors and that the
-final art is top notch.
+Being the art director, Valerio is responsible for making sure that each character design stays true to the show creator's vision. Not only does he supervise the design process for the characters, but also the way color is applied on them and finally, the way they are animated. After all, it's his job to make sure that there aren't any errors and that the final art is top notch.
 
 ![image](./images/unnamed_1233.png)
 ![image](./images/unnamed_384.png)
 
-As for Becky, being a character supervisor, she is also deeply involved
-in this process. She is in charge of supervising her team of artists
-specializing in character design, as well as reporting back to the art
-director. One of her tasks is also making a guide of rules and important
-elements that every artist on her team must follow while creating a
-character design.
+As for Becky, being a character supervisor, she is also deeply involved in this process. She is in charge of supervising her team of artists specializing in character design, as well as reporting back to the art director. One of her tasks is also making a guide of rules and important elements that every artist on her team must follow while creating a character design.
 
-This can be like the way eyes should be drawn, the proportions that must
-be considered, general mistakes to avoid and so on. This in turn helps
-to decrease the times a design needs to be corrected, speeding up the
-process of working on each one of them. Also she is the one responsible
-for creating the designs for the major characters in each episode.
+This can be like the way eyes should be drawn, the proportions that must be considered, general mistakes to avoid and so on. This in turn helps to decrease the times a design needs to be corrected, speeding up the process of working on each one of them. Also she is the one responsible for creating the designs for the major characters in each episode.
 
 ![image](./images/unnamed_537.jpg)
 ![image](./images/unnamed_194.jpg)
 ![image](./images/unnamed_206.jpg)
 
-THINGS YOU NEED TO TAKE INTO ACCOUNT FOR YOUR PORTFOLIO
+> THINGS YOU NEED TO TAKE INTO ACCOUNT FOR YOUR PORTFOLIO
 
 ![Cartoon Character Design](./images/unnamed_019.jpg)
 
-Valerio says that one of the most important things is to know about
-anatomy. That's why he is so keen on observing if an artist is capable
-of drawing eyes, hands and feets. In his opinion, this is an indication
-that the artist knows about anatomic proportions, thereforth is easily
-able to adapt to different art styles while maintaining the correct
-proportions.
+Valerio says that one of the most important things is to know about anatomy. That's why he is so keen on observing if an artist is capable of drawing eyes, hands and feets. In his opinion, this is an indication that the artist knows about anatomic proportions, thereforth is easily able to adapt to different art styles while maintaining the correct proportions.
 
 ![image](./images/unnamed_712.png)
-
 ![image](./images/unnamed_914.png)
 
-It's also vital to know about perspective, because as a character design
-artist, you need to be able to draw in a wide range of angles while
-giving a sense of depth in your work. Becky, on the other hand, says
-that it's fundamental to know about storytelling. That is why she
-prefers portfolios that show some experience or at least understanding
-in storyboards and comics. Of course, authenticity is greatly
-appreciated, so you need to include mostly designs for original
-characters that you created.
+It's also vital to know about perspective, because as a character design artist, you need to be able to draw in a wide range of angles while giving a sense of depth in your work. Becky, on the other hand, says that it's fundamental to know about storytelling. That is why she prefers portfolios that show some experience or at least understanding in storyboards and comics. Of course, authenticity is greatly appreciated, so you need to include mostly designs for original characters that you created.
 
 ![image](./images/unnamed_942.png)
 
-How about showing off that you are proficient in drawing multiple art
-styles? If you are really great at it, then go for it. But it's not
-necessary in Valerio's opinion. He says he prefers seeing an artist with
-a unique style in which he truly is good at. After all, if you are
-talented enough at drawing and understand about anatomic proportions,
-you can learn the art style for a series over time. Becky agrees with
-this statement, saying it's preferable to show consistency and mastery
-of one art style than regular or poor abilities in multiple ones. But if
-you're sticking to one style (your own personal style), then make sure
-it's appealing and consistent.
+How about showing off that you are proficient in drawing multiple art styles? If you are really great at it, then go for it. But it's not necessary in Valerio's opinion. He says he prefers seeing an artist with a unique style in which he truly is good at. After all, if you are talented enough at drawing and understand about anatomic proportions, you can learn the art style for a series over time. Becky agrees with this statement, saying it's preferable to show consistency and mastery of one art style than regular or poor abilities in multiple ones. But if you're sticking to one style (your own personal style), then make sure it's appealing and consistent.
 
 ![image](./images/unnamed_401.jpg)
 
-When including your character designs, you must show them not only in
-static poses but in movement also. A good artist is capable of showing
-some of their character's personality through movement, and that's why
-Valerio says he values a portfolio where he can see characters with more
-dynamic poses.
+When including your character designs, you must show them not only in static poses but in movement also. A good artist is capable of showing some of their character's personality through movement, and that's why Valerio says he values a portfolio where he can see characters with more dynamic poses.
 
-And while a finished character design is the most valued work in a
-portfolio, you also need to show the creative process behind it. Valerio
-comments it's helpful to include at least some quick and rough sketches,
-so a recruiter can see your ability in cleaning up lines and strokes.
-Finally, this may seem obvious but Becky states that you need to include
-colored works of art. While it is true that most character design
-artists only need to work in grayscale or monochromatic schemes,
-including some colored pieces can make your portfolio look more visually
-appealing.
+And while a finished character design is the most valued work in a portfolio, you also need to show the creative process behind it. Valerio comments it's helpful to include at least some quick and rough sketches, so a recruiter can see your ability in cleaning up lines and strokes. Finally, this may seem obvious but Becky states that you need to include colored works of art. While it is true that most character design artists only need to work in grayscale or monochromatic schemes, including some colored pieces can make your portfolio look more visually appealing.
 
 ![image](./images/unnamed_1018.jpg)
-
 ![image](./images/unnamed_325.png)
 
 ## Assignment #2
 
-Using these references [STYLE
-GUIDE](https://www.google.com/url?q=https://drive.google.com/file/d/1Fd9eUCvqCNVO2XDYiziZdiokseJCc-lB/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865280058&usg=AOvVaw25DO3fBqNIdLFtmwkEjE7L)
-and [MODEL
-SHEETS](https://www.google.com/url?q=https://www.pinterest.ca/yolandigrobler7/flintstones/?lp%3Dtrue&sa=D&source=editors&ust=1759597865280149&usg=AOvVaw3kLCfIv9g13jJWCK5rqinD),
-create a new character that would fit in The Flintstones animated
-series. More characters to reference
-[here](https://www.google.com/url?q=https://flintstones.fandom.com/wiki/Category:Characters&sa=D&source=editors&ust=1759597865280325&usg=AOvVaw1VTJHx-HjFqtMxtRVGnNqK).
+Using these references [STYLE GUIDE](https://www.google.com/url?q=https://drive.google.com/file/d/1Fd9eUCvqCNVO2XDYiziZdiokseJCc-lB/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865280058&usg=AOvVaw25DO3fBqNIdLFtmwkEjE7L) and [MODEL SHEETS](https://www.google.com/url?q=https://www.pinterest.ca/yolandigrobler7/flintstones/?lp%3Dtrue&sa=D&source=editors&ust=1759597865280149&usg=AOvVaw3kLCfIv9g13jJWCK5rqinD), create a new character that would fit in The Flintstones animated series. More characters to reference [here](https://www.google.com/url?q=https://flintstones.fandom.com/wiki/Category:Characters&sa=D&source=editors&ust=1759597865280325&usg=AOvVaw1VTJHx-HjFqtMxtRVGnNqK).
 
-Designs by Ed Benedict & Craig Kellman
+Designs by Ed Benedict & Craig Kellman (originally from Hanna-Barbera Productions, later acquired by Cartoon Network/Warner Bros Animation Studios)
 
-(originally from Hanna-Barbera Productions, later acquired by Cartoon
-Network/Warner Bros Animation Studios)
+Produce a **4pt turnaround** model sheet;
 
-Produce a 4pt turnaround model sheet;
-
-Front \| 3/4 Front \| Side \| 3/4 Back \[Tiedowns\]
+**Front** | **3/4 Front** | **Side** | **3/4 Back** \[Tiedowns\]
 
 1 Image file (JPG or PNG format)
 
 Dimensions: 3840x2160 pixels @ 300dpi
 
-SUPPORT MATERIAL:
+> SUPPORT MATERIAL:
 
-​​​​👉 [Shaping the Way You Think - Universal
-Geometry](https://www.google.com/url?q=https://youtu.be/lLQJiEpCLQE&sa=D&source=editors&ust=1759597865281009&usg=AOvVaw1no6AsURaZm3ludNRLBIlT)
-
-👉 [How Animators Draw - In Any
-Style](https://www.google.com/url?q=https://youtu.be/IE8Hcwyd5Xk&sa=D&source=editors&ust=1759597865281126&usg=AOvVaw2g9S0nwOF5Z7xHW92F0cYr)
-
-👉 [Harry Partridge - Design
-Tips](https://www.google.com/url?q=https://youtu.be/4HIieEoYU88?list%3DPLjX9SJKrPnPROi_Bc3LOBWaXi0uz61Bom%26t%3D38&sa=D&source=editors&ust=1759597865281243&usg=AOvVaw1xt7bHD2gHjaxJCfQvuxgp)
+- ​​​​👉 [Shaping the Way You Think - Universal Geometry](https://www.google.com/url?q=https://youtu.be/lLQJiEpCLQE&sa=D&source=editors&ust=1759597865281009&usg=AOvVaw1no6AsURaZm3ludNRLBIlT)
+- 👉 [How Animators Draw - In Any Style](https://www.google.com/url?q=https://youtu.be/IE8Hcwyd5Xk&sa=D&source=editors&ust=1759597865281126&usg=AOvVaw2g9S0nwOF5Z7xHW92F0cYr)
+- 👉 [Harry Partridge - Design Tips](https://www.google.com/url?q=https://youtu.be/4HIieEoYU88?list%3DPLjX9SJKrPnPROi_Bc3LOBWaXi0uz61Bom%26t%3D38&sa=D&source=editors&ust=1759597865281243&usg=AOvVaw1xt7bHD2gHjaxJCfQvuxgp)
 
 ![image](./images/unnamed_226.jpg)
-
 ![image](./images/unnamed_230.jpg)
 
 Notice the foot placement's perspective in the rotations for each view.
 
 ![image](./images/unnamed_817.jpg)
-
 ![image](./images/unnamed_1072.jpg)
-
 ![image](./images/unnamed_662.jpg)
-
 ![image](./images/unnamed_081.jpg)
-
 ![image](./images/unnamed_1032.png)
-
 ![image](./images/unnamed_397.png)
-
 ![image](./images/unnamed_893.png)
-
 ![image](./images/unnamed_973.png)
-
 ![image](./images/unnamed_1305.jpg)
 ![image](./images/unnamed_1056.jpg)
 ![image](./images/unnamed_1110.jpg)
 ![image](./images/unnamed_1234.jpg)
-
 ![image](./images/unnamed_1179.png)
-
 ![image](./images/unnamed_1060.png)
+![image](./images/unnamed_1407.png)
+![image](./images/unnamed_1407.png)
 
-![image](./images/unnamed_1407.png) ![image](./images/unnamed_1407.png)
+The show is set in a comical version of a family living in the [Stone Age](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Stone_Age&sa=D&source=editors&ust=1759597865282126&usg=AOvVaw12nR96S7xgej1paD04zP3t), but has added features and technologies that resemble mid-20th-century suburban America. The plots deliberately resemble the [sitcoms](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Sitcom&sa=D&source=editors&ust=1759597865282297&usg=AOvVaw13SrQB9KnZA4VykKXHtoC2) of the era, with the [caveman](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Caveman&sa=D&source=editors&ust=1759597865282372&usg=AOvVaw15DkA99KKHatCU_bT16dLP) Flintstone and Rubble families getting into minor conflicts, characteristic of modern life. The show is set in the Stone Age town of [Bedroc](<https://www.google.com/url?q=https://en.wikipedia.org/wiki/Bedrock_(The_Flintstones)&sa=D&source=editors&ust=1759597865282546&usg=AOvVaw2Jqo2K8k-zv0EWy-cpjc_S>)k. [Dinosaurs](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Dinosaur&sa=D&source=editors&ust=1759597865282606&usg=AOvVaw0t8sohfoD_EiClauKevNJT) and other prehistoric creatures are portrayed as co-existing with cavemen, [saber-toothed cats](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Saber-toothed_cat&sa=D&source=editors&ust=1759597865282742&usg=AOvVaw1PGq_r4TSQaaJvRivAIyTb), and [wooly mammoths](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Woolly_mammoth&sa=D&source=editors&ust=1759597865282822&usg=AOvVaw0TN5kr-ogWve3701qhCBOV), Brontosaurus are all used as pets or tools in everyday life.
 
-The show is set in a comical version of a family living in the [Stone
-Age](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Stone_Age&sa=D&source=editors&ust=1759597865282126&usg=AOvVaw12nR96S7xgej1paD04zP3t),
-but has added features and technologies that resemble mid-20th-century
-suburban America. The plots deliberately resemble the
-[sitcoms](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Sitcom&sa=D&source=editors&ust=1759597865282297&usg=AOvVaw13SrQB9KnZA4VykKXHtoC2)
-of the era, with the
-[caveman](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Caveman&sa=D&source=editors&ust=1759597865282372&usg=AOvVaw15DkA99KKHatCU_bT16dLP)
-Flintstone and Rubble families getting into minor conflicts,
-characteristic of modern life. The show is set in the Stone Age town of
-[Bedroc](<https://www.google.com/url?q=https://en.wikipedia.org/wiki/Bedrock_(The_Flintstones)&sa=D&source=editors&ust=1759597865282546&usg=AOvVaw2Jqo2K8k-zv0EWy-cpjc_S>)k.
-[Dinosaurs](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Dinosaur&sa=D&source=editors&ust=1759597865282606&usg=AOvVaw0t8sohfoD_EiClauKevNJT)
-and other prehistoric creatures are portrayed as co-existing with
-cavemen, [saber-toothed
-cats](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Saber-toothed_cat&sa=D&source=editors&ust=1759597865282742&usg=AOvVaw1PGq_r4TSQaaJvRivAIyTb),
-and [wooly
-mammoths](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Woolly_mammoth&sa=D&source=editors&ust=1759597865282822&usg=AOvVaw0TN5kr-ogWve3701qhCBOV),
-Brontosaurus are all used as pets or tools in everyday life.
+The series draws its humor in part from creative uses of [anachronisms](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Anachronism&sa=D&source=editors&ust=1759597865283017&usg=AOvVaw1MlHC3gpnSuYar2IhGq5La); elements belonging or appropriate to a period other than that in which it exists, especially a thing that is conspicuously old-fashioned. The main one is the placing of a \"modern\", 20th-century society in [prehistory](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Prehistory&sa=D&source=editors&ust=1759597865283279&usg=AOvVaw3kta6VCOk88Bjk1NwWNQwz). This society takes inspiration from the [suburban sprawl](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Urban_sprawl&sa=D&source=editors&ust=1759597865283381&usg=AOvVaw2xFzr-i1pOf24H-uOC2UfK) developed in the first two decades of the postwar period. This society has modern home appliances, but they work by employing animals. They have automobiles, but they hardly resemble the cars of the 20th century. These cars are large wooden and rock structures and burn no fuel. They are powered by people who run while inside them. This depiction is inconsistent, however, on some occasions, the cars are known to have engines (with appropriate sound effects), requiring ignition keys and gasoline. Also, the stone houses of this society are [cookie-cutter homes](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Tract_housing&sa=D&source=editors&ust=1759597865283903&usg=AOvVaw3AbSYoLzSdRzbVqQaSdjCW) positioned into neighborhoods typical of mid-20th-century American suburbs.
 
-The series draws its humor in part from creative uses of
-[anachronisms](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Anachronism&sa=D&source=editors&ust=1759597865283017&usg=AOvVaw1MlHC3gpnSuYar2IhGq5La);
-elements belonging or appropriate to a period other than that in which
-it exists, especially a thing that is conspicuously old-fashioned. The
-main one is the placing of a \"modern\", 20th-century society in
-[prehistory](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Prehistory&sa=D&source=editors&ust=1759597865283279&usg=AOvVaw3kta6VCOk88Bjk1NwWNQwz).
-This society takes inspiration from the [suburban
-sprawl](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Urban_sprawl&sa=D&source=editors&ust=1759597865283381&usg=AOvVaw2xFzr-i1pOf24H-uOC2UfK)
-developed in the first two decades of the postwar period. This society
-has modern home appliances, but they work by employing animals. They
-have automobiles, but they hardly resemble the cars of the 20th century.
-These cars are large wooden and rock structures and burn no fuel. They
-are powered by people who run while inside them. This depiction is
-inconsistent, however, on some occasions, the cars are known to have
-engines (with appropriate sound effects), requiring ignition keys and
-gasoline. Also, the stone houses of this society are [cookie-cutter
-homes](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Tract_housing&sa=D&source=editors&ust=1759597865283903&usg=AOvVaw3AbSYoLzSdRzbVqQaSdjCW)
-positioned into neighborhoods typical of mid-20th-century American
-suburbs.
+The origins of the Hanna-Barbera & Flintstones visual style is found in the history of UPA Studios:
 
-The origins of the Hanna-Barbera & Flintstones visual style is found in
-the history of UPA Studios:
+- [Part 1](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DA8-09DbxHBU&sa=D&source=editors&ust=1759597865284208&usg=AOvVaw2Six3g4xH1FGKXa7OUkDZ2)
+- [Part 2](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DZMF2i6WTqHo&sa=D&source=editors&ust=1759597865284275&usg=AOvVaw25LMMf3yOI7g0C8ISq_fRF)
+- [Part 3](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DL2jg1RrneJ4&sa=D&source=editors&ust=1759597865284337&usg=AOvVaw1ZQ8o9hSSbnfp87isY-EWr)
 
-[Part
-1](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DA8-09DbxHBU&sa=D&source=editors&ust=1759597865284208&usg=AOvVaw2Six3g4xH1FGKXa7OUkDZ2)
-[Part
-2](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DZMF2i6WTqHo&sa=D&source=editors&ust=1759597865284275&usg=AOvVaw25LMMf3yOI7g0C8ISq_fRF)
-[Part
-3](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DL2jg1RrneJ4&sa=D&source=editors&ust=1759597865284337&usg=AOvVaw1ZQ8o9hSSbnfp87isY-EWr)
-
-👉 Here's a great book covering the style and design trends in 1950s
-animation: [Cartoon
-Modern](https://www.google.com/url?q=https://drive.google.com/file/d/1na_VvJPrv3hkvpWrziX1gx9kEO_vyFfq/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865284536&usg=AOvVaw2T-1M5PujCWdGZqQ-oXs1S)
+👉 Here's a great book covering the style and design trends in 1950s animation: [Cartoon Modern](https://www.google.com/url?q=https://drive.google.com/file/d/1na_VvJPrv3hkvpWrziX1gx9kEO_vyFfq/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865284536&usg=AOvVaw2T-1M5PujCWdGZqQ-oXs1S)
 
 ### Expressing Shapes in Design
 
 ![image](./images/unnamed_512.jpg)
 
-Practical Character Design Tips from the Etherington Brothers:
+> Practical Character Design Tips from the Etherington Brothers:
 
-All character designs, no matter how complex they seem, can be broken
-down into a set of simple shapes. The more through lines there are from
-one shape to another, the better the shapes combine as a single form.
-Bold silhouettes come from a symbiotic combination of shapes.
+All character designs, no matter how complex they seem, can be broken down into a set of simple shapes. The more through lines there are from one shape to another, the better the shapes combine as a single form. Bold silhouettes come from a symbiotic combination of shapes.
 
 ![image](./images/unnamed_787.jpg)
 
-To expand upon the three basic shapes of Round, Box, Triangle - there
-are these 7 shapes you need to design any character.
+To expand upon the three basic shapes of Round, Box, Triangle - there are these 7 shapes you need to design any character.
 
 ![image](./images/unnamed_957.jpg)
 
 If you can draw these shapes, you can draw anything.
 
-There can be squashed and stretched variations of these as well, but
-these are the main ones used for all foundations of character design.
-The less shapes at the core of your design, the more iconic it becomes.
+There can be squashed and stretched variations of these as well, but these are the main ones used for all foundations of character design. The less shapes at the core of your design, the more iconic it becomes.
 
 ![image](./images/unnamed_266.jpg)
 
-Building your design around a primary and secondary shape is very
-effective.
+Building your design around a primary and secondary shape is very effective.
 
 ![image](./images/unnamed_1200.jpg)
 
@@ -7198,80 +7131,53 @@ Primary / Secondary can be applied to the face as well.
 
 ![image](./images/unnamed_168.jpg)
 
-Using one shape in multiple positions and angles allows a more complex
-design to remain visually balanced.
+Using one shape in multiple positions and angles allows a more complex design to remain visually balanced.
 
 ![image](./images/unnamed_301.jpg)
 
 Sometimes combining shapes inharmoniously can work well.
 
 ![image](./images/unnamed_1428.jpg)
-
 ![image](./images/unnamed_535.jpg)
 
-☝️ You can see how these design principles apply to backgrounds and
-scenery as well ☝️
+☝️ You can see how these design principles apply to backgrounds and scenery as well ☝️
 
-Dividing Characters into 3 Sections
+**Dividing Characters into 3 Sections**.
 
-A great approach for designing a wide range of distinctive characters is
-to divide them up into three sections.
+A great approach for designing a wide range of distinctive characters is to divide them up into three sections.
 
 ![image](./images/unnamed_1023.jpg)
 
-1\. Begin by randomly choosing the height of each section as either
-short, medium or tall.
+1. Begin by randomly choosing the height of each section as either short, medium or tall.
+   - ![image](./images/unnamed_430.jpg)
+2. Next, randomly make the width of each section narrow, medium, or wide.
+   - ![image](./images/unnamed_121.jpg)
+3. If we just draw these as standing boxes we can already see the range of body proportions.
+   - ![image](./images/unnamed_315.jpg)
+4. Connect the shapes using either curved or angled lines.
+   - ![image](./images/unnamed_1101.jpg)
+5. With your proportions in place, draw small thumbnail sketches of characters within them. Try lots of designs for each shape, it always works!
+   - ![image](./images/unnamed_402.jpg)
 
-![image](./images/unnamed_430.jpg)
-
-2\. Next, randomly make the width of each section narrow, medium, or
-wide.
-
-![image](./images/unnamed_121.jpg)
-
-3\. If we just draw these as standing boxes we can already see the range
-of body proportions.
-
-![image](./images/unnamed_315.jpg)
-
-4\. Connect the shapes using either curved or angled lines.
-
-![image](./images/unnamed_1101.jpg)
-
-5\. With your proportions in place, draw small thumbnail sketches of
-characters within them.
-
-Try lots of designs for each shape, it always works!
-
-![image](./images/unnamed_402.jpg)
-
-The 3-shape approach is so effective, you can use it to
-
-take one character and generate endless variations!
-
-Let's start with this simple robot...
+The 3-shape approach is so effective, you can use it to take one character and generate endless variations! Let's start with this simple robot...
 
 ![image](./images/unnamed_1414.jpg)
 
-There's no end to the options, just change the width and height of the
-three sections!
+There's no end to the options, just change the width and height of the three sections!
 
 ![image](./images/unnamed_1422.jpg)
 
-Although the 3-shape process is just one of many approaches to character
-design.
+Although the 3-shape process is just one of many approaches to character design.
 
 It also helps you to better analyze other characters' proportions.
 
 ![image](./images/unnamed_1226.jpg)
 
-Notice the effect on the feel of the character when you cluster the main
-volume around different areas.
+Notice the effect on the feel of the character when you cluster the main volume around different areas.
 
 ![image](./images/unnamed_025.jpg)
 
-Shapes and Proportions are always working together - See all the various
-combinations at work here:
+**Shapes and Proportions** are always working together - See all the various combinations at work here:
 
 ![image](./images/unnamed_504.png)
 
@@ -7284,96 +7190,58 @@ By Nico Marlet
 ![image](./images/unnamed_1666.png)
 ![image](./images/unnamed_357.jpg)
 ![image](./images/unnamed_1397.jpg)
-
 ![image](./images/unnamed_297.jpg)
 
 By Stefano Camelli
 
 ## Assignment #3
 
-Using this [MODEL
-PACK](https://www.google.com/url?q=https://drive.google.com/file/d/1OjlDK-jxt371DcAPd_Ec25y-yFn0yME4/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865289771&usg=AOvVaw2_DYCBWYGPIvGq6A3AfyAk)
-as reference, create a new character that would fit in one of the
-following animated series;
+Using this [MODEL PACK](https://www.google.com/url?q=https://drive.google.com/file/d/1OjlDK-jxt371DcAPd_Ec25y-yFn0yME4/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865289771&usg=AOvVaw2_DYCBWYGPIvGq6A3AfyAk) as reference, create a new character that would fit in one of the following animated series;
 
-Fairly Odd Parents, Dexter\'s Laboratory, Powerpuff Girls, Danny
-Phantom, or The Grim Adventures of Billy and Mandy.
+**Fairly Odd Parents, Dexter\'s Laboratory, Powerpuff Girls, Danny Phantom,** or **The Grim Adventures of Billy and Mandy.**
 
-These shows each have their own design sensibilities but they share many
-similar traits in their anatomy, shape language and aesthetics. Do more
-research on the design style of your choosing to find references for
-expanding your style guide.
+These shows each have their own design sensibilities but they share many similar traits in their anatomy, shape language and aesthetics. Do more research on the design style of your choosing to find references for expanding your style guide.
 
-Fairly Odd Parents - Original Designs by Butch Hartman with George
-Goodchild (Nickelodeon/Frederator Studios)
-
-Dexter's Laboratory - Original Designs by Genndy Tartakovsky and Craig
-McCraken (Warner Bros)
-
-Powerpuff Girls - Original Designs by Craig McCraken (Cartoon Network)
-
-Danny Phantom - Original Designs by Butch Hartman (Nickelodeon Studios)
-
-The Grim Adventures of Billy & Mandy - Original Designs by Maxwell
-Atoms, Dave Thomas, and Serapio Calm (Cartoon Network)
-
-Other artists you can research with similar patterns in their art styles
-are
-
-Chris Battle, Gordon Hammond, Chris DeRose and Shane Glines.
+- _Fairly Odd Parents_ - Original Designs by Butch Hartman with George Goodchild (Nickelodeon/Frederator Studios)
+- _Dexter's Laboratory_ - Original Designs by Genndy Tartakovsky and Craig McCraken (Warner Bros)
+- _Powerpuff Girls_ - Original Designs by Craig McCraken (Cartoon Network)
+- _Danny Phantom_ - Original Designs by Butch Hartman (Nickelodeon Studios)
+- _The Grim Adventures of Billy & Mandy_ - Original Designs by Maxwell Atoms, Dave Thomas, and Serapio Calm (Cartoon Network)
+- Other artists you can research with similar patterns in their art styles are **Chris Battle**, **Gordon Hammond**, **Chris DeRose** and **Shane Glines**.
 
 Produce a 4pt turnaround model sheet;
 
-Front \| 3/4 Front \| Side \| 3/4 Back \[Tiedowns\]
+**Front** | **3/4 Front** | **Side** | **3/4 Back** \[Tiedowns\]
 
 1 Image file (JPG or PNG format)
 
 Dimensions: 3840x2160 pixels @ 300dpi
 
-SUPPORT MATERIAL:
+> SUPPORT MATERIAL:
 
-​​👉 [Straights & Curves in All
-Design](https://www.google.com/url?q=https://www.animatedspirit.com/straights-curves/&sa=D&source=editors&ust=1759597865291657&usg=AOvVaw1qu4Xp3ZSRnP5seFBn_D0E)
-
-👉 [Blocking-in with Alphonso
-Dunn](https://www.google.com/url?q=https://youtu.be/v3B_47nrAPc&sa=D&source=editors&ust=1759597865291771&usg=AOvVaw039O6rem7TvRi8KyEB9Sbu)
-
-​​👉 [Nick Swift Explains Shape
-Design](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DMUZHfnlKggI&sa=D&source=editors&ust=1759597865291886&usg=AOvVaw3myt_3g1SgNjeBMOKlrghJ)
-
-👉 [Craig McCracken Talks About
-Creativity](https://www.google.com/url?q=https://animationobsessive.substack.com/p/craig-mccracken-on-creativity&sa=D&source=editors&ust=1759597865292017&usg=AOvVaw1HYrbk-s8u_qxfELpNlL02)
-
-👉 [Don Corgi's Tips on Character
-Proportions](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DCU-FDhT1140%26ab_channel%3DDonCorgi&sa=D&source=editors&ust=1759597865292160&usg=AOvVaw0ZQQbgqzAhRU5ZWhjAg858)
-
-👉 [The Art of Various Nickelodeon
-Cartoons](https://www.google.com/url?q=https://drive.google.com/file/d/1YfO4a4j0rKq9tHharFwh3maAXLsCm1TF/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865292296&usg=AOvVaw2gIIL9DZItG4LIjb9fs9D5)
+- ​​👉 [Straights & Curves in All Design](https://www.google.com/url?q=https://www.animatedspirit.com/straights-curves/&sa=D&source=editors&ust=1759597865291657&usg=AOvVaw1qu4Xp3ZSRnP5seFBn_D0E)
+- 👉 [Blocking-in with Alphonso Dunn](https://www.google.com/url?q=https://youtu.be/v3B_47nrAPc&sa=D&source=editors&ust=1759597865291771&usg=AOvVaw039O6rem7TvRi8KyEB9Sbu)
+- ​​👉 [Nick Swift Explains Shape Design](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DMUZHfnlKggI&sa=D&source=editors&ust=1759597865291886&usg=AOvVaw3myt_3g1SgNjeBMOKlrghJ)
+- 👉 [Craig McCracken Talks About Creativity](https://www.google.com/url?q=https://animationobsessive.substack.com/p/craig-mccracken-on-creativity&sa=D&source=editors&ust=1759597865292017&usg=AOvVaw1HYrbk-s8u_qxfELpNlL02)
+- 👉 [Don Corgi's Tips on Character Proportions](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DCU-FDhT1140%26ab_channel%3DDonCorgi&sa=D&source=editors&ust=1759597865292160&usg=AOvVaw0ZQQbgqzAhRU5ZWhjAg858)
+- 👉 [The Art of Various Nickelodeon Cartoons](https://www.google.com/url?q=https://drive.google.com/file/d/1YfO4a4j0rKq9tHharFwh3maAXLsCm1TF/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865292296&usg=AOvVaw2gIIL9DZItG4LIjb9fs9D5)
 
 ![image](./images/unnamed_1354.png)
-
 ![image](./images/unnamed_334.png)
-
 ![image](./images/unnamed_383.png)
-
 ![image](./images/unnamed_1374.png)
 ![image](./images/unnamed_1399.png)
 ![image](./images/unnamed_1221.png)
 ![image](./images/unnamed_791.png)
 ![image](./images/unnamed_434.png)
-
 ![image](./images/unnamed_1163.jpg)
 ![image](./images/unnamed_695.jpg)
 ![image](./images/unnamed_214.jpg)
 ![image](./images/unnamed_671.jpg)
 ![image](./images/unnamed_796.png)
-
 ![image](./images/unnamed_100.jpg)
-
 ![image](./images/unnamed_848.png)
-
 ![image](./images/unnamed_758.png)
-
 ![image](./images/unnamed_499.png)
 
 Similar design style can be found in the works of Steve Lambe:
@@ -7381,7 +7249,6 @@ Similar design style can be found in the works of Steve Lambe:
 ![image](./images/unnamed_347.jpg)
 ![image](./images/unnamed_1155.jpg)
 ![image](./images/unnamed_1151.jpg)
-
 ![image](./images/unnamed_1371.jpg)
 
 Stephen Silver:
@@ -7396,40 +7263,28 @@ Stephen Silver:
 Gordon Hammond:
 
 ![image](./images/unnamed_598.png)
-
 ![image](./images/unnamed_1667.png)
-
 ![image](./images/unnamed_1208.png)
-
 ![image](./images/unnamed_860.png)
-
 ![image](./images/unnamed_336.png)
-
 ![image](./images/unnamed_1709.png)
 
 Powerpuff Girls Style guides:
 
 ![image](./images/unnamed_173.png)
-
 ![image](./images/unnamed_845.png)
 ![image](./images/unnamed_1295.png)
-
 ![image](./images/unnamed_911.jpg)
-
 ![image](./images/unnamed_533.jpg)
-
 ![image](./images/unnamed_089.jpg)
-
 ![image](./images/unnamed_059.jpg)
 ![image](./images/unnamed_1290.jpg)
-
 ![image](./images/unnamed_461.jpg)
 ![image](./images/unnamed_599.jpg)
 
 ### Shape Blocking
 
 ![image](./images/unnamed_701.jpg)
-
 ![image](./images/unnamed_252.png)
 
 by Steven Silver
@@ -7448,15 +7303,10 @@ By Radford Sechrist
 ### Straights & Curves
 
 ![image](./images/unnamed_1272.png)
-
 ![image](./images/unnamed_1508.png)
-
 ![image](./images/unnamed_1607.png)
-
 ![image](./images/unnamed_972.png)
-
 ![image](./images/unnamed_411.jpg)
-
 ![image](./images/unnamed_370.png)
 
 Straights Against Curves can work for many different types of anatomy:
@@ -7466,29 +7316,21 @@ Straights Against Curves can work for many different types of anatomy:
 By Dermot O'Connor
 
 ![image](./images/unnamed_1126.jpg)
-
 ![image](./images/unnamed_118.png)
-
 ![image](./images/unnamed_1117.png)
-
 ![image](./images/unnamed_1459.png)
-
 ![image](./images/unnamed_981.png)
 
-Contrasting simple on one side and complex on the other:
+Contrasting **simple** on one side and **complex** on the other:
 
 ![image](./images/unnamed_034.gif)
 
 By Alan Stewart
 
 ![image](./images/unnamed_635.png)
-
 ![image](./images/unnamed_1302.png)
-
 ![image](./images/unnamed_869.png)
-
 ![image](./images/unnamed_1671.png)
-
 ![image](./images/unnamed_583.png)
 
 By Radford Sechrist
@@ -7499,50 +7341,39 @@ Breakdown by Tod Polson
 
 ### Proportions
 
-When it comes to a character\'s age in comparison to their head size -
-it can become quite arbitrary and puzzling. When examining proportions
-and their relationship to a character's age - it\'s all contextual and
-relative to the universe they reside in. For example, what do all these
-male cartoon characters have in common?
+When it comes to a character\'s age in comparison to their head size - it can become quite arbitrary and puzzling. When examining proportions and their relationship to a character's age - it\'s all contextual and relative to the universe they reside in. For example, what do all these male cartoon characters have in common?
 
 ![image](./images/unnamed_967.jpg)
 
-They\'re all 10!
+**They\'re all 10!**
 
-A different kind of test: How good do you think you are at discerning
-age from a line-up?
+A different kind of test: How good do you think you are at discerning age from a line-up?
 
 ![image](./images/unnamed_762.jpg)
 
-The top row kids fall into a younger category ranging from 2 to 6. The
-bottom row kids range 7 to 9.
+The top row kids fall into a younger category ranging from 2 to 6. The bottom row kids range 7 to 9.
 
 ![image](./images/unnamed_1184.jpg)
 
-How design choices are made, like height and face shape, is all about
-the surrounding characters and environment.
+How design choices are made, like height and face shape, is all about the surrounding characters and environment.
 
 Their age is easier to specify by comparison.
 
 Satsuki (11 years old), Mei (4 years old) --- drawings by Miyazaki:
 
 ![image](./images/unnamed_545.jpg)
-
 ![image](./images/unnamed_351.jpg)
 ![image](./images/unnamed_385.jpg)
 
-Another fun way to compare proportions is to match the character heights
-up.
+Another fun way to compare proportions is to match the character heights up.
 
 It puts the head-size into perspective.
 
 ![image](./images/unnamed_790.jpg)
 
-Courtesy of [Bob
-Flynn](https://www.google.com/url?q=https://twitter.com/bobjinx&sa=D&source=editors&ust=1759597865297737&usg=AOvVaw3UyU06kiJQIKMSBYS03TkH)
+Courtesy of [Bob Flynn](https://www.google.com/url?q=https://twitter.com/bobjinx&sa=D&source=editors&ust=1759597865297737&usg=AOvVaw3UyU06kiJQIKMSBYS03TkH)
 
-👉 [Brooke Eggleston's Advice on Character Design
-Proportions](https://www.google.com/url?q=https://youtu.be/Mbxw-OaWwX8?t%3D23&sa=D&source=editors&ust=1759597865297948&usg=AOvVaw0Hb5pf8t_8WC-lGoilhqkd)
+> 👉 [Brooke Eggleston's Advice on Character Design Proportions](https://www.google.com/url?q=https://youtu.be/Mbxw-OaWwX8?t%3D23&sa=D&source=editors&ust=1759597865297948&usg=AOvVaw0Hb5pf8t_8WC-lGoilhqkd)
 
 Varied Combinations:
 
@@ -7552,50 +7383,33 @@ Varied Combinations:
 Vary proportions to see what works best:
 
 ![image](./images/unnamed_030.png)
-
 ![image](./images/unnamed_1467.jpg)
-
 ![image](./images/unnamed_046.gif)
-
 ![image](./images/unnamed_1039.png)
-
 ![image](./images/unnamed_132.png)
-
 ![image](./images/unnamed_687.png)
-
 ![image](./images/unnamed_052.png)
-
 ![image](./images/unnamed_139.jpg)
-
 ![image](./images/unnamed_878.png)
-
 ![image](./images/unnamed_708.png)
 
-Small / Medium / Large \-- Proportions and Shapes define the basic
-foundation of all character designs:
+Small / Medium / Large \-- Proportions and Shapes define the basic foundation of all character designs:
 
 ![image](./images/unnamed_1705.png)By Stephen Silver
 
 The character's age is always a factor:
 
 ![image](./images/unnamed_1597.png)
-
 ![image](./images/unnamed_553.png)
-
 ![image](./images/unnamed_948.jpg)
 
-👉 [Advice on using varied proportions in Prop
-Design](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DO8eCr5AecJs%26ab_channel%3DLearnSquared&sa=D&source=editors&ust=1759597865299335&usg=AOvVaw0k96i5J5KOzHd4eX85RRja)
+> 👉 [Advice on using varied proportions in Prop Design](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DO8eCr5AecJs%26ab_channel%3DLearnSquared&sa=D&source=editors&ust=1759597865299335&usg=AOvVaw0k96i5J5KOzHd4eX85RRja)
 
-See how proportions vary in these sketches, it changes the level of the
-realism vs cartoony/stylized look, and the character's attitude changes
-too as various body parts change proportions relative to one and other:
+See how proportions vary in these sketches, it changes the level of the realism vs cartoony/stylized look, and the character's attitude changes too as various body parts change proportions relative to one and other:
 
 ![image](./images/unnamed_1130.png)
 
-See how changes in
-[proportions](https://www.google.com/url?q=https://www.youtube.com/shorts/SNHs6G1EQOY?feature%3Dshare&sa=D&source=editors&ust=1759597865299758&usg=AOvVaw3Nw6pIB-EoDBoDBhFehmZ0)
-(both subtle and drastic) can alter the character's personality:
+See how changes in [proportions](https://www.google.com/url?q=https://www.youtube.com/shorts/SNHs6G1EQOY?feature%3Dshare&sa=D&source=editors&ust=1759597865299758&usg=AOvVaw3Nw6pIB-EoDBoDBhFehmZ0) (both subtle and drastic) can alter the character's personality:
 
 ![image](./images/unnamed_1360.jpg)
 
@@ -7607,33 +7421,17 @@ by Puba24
 
 ## Assignment #4
 
-DC\'s Batman - From the era of Batman The Animated Series, The New
-Adventures of Batman, and Batman Mask of the Phantasm.
+DC\'s **Batman** - From the era of _Batman The Animated Series_, _The New Adventures of Batman_, and _Batman Mask of the Phantasm_.
 
-Using this [STYLE GUIDE
-1](https://www.google.com/url?q=https://drive.google.com/file/d/1UK7OOE2VZl8chAs6C4TjW7h9vG14V_TO/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865300467&usg=AOvVaw2KDBpnVoGNuPY71D1Y63G3)
-/ [STYLE GUIDE
-2](https://www.google.com/url?q=https://characterdesignreferences.com/art-of-animation-9/art-of-batman-beyond&sa=D&source=editors&ust=1759597865300554&usg=AOvVaw1Aqu1vIsX65MXHPJmf1Cs0)
-/ [STYLE GUIDE
-3](https://www.google.com/url?q=https://drive.google.com/file/d/1NlYOy_mCMQEa-KNF1-Tp__tYBlXhMVsg/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865300634&usg=AOvVaw3dxyKpOqrjdOLJLdLpY6rz),
-create a new character that would fit in this DC animated universe.
-Other series with a similar style; Justice League and Batman Beyond
+Using this [STYLE GUIDE 1](https://www.google.com/url?q=https://drive.google.com/file/d/1UK7OOE2VZl8chAs6C4TjW7h9vG14V_TO/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865300467&usg=AOvVaw2KDBpnVoGNuPY71D1Y63G3) / [STYLE GUIDE 2](https://www.google.com/url?q=https://characterdesignreferences.com/art-of-animation-9/art-of-batman-beyond&sa=D&source=editors&ust=1759597865300554&usg=AOvVaw1Aqu1vIsX65MXHPJmf1Cs0) / [STYLE GUIDE 3](https://www.google.com/url?q=https://drive.google.com/file/d/1NlYOy_mCMQEa-KNF1-Tp__tYBlXhMVsg/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865300634&usg=AOvVaw3dxyKpOqrjdOLJLdLpY6rz), create a new character that would fit in this DC animated universe. Other series with a similar style; **Justice League** and **Batman Beyond**.
 
-Designs by Bruce Timm (Warner Bros Animation)
+Designs by Bruce Timm (Warner Bros Animation), Along with others: Dan Riba, Craig Kellman, Chen Yi-Chang, Michael Diederich, Kevin Nowlan, Ronnie Del Carmen, and many more.
 
-Along with others: Dan Riba, Craig Kellman, Chen Yi-Chang, Michael
-Diederich, Kevin Nowlan, Ronnie Del Carmen, and many more
-
-Research these legendary artists who have similar art styles: [Darwyn
-Cooke](https://www.google.com/url?q=https://www.google.com/search?q%3Ddarwyn%2Bcooke%2Bart%26sxsrf%3DALiCzsbjLX11_nSKvNmYkbEymrkV-Ks_tQ:1654776177260%26source%3Dlnms%26tbm%3Disch%26sa%3DX%26ved%3D2ahUKEwj7yenRqaD4AhWFgnIEHbapBN4Q_AUoAXoECAEQAw&sa=D&source=editors&ust=1759597865301182&usg=AOvVaw3gUUds4z1k_hbhFikrP7AH)
-/ [Shane
-Glines](https://www.google.com/url?q=https://www.google.com/search?q%3Dshane%2Bglines%2Bart%26sxsrf%3DALiCzsaZmfFBz73gSTsmFuMYkYVa6Q9qIA:1654776215810%26source%3Dlnms%26tbm%3Disch%26sa%3DX%26ved%3D2ahUKEwjyuJrkqaD4AhWJl3IEHWYzBioQ_AUoAXoECAEQAw%26biw%3D1440%26bih%3D716%26dpr%3D2&sa=D&source=editors&ust=1759597865301303&usg=AOvVaw169G7gSWToAWLErao8YOd-)
-/ [Alex
-Toth](https://www.google.com/url?q=https://ca.pinterest.com/search/pins/?q%3Dalex%2520toth%2520model%2520sheets%26rs%3Dtyped&sa=D&source=editors&ust=1759597865301380&usg=AOvVaw3Kmlja2j9GNttSuvnUQu7M)
+Research these legendary artists who have similar art styles: [Darwyn Cooke](https://www.google.com/url?q=https://www.google.com/search?q%3Ddarwyn%2Bcooke%2Bart%26sxsrf%3DALiCzsbjLX11_nSKvNmYkbEymrkV-Ks_tQ:1654776177260%26source%3Dlnms%26tbm%3Disch%26sa%3DX%26ved%3D2ahUKEwj7yenRqaD4AhWFgnIEHbapBN4Q_AUoAXoECAEQAw&sa=D&source=editors&ust=1759597865301182&usg=AOvVaw3gUUds4z1k_hbhFikrP7AH) / [Shane Glines](https://www.google.com/url?q=https://www.google.com/search?q%3Dshane%2Bglines%2Bart%26sxsrf%3DALiCzsaZmfFBz73gSTsmFuMYkYVa6Q9qIA:1654776215810%26source%3Dlnms%26tbm%3Disch%26sa%3DX%26ved%3D2ahUKEwjyuJrkqaD4AhWJl3IEHWYzBioQ_AUoAXoECAEQAw%26biw%3D1440%26bih%3D716%26dpr%3D2&sa=D&source=editors&ust=1759597865301303&usg=AOvVaw169G7gSWToAWLErao8YOd-) / [Alex Toth](https://www.google.com/url?q=https://ca.pinterest.com/search/pins/?q%3Dalex%2520toth%2520model%2520sheets%26rs%3Dtyped&sa=D&source=editors&ust=1759597865301380&usg=AOvVaw3Kmlja2j9GNttSuvnUQu7M)
 
 Produce a 4pt turnaround model sheet;
 
-Front \| 3/4 Front \| Side \| 3/4 Back \[Tiedowns\]
+**Front** | **3/4 Front** | **Side** | **3/4 Back** \[Tiedowns\]
 
 1 Image file (JPG or PNG format)
 
@@ -7641,42 +7439,27 @@ Dimensions: 3840x2160 pixels @ 300dpi
 
 SUPPORT MATERIAL:
 
-- [How to Rough-out Various Body
-  Shapes](https://www.google.com/url?q=https://youtu.be/BDzaXoacE8g?t%3D143&sa=D&source=editors&ust=1759597865301842&usg=AOvVaw0XtvVyYrwBy-QKrc-wxx2f)
-- [Structural Drawing with Alphonso
-  Dunn](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DIdzQa_dot5U&sa=D&source=editors&ust=1759597865301954&usg=AOvVaw2Ea7VOcS9JTkuWCaqak4pw)
-- [Aaron Blaise's Tutorial on Straights &
-  Curves](https://www.google.com/url?q=https://youtu.be/KixNx5POpL0?t%3D35&sa=D&source=editors&ust=1759597865302079&usg=AOvVaw0hbRHwQq5flsdMuopDX7Gw)
-
-- [Drawing Better, Faster, Learning How To
-  Practice](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DemcO79uteN4&sa=D&source=editors&ust=1759597865302203&usg=AOvVaw3o0-xcfGmmRh4dclOxDyyM)
-- [Drawing Full Figure
-  Bodies](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D9m4Hf_6U4Rc%26ab_channel%3DDrawlikeaSir&sa=D&source=editors&ust=1759597865302309&usg=AOvVaw0MapuUvNFRNr7-zhHj4KsU)
-- [References for Drawing
-  Hands](https://www.google.com/url?q=http://hatoking.com/journal/4352.html&sa=D&source=editors&ust=1759597865302409&usg=AOvVaw2V2v_amL3TXY9OL9BDHoHW)
-
-- Make [Your Character Design Sheet
-  Better](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DJcddUNSxFrQ%26t%3D133s%26ab_channel%3DWhytManga&sa=D&source=editors&ust=1759597865302537&usg=AOvVaw1seF0J_RU2tJZ0eUH4NfJm)
-- [Scaffolding Method of Drawing
-  Improvement](https://www.google.com/url?q=https://youtu.be/tYanSuLS2i4&sa=D&source=editors&ust=1759597865302644&usg=AOvVaw3JGsJZHCe__wBPvh0nH45H)
+- [How to Rough-out Various Body Shapes](https://www.google.com/url?q=https://youtu.be/BDzaXoacE8g?t%3D143&sa=D&source=editors&ust=1759597865301842&usg=AOvVaw0XtvVyYrwBy-QKrc-wxx2f)
+- [Structural Drawing with Alphonso Dunn](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DIdzQa_dot5U&sa=D&source=editors&ust=1759597865301954&usg=AOvVaw2Ea7VOcS9JTkuWCaqak4pw)
+- [Aaron Blaise's Tutorial on Straights & Curves](https://www.google.com/url?q=https://youtu.be/KixNx5POpL0?t%3D35&sa=D&source=editors&ust=1759597865302079&usg=AOvVaw0hbRHwQq5flsdMuopDX7Gw)
+- [Drawing Better, Faster, Learning How To Practice](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DemcO79uteN4&sa=D&source=editors&ust=1759597865302203&usg=AOvVaw3o0-xcfGmmRh4dclOxDyyM)
+- [Drawing Full Figure Bodies](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D9m4Hf_6U4Rc%26ab_channel%3DDrawlikeaSir&sa=D&source=editors&ust=1759597865302309&usg=AOvVaw0MapuUvNFRNr7-zhHj4KsU)
+- [References for Drawing Hands](https://www.google.com/url?q=http://hatoking.com/journal/4352.html&sa=D&source=editors&ust=1759597865302409&usg=AOvVaw2V2v_amL3TXY9OL9BDHoHW)
+- Make [Your Character Design Sheet Better](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DJcddUNSxFrQ%26t%3D133s%26ab_channel%3DWhytManga&sa=D&source=editors&ust=1759597865302537&usg=AOvVaw1seF0J_RU2tJZ0eUH4NfJm)
+- [Scaffolding Method of Drawing Improvement](https://www.google.com/url?q=https://youtu.be/tYanSuLS2i4&sa=D&source=editors&ust=1759597865302644&usg=AOvVaw3JGsJZHCe__wBPvh0nH45H)
 
 ![image](./images/unnamed_1087.jpg)
-
 ![image](./images/unnamed_339.jpg)
-
 ![image](./images/unnamed_863.jpg)
 
-The main thing to keep in mind is structural drawingwith thestraights
-and curvesmethod.
+> The main thing to keep in mind is **structural drawingwith** the **straights and curves method**.
 
 ![image](./images/unnamed_999.jpg)
-
 ![image](./images/unnamed_413.jpg)
 
 Breakdown by Luis Escobar:
 
 ![image](./images/unnamed_303.png)
-
 ![image](./images/unnamed_784.png)
 
 Breakdown by Rad Sechrist:
@@ -7686,271 +7469,159 @@ Breakdown by Rad Sechrist:
 Model sheet samples:
 
 ![image](./images/unnamed_1134.png)
-
 ![image](./images/unnamed_1594.png)
-
 ![image](./images/unnamed_895.png)
-
 ![image](./images/unnamed_113.png)
-
 ![image](./images/unnamed_1563.png)
-
 ![image](./images/unnamed_1296.png)
-
 ![image](./images/unnamed_610.png)
 ![image](./images/unnamed_1520.png)
-
 ![image](./images/unnamed_1531.png)
-
 ![image](./images/unnamed_371.jpg)
 
-More Bruce Timm samples
-[here](https://www.google.com/url?q=https://ca.pinterest.com/search/pins/?q%3Dbruce%2520timm%2520character%2520design%26rs%3Dac%26len%3D20%26source_id%3D1oRMFT0T%26eq%3Dbruce%2520timm%2520character%26etslf%3D8609&sa=D&source=editors&ust=1759597865303994&usg=AOvVaw0lorYjy7AM6vouX8fS1L9V).
+More Bruce Timm samples [here](https://www.google.com/url?q=https://ca.pinterest.com/search/pins/?q%3Dbruce%2520timm%2520character%2520design%26rs%3Dac%26len%3D20%26source_id%3D1oRMFT0T%26eq%3Dbruce%2520timm%2520character%26etslf%3D8609&sa=D&source=editors&ust=1759597865303994&usg=AOvVaw0lorYjy7AM6vouX8fS1L9V).
 
 Designs By Marcelo Trom:
 
 ![image](./images/unnamed_930.png)
-
 ![image](./images/unnamed_898.png)
 
-Think about the many possible costume design variations there could be
-for your character. If you ask any actor, the clothes and make-up they
-wear will always help to place them "in-character".
+Think about the many possible costume design variations there could be for your character. If you ask any actor, the clothes and make-up they wear will always help to place them "in-character".
 
-- [Costume Design
-  Inspiration](https://www.google.com/url?q=https://charactermodel.tumblr.com/&sa=D&source=editors&ust=1759597865304518&usg=AOvVaw3XJMkX-er5paTS_EKe27cx)
+> [Costume Design Inspiration](https://www.google.com/url?q=https://charactermodel.tumblr.com/&sa=D&source=editors&ust=1759597865304518&usg=AOvVaw3XJMkX-er5paTS_EKe27cx)
 
 ​​![image](./images/unnamed_567.jpg)
 
-How Batman The Animated Series is the most influential cartoon of all
-time:
+How Batman The Animated Series is the most influential cartoon of all time:
 
-👉 [How Batman TAS Changed
-Everything](https://www.google.com/url?q=https://youtu.be/LmztzXjUVV4&sa=D&source=editors&ust=1759597865304824&usg=AOvVaw0wbnodc3cwhZe_0sLQ8e8g)
+> 👉 [How Batman TAS Changed Everything](https://www.google.com/url?q=https://youtu.be/LmztzXjUVV4&sa=D&source=editors&ust=1759597865304824&usg=AOvVaw0wbnodc3cwhZe_0sLQ8e8g)
 
 Exploring the Art of Bruce Timm:
 
-👉 [Video Essay
-1](https://www.google.com/url?q=https://youtu.be/npZYERCfjIc&sa=D&source=editors&ust=1759597865304968&usg=AOvVaw1x8EY0iCG7lTswIGdXpRLH)
+- 👉 [Video Essay 1](https://www.google.com/url?q=https://youtu.be/npZYERCfjIc&sa=D&source=editors&ust=1759597865304968&usg=AOvVaw1x8EY0iCG7lTswIGdXpRLH)
+- 👉 [Video Essay 2](https://www.google.com/url?q=https://youtu.be/t8L3QBJxNbU&sa=D&source=editors&ust=1759597865305056&usg=AOvVaw2PMaZRSDZAsiY7OeNBOCV4)
 
-👉 [Video Essay
-2](https://www.google.com/url?q=https://youtu.be/t8L3QBJxNbU&sa=D&source=editors&ust=1759597865305056&usg=AOvVaw2PMaZRSDZAsiY7OeNBOCV4)
+> Why Batman The Animated Series Changed its Character Designs - Writer, Paul Dini Explains the Controversy:
 
-Why Batman The Animated Series Changed its Character Designs - Writer,
-Paul Dini Explains the Controversy:
+Few adaptations are as beloved as Batman: The Animated Series, however, the series\' decision to update character designs in between its original run and The New Batman Adventures is one aspect that did not sit right with fans. Timmverse legend and Harley Quinn co-creator Paul Dini has revealed what led to the polarizing changes.
 
-Few adaptations are as beloved as Batman: The Animated Series, however,
-the series\' decision to update character designs in between its
-original run and The New Batman Adventures is one aspect that did not
-sit right with fans. Timmverse legend and Harley Quinn co-creator Paul
-Dini has revealed what led to the polarizing changes.
-
-\"I think that was all from the desires of \[BTAS co-creator\] Bruce
-Timm and the other artists and directors to vary the look of the
-characters somewhat between iterations,\" Dini explains. \"Partially it
-was to make it look a little more like the new look of the Superman
-animated series, but also to just experiment and refine a few things.\"
+\"I think that was all from the desires of \[BTAS co-creator\] Bruce Timm and the other artists and directors to vary the look of the characters somewhat between iterations,\" Dini explains. \"Partially it was to make it look a little more like the new look of the Superman animated series, but also to just experiment and refine a few things.\"
 
 ![image](./images/unnamed_406.jpg)
 
-Some of the design changes were warmly received by fans, such as the
-choice to have an older version of Dick Grayson portraying his popular
-alter ego Nightwing, and giving Scarecrow a creepy new visage that even
-included a frayed noose around his neck. Others, though, didn\'t go over
-as well. Specifically, the choices to give Joker hollowed-out, black
-eyes, Catwoman abnormally chalky skin, and Bane\'s new mask left some
-fans cold.
+Some of the design changes were warmly received by fans, such as the choice to have an older version of Dick Grayson portraying his popular alter ego Nightwing, and giving Scarecrow a creepy new visage that even included a frayed noose around his neck. Others, though, didn\'t go over as well. Specifically, the choices to give Joker hollowed-out, black eyes, Catwoman abnormally chalky skin, and Bane\'s new mask left some fans cold.
 
-Being a veteran of the industry since the 1980s, Dini found the fan
-reaction to the design changes a bit odd, especially given that
-character refining has been a common practice in animation for decades.
-\"That tradition of visual reinvention has always been a part of Warner
-Bros Animation,\" Dini stated. \"No one ever asks about Bugs Bunny and
-Daffy Duck getting visually redefined over the years, it was just
-something the directors did over time.\"
+Being a veteran of the industry since the 1980s, Dini found the fan reaction to the design changes a bit odd, especially given that character refining has been a common practice in animation for decades. \"That tradition of visual reinvention has always been a part of Warner Bros Animation,\" Dini stated. \"No one ever asks about Bugs Bunny and Daffy Duck getting visually redefined over the years, it was just something the directors did over time.\"
 
-There is also a commercial reason for animation studios to change the
-look of their characters. Given that the majority of revenue surrounding
-animation properties comes from merchandising rights for toys, new
-designs give companies new editions to place on store shelves.
+There is also a commercial reason for animation studios to change the look of their characters. Given that the majority of revenue surrounding animation properties comes from merchandising rights for toys, new designs give companies new editions to place on store shelves.
 
-Starring Kevin Conroy, Efrem Zimbalist Jr. and Mark Hamill, Batman: The
-Animated Series debuted in 1992, and stands as one of the most acclaimed
-adaptations of comic books to another medium. The series won four Emmy
-Awards and ran from 1992 to 1995, with follow-up series The New Batman
-Adventures airing from 1997 to 1999, for a total of 109 episodes.
+Starring Kevin Conroy, Efrem Zimbalist Jr. and Mark Hamill, Batman: The Animated Series debuted in 1992, and stands as one of the most acclaimed adaptations of comic books to another medium. The series won four Emmy Awards and ran from 1992 to 1995, with follow-up series The New Batman Adventures airing from 1997 to 1999, for a total of 109 episodes.
 
 ### Construction & Rhythm
 
 ![image](./images/unnamed_235.jpg)
-
 ![image](./images/unnamed_1338.jpg)
-
 ![image](./images/unnamed_631.jpg)
-
 ![image](./images/unnamed_102.jpg)
-
 ![image](./images/unnamed_131.jpg)
-
 ![image](./images/unnamed_1020.jpg)
-
 ![image](./images/unnamed_830.jpg)
-
 ![image](./images/unnamed_1718.png)
 
-Construction lines in animation are the guidelines sketched in to show
-the angle and forms of all the shapes that make up the design and poses,
-they often look like crosshairs on the body parts.
+Construction lines in animation are the guidelines sketched in to show the angle and forms of all the shapes that make up the design and poses, they often look like crosshairs on the body parts.
 
 ![image](./images/unnamed_387.png)
-
 ![image](./images/unnamed_1720.png)
-
 ![image](./images/unnamed_1533.png)
-
 ![image](./images/unnamed_844.png)
-
 ![image](./images/unnamed_025.png)
-
 ![image](./images/unnamed_425.png)
 
-👉 Study the awesome works of the artist Taco and observe his
-
-wonderful methods of simplified anatomy and structure
-[here](https://www.google.com/url?q=https://www.instagram.com/taco1704/?hl%3Den&sa=D&source=editors&ust=1759597865308648&usg=AOvVaw0YzOIV5CRpybIROepfY32R).
+> 👉 Study the awesome works of the artist Taco and observe his wonderful methods of simplified anatomy and structure [here](https://www.google.com/url?q=https://www.instagram.com/taco1704/?hl%3Den&sa=D&source=editors&ust=1759597865308648&usg=AOvVaw0YzOIV5CRpybIROepfY32R).
 
 ## Assignment #5
 
 Choose from one of the following design styles:
 
-\(A\) Alex Hirsch\'s Gravity Falls
+\(A\) Alex Hirsch\'s **Gravity Falls**.
 
-Reference: [STYLE GUIDE
-1](https://www.google.com/url?q=https://drive.google.com/file/d/1tGLszjg7pZcE6htG5heNdqcQHvYVNu2w/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865309081&usg=AOvVaw1YmAEbtMOnNLdtXJFI6mrN)
-& [STYLE GUIDE
-2](https://www.google.com/url?q=https://characterdesignreferences.com/art-of-animation-5/art-of-gravity-falls&sa=D&source=editors&ust=1759597865309168&usg=AOvVaw3a7HvldrB19lcjw4suvAgW)
+Reference: [STYLE GUIDE 1](https://www.google.com/url?q=https://drive.google.com/file/d/1tGLszjg7pZcE6htG5heNdqcQHvYVNu2w/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865309081&usg=AOvVaw1YmAEbtMOnNLdtXJFI6mrN) & [STYLE GUIDE 2](https://www.google.com/url?q=https://characterdesignreferences.com/art-of-animation-5/art-of-gravity-falls&sa=D&source=editors&ust=1759597865309168&usg=AOvVaw3a7HvldrB19lcjw4suvAgW)
 
-Designs by Joe Pitt (Disney), Robert Ryan Cory, Chris Houghton, C.
-Raggio, Ali Denesh, Stephanie Ramirez, Alex Kirwan, Alanzo Ramirez,
-Bryan Arnett, Andre Medina, Andre Medina, Kristen Campbell, and Ian
-Abando
+Designs by Joe Pitt (Disney), Robert Ryan Cory, Chris Houghton, C. Raggio, Ali Denesh, Stephanie Ramirez, Alex Kirwan, Alanzo Ramirez, Bryan Arnett, Andre Medina, Andre Medina, Kristen Campbell, and Ian Abando
 
-Another series worth researching with a similar style is Inside Job
-(Netflix / Jam Filled Entertainment). It looks like a blend of Rick &
-Morty + Gravity Falls, designed by ​​Francesca Natale, created by Shion
-Takeuchi and Alex Hirsh. Look through samples
-[here](https://www.google.com/url?q=https://www.google.com/search?q%3Dinside%2Bjob%2Bdesigns%26tbm%3Disch%26ved%3D2ahUKEwj3gprj28X1AhUzlXIEHQP1Bt8Q2-cCegQIABAA%26oq%3Dinside%2Bjob%2Bdesigns%26gs_lcp%3DCgNpbWcQAzoHCCMQ7wMQJzoECAAQGFDXCVj0HmC1IGgAcAB4AIABcIgBqwKSAQMyLjGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ%26sclient%3Dimg%26ei%3DdijsYffvD7OqytMPg-qb-A0%26bih%3D520%26biw%3D1360&sa=D&source=editors&ust=1759597865309842&usg=AOvVaw1E3fmDROfUoYZycDZAyK1l).
+Another series worth researching with a similar style is **Inside Job** (Netflix / Jam Filled Entertainment). It looks like a blend of Rick & Morty + Gravity Falls, designed by ​​Francesca Natale, created by Shion Takeuchi and Alex Hirsh. Look through samples [here](https://www.google.com/url?q=https://www.google.com/search?q%3Dinside%2Bjob%2Bdesigns%26tbm%3Disch%26ved%3D2ahUKEwj3gprj28X1AhUzlXIEHQP1Bt8Q2-cCegQIABAA%26oq%3Dinside%2Bjob%2Bdesigns%26gs_lcp%3DCgNpbWcQAzoHCCMQ7wMQJzoECAAQGFDXCVj0HmC1IGgAcAB4AIABcIgBqwKSAQMyLjGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ%26sclient%3Dimg%26ei%3DdijsYffvD7OqytMPg-qb-A0%26bih%3D520%26biw%3D1360&sa=D&source=editors&ust=1759597865309842&usg=AOvVaw1E3fmDROfUoYZycDZAyK1l).
 
 ![image](./images/unnamed_181.jpg)
 
-\(B\) Luke Pearson\'s Hilda
+\(B\) Luke Pearson\'s **Hilda**.
 
-Reference: [STYLE
-GUIDE](https://www.google.com/url?q=https://drive.google.com/file/d/1RmGWGWfsXERT7NWFmmPWIaOo4f20YFxZ/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865310102&usg=AOvVaw1BahjQDeYm-ybGH-huEw4A)
-& [ANIMATED
-EPISODES](https://www.google.com/url?q=https://archive.org/details/hilda-season-complete-episodes&sa=D&source=editors&ust=1759597865310178&usg=AOvVaw1ga5LXt_QU_16NK3fklkEU)
+Reference: [STYLE GUIDE](https://www.google.com/url?q=https://drive.google.com/file/d/1RmGWGWfsXERT7NWFmmPWIaOo4f20YFxZ/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865310102&usg=AOvVaw1BahjQDeYm-ybGH-huEw4A) & [ANIMATED EPISODES](https://www.google.com/url?q=https://archive.org/details/hilda-season-complete-episodes&sa=D&source=editors&ust=1759597865310178&usg=AOvVaw1ga5LXt_QU_16NK3fklkEU)
 
-Designs by Steve Lambe, Andrew Ferguson, and Victoria Evans (Mercury
-Filmworks / Netflix)
+Designs by Steve Lambe, Andrew Ferguson, and Victoria Evans (Mercury Filmworks / Netflix)
 
 ![image](./images/unnamed_1189.jpg)
 
-Choose one of these two properties, then research and practice the
-character design style of that series. Produce 1 new character that
-would fit in that universe.
+Choose one of these two properties, then research and practice the character design style of that series. Produce 1 new character that would fit in that universe.
 
-The fun part with these two shows is you can choose a human character or
-a creature to design.
+The fun part with these two shows is you can choose a human character or a creature to design.
 
-Create a model sheet with a 5pt turnaround(clean-up & color)
+Create a model sheet with a **5pt turnaround** (clean-up & color)
 
-Front \| 3/4 Front \| Side \| 3/4 Back \| Back
+**Front** | **3/4 Front** | **Side** | **3/4 Back** | **Back**
 
 1 Image file (JPG or PNG format)
 
 Dimensions: 3840x2160 pixels @ 300dpi
 
-SUPPORT MATERIAL
+> SUPPORT MATERIAL
 
-👉 Clean-up Tips: [Make Smoother Strokes For Your Final Line
-Art](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DNBE-RTFkXDk%26t%3D68s&sa=D&source=editors&ust=1759597865311174&usg=AOvVaw2PpgQXa6rJY_nkBD6fdRS7)
-
-👉 Tutorial: [Quick Color Flatting & Shading in
-Photoshop](https://www.google.com/url?q=https://drive.google.com/file/d/1PD74lf8ZbaCkn33llDG6mI_SYcH3-_vm/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865311342&usg=AOvVaw2d0PAKwzOMFcxvaPioYiKQ)
-
-👉 Book: [Sherm Cohen's Guide to Cartooning
-Basics](https://www.google.com/url?q=https://drive.google.com/file/d/1Wcg_UR05T6XUWfdx9_4xgWs7EqpYqh0p/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865311496&usg=AOvVaw2nCYseErTBGMHhSdoTJa8r)
-
-👉 Reference Guide: [How to Draw Cartoon
-Hands](https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dd-3v1HEmPOo%26ab_channel%3DProko&sa=D&source=editors&ust=1759597865311634&usg=AOvVaw2sb_GIa1gbyC5QVtSGbgmQ)
-
-👉 Analysis: [Hilda\'s Brilliant Use of
-Color](https://www.google.com/url?q=https://youtu.be/7LirbJEu81Q&sa=D&source=editors&ust=1759597865311758&usg=AOvVaw0qSyKtYBp7nqn1PSsQ7wkq)
-
-👉 Article:[Creating Your Own Color
-Palettes](https://www.google.com/url?q=https://www.smashingmagazine.com/2010/02/color-theory-for-designer-part-3-creating-your-own-color-palettes/&sa=D&source=editors&ust=1759597865311928&usg=AOvVaw3-l8tocVLBxYM-EDwJ33dO)
+- 👉 Clean-up Tips: [Make Smoother Strokes For Your Final Line Art](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DNBE-RTFkXDk%26t%3D68s&sa=D&source=editors&ust=1759597865311174&usg=AOvVaw2PpgQXa6rJY_nkBD6fdRS7)
+- 👉 Tutorial: [Quick Color Flatting & Shading in Photoshop](https://www.google.com/url?q=https://drive.google.com/file/d/1PD74lf8ZbaCkn33llDG6mI_SYcH3-_vm/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865311342&usg=AOvVaw2d0PAKwzOMFcxvaPioYiKQ)
+- 👉 Book: [Sherm Cohen's Guide to Cartooning Basics](https://www.google.com/url?q=https://drive.google.com/file/d/1Wcg_UR05T6XUWfdx9_4xgWs7EqpYqh0p/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865311496&usg=AOvVaw2nCYseErTBGMHhSdoTJa8r)
+- 👉 Reference Guide: [How to Draw Cartoon Hands](https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dd-3v1HEmPOo%26ab_channel%3DProko&sa=D&source=editors&ust=1759597865311634&usg=AOvVaw2sb_GIa1gbyC5QVtSGbgmQ)
+- 👉 Analysis: [Hilda\'s Brilliant Use of Color](https://www.google.com/url?q=https://youtu.be/7LirbJEu81Q&sa=D&source=editors&ust=1759597865311758&usg=AOvVaw0qSyKtYBp7nqn1PSsQ7wkq)
+- 👉 Article:[Creating Your Own Color Palettes](https://www.google.com/url?q=https://www.smashingmagazine.com/2010/02/color-theory-for-designer-part-3-creating-your-own-color-palettes/&sa=D&source=editors&ust=1759597865311928&usg=AOvVaw3-l8tocVLBxYM-EDwJ33dO)
 
 ![image](./images/unnamed_966.jpg)
 
-Rough out your design, experiment with many different shapes & forms,
-then build up and refine the anatomy and structure of your design:
+Rough out your design, experiment with many different shapes & forms, then build up and refine the anatomy and structure of your design:
 
 ![image](./images/unnamed_431.jpg)
 
-First, do exploration drawings to find the character you want to create,
-then explore poses and colors to see what looks best:
+First, do exploration drawings to find the character you want to create, then explore poses and colors to see what looks best:
 
 ![image](./images/unnamed_367.jpg)
-
 ![image](./images/unnamed_404.jpg)
-
 ![image](./images/unnamed_954.jpg)
-
 ![image](./images/unnamed_814.png)
-
 ![image](./images/unnamed_032.png)
-
 ![image](./images/unnamed_615.png)
 
 Explore various proportions:
 
 ![image](./images/unnamed_877.png)
-
 ![image](./images/unnamed_1261.png)
-
 ![image](./images/unnamed_1043.png)
 
-Sample of a completed assignment, here [Andrés Ramos created this as a
-self-portrait - in the style
-of](https://www.google.com/url?q=https://x.com/AndresRms00&sa=D&source=editors&ust=1759597865313252&usg=AOvVaw3FZRzgroE6I6YY0SgwZfiA)
-[Gravity
-Falls](https://www.google.com/url?q=https://x.com/AndresRms00&sa=D&source=editors&ust=1759597865313309&usg=AOvVaw1EdITN-WfvlgUU2PdjljkV)[:](https://www.google.com/url?q=https://x.com/AndresRms00&sa=D&source=editors&ust=1759597865313348&usg=AOvVaw2T7tOkkP7McFVT5_zPqyaP)
+Sample of a completed assignment, here [Andrés Ramos created this as a self-portrait - in the style of](https://www.google.com/url?q=https://x.com/AndresRms00&sa=D&source=editors&ust=1759597865313252&usg=AOvVaw3FZRzgroE6I6YY0SgwZfiA) [Gravity Falls](https://www.google.com/url?q=https://x.com/AndresRms00&sa=D&source=editors&ust=1759597865313309&usg=AOvVaw1EdITN-WfvlgUU2PdjljkV)[:](https://www.google.com/url?q=https://x.com/AndresRms00&sa=D&source=editors&ust=1759597865313348&usg=AOvVaw2T7tOkkP7McFVT5_zPqyaP)
 
 ![image](./images/unnamed_1056.png)
 
-Remember to draw light horizontal guide lines for helping to your
-rotations accurate:
+> Remember to draw light horizontal guide lines for helping to your rotations accurate:
 
 ![image](./images/unnamed_1312.jpg)
-
 ![image](./images/unnamed_198.png)
-
 ![image](./images/unnamed_478.png)
 
-In whichever style you choose, carefully study the features, shapes,
-forms, colors, patterns, where line details are placed, and where
-shadows lay.
+In whichever style you choose, carefully study the features, shapes, forms, colors, patterns, where line details are placed, and where shadows lay.
 
 ![image](./images/unnamed_516.jpg)
-
 ![image](./images/unnamed_335.png)
 ![image](./images/unnamed_1230.png)
 ![image](./images/unnamed_1577.png)
 ![image](./images/unnamed_1046.png)
 ![image](./images/unnamed_858.png)
-
 ![image](./images/unnamed_1105.jpg)
-
 ![image](./images/unnamed_936.jpg)
 
 Don't design ladders...
@@ -7961,22 +7632,17 @@ Advice from the Master, Bob Camp:
 
 ![image](./images/unnamed_113.jpg)
 
-You'll start to notice some familiar patterns while exploring more and
-more different design styles. See how many can share some similar traits
-and features:
+You'll start to notice some familiar patterns while exploring more and more different design styles. See how many can share some similar traits and features:
 
 ![image](./images/unnamed_1715.png)
 
 ### Contrasting Shapes
 
-One vastly important aspect of all design is Contrast - it improves your
-character art by providing the viewer with two (or more) things that
-play off one another, simply by being different.
+One vastly important aspect of all design is Contrast - it improves your character art by providing the viewer with two (or more) things that play off one another, simply by being different.
 
-Contrast = Interest
+_Contrast = Interest_.
 
-This applies to almost every aspect of art, but it's especially
-important when we dive into character design.
+This applies to almost every aspect of art, but it's especially important when we dive into character design.
 
 ![image](./images/unnamed_1108.jpg)
 
@@ -7984,30 +7650,17 @@ Draw-over notes and feedback from a director:
 
 ![image](./images/unnamed_803.png)
 
-Unique Shapes +Contrast in Individual Characters:
+Unique Shapes + Contrast in Individual Characters:
 
-Designing characters around base shapes for contrast and appeal is a
-time-tested tradition among animators and illustrators.
+Designing characters around base shapes for contrast and appeal is a time-tested tradition among animators and illustrators.
 
 ![Po_Kung_Fu_Panda](./images/unnamed_1228.jpg)
 
-Take a look at this image of Po, for a few great examples. First, his
-color scheme is classic contrast: Black and white. There is no greater
-contrast than these opposing forces. Look deeper into his design and
-you'll see a myriad of contrast from shape. As you can see, the design
-of the pose itself is a factor in the appeal and clarity of the
-character and its attitude.
+Take a look at this image of Po, for a few great examples. First, his color scheme is classic contrast: Black and white. There is no greater contrast than these opposing forces. Look deeper into his design and you'll see a myriad of contrast from shape. As you can see, the design of the pose itself is a factor in the appeal and clarity of the character and its attitude.
 
 ![po_shapes](./images/unnamed_1392.png)
 
-He is made up of many circles overall, all these elements work together
-to create a visually interesting character. If he was made entirely of
-one shape it would not be nearly as interesting. Yet at the same time,
-there is an overall form to adhere to rather than placing things
-sporadically or randomly. His overall pose is a triangle, which you'll
-see repeated in many of the promo images and poses Dreamworks puts the
-character in. Everything about his design speaks of heavy, friendly,
-solid.
+He is made up of many circles overall, all these elements work together to create a visually interesting character. If he was made entirely of one shape it would not be nearly as interesting. Yet at the same time, there is an overall form to adhere to rather than placing things sporadically or randomly. His overall pose is a triangle, which you'll see repeated in many of the promo images and poses Dreamworks puts the character in. Everything about his design speaks of **heavy**, **friendly**, **solid**.
 
 ![po_triangle](./images/unnamed_1349.png)
 
@@ -8017,46 +7670,28 @@ Samples of contrasting shapes:
 
 ![image](./images/unnamed_1123.png)
 ![image](./images/unnamed_671.png)
-
 ![image](./images/unnamed_202.png)
-
 ![image](./images/unnamed_1203.png)
-
 ![image](./images/unnamed_1472.png)
-
 ![image](./images/unnamed_1007.png)
-
 ![image](./images/unnamed_862.png)
-
 ![image](./images/unnamed_1107.png)
-
 ![image](./images/unnamed_1214.png)
-
 ![image](./images/unnamed_1417.jpg)
 
-Unique Shapes + Contrast in a Cast of Characters
+**Unique Shapes + Contrast in a Cast of Characters**.
 
-It doesn't stop there, though! Not only should characters have contrast
-in their individual designs, there should be contrast among the whole
-cast!
+It doesn't stop there, though! Not only should characters have contrast in their individual designs, there should be contrast among the whole cast!
 
 ![image](./images/unnamed_1606.png)
 
-These rough drawings from the Aladdin sheet are a perfect example. You
-see the characters each have a variety of base shapes showing how they
-contrast nicely against each other. Providing a lot of visual interest,
-appeal, individuality, and insight on each character's core
-personalities.
+These rough drawings from the Aladdin sheet are a perfect example. You see the characters each have a variety of base shapes showing how they contrast nicely against each other. Providing a lot of visual interest, appeal, individuality, and insight on each character's core personalities.
 
-In a cast of characters, you want to work with contrasting and
-complementary shapes:
+In a cast of characters, you want to work with contrasting and complementary shapes:
 
 ![image](./images/unnamed_006.png)
-
 ![image](./images/unnamed_1012.jpg)
-
 ![image](./images/unnamed_763.png)
-
 ![image](./images/unnamed_1340.jpg)
 
 by TB Choi
@@ -8065,69 +7700,41 @@ by TB Choi
 
 By Kenneth Anderson
 
-- See
-  [here](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DDGZ10JVMEMo&sa=D&source=editors&ust=1759597865318383&usg=AOvVaw18LgThs1bcPX8ibRk6Me0p)
-  for how you can use different shapes and forms in combination.
-- See
-  [here](https://www.google.com/url?q=https://youtu.be/olFtCkbC1Ac&sa=D&source=editors&ust=1759597865318547&usg=AOvVaw2FSNZhmFuMxJmfPd3jw0wu)
-  for how contrast can improve your character poses.
+- See [here](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DDGZ10JVMEMo&sa=D&source=editors&ust=1759597865318383&usg=AOvVaw18LgThs1bcPX8ibRk6Me0p) for how you can use different shapes and forms in combination.
+- See [here](https://www.google.com/url?q=https://youtu.be/olFtCkbC1Ac&sa=D&source=editors&ust=1759597865318547&usg=AOvVaw2FSNZhmFuMxJmfPd3jw0wu) for how contrast can improve your character poses.
 
 ## Assignment #6
 
-Using [STYLE GUIDE
-1](https://www.google.com/url?q=https://characterdesignreferences.com/art-of-animation-9/art-of-rick-and-morty&sa=D&source=editors&ust=1759597865318845&usg=AOvVaw3CRGjgVhar8gvVSekeG42y)
-/ [STYLE GUIDE
-2](https://www.google.com/url?q=https://drive.google.com/file/d/1vZ8j8AeUMH1hMP8x9HqwcndUf_K7Gnh5/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865318928&usg=AOvVaw12oKNqOCEPUJWJQSqJCGWC)
-/ [STYLE GUIDE
-3](https://www.google.com/url?q=https://www.google.com/search?q%3Drick%2Band%2Bmorty%2Bmodel%2Bsheet%26sxsrf%3DALiCzsb7sKBaaO7mc_LCpgjEy5VzpasAOA:1666928298745%26source%3Dlnms%26tbm%3Disch%26sa%3DX%26ved%3D2ahUKEwiPhPPo_4H7AhVzGFkFHV82BygQ_AUoAXoECAIQAw&sa=D&source=editors&ust=1759597865319042&usg=AOvVaw31mumZLgFSKuo-sPOGq33S)
-as reference, create a new character that would be easily integrated in
-the Rick and Morty universe.
+Using [STYLE GUIDE 1](https://www.google.com/url?q=https://characterdesignreferences.com/art-of-animation-9/art-of-rick-and-morty&sa=D&source=editors&ust=1759597865318845&usg=AOvVaw3CRGjgVhar8gvVSekeG42y) / [STYLE GUIDE 2](https://www.google.com/url?q=https://drive.google.com/file/d/1vZ8j8AeUMH1hMP8x9HqwcndUf_K7Gnh5/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865318928&usg=AOvVaw12oKNqOCEPUJWJQSqJCGWC) / [STYLE GUIDE 3](https://www.google.com/url?q=https://www.google.com/search?q%3Drick%2Band%2Bmorty%2Bmodel%2Bsheet%26sxsrf%3DALiCzsb7sKBaaO7mc_LCpgjEy5VzpasAOA:1666928298745%26source%3Dlnms%26tbm%3Disch%26sa%3DX%26ved%3D2ahUKEwiPhPPo_4H7AhVzGFkFHV82BygQ_AUoAXoECAIQAw&sa=D&source=editors&ust=1759597865319042&usg=AOvVaw31mumZLgFSKuo-sPOGq33S) as reference, create a new character that would be easily integrated in the **Rick and Morty** universe.
 
-Designs by Justin Roiland, Steven Chunn, James McDermott, Elisa
-Phillips, Stephanie Ramirez, Zach Bellissimo, and Kendra Melton (Adult
-Swim/WB)
+Designs by Justin Roiland, Steven Chunn, James McDermott, Elisa Phillips, Stephanie Ramirez, Zach Bellissimo, and Kendra Melton (Adult Swim/WB)
 
 The model pack must include 3 pages:
 
-1 model sheet; 4pt turnaround (clean-up and color)
+1 model sheet; **4pt turnaround** (clean-up and color)
 
-• Shading/shadow work is not necessary for this assignment, keep it flat
-colors
+• Shading / shadow work is not necessary for this assignment, keep it flat colors
 
-Front \| 3/4 Front \| Side \| 3/4 Back (in full color)
+**Front** | **3/4 Front** | **Side** | **3/4 Back** (in full color)
 
 1 pose sheet
 
 1 expression sheet
 
-The pose sheet must have 4 various poses \[Tie- down\] that show the
-characters range of mobility and body language. The expression sheet is
-a collection of headshots, displaying 6 different facial expressions
-\[Tie-down\].
+The pose sheet must have **4 various poses** \[Tie- down\] that show the characters range of mobility and body language. The expression sheet is a collection of headshots, displaying **6 different facial expressions** \[Tie-down\].
 
 TOTAL of 3 image files (JPG or PNG format)
 
 Dimensions: 3840x2160 pixels @ 300dpi
 
-• Support Material •
+> • Support Material •
 
-👉 Reference: [The Art of Rick & Morty Volume
-1](https://www.google.com/url?q=https://drive.google.com/file/d/1pTdUNn0tS5BUtHLHon766i1_6O_DXr4e/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865320401&usg=AOvVaw3wuEBYKvj4OBAAFuTUfciy)
-
-👉 More Reference: [The Art of Rick & Morty Volume
-2](https://www.google.com/url?q=https://drive.google.com/file/d/1ggVSLhkF2CSu8bid7hfiwqMoY1Ny6UNB/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865320553&usg=AOvVaw0Hoz1iU9nmujdURoU9mqbZ)
-
-👉 Character Expressions: [Research Various
-Methods](https://www.google.com/url?q=https://www.pinterest.ca/pin/417145984241773632/&sa=D&source=editors&ust=1759597865320691&usg=AOvVaw0KX42UqDvhPsoM4SITYLXA)
-
-👉 Painting Characters: [Color
-Techniques](https://www.google.com/url?q=https://youtu.be/xwyvH7pYyT8&sa=D&source=editors&ust=1759597865320808&usg=AOvVaw0J-RVoaeEtL7T8GtneOz_h)
-
-👉 Painting Characters: [In
-Photoshop](https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dq0C94TaYyn4%26list%3DPL3GWcdJcRKNW-2BwkOvJ0xI3de6Wd7vif%26index%3D3%26ab_channel%3DAnimatewithDermot&sa=D&source=editors&ust=1759597865320956&usg=AOvVaw1y2ojS9LhLjwZdLksth89s)
-
-👉 Painting Characters: [The Industry
-Way!](https://www.google.com/url?q=https://youtu.be/4atFicBvhMM?t%3D217&sa=D&source=editors&ust=1759597865321088&usg=AOvVaw1tmbVsAFVeUaXq57E7o58h)
+- 👉 Reference: [The Art of Rick & Morty Volume 1](https://www.google.com/url?q=https://drive.google.com/file/d/1pTdUNn0tS5BUtHLHon766i1_6O_DXr4e/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865320401&usg=AOvVaw3wuEBYKvj4OBAAFuTUfciy)
+- 👉 More Reference: [The Art of Rick & Morty Volume 2](https://www.google.com/url?q=https://drive.google.com/file/d/1ggVSLhkF2CSu8bid7hfiwqMoY1Ny6UNB/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865320553&usg=AOvVaw0Hoz1iU9nmujdURoU9mqbZ)
+- 👉 Character Expressions: [Research Various Methods](https://www.google.com/url?q=https://www.pinterest.ca/pin/417145984241773632/&sa=D&source=editors&ust=1759597865320691&usg=AOvVaw0KX42UqDvhPsoM4SITYLXA)
+- 👉 Painting Characters: [Color Techniques](https://www.google.com/url?q=https://youtu.be/xwyvH7pYyT8&sa=D&source=editors&ust=1759597865320808&usg=AOvVaw0J-RVoaeEtL7T8GtneOz_h)
+- 👉 Painting Characters: [In Photoshop](https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dq0C94TaYyn4%26list%3DPL3GWcdJcRKNW-2BwkOvJ0xI3de6Wd7vif%26index%3D3%26ab_channel%3DAnimatewithDermot&sa=D&source=editors&ust=1759597865320956&usg=AOvVaw1y2ojS9LhLjwZdLksth89s)
+- 👉 Painting Characters: [The Industry Way!](https://www.google.com/url?q=https://youtu.be/4atFicBvhMM?t%3D217&sa=D&source=editors&ust=1759597865321088&usg=AOvVaw1tmbVsAFVeUaXq57E7o58h)
 
 Samples for expressions and poses:
 
@@ -8136,48 +7743,25 @@ Samples for expressions and poses:
 👉 [More Guides on Expressions and Poses](#expression-sheets)
 
 ![image](./images/unnamed_924.png)
-
 ![image](./images/unnamed_975.png)
-
 ![image](./images/unnamed_1288.png)
 
-Another series worth researching with the same design style is [Solar
-Opposites](https://www.google.com/url?q=https://www.google.com/search?q%3DSolar%2BOpposites%2Bdesigns%26sxsrf%3DALiCzsYdhiPgkvGi5NoPSsWV8zyIMFF9eg:1661706362435%26source%3Dlnms%26tbm%3Disch%26sa%3DX%26ved%3D2ahUKEwiAtdDLgur5AhWRF1kFHT3KDBkQ_AUoAXoECAEQAw%26biw%3D1298%26bih%3D736%26dpr%3D2&sa=D&source=editors&ust=1759597865321683&usg=AOvVaw2NgFG9bPepRVYc6WmgjiUi),
-created by Mike McMahan and Justin Roiland, designed by Lindsay Smith,
-Ali Gunthrie, Pasquale Ricotta, David Crosland, Alex Horan, and Lotan
-Kritchman.
+Another series worth researching with the same design style is [Solar Opposites](https://www.google.com/url?q=https://www.google.com/search?q%3DSolar%2BOpposites%2Bdesigns%26sxsrf%3DALiCzsYdhiPgkvGi5NoPSsWV8zyIMFF9eg:1661706362435%26source%3Dlnms%26tbm%3Disch%26sa%3DX%26ved%3D2ahUKEwiAtdDLgur5AhWRF1kFHT3KDBkQ_AUoAXoECAEQAw%26biw%3D1298%26bih%3D736%26dpr%3D2&sa=D&source=editors&ust=1759597865321683&usg=AOvVaw2NgFG9bPepRVYc6WmgjiUi), created by Mike McMahan and Justin Roiland, designed by Lindsay Smith, Ali Gunthrie, Pasquale Ricotta, David Crosland, Alex Horan, and Lotan Kritchman.
 
 ![image](./images/unnamed_412.jpg)
 
-The rigging of characters for a 2D animated series is the process of
-clean-up, building, and setting up the models to be ready for the
-animators to pose out and operate within their shots.
+The rigging of characters for a 2D animated series is the process of clean-up, building, and setting up the models to be ready for the animators to pose out and operate within their shots.
 
-👉 [See the Process for Clean-up/Color and Rigging of
-a](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DSFT1TZvpji8%26ab_channel%3DJuanIsmaelSegura&sa=D&source=editors&ust=1759597865322205&usg=AOvVaw3AvYa8lUhah40DOxm5rXoy)
-[Rick &
-Morty](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DSFT1TZvpji8%26ab_channel%3DJuanIsmaelSegura&sa=D&source=editors&ust=1759597865322269&usg=AOvVaw3P8FlBOPuGvMHi2Q-6upy_)
-[Character](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DSFT1TZvpji8%26ab_channel%3DJuanIsmaelSegura&sa=D&source=editors&ust=1759597865322329&usg=AOvVaw0JMavGmcwUXVNy8SPF65fb)
-
-👉 [See the Process for Clean-up/Color and Rigging of
-a](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DGKDepk8QOKs%26ab_channel%3DEthanAnims&sa=D&source=editors&ust=1759597865322471&usg=AOvVaw3Q9CnvKxCHpLriFcxeO7WY)
-[Hilda](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DGKDepk8QOKs%26ab_channel%3DEthanAnims&sa=D&source=editors&ust=1759597865322523&usg=AOvVaw1bIUBYLEVhZtLd07lHibs8)
-[Character](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DGKDepk8QOKs%26ab_channel%3DEthanAnims&sa=D&source=editors&ust=1759597865322580&usg=AOvVaw0S8A3dSgRC952F-Xs-Qxsq)
+- 👉 [See the Process for Clean-up/Color and Rigging of a](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DSFT1TZvpji8%26ab_channel%3DJuanIsmaelSegura&sa=D&source=editors&ust=1759597865322205&usg=AOvVaw3AvYa8lUhah40DOxm5rXoy) [Rick & Morty](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DSFT1TZvpji8%26ab_channel%3DJuanIsmaelSegura&sa=D&source=editors&ust=1759597865322269&usg=AOvVaw3P8FlBOPuGvMHi2Q-6upy_) [Character](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DSFT1TZvpji8%26ab_channel%3DJuanIsmaelSegura&sa=D&source=editors&ust=1759597865322329&usg=AOvVaw0JMavGmcwUXVNy8SPF65fb)
+- 👉 [See the Process for Clean-up/Color and Rigging of a](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DGKDepk8QOKs%26ab_channel%3DEthanAnims&sa=D&source=editors&ust=1759597865322471&usg=AOvVaw3Q9CnvKxCHpLriFcxeO7WY) [Hilda](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DGKDepk8QOKs%26ab_channel%3DEthanAnims&sa=D&source=editors&ust=1759597865322523&usg=AOvVaw1bIUBYLEVhZtLd07lHibs8) [Character](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DGKDepk8QOKs%26ab_channel%3DEthanAnims&sa=D&source=editors&ust=1759597865322580&usg=AOvVaw0S8A3dSgRC952F-Xs-Qxsq)
 
 ### Thoughts on Color
 
-Here's a few links to some video essays on how to think about color and
-how use color for various purposes, along with a few sites that are
-designed to help you create your own color combos:
+Here's a few links to some video essays on how to think about color and how use color for various purposes, along with a few sites that are designed to help you create your own color combos:
 
-👉 [How to Use Color
-Theory](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DW2LJAP-Srhk&sa=D&source=editors&ust=1759597865323007&usg=AOvVaw1GbiJPKYQdWUnc18Zaf7tx)
-
-👉 [Understanding
-Color](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DQj1FK8n7WgY&sa=D&source=editors&ust=1759597865323116&usg=AOvVaw3YjNdhusXurIJT7-Pomv_J)
-
-👉 [Color Choices in Character
-Design](https://www.google.com/url?q=https://youtu.be/kYWXoj-8_9E&sa=D&source=editors&ust=1759597865323223&usg=AOvVaw3bGCo1hOLQq5dRRpjWDQ8M)
+- 👉 [How to Use Color Theory](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DW2LJAP-Srhk&sa=D&source=editors&ust=1759597865323007&usg=AOvVaw1GbiJPKYQdWUnc18Zaf7tx)
+- 👉 [Understanding Color](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DQj1FK8n7WgY&sa=D&source=editors&ust=1759597865323116&usg=AOvVaw3YjNdhusXurIJT7-Pomv_J)
+- 👉 [Color Choices in Character Design](https://www.google.com/url?q=https://youtu.be/kYWXoj-8_9E&sa=D&source=editors&ust=1759597865323223&usg=AOvVaw3bGCo1hOLQq5dRRpjWDQ8M)
 
 ![image](./images/unnamed_049.gif)
 
@@ -8187,556 +7771,286 @@ By Julián Van Bores
 
 Choose from one of the following design styles:
 
-\(A\) Disney\'s Kim Possible
+\(A\) Disney\'s **Kim Possible**
 
-Reference: [STYLE
-GUIDE](https://www.google.com/url?q=https://drive.google.com/file/d/1oisRkqap_WxTKeuQXAce4u3itsO1FKK0/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865323761&usg=AOvVaw1JJ6RcIeGV_gjKxGIqWjJB)
+Reference: [STYLE GUIDE](https://www.google.com/url?q=https://drive.google.com/file/d/1oisRkqap_WxTKeuQXAce4u3itsO1FKK0/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865323761&usg=AOvVaw1JJ6RcIeGV_gjKxGIqWjJB)
 
 Designs by Stephen Silver
 
-\(B\) Mark Dindall\'s Cats Don\'t Dance
+\(B\) Mark Dindall\'s **Cats Don\'t Dance**
 
-Reference: [STYLE
-GUIDE](https://www.google.com/url?q=https://drive.google.com/file/d/1DLTFq4TL0PDeJqueTcXEcmk0dVtL1OEj/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865324034&usg=AOvVaw1BdXYEWgVTvPtYRK3Z3axz)
+Reference: [STYLE GUIDE](https://www.google.com/url?q=https://drive.google.com/file/d/1DLTFq4TL0PDeJqueTcXEcmk0dVtL1OEj/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865324034&usg=AOvVaw1BdXYEWgVTvPtYRK3Z3axz)
 
 Designs by Brian McEntree (Warner Bros)
 
-\(C\) Joaquim Dos Santos\'s Legend of Korra
+\(C\) Joaquim Dos Santos\'s **Legend of Korra**
 
-Reference: [STYLE GUIDE
-1](https://www.google.com/url?q=https://duckduckgo.com/?q%3Dthe%2Blegend%2Bof%2Bkorra%2Breference%2Bsheets%26atb%3Dv248-1%26iar%3Dimages%26iax%3Dimages%26ia%3Dimages&sa=D&source=editors&ust=1759597865324361&usg=AOvVaw1FVeV8s-JvCks0Ue1sxPI8)
-/ [STYLE GUIDE
-2](https://www.google.com/url?q=http://xoxocomics.com/comic/the-legend-of-korra-the-art-of-the-animated-series/issue-1/67215/all&sa=D&source=editors&ust=1759597865324451&usg=AOvVaw15pNRMtDz9knvMZKMBntfn)
-/ [STYLE GUIDE
-3](https://www.google.com/url?q=https://drive.google.com/file/d/1GV5KrS77iWACoTJTVgHbMMmUpJdXG6bs/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865324532&usg=AOvVaw1Ln3F-D73Dodcyvlt_eLIn)
-/ [STYLE GUIDE
-4](https://www.google.com/url?q=https://www.pinterest.ca/pin/430797520582012940/?lp%3Dtrue&sa=D&source=editors&ust=1759597865324605&usg=AOvVaw2sHYmvB7e5UcZaqV89Ye3r)
+Reference: [STYLE GUIDE 1](https://www.google.com/url?q=https://duckduckgo.com/?q%3Dthe%2Blegend%2Bof%2Bkorra%2Breference%2Bsheets%26atb%3Dv248-1%26iar%3Dimages%26iax%3Dimages%26ia%3Dimages&sa=D&source=editors&ust=1759597865324361&usg=AOvVaw1FVeV8s-JvCks0Ue1sxPI8) / [STYLE GUIDE 2](https://www.google.com/url?q=http://xoxocomics.com/comic/the-legend-of-korra-the-art-of-the-animated-series/issue-1/67215/all&sa=D&source=editors&ust=1759597865324451&usg=AOvVaw15pNRMtDz9knvMZKMBntfn) / [STYLE GUIDE 3](https://www.google.com/url?q=https://drive.google.com/file/d/1GV5KrS77iWACoTJTVgHbMMmUpJdXG6bs/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865324532&usg=AOvVaw1Ln3F-D73Dodcyvlt_eLIn) / [STYLE GUIDE 4](https://www.google.com/url?q=https://www.pinterest.ca/pin/430797520582012940/?lp%3Dtrue&sa=D&source=editors&ust=1759597865324605&usg=AOvVaw2sHYmvB7e5UcZaqV89Ye3r)
 
-Designs by Kim Il Kwang, Lauren Montgomery,Bryan Konietzko, [Ki Hyun
-Ryu](https://www.google.com/url?q=https://www.imdb.com/name/nm2700094/?ref_%3Dttfc_fc_cr67&sa=D&source=editors&ust=1759597865324768&usg=AOvVaw35UGKaChwZ2COB_Fg-L4gE),
-Christie Tseng and Jin-Sun Kim (Nickelodeon). Other series of similar
-style are Avatar: The Last Airbender, Voltron: Legendary Defender, and
-Young Justice. In addition, research designs by [Phil
-Bourassa](https://www.google.com/url?q=https://www.deviantart.com/search?q%3DPhil%2BBourassa&sa=D&source=editors&ust=1759597865325083&usg=AOvVaw2e4tVxT2jWdbWSYEIsVLZV),
-study the artbook for Avatar TLA
-[here](https://www.google.com/url?q=https://drive.google.com/file/d/1xhe8Frh89m4pOZZyWE3qJau41dJjKv6W/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865325188&usg=AOvVaw1islEX72eMeqtSsF2Il8Uq),
-and the Legend of Korra
-[here](https://www.google.com/url?q=https://drive.google.com/file/d/1BPzMs5bBbtTrfhQqDlxxbXI2Y8KjOrPU/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865325285&usg=AOvVaw3OP57DgWeirleQqbrJj5BF).
-Watch Ethan Becker's tips on drawing Avatar style
-[here](https://www.google.com/url?q=https://youtu.be/RXb-Y_kz2aU&sa=D&source=editors&ust=1759597865325382&usg=AOvVaw2WTqt_6KtT_w8aJuoe1fyM).
-Though Legend of Korra and Last Airbender are not considered actual
-Anime, Manga and Anime character designs can easily deserve their own
-massive section all on their own,
-[here](https://www.google.com/url?q=https://youtu.be/z0Hr2_uX73o&sa=D&source=editors&ust=1759597865325598&usg=AOvVaw1GLgoHHke2CgrZQ2g5ua0n)
-is a nice breakdown of some basics.
+Designs by Kim Il Kwang, Lauren Montgomery,Bryan Konietzko, [Ki Hyun Ryu](https://www.google.com/url?q=https://www.imdb.com/name/nm2700094/?ref_%3Dttfc_fc_cr67&sa=D&source=editors&ust=1759597865324768&usg=AOvVaw35UGKaChwZ2COB_Fg-L4gE), Christie Tseng and Jin-Sun Kim (Nickelodeon). Other series of similar style are **Avatar: The Last Airbender**, **Voltron: Legendary Defender**, and **Young Justice**. In addition, research designs by [Phil Bourassa](https://www.google.com/url?q=https://www.deviantart.com/search?q%3DPhil%2BBourassa&sa=D&source=editors&ust=1759597865325083&usg=AOvVaw2e4tVxT2jWdbWSYEIsVLZV), study the artbook for Avatar TLA [here](https://www.google.com/url?q=https://drive.google.com/file/d/1xhe8Frh89m4pOZZyWE3qJau41dJjKv6W/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865325188&usg=AOvVaw1islEX72eMeqtSsF2Il8Uq), and the Legend of Korra [here](https://www.google.com/url?q=https://drive.google.com/file/d/1BPzMs5bBbtTrfhQqDlxxbXI2Y8KjOrPU/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865325285&usg=AOvVaw3OP57DgWeirleQqbrJj5BF). Watch Ethan Becker's tips on drawing Avatar style [here](https://www.google.com/url?q=https://youtu.be/RXb-Y_kz2aU&sa=D&source=editors&ust=1759597865325382&usg=AOvVaw2WTqt_6KtT_w8aJuoe1fyM). Though Legend of Korra and Last Airbender are not considered actual Anime, Manga and Anime character designs can easily deserve their own massive section all on their own, [here](https://www.google.com/url?q=https://youtu.be/z0Hr2_uX73o&sa=D&source=editors&ust=1759597865325598&usg=AOvVaw1GLgoHHke2CgrZQ2g5ua0n) is a nice breakdown of some basics.
 
-Choose one of these then research and practice the character design
-style of that property. Produce a cast of four new characters that would
-fit in that universe. Think about various shapes and sizes, genders and
-personalities.
+Choose one of these then research and practice the character design style of that property. Produce a cast of four new characters that would fit in that universe. Think about various shapes and sizes, genders and personalities.
 
-Create 4 Different Characters on one sheet, each one in a 3/4 Front view
-(Tiedown).
+Create **4 Different Characters** on one sheet, each one in a **3/4 Front** view (Tiedown).
 
 1 Image file (JPG or PNG format)
 
 Dimensions: 3840x2160 pixels @ 300dpi
 
-Support Material:
+> Support Material:
 
-- [Stephen Silver's Design
-  Process](https://www.google.com/url?q=https://youtu.be/BSHXSBIQu_U&sa=D&source=editors&ust=1759597865326295&usg=AOvVaw2zA9M7c2W_lN_AX-NAHkxT)
-- [Proportion and Structure in Drawing
-  Anatomy](https://www.google.com/url?q=https://www.youtube.com/@excaliblader/videos&sa=D&source=editors&ust=1759597865326433&usg=AOvVaw1f9QEImfeF-zskPb6WDqZr)
-- [Cloth, Folds, and Armor
-  Tutorial](https://www.google.com/url?q=https://youtu.be/S1eR1rcPlHc?list%3DRDCMUCI8GDFj5BQCQrSHITFebzkA&sa=D&source=editors&ust=1759597865326542&usg=AOvVaw36GVtrzxZDv04fnPpolA62)
-- [Drawing Head
-  Structure](https://www.google.com/url?q=https://www.youtube.com/shorts/AZMAzlHoK40?feature%3Dshare&sa=D&source=editors&ust=1759597865326646&usg=AOvVaw1yDdwLqBAPkAZmdAbB77QO)
+- [Stephen Silver's Design Process](https://www.google.com/url?q=https://youtu.be/BSHXSBIQu_U&sa=D&source=editors&ust=1759597865326295&usg=AOvVaw2zA9M7c2W_lN_AX-NAHkxT)
+- [Proportion and Structure in Drawing Anatomy](https://www.google.com/url?q=https://www.youtube.com/@excaliblader/videos&sa=D&source=editors&ust=1759597865326433&usg=AOvVaw1f9QEImfeF-zskPb6WDqZr)
+- [Cloth, Folds, and Armor Tutorial](https://www.google.com/url?q=https://youtu.be/S1eR1rcPlHc?list%3DRDCMUCI8GDFj5BQCQrSHITFebzkA&sa=D&source=editors&ust=1759597865326542&usg=AOvVaw36GVtrzxZDv04fnPpolA62)
+- [Drawing Head Structure](https://www.google.com/url?q=https://www.youtube.com/shorts/AZMAzlHoK40?feature%3Dshare&sa=D&source=editors&ust=1759597865326646&usg=AOvVaw1yDdwLqBAPkAZmdAbB77QO)
 
 ![image](./images/unnamed_1368.png)
-
 ![image](./images/unnamed_096.jpg)
-
 ![image](./images/unnamed_306.jpg)
 
 Tips and Guides:
 
-- [Adding contrast between your cast of
-  characters](https://www.google.com/url?q=https://youtu.be/OJ9OrvSXTiU&sa=D&source=editors&ust=1759597865327062&usg=AOvVaw3DTirPfkAqiA2K25w5Pv96)
-- [Rough out a cast of
-  characters](https://www.google.com/url?q=https://www.youtube.com/watch?v%3Drm0wi0afoKM%26t%3D1713s%26ab_channel%3DTimMcburnie-TheDrawingCodex&sa=D&source=editors&ust=1759597865327177&usg=AOvVaw3mNJKIg-P06LAfhN_Z0oCB)
-- How to make an appealing and cohesive cast of characters: [Part
-  1](https://www.google.com/url?q=https://youtu.be/k42cfUf1COc&sa=D&source=editors&ust=1759597865327307&usg=AOvVaw3HqhrCHULV3ipWc_WTEjS1)
-  / [Part
-  2](https://www.google.com/url?q=https://youtu.be/IyNt_Lzeqjs&sa=D&source=editors&ust=1759597865327359&usg=AOvVaw3zATA3-CrYQyyPq73jG1Yt)
-  / [Part
-  3](https://www.google.com/url?q=https://youtu.be/Ymm4MQYlIjY&sa=D&source=editors&ust=1759597865327411&usg=AOvVaw0mcIL16gnitiglR49_JP55)
+- [Adding contrast between your cast of characters](https://www.google.com/url?q=https://youtu.be/OJ9OrvSXTiU&sa=D&source=editors&ust=1759597865327062&usg=AOvVaw3DTirPfkAqiA2K25w5Pv96)
+- [Rough out a cast of characters](https://www.google.com/url?q=https://www.youtube.com/watch?v%3Drm0wi0afoKM%26t%3D1713s%26ab_channel%3DTimMcburnie-TheDrawingCodex&sa=D&source=editors&ust=1759597865327177&usg=AOvVaw3mNJKIg-P06LAfhN_Z0oCB)
+- How to make an appealing and cohesive cast of characters:
+  - [Part 1](https://www.google.com/url?q=https://youtu.be/k42cfUf1COc&sa=D&source=editors&ust=1759597865327307&usg=AOvVaw3HqhrCHULV3ipWc_WTEjS1)
+  - [Part 2](https://www.google.com/url?q=https://youtu.be/IyNt_Lzeqjs&sa=D&source=editors&ust=1759597865327359&usg=AOvVaw3zATA3-CrYQyyPq73jG1Yt)
+  - [Part 3](https://www.google.com/url?q=https://youtu.be/Ymm4MQYlIjY&sa=D&source=editors&ust=1759597865327411&usg=AOvVaw0mcIL16gnitiglR49_JP55)
 
 ![image](./images/unnamed_660.png)
 
-No matter what the show style may be, aim for variety.
-
-People come in all shapes and sizes, body type variations
-
-are more clear when you silhouette them.
+No matter what the show style may be, aim for variety. People come in all shapes and sizes, body type variations are more clear when you silhouette them.
 
 ![image](./images/unnamed_717.png)
-
 ![image](./images/unnamed_390.png)
-
 ![image](./images/unnamed_1260.png)
-
 ![image](./images/unnamed_691.png)
-
 ![image](./images/unnamed_1005.png)
-
 ![image](./images/unnamed_1617.png)
-
 ![image](./images/unnamed_1105.png)
-
 ![image](./images/unnamed_564.jpg)
-
 ![image](./images/unnamed_1530.png)
 
-Here's designs for incidental background characters from the series Mike
-Tyson Mysteries. This is just an example showing how various body types
-and costuming needs to be constructed to populate the world your cast of
-characters will reside in, notice how variations on similar body types,
-assortment of costumes, a diversity of head shapes, and subtle
-differences in proportions are used:
+Here's designs for incidental background characters from the series _Mike Tyson Mysteries_. This is just an example showing how various body types and costuming needs to be constructed to populate the world your cast of characters will reside in, notice how variations on similar body types, assortment of costumes, a diversity of head shapes, and subtle differences in proportions are used:
 
 ![image](./images/unnamed_475.jpg)
 
-When studying how to re-create any particular design style, discover and
-analyze the structure of the anatomy. For example, Kim Possible follows
-this design language:
+When studying how to re-create any particular design style, discover and analyze the structure of the anatomy. For example, Kim Possible follows this design language:
 
 ![image](./images/unnamed_1369.jpg)
 
-It's not only the pattern of shapes that make up the body parts, but the
-characters' graphic style as a whole. Practice with really loose and
-quick roughs, to figure out the forms, arrangement of
-[shapes](https://www.google.com/url?q=https://youtu.be/z6YI3F4pcMs?t%3D14&sa=D&source=editors&ust=1759597865329089&usg=AOvVaw3_brtFlVZllIcYz_ZUIrBV)
-and what techniques are needed to adapt your drawings to the intended
-design style.
+It's not only the pattern of shapes that make up the body parts, but the characters' graphic style as a whole. Practice with really loose and quick roughs, to figure out the forms, arrangement of [shapes](https://www.google.com/url?q=https://youtu.be/z6YI3F4pcMs?t%3D14&sa=D&source=editors&ust=1759597865329089&usg=AOvVaw3_brtFlVZllIcYz_ZUIrBV) and what techniques are needed to adapt your drawings to the intended design style.
 
 For Kim Possible style:
 
 ![image](./images/unnamed_851.jpg)
-
 ![image](./images/unnamed_1471.jpg)
-
 ![image](./images/unnamed_142.jpg)
 ![image](./images/unnamed_1342.jpg)
 
 Vary your shapes and proportions:
 
 ![image](./images/unnamed_864.jpg)
-
 ![image](./images/unnamed_593.jpg)
 
 Vary the size and shape, using Exclamation Points!
 
 ![image](./images/unnamed_034.png)
 
-The exclamation point method is a great construction tool to block in
-shapes effectively and easily, it can work well on detailed anatomy but
-most commonly seen in more graphically represented characters like
-these. The exclamation point represents the ribs and pelvis.
+The exclamation point method is a great construction tool to block in shapes effectively and easily, it can work well on detailed anatomy but most commonly seen in more graphically represented characters like these. The exclamation point represents the ribs and pelvis.
 
 ### Clothes and Costumes
 
 ![image](./images/unnamed_109.jpg)
 ![image](./images/unnamed_842.jpg)
-
 ![image](./images/unnamed_232.jpg)
-
 ![image](./images/unnamed_1224.jpg)
-
 ![image](./images/unnamed_1456.jpg)
 
-👉 [How To Draw and Design BETTER Clothing for
-Characters](https://www.google.com/url?q=https://youtu.be/HwiFuP71Hwk&sa=D&source=editors&ust=1759597865330386&usg=AOvVaw1vRvU1UUcfnaApS5nVpzbW)
-
-👉 [Tips on Drawings Folds in Fabric &
-Clothing](https://www.google.com/url?q=https://youtu.be/nU4fK1prJGc&sa=D&source=editors&ust=1759597865330510&usg=AOvVaw2LHTM-bK4Kk5YxHlNssirL)
+- 👉 [How To Draw and Design BETTER Clothing for Characters](https://www.google.com/url?q=https://youtu.be/HwiFuP71Hwk&sa=D&source=editors&ust=1759597865330386&usg=AOvVaw1vRvU1UUcfnaApS5nVpzbW)
+- 👉 [Tips on Drawings Folds in Fabric & Clothing](https://www.google.com/url?q=https://youtu.be/nU4fK1prJGc&sa=D&source=editors&ust=1759597865330510&usg=AOvVaw2LHTM-bK4Kk5YxHlNssirL)
 
 ## Assignment #8
 
 Choose from one of the following design styles:
 
-\(A\) Matt Groening\'s The Simpsons (or Futurama & Disenchantment)
+\(A\) Matt Groening\'s **The Simpsons** (or **Futurama** & **Disenchantment**)
 
-Reference: [STYLE
-GUIDE](https://www.google.com/url?q=https://drive.google.com/file/d/1rLY7lkgMOHtzWOYYwfkCWG7LT0SE_WpJ/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865331040&usg=AOvVaw1mzZ98u6RSck9ozLGpTfZG)
-&
-[ARTBOOK](https://www.google.com/url?q=https://drive.google.com/file/d/1Des4AB9cDF5nAGxjeKh_NBOJpK-_iYTz/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865331123&usg=AOvVaw3HxEkSN5l4ViUhzmIBNnOL)
+Reference: [STYLE GUIDE](https://www.google.com/url?q=https://drive.google.com/file/d/1rLY7lkgMOHtzWOYYwfkCWG7LT0SE_WpJ/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865331040&usg=AOvVaw1mzZ98u6RSck9ozLGpTfZG) & [ARTBOOK](https://www.google.com/url?q=https://drive.google.com/file/d/1Des4AB9cDF5nAGxjeKh_NBOJpK-_iYTz/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865331123&usg=AOvVaw3HxEkSN5l4ViUhzmIBNnOL)
 
-Designs by David Silverman, Kevin M. Newman, Dwayne Carey-Hill, Robert
-Stanely, Evan Jackson, Beverly Laxa, Alfredo Mercado, Tim Kummerow, and
-[many
-more](https://www.google.com/url?q=https://www.imdb.com/title/tt0096697/fullcredits/?ref_%3Dtt_cl_sm&sa=D&source=editors&ust=1759597865331354&usg=AOvVaw3dcfnKumiGVvlDKGjLf8Q_).
+Designs by David Silverman, Kevin M. Newman, Dwayne Carey-Hill, Robert Stanely, Evan Jackson, Beverly Laxa, Alfredo Mercado, Tim Kummerow, and [many more](https://www.google.com/url?q=https://www.imdb.com/title/tt0096697/fullcredits/?ref_%3Dtt_cl_sm&sa=D&source=editors&ust=1759597865331354&usg=AOvVaw3dcfnKumiGVvlDKGjLf8Q_).
 
-\(B\) Raphael Bob-Waksberg's BoJack Horseman
+\(B\) Raphael Bob-Waksberg's **BoJack Horseman**
 
-Reference: [STYLE
-GUIDE](https://www.google.com/url?q=https://drive.google.com/file/d/1ano3xx9WYS7cikpYRcF95y-37I78wiFc/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865331595&usg=AOvVaw2oru-uvmz3hTNGu3G4sNV7)
-&
-[ARTBOOK](https://www.google.com/url?q=https://drive.google.com/file/d/1zSWCO6a1z9n58NJtJyTgY84CnGNczUSG/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865331674&usg=AOvVaw3nCHTX3ihOc9UHVITtIi63)
-(also see [Tuca &
-Bertie](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DZybYIJtbcu0&sa=D&source=editors&ust=1759597865331748&usg=AOvVaw04nHrNcefilDf2Jg60FnPv))
+Reference: [STYLE GUIDE](https://www.google.com/url?q=https://drive.google.com/file/d/1ano3xx9WYS7cikpYRcF95y-37I78wiFc/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865331595&usg=AOvVaw2oru-uvmz3hTNGu3G4sNV7) & [ARTBOOK](https://www.google.com/url?q=https://drive.google.com/file/d/1zSWCO6a1z9n58NJtJyTgY84CnGNczUSG/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865331674&usg=AOvVaw3nCHTX3ihOc9UHVITtIi63) (also see [Tuca & Bertie](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DZybYIJtbcu0&sa=D&source=editors&ust=1759597865331748&usg=AOvVaw04nHrNcefilDf2Jg60FnPv))
 
-Designs by Lisa Hanawalt andDante Tumminello (Netflix / Shadowmachine
-Studios)
+Designs by Lisa Hanawalt andDante Tumminello (Netflix / Shadowmachine Studios)
 
-\(C\) Disney\'s Duck Tales
+\(C\) Disney\'s **Duck Tales**
 
-Reference: [STYLE
-GUIDE](https://www.google.com/url?q=https://drive.google.com/file/d/1G-ypAv3_wNOf_Z4S6q0YUiqLhJC8EZ9N/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865332150&usg=AOvVaw1y0qsXBSITBzEdJqXufTWG)
-&
-[ARTBOOK](https://www.google.com/url?q=https://drive.google.com/file/d/1qbC6uVtaEwhld8Rr2JXeubngE_CPRgOB/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865332232&usg=AOvVaw3g23_ezpAwsbUdFRdCAVZb)
+Reference: [STYLE GUIDE](https://www.google.com/url?q=https://drive.google.com/file/d/1G-ypAv3_wNOf_Z4S6q0YUiqLhJC8EZ9N/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865332150&usg=AOvVaw1y0qsXBSITBzEdJqXufTWG) & [ARTBOOK](https://www.google.com/url?q=https://drive.google.com/file/d/1qbC6uVtaEwhld8Rr2JXeubngE_CPRgOB/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865332232&usg=AOvVaw3g23_ezpAwsbUdFRdCAVZb)
 
 Designs by Sean Jimenez, Sarah Craig, Tapan Gandhi, and Timothy Moen
 
-Pick one and research the character design style of your chosen
-property.
+Pick one and research the character design style of your chosen property.
 
-Produce 1 new character that would fit in this universe. Create a model
-sheet with a 4pt turnaround;
+Produce **1 new character** that would fit in this universe. Create a model sheet with a **4pt turnaround**;
 
-Front \| 3/4 Front \| Side \| 3/4 Back (clean-up and full color).
+**Front** | **3/4 Front** | **Side** | **3/4 Back** (clean-up and full color).
 
-This design pack should include 2 other pages; 1 expression sheet with 4
-expression drawings(color), and 1 pose sheet with 2 action poses
-(color).
+This design pack should include 2 other pages; **1 expression sheet** with **4 expression drawings**(color), and **1 pose sheet** with **2 action poses** (color).
 
-👉 There's other samples of expressions and ideas for how to do them in
-an earlier chapter [here](#expression-sheets).
+👉 There's other samples of expressions and ideas for how to do them in an earlier chapter [here](#expression-sheets).
 
 TOTAL of 3 image files (JPG or PNG format)
 
 Dimensions: 3840x2160 pixels @ 300dpi
 
-• Support Material •
+> • Support Material •
 
-👉 Rotating Basic Forms: [Tips on Drawing Items for
-Turnarounds](https://www.google.com/url?q=https://youtu.be/XEqAwKUGwhM?t%3D15&sa=D&source=editors&ust=1759597865333581&usg=AOvVaw0UBgCIPkSlWB-huhOGLJts)
-
-👉 Advice from Aaron Diaz: [Costume
-Design](https://www.google.com/url?q=https://docs.google.com/document/d/1OAff4D-kBbikE9COsJMM93VzuNThORmME6rDbmNrN_Y/edit?usp%3Dsharing&sa=D&source=editors&ust=1759597865333738&usg=AOvVaw0PscJqynLx9CxshIvYto_9)
-
-👉 Industry Advice: [Color Stylists in
-Animation](https://www.google.com/url?q=https://youtu.be/4atFicBvhMM?t%3D216&sa=D&source=editors&ust=1759597865333871&usg=AOvVaw0fmY7da92MdHmMUIcT6m5D)
-
-👉 Off-Model Characters: [Drawing Big Expressions for Simple
-Designs](https://www.google.com/url?q=https://youtu.be/a-39bZ-Dtgc&sa=D&source=editors&ust=1759597865334020&usg=AOvVaw3PM1Tqw3SSdbO7cH74B8fw)
-
-👉 Dina Norlund Advice: [Designing with Shapes and
-Color](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DB9hgSJ8slAc&sa=D&source=editors&ust=1759597865334194&usg=AOvVaw2uEW8_6Mv7IFEGUwZzXdhF)
-
-👉 [Color Designer
-1](https://www.google.com/url?q=http://paletton.com/%23uid%253d3000u0kllllaFw0g0qFqFg0w0aF&sa=D&source=editors&ust=1759597865334295&usg=AOvVaw3Rg6VtKVpmiPxsdPxL7fVK)
-👉 [Color Designer
-2](https://www.google.com/url?q=http://kuler.adobe.com/&sa=D&source=editors&ust=1759597865334362&usg=AOvVaw1yaNZVQLlwEi4s9dCWiQDf)
-👉 [Color Designer
-3](https://www.google.com/url?q=https://coolors.co/eeebd0-ebb3a9-e87ea1-e86252-ee2677&sa=D&source=editors&ust=1759597865334436&usg=AOvVaw0t3y9RtqSW5AjeMAYcFniU)
+- 👉 Rotating Basic Forms: [Tips on Drawing Items for Turnarounds](https://www.google.com/url?q=https://youtu.be/XEqAwKUGwhM?t%3D15&sa=D&source=editors&ust=1759597865333581&usg=AOvVaw0UBgCIPkSlWB-huhOGLJts)
+- 👉 Advice from Aaron Diaz: [Costume Design](https://www.google.com/url?q=https://docs.google.com/document/d/1OAff4D-kBbikE9COsJMM93VzuNThORmME6rDbmNrN_Y/edit?usp%3Dsharing&sa=D&source=editors&ust=1759597865333738&usg=AOvVaw0PscJqynLx9CxshIvYto_9)
+- 👉 Industry Advice: [Color Stylists in Animation](https://www.google.com/url?q=https://youtu.be/4atFicBvhMM?t%3D216&sa=D&source=editors&ust=1759597865333871&usg=AOvVaw0fmY7da92MdHmMUIcT6m5D)
+- 👉 Off-Model Characters: [Drawing Big Expressions for Simple Designs](https://www.google.com/url?q=https://youtu.be/a-39bZ-Dtgc&sa=D&source=editors&ust=1759597865334020&usg=AOvVaw3PM1Tqw3SSdbO7cH74B8fw)
+- 👉 Dina Norlund Advice: [Designing with Shapes and Color](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DB9hgSJ8slAc&sa=D&source=editors&ust=1759597865334194&usg=AOvVaw2uEW8_6Mv7IFEGUwZzXdhF)
+- 👉 [Color Designer 1](https://www.google.com/url?q=http://paletton.com/%23uid%253d3000u0kllllaFw0g0qFqFg0w0aF&sa=D&source=editors&ust=1759597865334295&usg=AOvVaw3Rg6VtKVpmiPxsdPxL7fVK)
+- 👉 [Color Designer 2](https://www.google.com/url?q=http://kuler.adobe.com/&sa=D&source=editors&ust=1759597865334362&usg=AOvVaw1yaNZVQLlwEi4s9dCWiQDf)
+- 👉 [Color Designer 3](https://www.google.com/url?q=https://coolors.co/eeebd0-ebb3a9-e87ea1-e86252-ee2677&sa=D&source=editors&ust=1759597865334436&usg=AOvVaw0t3y9RtqSW5AjeMAYcFniU)
 
 ![image](./images/unnamed_561.jpg)
 
-How to Draw yourself as a Simpson's character
-[here](https://www.google.com/url?q=https://youtu.be/8q3jXZMiUI8?t%3D21&sa=D&source=editors&ust=1759597865334680&usg=AOvVaw1NdKLZ5t0m1qEzxQpLE82f).
+How to Draw yourself as a Simpson's character [here](https://www.google.com/url?q=https://youtu.be/8q3jXZMiUI8?t%3D21&sa=D&source=editors&ust=1759597865334680&usg=AOvVaw1NdKLZ5t0m1qEzxQpLE82f).
 
 ![image](./images/unnamed_533.png)
-
 ![image](./images/unnamed_569.png)
-
 ![image](./images/unnamed_995.png)
-
 ![image](./images/unnamed_198.jpg)
-
 ![image](./images/unnamed_853.png)
-
 ![image](./images/unnamed_212.png)
-
 ![image](./images/unnamed_1649.png)
-
 ![image](./images/unnamed_054.png)
-
 ![image](./images/unnamed_435.png)
-
 ![image](./images/unnamed_667.png)
-
 ![image](./images/unnamed_1211.png)
 
-Finished sample of the 'Simpsons style' with poses and expression
-sheets:
+Finished sample of the 'Simpsons style' with poses and expression sheets:
 
 ![image](./images/unnamed_159.jpg)
 ![image](./images/unnamed_733.jpg)
 ![image](./images/unnamed_990.jpg)
 
-Although the Simpsons characters and their appearances have become a
-familiar part of our everyday lives now, it's not hard to imagine that
-it must have taken people quite a bit of time to get used to, when these
-characters first came on-air with their bright yellow skin tone. The
-Simpsons creator Matt Groening has spoken about what it felt like to
-finally arrive at a decision, as he was choosing his characters' skin
-color.
+Although the Simpsons characters and their appearances have become a familiar part of our everyday lives now, it's not hard to imagine that it must have taken people quite a bit of time to get used to, when these characters first came on-air with their bright yellow skin tone. The Simpsons creator Matt Groening has spoken about what it felt like to finally arrive at a decision, as he was choosing his characters' skin color.
 
-Apparently, Groening's main motivation was simple: He wanted to make the
-Springfield residents look memorable and interesting. With all of the
-other animated series on the air, Groening felt it was important to make
-sure that Homer, as well as his family and neighbors, stood out from the
-crowd. Although he considered other colors, yellow was the one that
-shone through in the end.
+Apparently, Groening's main motivation was simple: He wanted to make the Springfield residents look memorable and interesting. With all of the other animated series on the air, Groening felt it was important to make sure that Homer, as well as his family and neighbors, stood out from the crowd. Although he considered other colors, yellow was the one that shone through in the end.
 
-"This is the answer! When you're flicking through channels, and a flash
-of yellow goes by, you'll know you're watching The Simpsons," Groening
-once stated.
+"This is the answer! When you're flicking through channels, and a flash of yellow goes by, you'll know you're watching The Simpsons," Groening once stated.
 
 ### Character Dimension
 
-Advice from [Sam
-Nielson](https://www.google.com/url?q=https://www.samnielson.com/&sa=D&source=editors&ust=1759597865336676&usg=AOvVaw3b9lLBsCJ7d_zemykfc4Im):
+Advice from [Sam Nielson](https://www.google.com/url?q=https://www.samnielson.com/&sa=D&source=editors&ust=1759597865336676&usg=AOvVaw3b9lLBsCJ7d_zemykfc4Im):
 
-Character dimension is a concept I've found very useful when striving
-for more appealing character designs. I'm not talking about the literal
-dimension of forms, but how to give the characters the appropriate
-amount of personality and interest relative to their screen time in the
-story. There are a lot of theories on this, so I'm picking the pieces
-from those theories that best apply to character design.
+Character dimension is a concept I've found very useful when striving for more appealing character designs. I'm not talking about the literal dimension of forms, but how to give the characters the appropriate amount of personality and interest relative to their screen time in the story. There are a lot of theories on this, so I'm picking the pieces from those theories that best apply to character design.
 
-This idea of character dimension is best explained with contrast. There
-are four different levels of dimension as it relates to visual design,
-with the highest level being a three-dimensional character.
+This idea of character dimension is best explained with contrast. There are four different levels of dimension as it relates to visual design, with the highest level being a three-dimensional character.
 
 ![Characterdimension_BitDiagram.jpg](./images/unnamed_656.jpg)
 
-The first level of depth is a "bit" character. Think of a bit as a
-single point in space, with no dimension. A bit character displays only
-one character attribute---usually meant to fulfill a single purpose as
-that character stands in the spotlight onscreen for a very brief time.
-Here's an example of a bit part: the hopelessly nerdy character.
+The first level of depth is a "bit" character. Think of a bit as a single point in space, with no dimension. A bit character displays only one character attribute---usually meant to fulfill a single purpose as that character stands in the spotlight onscreen for a very brief time. Here's an example of a bit part: the hopelessly nerdy character.
 
 ![SamNielson_Characterdimension_Bit.jpg](./images/unnamed_065.jpg)
 
-To keep this character aligned with that bit part, I tried to make
-everything on him give a "sad sack" feeling---droopy, soft, and
-ineffective. This character is understood in his entirety almost
-immediately, which makes him useful for brief moments with no
-introduction. A character like this can still act against type in that
-instant, but that action must be understood quickly in context of that
-simple and clear character bit, or the contrasting attributes will only
-create confusion. The weakness of a bit character is that after this
-character serves his momentary purpose, he will become insufficiently
-interesting\* for extra time in the spotlight.
+To keep this character aligned with that bit part, I tried to make everything on him give a "sad sack" feeling---droopy, soft, and ineffective. This character is understood in his entirety almost immediately, which makes him useful for brief moments with no introduction. A character like this can still act against type in that instant, but that action must be understood quickly in context of that simple and clear character bit, or the contrasting attributes will only create confusion. The weakness of a bit character is that after this character serves his momentary purpose, he will become insufficiently interesting\* for extra time in the spotlight.
 
-(\*As a side note, I should mention that any character design can be
-enriched through great writing and animation. Appealing and appropriate
-characters can make great writing and animation better, but even the
-best character design will struggle without the other two.)
+(\*As a side note, I should mention that any character design can be enriched through great writing and animation. Appealing and appropriate characters can make great writing and animation better, but even the best character design will struggle without the other two.)
 
 ![Characterdimension_1Diagram.jpg](./images/unnamed_344.jpg)
 
-Imagine taking that single point in space, that surface character
-attribute, and stretching it into a line. Now you have two poles
-possible with contrasting components, or a one-dimensional character.
-The contrasting attributes here are different from a bit character
-acting against type, because this character may be seen at varying
-points along that line throughout the film (while a bit character acting
-against type will always act the same). My example of a one-dimensional
-character adds aggressive confidence to a hopelessly nerdy character.
+Imagine taking that single point in space, that surface character attribute, and stretching it into a line. Now you have two poles possible with contrasting components, or a one-dimensional character. The contrasting attributes here are different from a bit character acting against type, because this character may be seen at varying points along that line throughout the film (while a bit character acting against type will always act the same). My example of a one-dimensional character adds aggressive confidence to a hopelessly nerdy character.
 
 ![SamNielson_Characterdimension_1.jpg](./images/unnamed_524.jpg)
 
-I communicated the two poles of this character's single dimension by
-contrasting gesture, expression, and shape language against his easily
-understood role or type. You can also do this with contrasting costume
-decisions, color scheme, and other elements. Usually, the
-one-dimensional character is defined by "what," meaning both poles are
-expressions of how that character fills his role in the world.
-One-dimensional characters remain interesting for longer, and they can
-even have simple character arcs, but they lack any real depth.
+I communicated the two poles of this character's single dimension by contrasting gesture, expression, and shape language against his easily understood role or type. You can also do this with contrasting costume decisions, color scheme, and other elements. Usually, the one-dimensional character is defined by "what," meaning both poles are expressions of how that character fills his role in the world. One-dimensional characters remain interesting for longer, and they can even have simple character arcs, but they lack any real depth.
 
 ![Characterdimension_2Diagram.jpg](./images/unnamed_480.jpg)
 
-Adding one more dimension to a character creates depth and a lot more
-interest. This second dimension is usually defined by "why?", or the
-character's history and motivations. Expanding on the example character,
-who now has one dimension that goes between hopelessly nerdy all the way
-to confident villain, but also adds a second dimension that shows a
-little bit of the inner demons driving him; a life of bullying and
-misfortune.
+Adding one more dimension to a character creates depth and a lot more interest. This second dimension is usually defined by "why?", or the character's history and motivations. Expanding on the example character, who now has one dimension that goes between hopelessly nerdy all the way to confident villain, but also adds a second dimension that shows a little bit of the inner demons driving him; a life of bullying and misfortune.
 
 ![Characterdimension_2.jpg](./images/unnamed_839.jpg)
 
-In this case I imagined the opposing poles of his second dimension are
-his need to be someone---to have power over his life, contrasted with
-his complete helplessness in the context of the strength and
-socially-driven world he has always lived in. I used recent
-fight-related injuries and the expression to suggest the character's
-history and the hardening of his motivations. Typically, the visual
-language for history and motivation is going to be a second read,
-meaning that the first dimension is the first stuff the audience sees,
-but is then modified with a closer look at the character. A character
-with this much complexity needs enough screen time to show all
-combinations of the four extremes of these two dimensions; otherwise he
-collapses down to a one-dimensional character in the story, in which
-case the audience will feel dissatisfaction and an intuitive need to
-know more about him than his screen time allows, because of the amount
-of conflict the character suggests. That said, even if I'm designing a
-one-dimensional character, I will often explore the second dimension
-story-wise because understanding the backstory and inner demons can
-suggest interesting expressions of that single dimension that I wouldn't
-have thought of otherwise.
+In this case I imagined the opposing poles of his second dimension are his need to be someone---to have power over his life, contrasted with his complete helplessness in the context of the strength and socially-driven world he has always lived in. I used recent fight-related injuries and the expression to suggest the character's history and the hardening of his motivations. Typically, the visual language for history and motivation is going to be a second read, meaning that the first dimension is the first stuff the audience sees, but is then modified with a closer look at the character. A character with this much complexity needs enough screen time to show all combinations of the four extremes of these two dimensions; otherwise he collapses down to a one-dimensional character in the story, in which case the audience will feel dissatisfaction and an intuitive need to know more about him than his screen time allows, because of the amount of conflict the character suggests. That said, even if I'm designing a one-dimensional character, I will often explore the second dimension story-wise because understanding the backstory and inner demons can suggest interesting expressions of that single dimension that I wouldn't have thought of otherwise.
 
 ![Characterdimension_3Diagram.jpg](./images/unnamed_487.jpg)
 
-The third dimension is the "who" of the character; and it is the hardest
-one to quantify in the visual parts of the character design. This
-dimension demands a lot of screen time, as the character now needs to go
-through the hero's journey. A protagonist, the love interest, a
-sidekick, or even the main villain can be three-dimensional, so long as
-there's enough time to unravel all three dimensions.
+The third dimension is the "who" of the character; and it is the hardest one to quantify in the visual parts of the character design. This dimension demands a lot of screen time, as the character now needs to go through the hero's journey. A protagonist, the love interest, a sidekick, or even the main villain can be three-dimensional, so long as there's enough time to unravel all three dimensions.
 
 ![SamNielson_Characterdimension_3.jpg](./images/unnamed_1192.jpg)
 
-This character starts the story being defined by WHAT he is (the
-hopelessly nerdy kid bordering on supervillainy), then the story would
-explore WHY he has become that way (inner demons of social and physical
-abuse by peers he wants to impress), but to gain the third dimension,
-then the story must test the limits of that character beyond the surface
-attributes and internal desires or motivations. In other words, you
-can't know WHO this character is until you have seen the things that
-outwardly define him stripped away, and see the choices he makes when
-facing the resulting desolation of his failure. In visual design terms,
-you cannot show this journey all at once! But you can show the potential
-for that character to change. More nuance in shape language, a little
-baby face bias, more thoughtful, vulnerable eyes, and even a less "set"
-demeanor can help cue the audience that this character is not yet done
-with his journey. Unlike previous dimensions, you can sometimes apply
-three-dimensional design to a character in a two-dimensional role
-without frustrating the audience; so long as the suggestion of
-potential-for-change doesn't compete with the role the character plays
-in the story.
+This character starts the story being defined by WHAT he is (the hopelessly nerdy kid bordering on supervillainy), then the story would explore WHY he has become that way (inner demons of social and physical abuse by peers he wants to impress), but to gain the third dimension, then the story must test the limits of that character beyond the surface attributes and internal desires or motivations. In other words, you can't know WHO this character is until you have seen the things that outwardly define him stripped away, and see the choices he makes when facing the resulting desolation of his failure. In visual design terms, you cannot show this journey all at once! But you can show the potential for that character to change. More nuance in shape language, a little baby face bias, more thoughtful, vulnerable eyes, and even a less "set" demeanor can help cue the audience that this character is not yet done with his journey. Unlike previous dimensions, you can sometimes apply three-dimensional design to a character in a two-dimensional role without frustrating the audience; so long as the suggestion of potential-for-change doesn't compete with the role the character plays in the story.
 
-Is it possible to have a character with more dimensions than this? Yes;
-even four and five-dimensional characters can work in a story, but
-fitting that extra information into a design is very difficult! My
-experience is that the first and second dimensions can be layered into a
-character after the initial design, so your design process doesn't need
-to include all this information from the start, so long as you can get
-your art director to be patient with the exploration of those
-dimensions. Character dimension is less about which is good, better, or
-best; and more about designing characters that are appropriate for their
-roles in the story. I hope this proves to be a helpful tool to other
-aspiring character designers out there!
+Is it possible to have a character with more dimensions than this? Yes; even four and five-dimensional characters can work in a story, but fitting that extra information into a design is very difficult! My experience is that the first and second dimensions can be layered into a character after the initial design, so your design process doesn't need to include all this information from the start, so long as you can get your art director to be patient with the exploration of those dimensions. Character dimension is less about which is good, better, or best; and more about designing characters that are appropriate for their roles in the story. I hope this proves to be a helpful tool to other aspiring character designers out there!
 
 ![image](./images/unnamed_549.png)
 
 ## Assignment #9
 
-Choose from one of the following design styles:
+Choose from **one** of the following design styles:
 
-\(A\) AppleTV\'s Central Park (created by Josh Gad, Loren Bouchard &
-Nora Smith)
+\(A\) AppleTV\'s **Central Park** (created by Josh Gad, Loren Bouchard & Nora Smith)
 
-Reference: [MODEL
-PACK](https://www.google.com/url?q=https://drive.google.com/file/d/1FmP4avnLPYRe9gnsFt8aOiJk6_bva0yg/view?usp%3Dshare_link&sa=D&source=editors&ust=1759597865344149&usg=AOvVaw1aIUf1v9_YDO679DZLmY_a)
-& [STYLE
-GUIDE](https://www.google.com/url?q=https://drive.google.com/file/d/1BgcTRdfpLiDHiYP30D2FMkXbTr3Qbi65/view?usp%3Dshare_link&sa=D&source=editors&ust=1759597865344252&usg=AOvVaw2BYjxGZBs1Ywd6-QlQITlX)
-(also see Bob's Burgers
-[here](https://www.google.com/url?q=https://www.google.com/search?q%3DBob%2527s%2BBurgers%2Bmodel%2Bsheet%26sxsrf%3DAJOqlzUT-ArBC6k7Vr5Xg0CdsWTk0kPm6Q:1677432384760%26source%3Dlnms%26tbm%3Disch%26sa%3DX%26ved%3D2ahUKEwjdlrbL2rP9AhUkEFkFHeVECvsQ0pQJegQIBRAC%26biw%3D1401%26bih%3D737%26dpr%3D2&sa=D&source=editors&ust=1759597865344385&usg=AOvVaw0osKAfgAnuPugS3B0LCadu)
-&
-[here](https://www.google.com/url?q=https://www.behance.net/gallery/10005957/Bobs-Burgers-Design&sa=D&source=editors&ust=1759597865344458&usg=AOvVaw05PlWAjF7ftfhjbwEoxHhf)
-and The Great North
-[here](https://www.google.com/url?q=https://www.google.com/search?sca_esv%3D0e6145799fa1b528%26rlz%3D1C5CHFA_enCA1088CA1088%26sxsrf%3DAHTn8zrmcyQcrzQwkAdsqLYDNwYjhIWL4g:1740541339691%26q%3Dthe%2Bgreat%2Bnorth%2Banimated%2Bseries%26udm%3D2%26fbs%3DABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBjLjqIC1CYKD9D-DQAQS3Z6fZ--OaZn3DMTxQWxLIg4hW_wnpGGXBIfLuKGahloLhnZGQEgJMSN8f3Kw2BNDLUJr7w9IJQVb4F9J1sNi-WtNgbGsxei4el2Jii2efVpkWsDvzrvcl5sCagmQn2BOyWL2iKe9qSciPXCwH59HvzY7ZD4tvw%26sa%3DX%26ved%3D2ahUKEwi1pZPiteCLAxWohIkEHYeNFYUQtKgLegQIGhAB%26biw%3D1728%26bih%3D931%26dpr%3D2&sa=D&source=editors&ust=1759597865344663&usg=AOvVaw3Cgk4hIRwnHGOuOBgLLpEt))
+Reference: [MODEL PACK](https://www.google.com/url?q=https://drive.google.com/file/d/1FmP4avnLPYRe9gnsFt8aOiJk6_bva0yg/view?usp%3Dshare_link&sa=D&source=editors&ust=1759597865344149&usg=AOvVaw1aIUf1v9_YDO679DZLmY_a) & [STYLE GUIDE](https://www.google.com/url?q=https://drive.google.com/file/d/1BgcTRdfpLiDHiYP30D2FMkXbTr3Qbi65/view?usp%3Dshare_link&sa=D&source=editors&ust=1759597865344252&usg=AOvVaw2BYjxGZBs1Ywd6-QlQITlX) (also see Bob's Burgers [here](https://www.google.com/url?q=https://www.google.com/search?q%3DBob%2527s%2BBurgers%2Bmodel%2Bsheet%26sxsrf%3DAJOqlzUT-ArBC6k7Vr5Xg0CdsWTk0kPm6Q:1677432384760%26source%3Dlnms%26tbm%3Disch%26sa%3DX%26ved%3D2ahUKEwjdlrbL2rP9AhUkEFkFHeVECvsQ0pQJegQIBRAC%26biw%3D1401%26bih%3D737%26dpr%3D2&sa=D&source=editors&ust=1759597865344385&usg=AOvVaw0osKAfgAnuPugS3B0LCadu) & [here](https://www.google.com/url?q=https://www.behance.net/gallery/10005957/Bobs-Burgers-Design&sa=D&source=editors&ust=1759597865344458&usg=AOvVaw05PlWAjF7ftfhjbwEoxHhf) and The Great North [here](https://www.google.com/url?q=https://www.google.com/search?sca_esv%3D0e6145799fa1b528%26rlz%3D1C5CHFA_enCA1088CA1088%26sxsrf%3DAHTn8zrmcyQcrzQwkAdsqLYDNwYjhIWL4g:1740541339691%26q%3Dthe%2Bgreat%2Bnorth%2Banimated%2Bseries%26udm%3D2%26fbs%3DABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBjLjqIC1CYKD9D-DQAQS3Z6fZ--OaZn3DMTxQWxLIg4hW_wnpGGXBIfLuKGahloLhnZGQEgJMSN8f3Kw2BNDLUJr7w9IJQVb4F9J1sNi-WtNgbGsxei4el2Jii2efVpkWsDvzrvcl5sCagmQn2BOyWL2iKe9qSciPXCwH59HvzY7ZD4tvw%26sa%3DX%26ved%3D2ahUKEwi1pZPiteCLAxWohIkEHYeNFYUQtKgLegQIGhAB%26biw%3D1728%26bih%3D931%26dpr%3D2&sa=D&source=editors&ust=1759597865344663&usg=AOvVaw3Cgk4hIRwnHGOuOBgLLpEt))
 
-Designs by Celeste Moreno, Michael Camacho, Orlando Velez, and Layron
-DeJarnette
+Designs by Celeste Moreno, Michael Camacho, Orlando Velez, and Layron DeJarnette
 
-\(B\) Chris Prynoski\'s Motorcity
+\(B\) Chris Prynoski\'s **Motorcity**
 
-Reference: [STYLE
-GUIDE](https://www.google.com/url?q=https://drive.google.com/file/d/1GYJnNFqHjlNXYW067uwz1kHdrCh7Inos/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865345009&usg=AOvVaw3z2yQNg8Ks0dzYUWzSvjaf)
-(also see [Tron
-Uprising](https://www.google.com/url?q=https://titansterrorstoys.blogspot.com/2014/01/the-art-of-tron-uprising-part-1-of-4.html&sa=D&source=editors&ust=1759597865345106&usg=AOvVaw1hNcD3ZhFqB2gqhUMntiPO)
-and [Agent
-Elvis](https://www.google.com/url?q=https://www.google.com/search?q%3Dagent%2Belvis%2Bcharacter%2Bdesign%26sxsrf%3DAJOqlzXhBt1jKlZSdx9_IGgLj54GFApGGQ:1678069831678%26source%3Dlnms%26tbm%3Disch%26sa%3DX%26ved%3D2ahUKEwjqpuahocb9AhUZF1kFHfjEDzEQ0pQJegQIBhAC%26biw%3D1401%26bih%3D680%26dpr%3D2&sa=D&source=editors&ust=1759597865345223&usg=AOvVaw2gF33Z8NTiPxUaqzNkaeUd))
+Reference: [STYLE GUIDE](https://www.google.com/url?q=https://drive.google.com/file/d/1GYJnNFqHjlNXYW067uwz1kHdrCh7Inos/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865345009&usg=AOvVaw3z2yQNg8Ks0dzYUWzSvjaf) (also see [Tron Uprising](https://www.google.com/url?q=https://titansterrorstoys.blogspot.com/2014/01/the-art-of-tron-uprising-part-1-of-4.html&sa=D&source=editors&ust=1759597865345106&usg=AOvVaw1hNcD3ZhFqB2gqhUMntiPO) and [Agent Elvis](https://www.google.com/url?q=https://www.google.com/search?q%3Dagent%2Belvis%2Bcharacter%2Bdesign%26sxsrf%3DAJOqlzXhBt1jKlZSdx9_IGgLj54GFApGGQ:1678069831678%26source%3Dlnms%26tbm%3Disch%26sa%3DX%26ved%3D2ahUKEwjqpuahocb9AhUZF1kFHfjEDzEQ0pQJegQIBhAC%26biw%3D1401%26bih%3D680%26dpr%3D2&sa=D&source=editors&ust=1759597865345223&usg=AOvVaw2gF33Z8NTiPxUaqzNkaeUd))
 
-Designs by Robert Valley, Junpei Takayama and David Vandervoort
-(Titmouse Studios)
+Designs by Robert Valley, Junpei Takayama and David Vandervoort (Titmouse Studios)
 
-👉[Robert Valley's Character Design
-Tips](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DzzsR6vYHkpI&sa=D&source=editors&ust=1759597865345484&usg=AOvVaw16tnFAqWR0fnZCziIA0aiy)
+👉[Robert Valley's Character Design Tips](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DzzsR6vYHkpI&sa=D&source=editors&ust=1759597865345484&usg=AOvVaw16tnFAqWR0fnZCziIA0aiy)
 
-\(C\) MTJJ Mutou\'s Legend of Hei
+\(C\) MTJJ Mutou\'s **Legend of Hei**
 
-Reference: [STYLE
-GUIDE](https://www.google.com/url?q=https://drive.google.com/file/d/1kSz9GCMxBj_FD84GdMBjluUDYFZKYjqh/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865345708&usg=AOvVaw0KCAp9KLcPN_-w9zxhsFCe)
-& [THE ANIMATED
-FILM](https://www.google.com/url?q=https://drive.google.com/file/d/1Amt1BoJ9BnnYOWBjC3jz8MVHmkbRFSjV/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865345797&usg=AOvVaw06GyFbD1WCWi2JApUhaKOB)(Beijing
-Hanmu Chunhua Animation)
+Reference: [STYLE GUIDE](https://www.google.com/url?q=https://drive.google.com/file/d/1kSz9GCMxBj_FD84GdMBjluUDYFZKYjqh/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865345708&usg=AOvVaw0KCAp9KLcPN_-w9zxhsFCe) & [THE ANIMATED FILM](https://www.google.com/url?q=https://drive.google.com/file/d/1Amt1BoJ9BnnYOWBjC3jz8MVHmkbRFSjV/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865345797&usg=AOvVaw06GyFbD1WCWi2JApUhaKOB)(Beijing Hanmu Chunhua Animation)
 
-Pick one and research & explore the character design style of your
-chosen property.
+Pick one and research & explore the character design style of your chosen property.
 
-Produce 1 new character that would fit in this universe.
+Produce **1 new character** that would fit in this universe.
 
-Create a model sheet with a 4pt turnaround \[Tiedown\].
+Create a model sheet with a **4pt turnaround** \[Tiedown\].
 
-Front \| 3/4 Front \| Side \| 3/4 Back
+**Front** | **3/4 Front** | **Side** | **3/4 Back**
 
-This design pack should include 2 other pages; 1 expression sheet with 6
-expression drawings \[Tiedown\], and 1 pose sheet with 4 action poses
-\[Tiedown\].
+This design pack should include 2 other pages; **1 expression sheet** with **6 expression drawings** \[Tiedown\], and **1 pose sheet** with **4 action poses** \[Tiedown\].
 
 TOTAL of 3 image files (JPG or PNG format)
 
 Dimensions: 3840x2160 pixels @ 300dpi
 
-Support Material:
+> Support Material:
 
-👉 [Character Design
-Consistency](https://www.google.com/url?q=https://www.nilahmagruder.com/blog/2020/08/02/character-design-and-consistency/&sa=D&source=editors&ust=1759597865346814&usg=AOvVaw0BNfkYnvPxJD7p36N4DWCn)
-
-👉 [Cloth and Drapery
-Tutorial](https://www.google.com/url?q=https://youtu.be/Wz7SdRoMhT4?t%3D2&sa=D&source=editors&ust=1759597865346928&usg=AOvVaw2qvLQI5kZq-rTTj5euzd8U)
-
-👉 [Tips on Character
-Design](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D21vAuOrAbt4%26ab_channel%3DWhytManga&sa=D&source=editors&ust=1759597865347040&usg=AOvVaw3gleDsm9SbopTx9uq3kOPC)
-
-👉 [Inspiration for Dynamic Action
-Poses](https://www.google.com/url?q=https://www.pinterest.ca/search/pins/?q%3Daction%2520poses%26rs%3Dtyped&sa=D&source=editors&ust=1759597865347168&usg=AOvVaw1SmSTg-_BBlPzJiWFF-d-O)
+- 👉 [Character Design Consistency](https://www.google.com/url?q=https://www.nilahmagruder.com/blog/2020/08/02/character-design-and-consistency/&sa=D&source=editors&ust=1759597865346814&usg=AOvVaw0BNfkYnvPxJD7p36N4DWCn)
+- 👉 [Cloth and Drapery Tutorial](https://www.google.com/url?q=https://youtu.be/Wz7SdRoMhT4?t%3D2&sa=D&source=editors&ust=1759597865346928&usg=AOvVaw2qvLQI5kZq-rTTj5euzd8U)
+- 👉 [Tips on Character Design](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D21vAuOrAbt4%26ab_channel%3DWhytManga&sa=D&source=editors&ust=1759597865347040&usg=AOvVaw3gleDsm9SbopTx9uq3kOPC)
+- 👉 [Inspiration for Dynamic Action Poses](https://www.google.com/url?q=https://www.pinterest.ca/search/pins/?q%3Daction%2520poses%26rs%3Dtyped&sa=D&source=editors&ust=1759597865347168&usg=AOvVaw1SmSTg-_BBlPzJiWFF-d-O)
 
 ![image](./images/unnamed_1038.jpg)
-
 ![image](./images/unnamed_1704.png)
-
 ![image](./images/unnamed_670.png)
 ![image](./images/unnamed_907.png)
 ![image](./images/unnamed_751.png)
 ![image](./images/unnamed_1330.png)
-
-\
-
 ![image](./images/unnamed_970.jpg)
-
 ![image](./images/unnamed_112.png)
-
 ![image](./images/unnamed_1128.png)
 ![image](./images/unnamed_939.png)
-
 ![image](./images/unnamed_631.png)
-
 ![image](./images/unnamed_390.jpg)
-
 ![image](./images/unnamed_123.png)
 
 ### Explore Gesture Drawing
 
-One way to accelerate the growth of your drawing skills and
-observational skills is through gesture drawing.
+One way to accelerate the growth of your drawing skills and observational skills is through gesture drawing.
 
 What a Gesture should be:
 
@@ -8769,7 +8083,6 @@ Line of Action
 - Relaxed poses = curves and soft lines
 
 ![image](./images/unnamed_1351.png)
-
 ![image](./images/unnamed_1350.png)
 
 Shape
@@ -8779,7 +8092,6 @@ Shape
 - Relaxed pose = Semicircle, Relaxed Peanut-shape
 
 ![image](./images/unnamed_507.png)
-
 ![image](./images/unnamed_1718.png)
 
 Silhouette
@@ -8788,7 +8100,6 @@ Silhouette
 - Should be able to tell what every part of the body is doing
 
 ![image](./images/unnamed_582.png)
-
 ![image](./images/unnamed_690.png)
 
 Space
@@ -8797,7 +8108,6 @@ Space
 - Avoid always placing the feet on the same plane
 
 ![image](./images/unnamed_859.png)
-
 ![image](./images/unnamed_1703.png)
 
 Exaggeration
@@ -8807,22 +8117,16 @@ Exaggeration
 - Communicate the idea, not the pose
 
 ![image](./images/unnamed_164.png)
-
 ![image](./images/unnamed_1121.png)
-
 ![image](./images/unnamed_206.png)
-
 ![image](./images/unnamed_1335.jpg)
 
 Extrapolation
 
-- Draw animals or [alternate
-  characters](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DPcXU_UI8Mi0%26ab_channel%3DShot%252CDrawn%2526Cut&sa=D&source=editors&ust=1759597865350902&usg=AOvVaw00flFVNo3FCPZqJ8s3nhZw)
-  from the model using the same pose
+- Draw animals or [alternate characters](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DPcXU_UI8Mi0%26ab_channel%3DShot%252CDrawn%2526Cut&sa=D&source=editors&ust=1759597865350902&usg=AOvVaw00flFVNo3FCPZqJ8s3nhZw) from the model using the same pose
 - Push past what you see for the idea/emotion
 
 ![image](./images/unnamed_1424.png)
-
 ![image](./images/unnamed_1266.png)
 
 Story
@@ -8835,13 +8139,15 @@ Story
 
 \[The Science of Drawing\] vs \[The Soul of Drawing\]
 
-- \- Anatomy - Emotions
-- \- Light - Feelings
-- \- Proportion - Ideas
-- -Technique
+- Anatomy
+- Emotions
+- Light
+- Feelings
+- Proportion
+- Ideas
+- Technique
 
 ![image](./images/unnamed_251.png)
-
 ![image](./images/unnamed_757.png)
 
 Combine both Concepts:
@@ -8853,27 +8159,23 @@ Combine both Concepts:
 - Realism does not equal Quality
 
 ![image](./images/unnamed_130.png)
-
 ![image](./images/unnamed_161.png)
-
 ![image](./images/unnamed_1328.jpg)
-
 ![image](./images/unnamed_1046.jpg)
-
 ![image](./images/unnamed_1240.png)
-
 ![image](./images/unnamed_1679.png)
 
 Try out free online Figure Drawing resources (warning - nudity):
-[(1)](https://www.google.com/url?q=https://line-of-action.com/practice-tools/figure-drawing&sa=D&source=editors&ust=1759597865352555&usg=AOvVaw3Trcv0SEP3Z7md3Xc82RK_)
-[(2)](https://www.google.com/url?q=https://quickposes.com/en&sa=D&source=editors&ust=1759597865352615&usg=AOvVaw30fYczH6wMt3kzqbCOd_Ts)
-[(3)](https://www.google.com/url?q=https://www.photo-reference-for-comic-artists.com/&sa=D&source=editors&ust=1759597865352676&usg=AOvVaw0HfvpFjnbFVt-ectCgyNH0)
-[(4)](https://www.google.com/url?q=http://reference.sketchdaily.net/en&sa=D&source=editors&ust=1759597865352729&usg=AOvVaw2dQ9QO8sN_Pan41Dy28xI0)
-[(5)](https://www.google.com/url?q=https://www.human-anatomy-for-artist.com/&sa=D&source=editors&ust=1759597865352788&usg=AOvVaw1Vmw4tp6gFJt3KO5sGZdsb)
-[(6)](https://www.google.com/url?q=https://www.bodiesinmotion.photo/&sa=D&source=editors&ust=1759597865352841&usg=AOvVaw3Yxk5ssWXPo6LkAIx49JZA)
-[(7)](https://www.google.com/url?q=https://www.youtube.com/c/DrawThis/videos&sa=D&source=editors&ust=1759597865352896&usg=AOvVaw1I5I9kg8LHQvvpkV_EKT0g)
-[(8)](https://www.google.com/url?q=https://drive.google.com/drive/folders/1c-K3gSjNvFniFq3Ea8oJ4xZ0dKX9w9fS?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865352966&usg=AOvVaw0QI2ntclU_ApxTBMAB2exR)
-[(9)](https://www.google.com/url?q=https://drive.google.com/drive/folders/1QccjQ7czzpS-c9QWTH5rZZ08P_TQ48MC?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865353043&usg=AOvVaw04LDLNUlNmKXh8LB-pFrUH)
+
+- [Figure Drawing 1](https://www.google.com/url?q=https://line-of-action.com/practice-tools/figure-drawing&sa=D&source=editors&ust=1759597865352555&usg=AOvVaw3Trcv0SEP3Z7md3Xc82RK_)
+- [Figure Drawing 2](https://www.google.com/url?q=https://quickposes.com/en&sa=D&source=editors&ust=1759597865352615&usg=AOvVaw30fYczH6wMt3kzqbCOd_Ts)
+- [Figure Drawing 3](https://www.google.com/url?q=https://www.photo-reference-for-comic-artists.com/&sa=D&source=editors&ust=1759597865352676&usg=AOvVaw0HfvpFjnbFVt-ectCgyNH0)
+- [Figure Drawing 4](https://www.google.com/url?q=http://reference.sketchdaily.net/en&sa=D&source=editors&ust=1759597865352729&usg=AOvVaw2dQ9QO8sN_Pan41Dy28xI0)
+- [Figure Drawing 5](https://www.google.com/url?q=https://www.human-anatomy-for-artist.com/&sa=D&source=editors&ust=1759597865352788&usg=AOvVaw1Vmw4tp6gFJt3KO5sGZdsb)
+- [Figure Drawing 6](https://www.google.com/url?q=https://www.bodiesinmotion.photo/&sa=D&source=editors&ust=1759597865352841&usg=AOvVaw3Yxk5ssWXPo6LkAIx49JZA)
+- [Figure Drawing 7](https://www.google.com/url?q=https://www.youtube.com/c/DrawThis/videos&sa=D&source=editors&ust=1759597865352896&usg=AOvVaw1I5I9kg8LHQvvpkV_EKT0g)
+- [Figure Drawing 8](https://www.google.com/url?q=https://drive.google.com/drive/folders/1c-K3gSjNvFniFq3Ea8oJ4xZ0dKX9w9fS?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865352966&usg=AOvVaw0QI2ntclU_ApxTBMAB2exR)
+- [Figure Drawing 9](https://www.google.com/url?q=https://drive.google.com/drive/folders/1QccjQ7czzpS-c9QWTH5rZZ08P_TQ48MC?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865353043&usg=AOvVaw04LDLNUlNmKXh8LB-pFrUH)
 
 How to do a Gesture drawing:
 
@@ -8886,30 +8188,18 @@ How to do a Gesture drawing:
 - Use the model as a jumping off point
 - Go with your first impression - follow your instincts
 
-👉 Great tips from [Kristian
-Nee](https://www.google.com/url?q=https://youtu.be/DLut51Fw52g&sa=D&source=editors&ust=1759597865353767&usg=AOvVaw3Ahyhe3oP8GViK8omLXAkO)
-
-👉 Advice from [Joshua
-Jacobo](https://www.google.com/url?q=https://www.youtube.com/shorts/xoSyYGQCuX4?feature%3Dshare&sa=D&source=editors&ust=1759597865353875&usg=AOvVaw38JXdiJFaKCCWMHcD8-sMR)
-
-👉 Gesture drawing ideas from [Tracy
-Strong](https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dz1vgp8Qv5EU&sa=D&source=editors&ust=1759597865353988&usg=AOvVaw1DdQiBvQFpmMIk6xPOsSfS)
+- 👉 Great tips from [Kristian Nee](https://www.google.com/url?q=https://youtu.be/DLut51Fw52g&sa=D&source=editors&ust=1759597865353767&usg=AOvVaw3Ahyhe3oP8GViK8omLXAkO)
+- 👉 Advice from [Joshua Jacobo](https://www.google.com/url?q=https://www.youtube.com/shorts/xoSyYGQCuX4?feature%3Dshare&sa=D&source=editors&ust=1759597865353875&usg=AOvVaw38JXdiJFaKCCWMHcD8-sMR)
+- 👉 Gesture drawing ideas from [Tracy Strong](https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dz1vgp8Qv5EU&sa=D&source=editors&ust=1759597865353988&usg=AOvVaw1DdQiBvQFpmMIk6xPOsSfS)
 
 ![image](./images/unnamed_1110.png)
-
 ![image](./images/unnamed_1041.png)
-
 ![image](./images/unnamed_894.png)
-
 ![image](./images/unnamed_1131.png)
 ![image](./images/unnamed_1089.png)
-
 ![image](./images/unnamed_485.png)
 
-Learning these habits while practicing observational sketching and
-anatomy studies can translate into big improvements for your character
-design techniques and draftsmanship. Notes and drawings by Dermot O
-Connor:
+Learning these habits while practicing observational sketching and anatomy studies can translate into big improvements for your character design techniques and draftsmanship. Notes and drawings by Dermot O Connor:
 
 ![image](./images/unnamed_1170.png)
 
@@ -8918,25 +8208,14 @@ Sketches by Rad Sechrist:
 ![image](./images/unnamed_041.gif)
 ![image](./images/unnamed_048.gif)
 ![image](./images/unnamed_090.gif)
-
 ![image](./images/unnamed_084.jpg)
 
-![Macintosh HD:Users:ron:Desktop:NSCC:Storyboarding:Week
-8:Tips:Designing_Poses-_Page_14.jpg](./images/unnamed_853.jpg)
-
-![Macintosh HD:Users:ron:Desktop:NSCC:Storyboarding:Week
-8:Tips:Designing_Poses-_Page_15.jpg](./images/unnamed_189.jpg)
-
-![Macintosh HD:Users:ron:Desktop:NSCC:Storyboarding:Week
-8:Tips:Designing_Poses-_Page_16.jpg](./images/unnamed_614.jpg)
-
-![Macintosh HD:Users:ron:Desktop:NSCC:Storyboarding:Week
-8:Tips:Designing_Poses-_Page_17.jpg](./images/unnamed_419.jpg)
-
+![Macintosh HD:Users:ron:Desktop:NSCC:Storyboarding:Week 8:Tips:Designing_Poses-_Page_14.jpg](./images/unnamed_853.jpg)
+![Macintosh HD:Users:ron:Desktop:NSCC:Storyboarding:Week 8:Tips:Designing_Poses-_Page_15.jpg](./images/unnamed_189.jpg)
+![Macintosh HD:Users:ron:Desktop:NSCC:Storyboarding:Week 8:Tips:Designing_Poses-_Page_16.jpg](./images/unnamed_614.jpg)
+![Macintosh HD:Users:ron:Desktop:NSCC:Storyboarding:Week 8:Tips:Designing_Poses-_Page_17.jpg](./images/unnamed_419.jpg)
 ![image](./images/unnamed_499.jpg)
-
-![Macintosh HD:Users:ron:Desktop:NSCC:Storyboarding:Week
-8:Tips:Designing_Poses-_Page_18.jpg](./images/unnamed_655.jpg)
+![Macintosh HD:Users:ron:Desktop:NSCC:Storyboarding:Week 8:Tips:Designing_Poses-_Page_18.jpg](./images/unnamed_655.jpg)
 
 Sketches by Dave Pimentel:
 
@@ -8946,7 +8225,6 @@ Sketches by Dave Pimentel:
 ![image](./images/unnamed_1159.jpg)
 ![image](./images/unnamed_1449.jpg)
 ![image](./images/unnamed_1098.jpg)
-
 ![image](./images/unnamed_1222.jpg)
 ![image](./images/unnamed_892.jpg)
 ![image](./images/unnamed_1115.jpg)
@@ -8958,95 +8236,60 @@ Sketches by Dave Pimentel:
 
 Choose from one of the following design styles:
 
-\(A\) Cartoon Saloon\'s Wolfwalkers (or Song of the Sea / Secret of
-Kells)
+\(A\) Cartoon Saloon\'s **Wolfwalkers** (or **Song of the Sea** / **Secret of Kells**)
 
-Reference: [STYLE
-GUIDE](https://www.google.com/url?q=https://drive.google.com/file/d/1MMdND4lposyLMeiVWAGa1He5Y6kut4Ms/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865355765&usg=AOvVaw0LPkP6NssjxU--m3iKaS-e)
-/
-[ARTBOOK](https://www.google.com/url?q=https://drive.google.com/file/d/1lvYlOZevdwiOnySUcnl7g-1lxC0z7UP2/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865355855&usg=AOvVaw1EdPkJk2wIVvMdwprXp2Ay)
-& [STYLE GUIDE for Secret of
-Kells](https://www.google.com/url?q=https://drive.google.com/file/d/1QtZlmO6I16Biy8U4bzA8Ou8cd8T5uTUT/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865355956&usg=AOvVaw1ptLJrWoQIZGpiM9oVeefg)
+Reference: [STYLE GUIDE](https://www.google.com/url?q=https://drive.google.com/file/d/1MMdND4lposyLMeiVWAGa1He5Y6kut4Ms/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865355765&usg=AOvVaw0LPkP6NssjxU--m3iKaS-e) / [ARTBOOK](https://www.google.com/url?q=https://drive.google.com/file/d/1lvYlOZevdwiOnySUcnl7g-1lxC0z7UP2/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865355855&usg=AOvVaw1EdPkJk2wIVvMdwprXp2Ay) & [STYLE GUIDE for Secret of Kells](https://www.google.com/url?q=https://drive.google.com/file/d/1QtZlmO6I16Biy8U4bzA8Ou8cd8T5uTUT/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865355956&usg=AOvVaw1ptLJrWoQIZGpiM9oVeefg)
 
-Designs by Barry Reynolds, Tom Moore & Ross Stewart, see more materials
-on this style
-[here](https://www.google.com/url?q=https://www.google.com/search?q%3DSong%2Bof%2Bthe%2BSea%2Bmodel%2Bsheet%26sxsrf%3DALiCzsYaTyRdDj4IC0pi-malCu7jwdUCLg:1664395287429%26source%3Dlnms%26tbm%3Disch%26sa%3DX%26ved%3D2ahUKEwj70_3Oo7j6AhVOFlkFHa69C48Q_AUoAXoECAEQAw%26biw%3D1366%26bih%3D736%26dpr%3D2&sa=D&source=editors&ust=1759597865356176&usg=AOvVaw09IPuy6BWRqpp9xduOT3Hz)
-&
-[here](https://www.google.com/url?q=https://www.google.com/search?sxsrf%3DALiCzsaK4J39FZIR-EtdEIjuCy7JiMSCwQ:1664374142111%26source%3Duniv%26tbm%3Disch%26q%3Dwolfwalkers%2Bmodel%2Bsheet%26fir%3Doy0QkFQyX9u5VM%25252Cl5ZG9_x46KHEuM%25252C_%25253Bz6NhALjD-hrteM%25252CxueuXxu4Ox1JHM%25252C_%25253BxQhnuwSRbhHJMM%25252CVm1CY2z8vkjHuM%25252C_%25253BnaGkE7XdX3LSHM%25252CFVKpRh8Ue8LZwM%25252C_%25253BPx-D57muKcotnM%25252CRHAyKXndiFaG0M%25252C_%25253BxdWMwWoUJAsGCM%25252CHtG9YAgEKYeDMM%25252C_%25253B0ZcbEdGYxgjcFM%25252CLBc97PVngkNn3M%25252C_%25253BFBqXnRS4lzIBDM%25252CxueuXxu4Ox1JHM%25252C_%25253BIX2oFB4y4Wd3PM%25252CLBc97PVngkNn3M%25252C_%25253BWNhWl7iAfU7KgM%25252CRHAyKXndiFaG0M%25252C_%25253BKgq9YAzfYAf6sM%25252CFVKpRh8Ue8LZwM%25252C_%25253BvEfGMNHqpeAPfM%25252CykUULL1JIxhBOM%25252C_%26usg%3DAI4_-kR4yb0vGUTDCrJbQgQinRIL_7jdGA%26sa%3DX%26ved%3D2ahUKEwjE3o3s1Lf6AhXWKlkFHYdiCOAQ7Al6BAgDEEs%26biw%3D1366%26bih%3D736%26dpr%3D2&sa=D&source=editors&ust=1759597865356442&usg=AOvVaw345FUFBVzlYCIG1Tq-PK1T).
+Designs by Barry Reynolds, Tom Moore & Ross Stewart, see more materials on this style [here](https://www.google.com/url?q=https://www.google.com/search?q%3DSong%2Bof%2Bthe%2BSea%2Bmodel%2Bsheet%26sxsrf%3DALiCzsYaTyRdDj4IC0pi-malCu7jwdUCLg:1664395287429%26source%3Dlnms%26tbm%3Disch%26sa%3DX%26ved%3D2ahUKEwj70_3Oo7j6AhVOFlkFHa69C48Q_AUoAXoECAEQAw%26biw%3D1366%26bih%3D736%26dpr%3D2&sa=D&source=editors&ust=1759597865356176&usg=AOvVaw09IPuy6BWRqpp9xduOT3Hz) & [here](https://www.google.com/url?q=https://www.google.com/search?sxsrf%3DALiCzsaK4J39FZIR-EtdEIjuCy7JiMSCwQ:1664374142111%26source%3Duniv%26tbm%3Disch%26q%3Dwolfwalkers%2Bmodel%2Bsheet%26fir%3Doy0QkFQyX9u5VM%25252Cl5ZG9_x46KHEuM%25252C_%25253Bz6NhALjD-hrteM%25252CxueuXxu4Ox1JHM%25252C_%25253BxQhnuwSRbhHJMM%25252CVm1CY2z8vkjHuM%25252C_%25253BnaGkE7XdX3LSHM%25252CFVKpRh8Ue8LZwM%25252C_%25253BPx-D57muKcotnM%25252CRHAyKXndiFaG0M%25252C_%25253BxdWMwWoUJAsGCM%25252CHtG9YAgEKYeDMM%25252C_%25253B0ZcbEdGYxgjcFM%25252CLBc97PVngkNn3M%25252C_%25253BFBqXnRS4lzIBDM%25252CxueuXxu4Ox1JHM%25252C_%25253BIX2oFB4y4Wd3PM%25252CLBc97PVngkNn3M%25252C_%25253BWNhWl7iAfU7KgM%25252CRHAyKXndiFaG0M%25252C_%25253BKgq9YAzfYAf6sM%25252CFVKpRh8Ue8LZwM%25252C_%25253BvEfGMNHqpeAPfM%25252CykUULL1JIxhBOM%25252C_%26usg%3DAI4_-kR4yb0vGUTDCrJbQgQinRIL_7jdGA%26sa%3DX%26ved%3D2ahUKEwjE3o3s1Lf6AhXWKlkFHYdiCOAQ7Al6BAgDEEs%26biw%3D1366%26bih%3D736%26dpr%3D2&sa=D&source=editors&ust=1759597865356442&usg=AOvVaw345FUFBVzlYCIG1Tq-PK1T).
 
-\(B\) Bobby Chiu and Kei Acedera\'s Niko and the Sword of Light
+\(B\) Bobby Chiu and Kei Acedera\'s **Niko and the Sword of Light**
 
-Reference: [STYLE
-GUIDE](https://www.google.com/url?q=https://drive.google.com/file/d/1ZoFf5muoOAQqjr3k0uTmiUQKwmcfKVxR/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865356730&usg=AOvVaw05vUL2Jt_IJGkYXsrd7vBV)
-/ [MODEL
-SHEETS](https://www.google.com/url?q=https://jimbryson.artstation.com/projects/xz2KYm&sa=D&source=editors&ust=1759597865356802&usg=AOvVaw1zH8UPE3zjN_TtDajqOHi2)
+Reference: [STYLE GUIDE](https://www.google.com/url?q=https://drive.google.com/file/d/1ZoFf5muoOAQqjr3k0uTmiUQKwmcfKVxR/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865356730&usg=AOvVaw05vUL2Jt_IJGkYXsrd7vBV) / [MODEL SHEETS](https://www.google.com/url?q=https://jimbryson.artstation.com/projects/xz2KYm&sa=D&source=editors&ust=1759597865356802&usg=AOvVaw1zH8UPE3zjN_TtDajqOHi2)
 
 Designs by Jim Bryson (Titmouse Inc / Amazon Studios)
 
-\(C\) Sara Varon\'s Robot Dreams
+\(C\) Sara Varon\'s **Robot Dreams**
 
-Reference: [STYLE
-GUIDE](https://www.google.com/url?q=https://drive.google.com/file/d/1e5y-wPLXnfHPUYETyz4j-h-Yz8dWraHF/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865357116&usg=AOvVaw06-g5IApefyIvJr36QH7ib)
+Reference: [STYLE GUIDE](https://www.google.com/url?q=https://drive.google.com/file/d/1e5y-wPLXnfHPUYETyz4j-h-Yz8dWraHF/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865357116&usg=AOvVaw06-g5IApefyIvJr36QH7ib)
 
 Designs by Daniel Fernández Casas &Jan Esparza Monrós
 
-\(D\) WB\'s Scooby Doo
+\(D\) WB\'s **Scooby Doo**
 
-Reference: [STYLE
-GUIDE](https://www.google.com/url?q=https://drive.google.com/file/d/1JvjoGfFFcEkvtzEGcBt9nOlMRyW5aOei/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865357445&usg=AOvVaw2he8aE7VuqZu8bENX0dbIN)
+Reference: [STYLE GUIDE](https://www.google.com/url?q=https://drive.google.com/file/d/1JvjoGfFFcEkvtzEGcBt9nOlMRyW5aOei/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865357445&usg=AOvVaw2he8aE7VuqZu8bENX0dbIN)
 
 Designs inspired by the works of Iwao Takamoto (Hanna-Barbera)
 
-There's been many series and movies with the Scooby gang; Scooby- Doo,
-Where Are You!, The Scooby-Doo Show, Scooby-Doo and Scrappy-Doo, The New
-Scooby and Scrappy-Doo Show, The 13 Ghosts of Scooby-Doo, and more
-recently, Scooby-Doo and Guess Who? All of these generally follow the
-same style guide shown above.
+There's been many series and movies with the Scooby gang; Scooby- Doo, Where Are You!, The Scooby-Doo Show, Scooby-Doo and Scrappy-Doo, The New Scooby and Scrappy-Doo Show, The 13 Ghosts of Scooby-Doo, and more recently, Scooby-Doo and Guess Who? All of these generally follow the same style guide shown above.
 
-Pick one of these properties, then research & explore the character
-design style of your chosen property. Produce 1 new character that would
-fit in this universe.
+Pick one of these properties, then research & explore the character design style of your chosen property. Produce **1 new character** that would fit in this universe.
 
-Create a model sheet with a 4pt turnaround \[Tiedown\].
+Create a model sheet with a **4pt turnaround** \[Tiedown\].
 
-Front \| 3/4 Front \| Side \| 3/4 Back
+**Front** | **3/4 Front** | **Side** | **3/4 Back**
 
-This design pack should include 2 additional pages; 1 expression sheet
-with 6 expression drawings \[Tiedown\], and 1 pose sheet with 4 action
-poses \[Tiedown\].
+This design pack should include 2 additional pages; **1 expression sheet** with **6 expression drawings** \[Tiedown\], and **1 pose sheet** with **4 action poses** \[Tiedown\].
 
 TOTAL of 3 image files (JPG or PNG format)
 
 Dimensions: 3840x2160 pixels @ 300dpi
 
-Support Material:
+> Support Material:
 
-👉[Knight Zhang's Level Up Your Costume
-Designs](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DCjiKlLE3NuI%26ab_channel%3DProko&sa=D&source=editors&ust=1759597865358850&usg=AOvVaw3Jz2fYhFe6Aeux48D5ttnF)
-
-👉 [Good vs Bad Design
-Observations](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D8wm9ti-gzLM&sa=D&source=editors&ust=1759597865358970&usg=AOvVaw1JJME9M-qT2vB_FxTtdU4Y)
-
-👉 [David Colman's Story-Driven
-Shapes](https://www.google.com/url?q=https://youtu.be/volKe9dav8Y&sa=D&source=editors&ust=1759597865359087&usg=AOvVaw0yRjpknbTcx4jL67tBF6mW)
-
-👉 [Drawing Folds &
-Drapery](https://www.google.com/url?q=https://tips.clip-studio.com/en-us/articles/6809&sa=D&source=editors&ust=1759597865359190&usg=AOvVaw2uTHKRitSw0vyJtoaherGn)
+- 👉[Knight Zhang's Level Up Your Costume Designs](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DCjiKlLE3NuI%26ab_channel%3DProko&sa=D&source=editors&ust=1759597865358850&usg=AOvVaw3Jz2fYhFe6Aeux48D5ttnF)
+- 👉 [Good vs Bad Design Observations](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D8wm9ti-gzLM&sa=D&source=editors&ust=1759597865358970&usg=AOvVaw1JJME9M-qT2vB_FxTtdU4Y)
+- 👉 [David Colman's Story-Driven Shapes](https://www.google.com/url?q=https://youtu.be/volKe9dav8Y&sa=D&source=editors&ust=1759597865359087&usg=AOvVaw0yRjpknbTcx4jL67tBF6mW)
+- 👉 [Drawing Folds & Drapery](https://www.google.com/url?q=https://tips.clip-studio.com/en-us/articles/6809&sa=D&source=editors&ust=1759597865359190&usg=AOvVaw2uTHKRitSw0vyJtoaherGn)
 
 ![image](./images/unnamed_832.jpg)
-
 ![image](./images/unnamed_276.jpg)
 ![image](./images/unnamed_1154.jpg)
 ![image](./images/unnamed_338.jpg)
 ![image](./images/unnamed_088.jpg)
-
 ![image](./images/unnamed_959.png)
-
 ![image](./images/unnamed_031.jpg)
-
 ![image](./images/unnamed_1078.jpg)
 ![image](./images/unnamed_307.jpg)
-
 ![image](./images/unnamed_610.jpg)
 ![image](./images/unnamed_955.jpg)
 ![image](./images/unnamed_1445.jpg)
@@ -9055,45 +8298,26 @@ Drapery](https://www.google.com/url?q=https://tips.clip-studio.com/en-us/article
 ![image](./images/unnamed_119.jpg)
 ![image](./images/unnamed_1132.jpg)
 ![image](./images/unnamed_861.jpg)
-
 ![image](./images/unnamed_147.jpg)
 ![image](./images/unnamed_1421.jpg)
-
 ![image](./images/unnamed_141.jpg)
 ![image](./images/unnamed_858.jpg)
-
 ![image](./images/unnamed_421.jpg)
 ![image](./images/unnamed_962.jpg)
 ![image](./images/unnamed_1381.jpg)
 ![image](./images/unnamed_1080.jpg)
-
 ![image](./images/unnamed_1317.jpg)
 ![image](./images/unnamed_573.jpg)
-
 ![image](./images/unnamed_212.jpg)
 ![image](./images/unnamed_004.gif)
-
 ![image](./images/unnamed_989.jpg)
-
 ![image](./images/unnamed_1051.jpg)
 
 ### Structural Drawing
 
-There have been many well-known authors of anatomy and figure drawing
-books, they're fantastic resources to find and research through -
-masters such as
-[Loomis](https://www.google.com/url?q=https://drive.google.com/file/d/1y1qSQwAa6R1TRwA0L3gW0lJhFHsKSebX/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865360366&usg=AOvVaw2rJRWeG0h9AvjjpSDFmfW5),
-[Bridgman](https://www.google.com/url?q=https://drive.google.com/file/d/1QdS3CiRZTsOs5pVU26v--6kjnk773WFx/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865360451&usg=AOvVaw1Px2M6fHGqoFWT3OFxoJH6),
-[Tiner](https://www.google.com/url?q=https://drive.google.com/file/d/1QBrI_LpAzjwFhO7UTYZr3Pf42XvfceGW/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865360528&usg=AOvVaw3YsKAyTXPIkNi1Xv-5lSGP),
-[Hamm](https://www.google.com/url?q=https://drive.google.com/file/d/1oyFWerdlX5VpWaysbRBc71DO-LlKfQyu/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865360604&usg=AOvVaw0-y4pse_6-Ez_Jw3chAaF-),
-and
-[Sterling](https://www.google.com/url?q=https://drive.google.com/file/d/1jLOiD5IrDqgGxnMHfT72carmqud9_kSC/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865360685&usg=AOvVaw1j7J4TLIT5s5CYxBcbCbaa),
-just to name a few. They all have their own styles for how structural
-anatomy drawing should be approached, there's lots to learn from all of
-them.
+There have been many well-known authors of anatomy and figure drawing books, they're fantastic resources to find and research through - masters such as [Loomis](https://www.google.com/url?q=https://drive.google.com/file/d/1y1qSQwAa6R1TRwA0L3gW0lJhFHsKSebX/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865360366&usg=AOvVaw2rJRWeG0h9AvjjpSDFmfW5), [Bridgman](https://www.google.com/url?q=https://drive.google.com/file/d/1QdS3CiRZTsOs5pVU26v--6kjnk773WFx/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865360451&usg=AOvVaw1Px2M6fHGqoFWT3OFxoJH6), [Tiner](https://www.google.com/url?q=https://drive.google.com/file/d/1QBrI_LpAzjwFhO7UTYZr3Pf42XvfceGW/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865360528&usg=AOvVaw3YsKAyTXPIkNi1Xv-5lSGP), [Hamm](https://www.google.com/url?q=https://drive.google.com/file/d/1oyFWerdlX5VpWaysbRBc71DO-LlKfQyu/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865360604&usg=AOvVaw0-y4pse_6-Ez_Jw3chAaF-), and [Sterling](https://www.google.com/url?q=https://drive.google.com/file/d/1jLOiD5IrDqgGxnMHfT72carmqud9_kSC/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865360685&usg=AOvVaw1j7J4TLIT5s5CYxBcbCbaa), just to name a few. They all have their own styles for how structural anatomy drawing should be approached, there's lots to learn from all of them.
 
-Here's a breakdown of shape design combinations by [Nicolas
-Rix](https://www.google.com/url?q=https://nicolasrix.com/&sa=D&source=editors&ust=1759597865360942&usg=AOvVaw0rZvD_6xFS0i88C546opuT):
+Here's a breakdown of shape design combinations by [Nicolas Rix](https://www.google.com/url?q=https://nicolasrix.com/&sa=D&source=editors&ust=1759597865360942&usg=AOvVaw0rZvD_6xFS0i88C546opuT):
 
 ![image](./images/unnamed_495.jpg)
 ![image](./images/unnamed_525.jpg)
@@ -9101,370 +8325,231 @@ Rix](https://www.google.com/url?q=https://nicolasrix.com/&sa=D&source=editors&us
 ![image](./images/unnamed_1302.jpg)
 ![image](./images/unnamed_252.jpg)
 
-Grab artwork or photos from online, or pause on videos, take a
-screenshot - bring it into your drawing software and DRAW OVER it to
-FIND the structure, it can be fun and a great learning experience:
+Grab artwork or photos from online, or pause on videos, take a screenshot - bring it into your drawing software and DRAW OVER it to FIND the structure, it can be fun and a great learning experience:
 
 ![image](./images/unnamed_038.png)
 
 There's many ways to approach how to make breakdowns:
 
 ![image](./images/unnamed_1254.jpg)
-
 ![image](./images/unnamed_887.png)
 
-Doing a character study like these can help you see where the patterns
-are in the anatomy that is unique to that property's style, here's an
-example of a breakdown of the various shapes, proportions and body types
-from Total Drama Island:
+Doing a character study like these can help you see where the patterns are in the anatomy that is unique to that property's style, here's an example of a breakdown of the various shapes, proportions and body types from Total Drama Island:
 
 ![image](./images/unnamed_1624.png)
 
-Structural anatomy is one of the most basic and important aspects to
-learn about character design - it can be broken down many different
-ways, here's just a few examples:
+Structural anatomy is one of the most basic and important aspects to learn about character design - it can be broken down many different ways, here's just a few examples:
 
 ![image](./images/unnamed_543.jpg)
-
 ![image](./images/unnamed_1033.jpg)
-
 ![image](./images/unnamed_1169.jpg)
 ![image](./images/unnamed_883.jpg)
-
 ![image](./images/unnamed_1436.png)
 
-Your drawing skills, your drawing speed, and your work ethic, are your
-primary tools that will make you a valued employee in the field of
-character design. Creativity and Style develop naturally and slowly over
-time. Your level of draftsmanship in figure drawing is something you
-will work on during your entire career. Even though you'll never
-directly use the practice drawings you do with figure drawing in your
-work, the underlying skills it develops will increase your knowledge and
-abilities when it comes to design.
+Your drawing skills, your drawing speed, and your work ethic, are your primary tools that will make you a valued employee in the field of character design. Creativity and Style develop naturally and slowly over time. Your level of draftsmanship in figure drawing is something you will work on during your entire career. Even though you'll never directly use the practice drawings you do with figure drawing in your work, the underlying skills it develops will increase your knowledge and abilities when it comes to design.
 
-👉 One of the best books out there on the subject is Walt Stanchfield's
-masterpiece: [Gesture Drawing for
-Animation](https://www.google.com/url?q=https://drive.google.com/file/d/0B98uqV6KoHtTTC1mYk5KdDQ3ekE/view?usp%3Dsharing%26resourcekey%3D0-RkEOAuwp1VbuUtAKWAvEKA&sa=D&source=editors&ust=1759597865363232&usg=AOvVaw15W-vNBqTS7iCfWJx1mh9R)
+> 👉 One of the best books out there on the subject is Walt Stanchfield's masterpiece: [Gesture Drawing for Animation](https://www.google.com/url?q=https://drive.google.com/file/d/0B98uqV6KoHtTTC1mYk5KdDQ3ekE/view?usp%3Dsharing%26resourcekey%3D0-RkEOAuwp1VbuUtAKWAvEKA&sa=D&source=editors&ust=1759597865363232&usg=AOvVaw15W-vNBqTS7iCfWJx1mh9R)
 
 ## Assignment #11
 
-Choose from one of the following design styles:
+Choose from **one** of the following design styles:
 
-\(A\) Gabrielle Vincent\'s Ernest & Celestine
+\(A\) Gabrielle Vincent\'s **Ernest & Celestine**
 
-Reference: [STYLE
-GUIDE](https://www.google.com/url?q=https://drive.google.com/file/d/14cltnvzyeYCKw9d4nj1YBxKKMYZuCgKR/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865363744&usg=AOvVaw1UZfFOw181IrU0pryOV-5V)
-(also see [The Big Bad
-Fox](https://www.google.com/url?q=https://www.google.com/search?q%3Dthe%2Bbig%2Bbad%2Bfox%2Band%2Bother%2Btales%26sxsrf%3DACYBGNS2i8SUWQBUmSWoDiL6hpzNc9qZUg%253a1578194827411%26source%3Dlnms%26tbm%3Disch%26sa%3DX%26ved%3D2ahUKEwjxx8vwwevmAhVkkeAKHSsrBb4Q_AUoAXoECBMQAw%26biw%3D1280%26bih%3D582&sa=D&source=editors&ust=1759597865363872&usg=AOvVaw3CcGSrFK8JKdHQ77WCfdLA))
-& study the
-[film](https://www.google.com/url?q=https://drive.google.com/file/d/1jIfVpa01jScwt2_r9f80yF7VMCJrQDwE/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865363966&usg=AOvVaw0DZVEnm_KEhGOepkbpghVS)(StudioCanal)
+Reference: [STYLE GUIDE](https://www.google.com/url?q=https://drive.google.com/file/d/14cltnvzyeYCKw9d4nj1YBxKKMYZuCgKR/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865363744&usg=AOvVaw1UZfFOw181IrU0pryOV-5V) (also see [The Big Bad Fox](https://www.google.com/url?q=https://www.google.com/search?q%3Dthe%2Bbig%2Bbad%2Bfox%2Band%2Bother%2Btales%26sxsrf%3DACYBGNS2i8SUWQBUmSWoDiL6hpzNc9qZUg%253a1578194827411%26source%3Dlnms%26tbm%3Disch%26sa%3DX%26ved%3D2ahUKEwjxx8vwwevmAhVkkeAKHSsrBb4Q_AUoAXoECBMQAw%26biw%3D1280%26bih%3D582&sa=D&source=editors&ust=1759597865363872&usg=AOvVaw3CcGSrFK8JKdHQ77WCfdLA)) & study the [film](https://www.google.com/url?q=https://drive.google.com/file/d/1jIfVpa01jScwt2_r9f80yF7VMCJrQDwE/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865363966&usg=AOvVaw0DZVEnm_KEhGOepkbpghVS)(StudioCanal)
 
-Designs by Zaza & Zyk (art direction by Stéphane Aubier, Vincent Patar
-and Benjamin Renner)
+Designs by Zaza & Zyk (art direction by Stéphane Aubier, Vincent Patar and Benjamin Renner)
 
-Based on the books by [Gabriel
-Vincent](https://www.google.com/url?q=https://www.google.com/search?sca_esv%3Db9cada862260c26c%26sca_upv%3D1%26rlz%3D1C5CHFA_enCA1088CA1088%26sxsrf%3DADLYWIIYgwJdcfuBWaPPbRdo2u0KPVGoGg:1722734675890%26q%3DErnest%2B%2526%2BCelestine%2Bbook%26udm%3D2%26fbs%3DAEQNm0DPvcmG_nCbmwtBO9j6YBzM68ZanC7g01Skprhw5JoufUv28nkH7BlZuPSVPZEeFf4zEsryEwMB77hXASo0GX6k-t8o-ZW9DI4OVv3_4hsmtvv4wJeJFE-FsZTv76l11JrE03pHlia2Z0BSyd8hEJszevzI2wUPL1_8dIlon9YzSOszw37otQo0etlzoNFrYCc9aO0FjPFj4yaVH9D1PwDhy9XFYQ%26sa%3DX%26ved%3D2ahUKEwi1_JfjltqHAxVhmYkEHb_bJJIQtKgLegQIEBAB%26cshid%3D1722734798417325%26biw%3D1728%26bih%3D902%26dpr%3D2&sa=D&source=editors&ust=1759597865364371&usg=AOvVaw1JGUdXqsPs0ao5Q45h5-7S)
+Based on the books by [Gabriel Vincent](https://www.google.com/url?q=https://www.google.com/search?sca_esv%3Db9cada862260c26c%26sca_upv%3D1%26rlz%3D1C5CHFA_enCA1088CA1088%26sxsrf%3DADLYWIIYgwJdcfuBWaPPbRdo2u0KPVGoGg:1722734675890%26q%3DErnest%2B%2526%2BCelestine%2Bbook%26udm%3D2%26fbs%3DAEQNm0DPvcmG_nCbmwtBO9j6YBzM68ZanC7g01Skprhw5JoufUv28nkH7BlZuPSVPZEeFf4zEsryEwMB77hXASo0GX6k-t8o-ZW9DI4OVv3_4hsmtvv4wJeJFE-FsZTv76l11JrE03pHlia2Z0BSyd8hEJszevzI2wUPL1_8dIlon9YzSOszw37otQo0etlzoNFrYCc9aO0FjPFj4yaVH9D1PwDhy9XFYQ%26sa%3DX%26ved%3D2ahUKEwi1_JfjltqHAxVhmYkEHb_bJJIQtKgLegQIEBAB%26cshid%3D1722734798417325%26biw%3D1728%26bih%3D902%26dpr%3D2&sa=D&source=editors&ust=1759597865364371&usg=AOvVaw1JGUdXqsPs0ao5Q45h5-7S)
 
-\(B\) Patrick McHale\'s Over The Garden Wall
+\(B\) Patrick McHale\'s **Over The Garden Wall**
 
-Reference: [STYLE
-GUIDE](https://www.google.com/url?q=https://drive.google.com/file/d/1zAG-ocWTHwXBQQ_Bt-uzjamEPukwfPIu/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865364613&usg=AOvVaw3_EKDaVJ3JL6VQIhzcNNoy)&
-[ARTBOOK](https://www.google.com/url?q=https://drive.google.com/file/d/10Rnd9vNZTmMIyZgwIavqsg02-f86JvlB/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865364699&usg=AOvVaw1v2T5dKsbGTrnmCfN5rsEa)
+Reference: [STYLE GUIDE](https://www.google.com/url?q=https://drive.google.com/file/d/1zAG-ocWTHwXBQQ_Bt-uzjamEPukwfPIu/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865364613&usg=AOvVaw3_EKDaVJ3JL6VQIhzcNNoy)& [ARTBOOK](https://www.google.com/url?q=https://drive.google.com/file/d/10Rnd9vNZTmMIyZgwIavqsg02-f86JvlB/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865364699&usg=AOvVaw1v2T5dKsbGTrnmCfN5rsEa)
 
-Designs by Nick Cross, Graham Falk, Seo Chung Kim, and Phil Rynda
-(Cartoon Network)
+Designs by Nick Cross, Graham Falk, Seo Chung Kim, and Phil Rynda (Cartoon Network)
 
-\(C\) Nickelodeon\'s DorgVanDango
+\(C\) Nickelodeon\'s **DorgVanDango**
 
-Reference: [STYLE
-GUIDE](https://www.google.com/url?q=https://drive.google.com/file/d/1-wWEg7oqM-9IeNsLkd_bHO_EJvdMTI3T/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865365068&usg=AOvVaw3svfEKEn3ciMGmWZ9Qx4zI)
+Reference: [STYLE GUIDE](https://www.google.com/url?q=https://drive.google.com/file/d/1-wWEg7oqM-9IeNsLkd_bHO_EJvdMTI3T/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865365068&usg=AOvVaw3svfEKEn3ciMGmWZ9Qx4zI)
 
-Designs by Rosa Ballester Cabo and Esther Morales (created by Fabian
-Erlinghäuser & Nora Twomey - Cartoon Saloon)
+Designs by Rosa Ballester Cabo and Esther Morales (created by Fabian Erlinghäuser & Nora Twomey - Cartoon Saloon)
 
-\(D\) Simon Wells's Balto
+\(D\) Simon Wells's **Balto**
 
-Reference: [STYLE
-GUIDE](https://www.google.com/url?q=https://drive.google.com/file/d/13dBFJe80pwFZ-8Nqq_T6lDW-bF-Z2Ocj/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865365448&usg=AOvVaw1dq4F4MhdZH7tOyO3s-3_R)
-(and this [Model
-Pack](https://www.google.com/url?q=https://characterdesignreferences.com/art-of-animation-8/art-of-balto&sa=D&source=editors&ust=1759597865365534&usg=AOvVaw22oIcTBCOlrGH_VO_eNi92))
-\*Must design a quadruped character
+Reference: [STYLE GUIDE](https://www.google.com/url?q=https://drive.google.com/file/d/13dBFJe80pwFZ-8Nqq_T6lDW-bF-Z2Ocj/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865365448&usg=AOvVaw1dq4F4MhdZH7tOyO3s-3_R) (and this [Model Pack](https://www.google.com/url?q=https://characterdesignreferences.com/art-of-animation-8/art-of-balto&sa=D&source=editors&ust=1759597865365534&usg=AOvVaw22oIcTBCOlrGH_VO_eNi92)) \*Must design a quadruped character
 
-Designs by Carlos Grangel, Nicolas Marlet, and Patrick Mate (Art
-Direction by Hans Bacher - Amblin Entertainment/Universal Studios)
+Designs by Carlos Grangel, Nicolas Marlet, and Patrick Mate (Art Direction by Hans Bacher - Amblin Entertainment/Universal Studios)
 
-Informative tutorials on designing quadruped characters: [Part
-1](https://www.google.com/url?q=https://youtu.be/Z9Px68r5BNU?t%3D69&sa=D&source=editors&ust=1759597865365876&usg=AOvVaw3Woeh5Em0J0OloKVFE6Lq-),
-[Part
-2](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DzOy6tcg76jY%26ab_channel%3DGnomon&sa=D&source=editors&ust=1759597865365941&usg=AOvVaw2E6-sdonbSiXP6u_KfqN9y),
-[Part
-3](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DLQARUDTetio%26ab_channel%3DGnomon&sa=D&source=editors&ust=1759597865366004&usg=AOvVaw2dgTJnsy20xb334CfIuYYR)
+Informative tutorials on designing quadruped characters:
 
-Pick one then research & explore the character design style of your
-chosen series/film. Produce 1 new character that would fit in this
-universe.
+- [Part 1](https://www.google.com/url?q=https://youtu.be/Z9Px68r5BNU?t%3D69&sa=D&source=editors&ust=1759597865365876&usg=AOvVaw3Woeh5Em0J0OloKVFE6Lq-),
+- [Part 2](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DzOy6tcg76jY%26ab_channel%3DGnomon&sa=D&source=editors&ust=1759597865365941&usg=AOvVaw2E6-sdonbSiXP6u_KfqN9y),
+- [Part 3](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DLQARUDTetio%26ab_channel%3DGnomon&sa=D&source=editors&ust=1759597865366004&usg=AOvVaw2dgTJnsy20xb334CfIuYYR)
 
-Create a model sheet with a 4pt turnaround \[Tiedown\].
+Pick one then research & explore the character design style of your chosen series/film. Produce 1 new character that would fit in this universe.
 
-Front \| 3/4 Front \| Side \| 3/4 Back
+Create a model sheet with a **4pt turnaround** \[Tiedown\].
 
-This design pack should include 2 other pages; 1 expression sheet with 6
-expression drawings \[Tiedown\], and 1 pose sheet with 4 action poses
-\[Tiedown\].
+**Front** | **3/4 Front** | **Side** | **3/4 Back**
+
+This design pack should include 2 other pages; **1 expression** sheet with **6 expression drawings** \[Tiedown\], and **1 pose sheet** with **4 action poses** \[Tiedown\].
 
 TOTAL of 3 image files (JPG or PNG format)
 
 Dimensions: 3840x2160 pixels @ 300dpi
 
-Support Material
+> Support Material
 
-Ethan Becker is a skilled draftsman, prolific YouTuber and all-around
-madman. Check out these clips on how to refine your own personal style
-and develop some useful techniques:
+Ethan Becker is a skilled draftsman, prolific YouTuber and all-around madman. Check out these clips on how to refine your own personal style and develop some useful techniques:
 
-👉[Draw Gestures with One
-Shape](https://www.google.com/url?q=https://youtu.be/iLIjD-5AgWU&sa=D&source=editors&ust=1759597865367164&usg=AOvVaw0k3HuErEYZmA02g67GmsLn)
-
-👉[Don't Draw From
-Imagination](https://www.google.com/url?q=https://youtu.be/NEvMHRgPdyk&sa=D&source=editors&ust=1759597865367285&usg=AOvVaw27XiF1cOxPfV1POXYAqvrM)
-
-👉[Solidity in Your Designs & Using Reference Part
-1](https://www.google.com/url?q=https://youtu.be/eJG0sEIhRtg?t%3D291&sa=D&source=editors&ust=1759597865367420&usg=AOvVaw3IHgVwCM0ai_wE7mTJV723)
-
-👉[Solidity in Your Designs & Using Reference Part
-2](https://www.google.com/url?q=https://youtu.be/NoGfvVQqKYc?t%3D3&sa=D&source=editors&ust=1759597865367556&usg=AOvVaw3JpFxoIvKRQ1HOAbj8xLU1)
+- 👉[Draw Gestures with One Shape](https://www.google.com/url?q=https://youtu.be/iLIjD-5AgWU&sa=D&source=editors&ust=1759597865367164&usg=AOvVaw0k3HuErEYZmA02g67GmsLn)
+- 👉[Don't Draw From Imagination](https://www.google.com/url?q=https://youtu.be/NEvMHRgPdyk&sa=D&source=editors&ust=1759597865367285&usg=AOvVaw27XiF1cOxPfV1POXYAqvrM)
+- 👉[Solidity in Your Designs & Using Reference Part 1](https://www.google.com/url?q=https://youtu.be/eJG0sEIhRtg?t%3D291&sa=D&source=editors&ust=1759597865367420&usg=AOvVaw3IHgVwCM0ai_wE7mTJV723)
+- 👉[Solidity in Your Designs & Using Reference Part 2](https://www.google.com/url?q=https://youtu.be/NoGfvVQqKYc?t%3D3&sa=D&source=editors&ust=1759597865367556&usg=AOvVaw3JpFxoIvKRQ1HOAbj8xLU1)
 
 ![image](./images/unnamed_1072.png)
-
 ![image](./images/unnamed_747.png)
-
 ![image](./images/unnamed_956.png)
-
 ![image](./images/unnamed_518.png)
-
 ![image](./images/unnamed_837.png)
-
 ![image](./images/unnamed_511.png)
-
 ![image](./images/unnamed_1180.png)
-
 ![image](./images/unnamed_454.png)
-
 ![image](./images/unnamed_952.png)
-
 ![image](./images/unnamed_119.png)
 
 By Mikkel Sommer
 
 ![image](./images/unnamed_956.jpg)
-
 ![image](./images/unnamed_1109.jpg)
-
 ![image](./images/unnamed_1345.jpg)
-
 ![image](./images/unnamed_1299.jpg)
-
 ![image](./images/unnamed_1495.png)
-
 ![image](./images/unnamed_1127.jpg)
-
 ![image](./images/unnamed_1039.jpg)
-
 ![image](./images/unnamed_239.jpg)
-
 ![image](./images/unnamed_004.png)
-
 ![image](./images/unnamed_063.png)
-
 ![image](./images/unnamed_766.jpg)
-
 ![image](./images/unnamed_972.jpg)
-
 ![image](./images/unnamed_1174.jpg)
 
 ### Insight & Guidance
 
-Watch these clips from Ethan Becker:[Finding Your Art
-Style](https://www.google.com/url?q=https://youtu.be/60pxQ_R0lsg?t%3D10&sa=D&source=editors&ust=1759597865368900&usg=AOvVaw32wc89PGciSar6IodU6mkK)/[Art
-Motivation
-Tips](https://www.google.com/url?q=https://youtu.be/-NdkRcvIyzQ&sa=D&source=editors&ust=1759597865368995&usg=AOvVaw1PBH7HnScuGw3rbzRyLh3H)
-
-Watch these clips from Bobby Chiu:[Managing Stress &
-Expectations](https://www.google.com/url?q=https://youtu.be/cn9x-JAOaYQ&sa=D&source=editors&ust=1759597865369146&usg=AOvVaw0-noAgBPhw2x9PZPpzTaTl)/[Advice
-on Your Career as an
-Artist](https://www.google.com/url?q=https://www.youtube.com/playlist?list%3DPLeLw9TDyBUdWJuG8YqgWvW-UcW19_DSFq&sa=D&source=editors&ust=1759597865369261&usg=AOvVaw0lF3a0DGTmaIy9rIHgn1OW)
-
-Watch this clip from [Andrei
-Terbea](https://www.google.com/url?q=https://www.youtube.com/@andrei&sa=D&source=editors&ust=1759597865369370&usg=AOvVaw3HncHRC7XmqmxKAhAcmrFt),
-it applies to any artist & designer: [How I Became an
-Animator](https://www.google.com/url?q=https://youtu.be/mlAyvhc6m9o?t%3D435&sa=D&source=editors&ust=1759597865369472&usg=AOvVaw1xxhnkRfAqoJZVSVm8Mpsh)
-
-Watch this clip from Tim Mcburnie on the reality of the [Character
-Design Process for
-Illustration](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DKH8cGg_ucgc%26ab_channel%3DTimMcburnie-TheDrawingCodex&sa=D&source=editors&ust=1759597865369653&usg=AOvVaw0fgK1k_qJX-SdPtS1cnN75)
+- Watch these clips from Ethan Becker:[Finding Your Art Style](https://www.google.com/url?q=https://youtu.be/60pxQ_R0lsg?t%3D10&sa=D&source=editors&ust=1759597865368900&usg=AOvVaw32wc89PGciSar6IodU6mkK)/[Art Motivation Tips](https://www.google.com/url?q=https://youtu.be/-NdkRcvIyzQ&sa=D&source=editors&ust=1759597865368995&usg=AOvVaw1PBH7HnScuGw3rbzRyLh3H)
+- Watch these clips from Bobby Chiu:[Managing Stress & Expectations](https://www.google.com/url?q=https://youtu.be/cn9x-JAOaYQ&sa=D&source=editors&ust=1759597865369146&usg=AOvVaw0-noAgBPhw2x9PZPpzTaTl)/[Advice on Your Career as an Artist](https://www.google.com/url?q=https://www.youtube.com/playlist?list%3DPLeLw9TDyBUdWJuG8YqgWvW-UcW19_DSFq&sa=D&source=editors&ust=1759597865369261&usg=AOvVaw0lF3a0DGTmaIy9rIHgn1OW)
+- Watch this clip from [Andrei Terbea](https://www.google.com/url?q=https://www.youtube.com/@andrei&sa=D&source=editors&ust=1759597865369370&usg=AOvVaw3HncHRC7XmqmxKAhAcmrFt), it applies to any artist & designer: [How I Became an Animator](https://www.google.com/url?q=https://youtu.be/mlAyvhc6m9o?t%3D435&sa=D&source=editors&ust=1759597865369472&usg=AOvVaw1xxhnkRfAqoJZVSVm8Mpsh)
+- Watch this clip from Tim Mcburnie on the reality of the [Character Design Process for Illustration](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DKH8cGg_ucgc%26ab_channel%3DTimMcburnie-TheDrawingCodex&sa=D&source=editors&ust=1759597865369653&usg=AOvVaw0fgK1k_qJX-SdPtS1cnN75)
 
 ## Assignment #12
 
 Choose from one of the following design styles:
 
-\(A\) Tom McGillis's Total Drama Island
+\(A\) Tom McGillis's **Total Drama Island**
 
-Reference: [STYLE
-GUIDE](https://www.google.com/url?q=https://drive.google.com/file/d/1_-YNlEcfDXhketPIPgWa-gLADc8jq-BM/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865370124&usg=AOvVaw17-atZN4gyS37AnPdyBqSc)
+Reference: [STYLE GUIDE](https://www.google.com/url?q=https://drive.google.com/file/d/1_-YNlEcfDXhketPIPgWa-gLADc8jq-BM/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865370124&usg=AOvVaw17-atZN4gyS37AnPdyBqSc)
 
 Designs by Todd Kauffman
 
-\(B\) WB\'s Green Eggs & Ham
+\(B\) WB\'s **Green Eggs & Ham**
 
-Reference: [STYLE
-GUIDE](https://www.google.com/url?q=https://drive.google.com/file/d/12Jf58tUqTNeP_gEyIVHe3sobjbGYzHRG/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865370412&usg=AOvVaw1d7fWJVea2D2n7We9C9P4I)
+Reference: [STYLE GUIDE](https://www.google.com/url?q=https://drive.google.com/file/d/12Jf58tUqTNeP_gEyIVHe3sobjbGYzHRG/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865370412&usg=AOvVaw1d7fWJVea2D2n7We9C9P4I)
 
 Designs inspired by the works of Theodor Seuss Geisel
 
-\(C\) Nora Twomey\'s The Breadwinner
+\(C\) Nora Twomey\'s **The Breadwinner**
 
-Reference: [STYLE
-GUIDE](https://www.google.com/url?q=https://drive.google.com/file/d/1p8bMK_lpmnljxXQKl9Xij3Hl4UcM6x1k/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865370701&usg=AOvVaw3auKpaDvwAXQPQChKBsZNh)
+Reference: [STYLE GUIDE](https://www.google.com/url?q=https://drive.google.com/file/d/1p8bMK_lpmnljxXQKl9Xij3Hl4UcM6x1k/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865370701&usg=AOvVaw3auKpaDvwAXQPQChKBsZNh)
 
 Designs by Reza Riahi and Ross Stewart (Cartoon Saloon)
 
-\(D\) WB\'s Teen Titans Go!
+\(D\) WB\'s **Teen Titans Go!**
 
-Reference: [STYLE
-GUIDE](https://www.google.com/url?q=https://drive.google.com/file/d/196vudUWQzZshsQrPs2lx4lwE6q74fDl7/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865370997&usg=AOvVaw1Mg2asFhNwNF2d0eaGUOF2)
+Reference: [STYLE GUIDE](https://www.google.com/url?q=https://drive.google.com/file/d/196vudUWQzZshsQrPs2lx4lwE6q74fDl7/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865370997&usg=AOvVaw1Mg2asFhNwNF2d0eaGUOF2)
 
-Designs by [Chris
-Battle](https://www.google.com/url?q=https://chrisbattleart.artstation.com/projects&sa=D&source=editors&ust=1759597865371102&usg=AOvVaw2BEMgnonn17PfPBsNF3_Kx)
-& [Junpei
-Takayama](https://www.google.com/url?q=https://www.artstation.com/junpeitakayama9&sa=D&source=editors&ust=1759597865371172&usg=AOvVaw0brJ6J_3am9wfyyPh7O-7l)(Cartoon
-Network)
+Designs by [Chris Battle](https://www.google.com/url?q=https://chrisbattleart.artstation.com/projects&sa=D&source=editors&ust=1759597865371102&usg=AOvVaw2BEMgnonn17PfPBsNF3_Kx) & [Junpei Takayama](https://www.google.com/url?q=https://www.artstation.com/junpeitakayama9&sa=D&source=editors&ust=1759597865371172&usg=AOvVaw0brJ6J_3am9wfyyPh7O-7l)(Cartoon Network)
 
-\(E\) Disney\'s Mickey Mouse Works
+\(E\) Disney\'s **Mickey Mouse Works**
 
-Reference: [STYLE
-GUIDE](https://www.google.com/url?q=https://drive.google.com/file/d/1abjjpacgmo-CwdiQ4qqLHtyXqEF3dm_O/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865371451&usg=AOvVaw1kOKQFWpZgYc-FbL38xFie)
+Reference: [STYLE GUIDE](https://www.google.com/url?q=https://drive.google.com/file/d/1abjjpacgmo-CwdiQ4qqLHtyXqEF3dm_O/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865371451&usg=AOvVaw1kOKQFWpZgYc-FbL38xFie)
 
-Designs inspired by the legendary works of Carl Barks, Don Rosa, Daan
-Yippes,
-
-Romano Scarpa, Paul Murry, Manuel Gonzales and Floyd Gottfredson
+Designs inspired by the legendary works of Carl Barks, Don Rosa, Daan Yippes, Romano Scarpa, Paul Murry, Manuel Gonzales and Floyd Gottfredson
 
 ---
 
-Once you\'ve chosen one of these properties, produce 1 new character in
-the relevant visual style that would fit in this universe. Create a
-traditional 5-page model pack. The first 2sheets should include a full
-8pt turnaround(samples shown below).
+Once you\'ve chosen one of these properties, produce **1 new character** in the relevant visual style that would fit in this universe. Create a traditional **5-page model pack**. The first **2 sheets** should include a full **8pt turnaround**(samples shown below).
 
-Design all 8 views in full color with clean lines. Include 1 expression
-sheet with 8 expressions (clean, no color), 1 pose sheet with 4 action
-poses (clean, no color), and 1 mouth chart with 10 mouth shapes (clean,
-no color). See the images shown below for reference on how to create the
-expression sheets, action poses, and mouth charts.
+Design all 8 views in **full color** with **clean lines**. Include **1 expression sheet** with **8 expressions** (clean, no color), **1 pose sheet** with **4 action poses** (clean, no color), and **1 mouth chart** with 10 mouth shapes (clean, no color). See the images shown below for reference on how to create the expression sheets, action poses, and mouth charts.
 
-Character Model Pack
+> Character Model Pack
 
-Page 1: Turnaround in color - 4 Views; Front, 3/4 Front Right, Side Right,
-3/4 Back Right
+- **Page 1**: Turnaround in color - 4 Views; Front, 3/4 Front Right, Side Right, 3/4 Back Right
+- **Page 2**: Turnaround in color - 4 Views; Back, 3/4 Back Left, Side Left, 3/4 Front Left
+- **Page 3**: Expressions - 8 clean line art drawings - samples [here](#expression-sheets)
+- **Page 4**: Poses - 4 clean line art drawings - samples [here](#pose-sheets)
+- **Page 5**: Mouth Chart - 10 clean line art drawings - samples [here](#mouth-charts)
 
-Page 2: Turnaround in color - 4 Views; Back, 3/4 Back Left, Side Left, 3/4
-Front Left
-
-Page 3: Expressions - 8 clean line art drawings - samples
-[here](#expression-sheets)
-
-Page 4: Poses - 4 clean line art drawings - samples
-[here](#pose-sheets)
-
-Page 5: Mouth Chart - 10 clean line art drawings - samples
-[here](#mouth-charts)
-
-\[ 30 Design Elements in all \]
+> \[ 30 Design Elements in all \]
 
 TOTAL of 5 image files
 
 Dimensions: 3840x2160 pixels @ 300dpi (JPG or PNG format)
 
-Support Material
+> Support Material
 
-👉 [Kyle Latino's Guide for Character
-Design](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DJJYz76bEBHs%26ab_channel%3DMapCrow&sa=D&source=editors&ust=1759597865373662&usg=AOvVaw2lKgEf6I94tjZlNOwjh9Oi)
-
-👉 [Ergo Josh's Tips on How to
-Improve](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D-RT0pMXWKgU%26ab_channel%3Dergojosh&sa=D&source=editors&ust=1759597865373797&usg=AOvVaw12BIa9LwJh_noZdtpTOyHd)
+- 👉 [Kyle Latino's Guide for Character Design](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DJJYz76bEBHs%26ab_channel%3DMapCrow&sa=D&source=editors&ust=1759597865373662&usg=AOvVaw2lKgEf6I94tjZlNOwjh9Oi)
+- 👉 [Ergo Josh's Tips on How to Improve](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D-RT0pMXWKgU%26ab_channel%3Dergojosh&sa=D&source=editors&ust=1759597865373797&usg=AOvVaw12BIa9LwJh_noZdtpTOyHd)
 
 ### Advice & Tutorials
 
-Intelligent Failing:[Tactics To Apply When
-Drawing](https://www.google.com/url?q=https://youtu.be/7xQ9-JZHPuQ&sa=D&source=editors&ust=1759597865374067&usg=AOvVaw2b6K7XUvpCGQkdw0aNQlA0)
+- Intelligent Failing:[Tactics To Apply When Drawing](https://www.google.com/url?q=https://youtu.be/7xQ9-JZHPuQ&sa=D&source=editors&ust=1759597865374067&usg=AOvVaw2b6K7XUvpCGQkdw0aNQlA0)
+- Brooke Eggleston: [How to Break The Rules](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D0Mr9pyinJJo%26pp%3DygUVdG9uaSBjaGFyYWN0ZXIgZGVzaWdu&sa=D&source=editors&ust=1759597865374202&usg=AOvVaw1mZz4ZOaOwWyAIqn-_ymqI)
+- Drawing from Imagination:[Methods to Learn](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D9NeIFOGJWWQ&sa=D&source=editors&ust=1759597865374332&usg=AOvVaw1MafOfyCfLiH9TNqFa9Yx8)
+- Save this awesome guide from Brittany Myers:[Drawing Tips for Character Design](https://www.google.com/url?q=https://drive.google.com/file/d/1aWP_3wp0-B6p3eObtm_CJP4YKQvfBQXr/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865374508&usg=AOvVaw3yCGdf8maklnib1GQmvBJb)
 
-Brooke Eggleston: [How to Break The
-Rules](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D0Mr9pyinJJo%26pp%3DygUVdG9uaSBjaGFyYWN0ZXIgZGVzaWdu&sa=D&source=editors&ust=1759597865374202&usg=AOvVaw1mZz4ZOaOwWyAIqn-_ymqI)
-
-Drawing from Imagination:[Methods to
-Learn](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D9NeIFOGJWWQ&sa=D&source=editors&ust=1759597865374332&usg=AOvVaw1MafOfyCfLiH9TNqFa9Yx8)
-
-Save this awesome guide from Brittany Myers:[Drawing Tips for Character
-Design](https://www.google.com/url?q=https://drive.google.com/file/d/1aWP_3wp0-B6p3eObtm_CJP4YKQvfBQXr/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865374508&usg=AOvVaw3yCGdf8maklnib1GQmvBJb)
-
-Samples
+> Samples
 
 Page 1 and 2:
 
 ![image](./images/unnamed_1279.jpg)
-
 ![image](./images/unnamed_111.jpg)
 
 \* All views in the rotation must be colored.
 
 ![image](./images/unnamed_581.jpg)
-
 ![image](./images/unnamed_799.jpg)
-
 ![image](./images/unnamed_965.jpg)
 ![image](./images/unnamed_476.jpg)
 
 Be mindful of all asymmetrical elements throughout the rotation.
 
 ![image](./images/unnamed_540.jpg)
-
 ![image](./images/unnamed_068.jpg)
 
 Other samples from various styles:
 
 ![image](./images/unnamed_802.jpg)
-
 ![image](./images/unnamed_1434.png)
-
 ![image](./images/unnamed_433.jpg)
-
 ![image](./images/unnamed_1363.png)
 
 Page 3:
 
 ![image](./images/unnamed_718.jpg)
 ![image](./images/unnamed_393.jpg)
-
 ![image](./images/unnamed_1166.png)
 ![image](./images/unnamed_405.jpg)
-
 ![image](./images/unnamed_517.jpg)
-
 ![image](./images/unnamed_809.png)
 
 Page 4:
 
 ![image](./images/unnamed_1024.jpg)
-
 ![image](./images/unnamed_518.jpg)
-
 ![image](./images/unnamed_1427.jpg)
 ![image](./images/unnamed_234.jpg)
-
 ![image](./images/unnamed_940.jpg)
-
 ![image](./images/unnamed_1193.jpg)
-
 ![image](./images/unnamed_152.png)
 
 Page 5:
@@ -9473,130 +8558,68 @@ Page 5:
 
 \- 10 Mouth Shapes -
 
-A: m, b, p,
-
-B: ee
-
-C: eh, uh
-
-D: A, AH (extreme)
-
-E: oh, er, ur
-
-F: qu, oo, wh
-
-G: v, f, ph
-
-H: L, Th
-
-I: s, g, sh, ch, t, j, k, d, c
+- A: m, b, p,
+- B: ee
+- C: eh, uh
+- D: A, AH (extreme)
+- E: oh, er, ur
+- F: qu, oo, wh
+- G: v, f, ph
+- H: L, Th
+- I: s, g, sh, ch, t, j, k, d, c
 
 ![image](./images/unnamed_504.jpg)
 ![image](./images/unnamed_1267.jpg)
 ![image](./images/unnamed_784.jpg)
 
-\*Bonus Assignment
+## \*Bonus Assignment
 
-Choose from one of the following design styles:
+Choose from **one** of the following design styles:
 
-\(A\) Disney\'s The Owl House
+\(A\) Disney\'s **The Owl House**
 
-Reference: [STYLE
-GUIDE](https://www.google.com/url?q=https://drive.google.com/file/d/1JP6FoUcDpwVaH1tKoG0lW3n1WUQypHIu/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865377125&usg=AOvVaw11ftenynLxerWg2xTx1ltN)
-& [Production
-Design](<https://www.google.com/url?q=https://theowlhouse.fandom.com/wiki/The_Owl_House_(series)/Production_artwork%23Season_1&sa=D&source=editors&ust=1759597865377238&usg=AOvVaw1K1KoaJBUFj-y-zLEKOL_7>)
-& Works from the Art Directors
-[(1)](https://www.google.com/url?q=https://www.rickycometa.com/theowlhouse&sa=D&source=editors&ust=1759597865377324&usg=AOvVaw16JK5788I0zRjY87oIKFUm)[(2)](https://www.google.com/url?q=https://andygflex.squarespace.com/art-direction-the-owl-house-season-3&sa=D&source=editors&ust=1759597865377391&usg=AOvVaw1rMVk0oS-06wKwZULChCfB)
+Reference: [STYLE GUIDE](https://www.google.com/url?q=https://drive.google.com/file/d/1JP6FoUcDpwVaH1tKoG0lW3n1WUQypHIu/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865377125&usg=AOvVaw11ftenynLxerWg2xTx1ltN) & [Production Design](<https://www.google.com/url?q=https://theowlhouse.fandom.com/wiki/The_Owl_House_(series)/Production_artwork%23Season_1&sa=D&source=editors&ust=1759597865377238&usg=AOvVaw1K1KoaJBUFj-y-zLEKOL_7>) & Works from the Art Directors [(1)](https://www.google.com/url?q=https://www.rickycometa.com/theowlhouse&sa=D&source=editors&ust=1759597865377324&usg=AOvVaw16JK5788I0zRjY87oIKFUm)[(2)](https://www.google.com/url?q=https://andygflex.squarespace.com/art-direction-the-owl-house-season-3&sa=D&source=editors&ust=1759597865377391&usg=AOvVaw1rMVk0oS-06wKwZULChCfB)
 
 Designs by Dana Terrace, Matthieu Cousin and Marina Gardner
 
-\(B\) Cartoon Network\'s OK KO!
+\(B\) Cartoon Network\'s **OK KO!**
 
-Reference: [STYLE
-GUIDE](https://www.google.com/url?q=https://drive.google.com/file/d/11upCpkBoIKvLIe1ueku916Zo-WHSTCBa/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865377694&usg=AOvVaw3qx7laOdIe3TrTQ7iuHEF9)
-& this
-[Collage](https://www.google.com/url?q=https://drive.google.com/file/d/1tX-VgqfjTDUM5z1wEQNWJQ3z7H1v9Ct8/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865377775&usg=AOvVaw0drvslgFZ-flHVFKJ5OyXS)
-& this set of [Model
-Sheets](https://www.google.com/url?q=https://ca.pinterest.com/search/pins/?q%3DOK%2520KO!%26rs%3Dtyped&sa=D&source=editors&ust=1759597865377868&usg=AOvVaw2syNHIrKZxaeeciHfC084A)
+Reference: [STYLE GUIDE](https://www.google.com/url?q=https://drive.google.com/file/d/11upCpkBoIKvLIe1ueku916Zo-WHSTCBa/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865377694&usg=AOvVaw3qx7laOdIe3TrTQ7iuHEF9) & this [Collage](https://www.google.com/url?q=https://drive.google.com/file/d/1tX-VgqfjTDUM5z1wEQNWJQ3z7H1v9Ct8/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865377775&usg=AOvVaw0drvslgFZ-flHVFKJ5OyXS) & this set of [Model Sheets](https://www.google.com/url?q=https://ca.pinterest.com/search/pins/?q%3DOK%2520KO!%26rs%3Dtyped&sa=D&source=editors&ust=1759597865377868&usg=AOvVaw2syNHIrKZxaeeciHfC084A)
 
 Designs by Ian Jones-Quartey, Julia Srednicki and Brandon Wu
 
-\(C\) Cartoon Network\'s Final Space
+\(C\) Cartoon Network\'s **Final Space**
 
-Reference: [STYLE
-GUIDE](https://www.google.com/url?q=https://drive.google.com/file/d/1bgnYk5fQHvUTz-UD3HMRn0eWVuqlxbcq/view?usp%3Dshare_link&sa=D&source=editors&ust=1759597865378218&usg=AOvVaw2XPc5-LYSf3Zf_mnvDxhTw)
-& [Model
-Sheets](https://www.google.com/url?q=https://www.google.com/search?sca_esv%3Dc1226c6b046d8663%26sca_upv%3D1%26rlz%3D1C5CHFA_enCA1088CA1088%26sxsrf%3DADLYWIJqczT4ISitC2CYLRt5zIsO_Wm-Hw:1725234865975%26q%3Dfinal%2Bspace%2Bmodel%2Bsheets%26udm%3D2%26fbs%3DAEQNm0A633aOWMcGwo5EkodWqZWQxPIwflRJ4Hu3ORx2YNN2hMyLXvg7YutBzzEkH5jrqRZVNqsK5Bw5ddbAfF-taybgSSQV7ogjWSUk63vkbvL-w4s0QFTv9AVIjLjAdl81dlvIDh7wjHADoJgyfun64VS1oZk63MZ4CuN969CmCBgbDdyPb3dIMBY8Q5HWwZYfbmqMC8CRwmCAAaqPcuJe2VhY9NIkmw%26sa%3DX%26ved%3D2ahUKEwiGtdza-KKIAxW5F1kFHUbnLcMQtKgLegQIEhAB%26biw%3D1728%26bih%3D900%26dpr%3D2%23vhid%3DzVSBg6tuqlFM6M%26vssid%3Dmosaic&sa=D&source=editors&ust=1759597865378433&usg=AOvVaw3TwZCrqMSM8WLjyRz8bl8O)
-& this
-[Collection](https://www.google.com/url?q=https://ca.pinterest.com/mdbxstudios/final-space/&sa=D&source=editors&ust=1759597865378517&usg=AOvVaw2zQhLeLjkxkQFmovvfn9Fa)
+Reference: [STYLE GUIDE](https://www.google.com/url?q=https://drive.google.com/file/d/1bgnYk5fQHvUTz-UD3HMRn0eWVuqlxbcq/view?usp%3Dshare_link&sa=D&source=editors&ust=1759597865378218&usg=AOvVaw2XPc5-LYSf3Zf_mnvDxhTw) & [Model Sheets](https://www.google.com/url?q=https://www.google.com/search?sca_esv%3Dc1226c6b046d8663%26sca_upv%3D1%26rlz%3D1C5CHFA_enCA1088CA1088%26sxsrf%3DADLYWIJqczT4ISitC2CYLRt5zIsO_Wm-Hw:1725234865975%26q%3Dfinal%2Bspace%2Bmodel%2Bsheets%26udm%3D2%26fbs%3DAEQNm0A633aOWMcGwo5EkodWqZWQxPIwflRJ4Hu3ORx2YNN2hMyLXvg7YutBzzEkH5jrqRZVNqsK5Bw5ddbAfF-taybgSSQV7ogjWSUk63vkbvL-w4s0QFTv9AVIjLjAdl81dlvIDh7wjHADoJgyfun64VS1oZk63MZ4CuN969CmCBgbDdyPb3dIMBY8Q5HWwZYfbmqMC8CRwmCAAaqPcuJe2VhY9NIkmw%26sa%3DX%26ved%3D2ahUKEwiGtdza-KKIAxW5F1kFHUbnLcMQtKgLegQIEhAB%26biw%3D1728%26bih%3D900%26dpr%3D2%23vhid%3DzVSBg6tuqlFM6M%26vssid%3Dmosaic&sa=D&source=editors&ust=1759597865378433&usg=AOvVaw3TwZCrqMSM8WLjyRz8bl8O) & this [Collection](https://www.google.com/url?q=https://ca.pinterest.com/mdbxstudios/final-space/&sa=D&source=editors&ust=1759597865378517&usg=AOvVaw2zQhLeLjkxkQFmovvfn9Fa)
 
 Designs by Olan Rogers, Adam Fay, Brad Lewis, Maya Shazvin & Devin Roth
 
 ---
 
-\*For this assignment, it's time to get really in-depth with a full
-character design pack. Produce 1 new character in the relevant visual
-style that would fit in that universe. Create a comprehensive 12-page
-model pack, with a 10-point turnaround showcasing your process going
-into full detail, see below for instructions. This is for you to explore
-the procedure of completing a deep dive on a character pack that would
-go to a builds artist to use to create the final character setup for
-animation purposes. This is all about creating a new and comprehensive
-main character that would be production-ready like you would see in a
-professional character pack, including sheets that show your process and
-initial visual development.
+\*For this assignment, it's time to get really in-depth with a full character design pack. Produce **1 new character** in the relevant visual style that would fit in that universe. Create a **_comprehensive 12-page_** model pack, with a 10-point turnaround showcasing your process going into full detail, see below for instructions. This is for you to explore the procedure of completing a deep dive on a character pack that would go to a builds artist to use to create the final character setup for animation purposes. This is all about creating a new and comprehensive main character that would be production-ready like you would see in a professional character pack, including sheets that show your process and initial visual development.
 
-Character Model Pack
+### Character Model Pack
 
-Page 1:Concept Art (rough) - Have a page full of thumbnails showing
-10-15 exploration sketches
+- _Page 1_: **Concept Art** (rough) - Have a page full of thumbnails showing 10-15 exploration sketches
+- _Page 2_: **Concept Art** (rough) - Have a page full of thumbnails showing 10-15 more exploration sketches
+- _Page 3_: **Turnaround**(color) - 5 views; Front, Left Off-Center, Left Front 3/4, Left Profile, Left Back 3/4
+- _Page 4_: **Turnaround** (color) - 5 views; Back, Right Back 3/4, Right Profile, Right Front 3/4, Right Off Center
+- _Page 5_: **Head Angles** (line art) - 5 drawings of Front head tilted up and down, 10 views of Front 3/4 (left & right sides) head tilted up and down
+- _Page 6_: **Head Angles** (line art) - 10 drawings of Profile (left and right sides) head tilted up and down
+- _Page 7_: **Expressions** (line art) - 8 drawings
+- _Page 8_: **Poses** (tiedown) - 4 drawings
+- _Page 9_: **Poses** (tiedown) - 4 drawings
+- _Page 10_: **Mouth Chart** (line art) - 16 to 20 drawings (two sets of 8-10 happy & 8-10 sad, in 3/4 view)
+- _Page 11_: **Hand Chart** (line art) - 20 drawings (poses of various angles and gestures)
+- _Page 12_: **Color Breakdown** (color) - Create close-ups of certain parts of your design, showing various angles and hidden areas that would reveal more potential design & color options, like close-ups of under the feet, closed eyelids, inner mouth, inside sleeves, inner cuffs or collars, along with any draw-throughs like under the cloak, behind the wings, or any other hard-to-see places.
 
-Page 2:Concept Art (rough) - Have a page full of thumbnails showing
-10-15 more exploration sketches
+> Support Material
 
-Page 3:Turnaround (color) - 5 views; Front, Left Off-Center, Left Front
-3/4, Left Profile, Left Back 3/4
+- 👉 [The Owl House Production Art](https://www.google.com/url?q=https://www.pinterest.ca/pin/347269821275320185/&sa=D&source=editors&ust=1759597865381838&usg=AOvVaw3IachXzLWIdrVhMeRTNX_K)
+- 👉 [OK KO! Production Art](https://www.google.com/url?q=https://www.tumblr.com/ok-ko&sa=D&source=editors&ust=1759597865381951&usg=AOvVaw2SetQUlclIZH6W9KR2fHbC)
+- 👉 [Final Space Production Art](https://www.google.com/url?q=https://fsproductionart.tumblr.com/&sa=D&source=editors&ust=1759597865382056&usg=AOvVaw2gqOfcYntLp1XeVPoTJ23z)
 
-Page 4:Turnaround (color) - 5 views; Back, Right Back 3/4, Right Profile,
-Right Front 3/4, Right Off Center
-
-Page 5:Head Angles (line art) - 5 drawings of Front head tilted up and
-down, 10 views of Front 3/4 (left & right sides) head tilted up and down
-
-Page 6:Head Angles (line art) - 10 drawings of Profile (left and right
-sides) head tilted up and down
-
-Page 7:Expressions (line art) - 8 drawings
-
-Page 8:Poses (tiedown) - 4 drawings
-
-Page 9:Poses (tiedown) - 4 drawings
-
-Page 10:Mouth Chart (line art) - 16 to 20 drawings (two sets of 8-10
-happy & 8-10 sad, in 3/4 view)
-
-Page 11:Hand Chart (line art) - 20 drawings (poses of various angles and
-gestures)
-
-Page 12:Color Breakdown (color) - Create close-ups of certain parts of
-your design, showing various angles and hidden areas that would reveal
-more potential design & color options, like close-ups of under the feet,
-closed eyelids, inner mouth, inside sleeves, inner cuffs or collars,
-along with any draw-throughs like under the cloak, behind the wings, or
-any other hard-to-see places.
-
-Support Material
-
-👉 [The Owl House Production
-Art](https://www.google.com/url?q=https://www.pinterest.ca/pin/347269821275320185/&sa=D&source=editors&ust=1759597865381838&usg=AOvVaw3IachXzLWIdrVhMeRTNX_K)
-
-👉 [OK KO! Production
-Art](https://www.google.com/url?q=https://www.tumblr.com/ok-ko&sa=D&source=editors&ust=1759597865381951&usg=AOvVaw2SetQUlclIZH6W9KR2fHbC)
-
-👉 [Final Space Production
-Art](https://www.google.com/url?q=https://fsproductionart.tumblr.com/&sa=D&source=editors&ust=1759597865382056&usg=AOvVaw2gqOfcYntLp1XeVPoTJ23z)
-
-Samples for each page (with various unrelated styles):
+> Samples for each page (with various unrelated styles):
 
 CONCEPT ART
 
@@ -9617,14 +8640,15 @@ EXPRESSION SHEET
 POSE SHEETS
 
 ![image](./images/unnamed_1323.jpg)
-
 ![image](./images/unnamed_932.jpg)
 
 MOUTH CHARTS
 
 ![image](./images/unnamed_046.jpg)
 
-HAND CHART![image](./images/unnamed_1391.jpg)
+HAND CHART
+
+![image](./images/unnamed_1391.jpg)
 
 COLOR BREAKDOWN
 
@@ -9634,127 +8658,46 @@ COLOR BREAKDOWN
 
 ## Conclusion
 
-Here is an extended wrap-up to this crash course, with lots more info on
-how to get ready, how to continue with your training, how to branch off
-into other aspects of this industry, and how to proceed with seeking out
-employment in character design. This covers the many avenues for you to
-choose from and expand upon, how to continue on your journey to improve
-further, and what to expect as you get into this field.
+Here is an extended wrap-up to this crash course, with lots more info on how to get ready, how to continue with your training, how to branch off into other aspects of this industry, and how to proceed with seeking out employment in character design. This covers the many avenues for you to choose from and expand upon, how to continue on your journey to improve further, and what to expect as you get into this field.
 
 ![image](./images/unnamed_1313.jpg)
 
 ### Advice for the Aspiring Character Designer
 
-Practice Turn Arounds
+- **Practice Turn Arounds**
+  - Because turns are so important to the TV animation [pipeline](https://www.google.com/url?q=https://youtu.be/BO7IaOW-8kE&sa=D&source=editors&ust=1759597865384072&usg=AOvVaw2tokit8D8FdrUICJHE6K_u), knowing how to rotate a character properly is essential in showing off your skills and how to be useful in the design team.
+- **Be Familiar with Mouth Charts**
+  - Less integral than turns since most shows teach you their in-house system for mouth charts, but researching what the standard mouth shapes are and memorizing them is a good way to prepare, this way you only need to adapt them to the style you will be doing them for.
+  - ![image](./images/unnamed_979.png)
+- **Draw Animals**
+  - Nothing really shows your draftsmanship skills quite like drawing a horse or giraffe. Practice drawing animals because inevitably, there will be a time when you have to draw one as a character designer. See if you can stylize animal anatomy in different ways.
+  - ![image](./images/unnamed_111.png)
+  - By Ben Balistreri
+- **Hoard Images**
+  - Professional character designers usually have massive collections of photo references of things that inspire them. Save photos of outfits, hairdos, people, poses, images of models sheets and sketches from various artists and styles \-- Anything that sparks your imagination. Keep them organized in lots of folders.
+- **Keep your Layers Organized**
+  - In TV animation, one Photoshop file is passed from artist to artist through the pipeline so a messy layering/labeling system can be a nightmare for whoever touches your file next. Always strive to be organized when setting up your photoshop files so that you are kind to whoever has to deal with it next.
+  - ![image](./images/unnamed_1568.png)
+  - By Jerimiah Alcorn
+- **Work on Speed**
+  - The entire character design industry can be summed up in 4 words: **GOOD DESIGNS, ON TIME**
+  - This is NEVER easy. The demand for quality and quantity on a relentless deadline-based weekly schedule, will ALWAYS be challenging. Practice managing your time, and try different techniques and tools to help you stay focused and on track. Practice drawing more efficiently, work on saving sites and resources that are fast to use to have at your fingertips for searching for references. Organize your own folders of saved imagery and website links archived and easy to access.
+- **Stay Healthy**
+  - Here is a document about how to prevent repetitive stress disorder and other injuries that can happen from drawing for too many hours, and how to prevent harm to your body from working at a computer for long periods of time. It comes with some advice on exercising, nutrition, sleep, and how to manage burn-out: [Health & Wellness](https://www.google.com/url?q=https://docs.google.com/document/d/11OWpLcDsZP59U7uBHylBGnuluoCN0aQECIQLzzcTcVE/edit%23heading%3Dh.ytbhtjjy2b7x&sa=D&source=editors&ust=1759597865386996&usg=AOvVaw3flaxP5njRjcXKzu6lxGYH)
+  - ![image](./images/unnamed_1440.jpg)
+- **Just Keep on Drawing**
+  - More than other positions in TV animation, a character designer needs to really know how to DRAW. To what level of draftsmanship? This depends on the type of show, but being a strong illustrator with a wide array of skillsets will only make you a more desirable character artist... and will ultimately help you maintain longevity in your career. Stay motivated, start doing the work, become focused, don't overthink everything, choose action over everything else, [watch this!](https://www.google.com/url?q=https://youtu.be/XrsGG1Jyjew&sa=D&source=editors&ust=1759597865387660&usg=AOvVaw1UPi4jlzw5ipDTIq7JAuO8)
 
-Because turns are so important to the TV animation
-[pipeline](https://www.google.com/url?q=https://youtu.be/BO7IaOW-8kE&sa=D&source=editors&ust=1759597865384072&usg=AOvVaw2tokit8D8FdrUICJHE6K_u),
-knowing how to rotate a character properly is essential in showing off
-your skills and how to be useful in the design team.
+> "When you just grab the instrument, keyboard, or pen, you just need to start, just do something, anything, you'll realize it happens almost by itself, you become the conduit for that creative energy that was waiting to flow out. You keep your ego out of it, it happens on its own, it just will pour out of you, but you need to get started first. When it comes to art, you can't wait to be ready, you can't tell yourself you're not prepared and not ready to start, you just need to start, right away, no matter what." \- Robert Rodriguez
 
-Be Familiar with Mouth Charts
-
-Less integral than turns since most shows teach you their in-house
-system for mouth charts, but researching what the standard mouth shapes
-are and memorizing them is a good way to prepare, this way you only need
-to adapt them to the style you will be doing them for.
-
-![image](./images/unnamed_979.png)
-
-Draw Animals
-
-Nothing really shows your draftsmanship skills quite like drawing a
-horse or giraffe. Practice drawing animals because inevitably, there
-will be a time when you have to draw one as a character designer. See if
-you can stylize animal anatomy in different ways.
-
-![image](./images/unnamed_111.png)
-
-By Ben Balistreri
-
-Hoard Images
-
-Professional character designers usually have massive collections of
-photo references of things that inspire them. Save photos of outfits,
-hairdos, people, poses, images of models sheets and sketches from
-various artists and styles \-- Anything that sparks your imagination.
-Keep them organized in lots of folders.
-
-Keep your Layers Organized
-
-In TV animation, one Photoshop file is passed from artist to artist
-through the pipeline so a messy layering/labeling system can be a
-nightmare for whoever touches your file next. Always strive to be
-organized when setting up your photoshop files so that you are kind to
-whoever has to deal with it next.
-
-![image](./images/unnamed_1568.png)
-
-By Jerimiah Alcorn
-
-Work on Speed
-
-The entire character design industry can be summed up in 4 words: GOOD
-DESIGNS, ON TIME
-
-This is NEVER easy. The demand for quality and quantity on a relentless
-deadline-based weekly schedule, will ALWAYS be challenging. Practice
-managing your time, and try different techniques and tools to help you
-stay focused and on track. Practice drawing more efficiently, work on
-saving sites and resources that are fast to use to have at your
-fingertips for searching for references. Organize your own folders of
-saved imagery and website links archived and easy to access.
-
-Stay Healthy
-
-Here is a document about how to prevent repetitive stress disorder and
-other injuries that can happen from drawing for too many hours, and how
-to prevent harm to your body from working at a computer for long periods
-of time. It comes with some advice on exercising, nutrition, sleep, and
-how to manage burn-out: [Health &
-Wellness](https://www.google.com/url?q=https://docs.google.com/document/d/11OWpLcDsZP59U7uBHylBGnuluoCN0aQECIQLzzcTcVE/edit%23heading%3Dh.ytbhtjjy2b7x&sa=D&source=editors&ust=1759597865386996&usg=AOvVaw3flaxP5njRjcXKzu6lxGYH)
-
-![image](./images/unnamed_1440.jpg)
-
-Just Keep on Drawing
-
-More than other positions in TV animation, a character designer needs to
-really know how to DRAW. To what level of draftsmanship? This depends on
-the type of show, but being a strong illustrator with a wide array of
-skillsets will only make you a more desirable character artist... and
-will ultimately help you maintain longevity in your career. Stay
-motivated, start doing the work, become focused, don't overthink
-everything, choose action over everything else, [watch
-this!](https://www.google.com/url?q=https://youtu.be/XrsGG1Jyjew&sa=D&source=editors&ust=1759597865387660&usg=AOvVaw1UPi4jlzw5ipDTIq7JAuO8)
-
-"When you just grab the instrument, keyboard, or pen, you just need to
-start, just do something, anything, you'll realize it happens almost by
-itself, you become the conduit for that creative energy that was waiting
-to flow out. You keep your ego out of it, it happens on its own, it just
-will pour out of you, but you need to get started first. When it comes
-to art, you can't wait to be ready, you can't tell yourself you're not
-prepared and not ready to start, you just need to start, right away, no
-matter what."
-
-\- Robert Rodriguez
-
-How to be more efficient:
-
-- Drawing - Develop your drawing skills to create compelling visuals
-  and show off the various styles you can do
-- Research - Find and collect references from all types of sources to
-  find inspiration
-- Storytelling - Understand how your characters fit into the narrative
-  and how they relate to each other
-- Digital tools - Practice on the software; Photoshop, Illustrator,
-  Clip Studio Paint and Procreate
-- Keep learning - Make sure to collect as many
-  [books](https://www.google.com/url?q=https://characterdesignreferences.com/books&sa=D&source=editors&ust=1759597865389002&usg=AOvVaw1qc2RBHqTK5M0q73WcFwCh)
-  as you can, along with any well-established [anatomy
-  books](https://www.google.com/url?q=https://conceptartempire.com/best-human-anatomy-books/&sa=D&source=editors&ust=1759597865389116&usg=AOvVaw18fZil4MQ1n6U6AV_FERU2)
+- **How to be more efficient:**
+  - **Drawing** - Develop your drawing skills to create compelling visuals and show off the various styles you can do
+  - **Research** - Find and collect references from all types of sources to find inspiration
+  - **Storytelling** - Understand how your characters fit into the narrative and how they relate to each other
+  - **Digital tools** - Practice on the software; Photoshop, Illustrator, Clip Studio Paint and Procreate
+  - **Keep learning** - Make sure to collect as many [books](https://www.google.com/url?q=https://characterdesignreferences.com/books&sa=D&source=editors&ust=1759597865389002&usg=AOvVaw1qc2RBHqTK5M0q73WcFwCh) as you can, along with any well-established [anatomy books](https://www.google.com/url?q=https://conceptartempire.com/best-human-anatomy-books/&sa=D&source=editors&ust=1759597865389116&usg=AOvVaw18fZil4MQ1n6U6AV_FERU2)
 
 ![image](./images/unnamed_1247.jpg)
-
 ![image](./images/unnamed_542.jpg)
 ![image](./images/unnamed_1337.jpg)
 ![image](./images/unnamed_742.jpg)
@@ -9763,299 +8706,125 @@ How to be more efficient:
 
 Strong character design portfolios usually have some key features:
 
-Show you have a range of styles - especially in TV animation, chances
-are you will need to bounce between several different types of shows
-with different styles.
+Show you have a range of styles - especially in TV animation, chances are you will need to bounce between several different types of shows with different styles.
 
-A good way to show your breadth as a designer is to have 3 vastly
-different styles at the top of your portfolio.
+A good way to show your breadth as a designer is to have 3 vastly different styles at the top of your portfolio.
 
 For Example:
 
-1- Your personal style/comfort zone
+1. Your personal style/comfort zone
+2. Super cartoony/simplified/stylized
+3. Very anatomically-accurate/realistic
 
-2- Super cartoony/simplified/stylized
-
-3- Very anatomically-accurate/realistic
-
-TV animation has designers who know how to become chameleons. A good
-strategy for showcasing your design chops is to create one main project
-in your comfort zone style. Showcase your handle on Emotion and
-Storytelling and Draftsmanship by using a pre-existing property and
-create a new character in your own native style. Create character
-lineups, poses, expressions, vignettes and scenarios, showing their
-personalities and how they interact.
+TV animation has designers who know how to become chameleons. A good strategy for showcasing your design chops is to create one main project in your comfort zone style. Showcase your handle on Emotion and Storytelling and Draftsmanship by using a pre-existing property and create a new character in your own native style. Create character lineups, poses, expressions, vignettes and scenarios, showing their personalities and how they interact.
 
 ![image](./images/unnamed_536.png)
 
-Consider showing your preliminary sketches and explorations of different
-potential takes of a character. The other 2 styles (super cartoony and
-realistic/anatomical) don't need to be of the same project, just nice
-lineups of characters to show you can switch styles readily. The
-specific design languages don't matter, those are just choices to make
-and to stick to for the specific personality and intentions behind the
-character's design.
+Consider showing your preliminary sketches and explorations of different potential takes of a character. The other 2 styles (super cartoony and realistic/anatomical) don't need to be of the same project, just nice lineups of characters to show you can switch styles readily. The specific design languages don't matter, those are just choices to make and to stick to for the specific personality and intentions behind the character's design.
 
-Practice your techniques to adjust your drawing style to suit various
-shows: [Inspire Multiple Designs From One
-Idea](https://www.google.com/url?q=https://youtu.be/g1jggviRYME?t%3D97&sa=D&source=editors&ust=1759597865391167&usg=AOvVaw2VcgVo6hNNbtLlsczVvODm)
+Practice your techniques to adjust your drawing style to suit various shows: [Inspire Multiple Designs From One Idea](https://www.google.com/url?q=https://youtu.be/g1jggviRYME?t%3D97&sa=D&source=editors&ust=1759597865391167&usg=AOvVaw2VcgVo6hNNbtLlsczVvODm)
 
 ![image](./images/unnamed_759.png) ![image](./images/unnamed_689.jpg)
 
-For one or two characters in your portfolio - show your progression
-stages, employers like to see your thought process:
+For one or two characters in your portfolio - show your progression stages, employers like to see your thought process:
 
 ![image](./images/unnamed_620.jpg)
-
 ![image](./images/unnamed_834.jpg)
 
-There's no one correct way to present your characters in your portfolio,
-only some principles to follow to make your designs clear in your
-layouts to make things visually appealing. When thinking about how to
-present your characters, follow the patterns other designers take - keep
-it simple and inviting. A common way of displaying your work is to
-combine the turnarounds with head angles/expressions and a full-figure
-pose off to the side like this:
+There's no one correct way to present your characters in your portfolio, only some principles to follow to make your designs clear in your layouts to make things visually appealing. When thinking about how to present your characters, follow the patterns other designers take - keep it simple and inviting. A common way of displaying your work is to combine the turnarounds with head angles/expressions and a full-figure pose off to the side like this:
 
 ![image](./images/unnamed_827.jpg)
 
 Displaying a wide range of designs, shows your versatility.
 
 ![image](./images/unnamed_337.png)
-
 ![image](./images/unnamed_1579.png)
-
 ![image](./images/unnamed_083.jpg)
-
 ![image](./images/unnamed_423.png)
-
 ![image](./images/unnamed_722.jpg)
 
 Variations of the same type of template is fun and easy to make:
 
 ![image](./images/unnamed_1497.png)
 
-Create an account with one of these;
-[artstation](https://www.google.com/url?q=https://www.artstation.com/&sa=D&source=editors&ust=1759597865392623&usg=AOvVaw0ejODzV5bleakLSl-tWK1x),
-[behance](https://www.google.com/url?q=http://www.behance.com/&sa=D&source=editors&ust=1759597865392683&usg=AOvVaw2_YTFMl6JM1JGjtGIzwJ_c),
-[carbonmade](https://www.google.com/url?q=http://www.carbonmade.com/&sa=D&source=editors&ust=1759597865392740&usg=AOvVaw03eV8-tlNS0JxBoJf2pQeo),
-[myportfolio](https://www.google.com/url?q=https://portfolio.adobe.com/&sa=D&source=editors&ust=1759597865392798&usg=AOvVaw3g1L0-jvanlgQw1_4uX80q),
-[wix](https://www.google.com/url?q=http://www.wix.com/&sa=D&source=editors&ust=1759597865392864&usg=AOvVaw3GvxUNC7DqLQgDI2k-HuZC),[blogger](https://www.google.com/url?q=http://www.blogger.com/&sa=D&source=editors&ust=1759597865392929&usg=AOvVaw2mcdxB4xVaJSa7x12vJHfV),[weebly](https://www.google.com/url?q=http://www.weebly.com/&sa=D&source=editors&ust=1759597865392991&usg=AOvVaw1DRT5FiB1uLCz1zWNCYODZ),[dribbble](https://www.google.com/url?q=http://www.dribbble.com/&sa=D&source=editors&ust=1759597865393069&usg=AOvVaw1h6YmvKOlsyEjULme75_C3),[format](https://www.google.com/url?q=http://www.format.com/&sa=D&source=editors&ust=1759597865393136&usg=AOvVaw2gmU_SFy56flPL-FHFQx6Y),
-[google](https://www.google.com/url?q=https://sites.google.com/&sa=D&source=editors&ust=1759597865393188&usg=AOvVaw0em3C8UrHIkxZEM9_ZJkcJ),
-or any other free portfolio-making site of your choice. There\'s dozens
-to choose from, they all do the same thing, research through them, find
-the one that you like best, and sign up for it. What you\'ll do with it
-is very simple: you don\'t need anything fancy; you\'re just displaying
-your work, and it's good to show some versions with your exploration
-sketches, rough pass, clean lineart and some color. The important thing
-is to have your contact info visible everywhere, to keep your site
-simple, easy-to-navigate, and only having your very best work on
-display.
+Create an account with one of these; [artstation](https://www.google.com/url?q=https://www.artstation.com/&sa=D&source=editors&ust=1759597865392623&usg=AOvVaw0ejODzV5bleakLSl-tWK1x), [behance](https://www.google.com/url?q=http://www.behance.com/&sa=D&source=editors&ust=1759597865392683&usg=AOvVaw2_YTFMl6JM1JGjtGIzwJ_c), [carbonmade](https://www.google.com/url?q=http://www.carbonmade.com/&sa=D&source=editors&ust=1759597865392740&usg=AOvVaw03eV8-tlNS0JxBoJf2pQeo), [myportfolio](https://www.google.com/url?q=https://portfolio.adobe.com/&sa=D&source=editors&ust=1759597865392798&usg=AOvVaw3g1L0-jvanlgQw1_4uX80q), [wix](https://www.google.com/url?q=http://www.wix.com/&sa=D&source=editors&ust=1759597865392864&usg=AOvVaw3GvxUNC7DqLQgDI2k-HuZC),[blogger](https://www.google.com/url?q=http://www.blogger.com/&sa=D&source=editors&ust=1759597865392929&usg=AOvVaw2mcdxB4xVaJSa7x12vJHfV),[weebly](https://www.google.com/url?q=http://www.weebly.com/&sa=D&source=editors&ust=1759597865392991&usg=AOvVaw1DRT5FiB1uLCz1zWNCYODZ),[dribbble](https://www.google.com/url?q=http://www.dribbble.com/&sa=D&source=editors&ust=1759597865393069&usg=AOvVaw1h6YmvKOlsyEjULme75_C3),[format](https://www.google.com/url?q=http://www.format.com/&sa=D&source=editors&ust=1759597865393136&usg=AOvVaw2gmU_SFy56flPL-FHFQx6Y), [google](https://www.google.com/url?q=https://sites.google.com/&sa=D&source=editors&ust=1759597865393188&usg=AOvVaw0em3C8UrHIkxZEM9_ZJkcJ), or any other free portfolio-making site of your choice. There\'s dozens to choose from, they all do the same thing, research through them, find the one that you like best, and sign up for it. What you\'ll do with it is very simple: you don\'t need anything fancy; you\'re just displaying your work, and it's good to show some versions with your exploration sketches, rough pass, clean lineart and some color. The important thing is to have your **contact info** visible everywhere, to keep your site simple, easy-to-navigate, and only having your very **best work** on display.
 
-Have at least 10 different character design turnarounds (4pt, or more)
-in your portfolio. Show some variety in your progress and design packs:
-rough explorations with clean or colored works, only show your very
-best. Showing your process helps employers see what your thoughts are
-while creating and they always appreciate that.
+Have at least 10 different character design turnarounds (4pt, or more) in your portfolio. Show some variety in your progress and design packs: rough explorations with clean or colored works, only show your very best. Showing your process helps employers see what your thoughts are while creating and they always appreciate that.
 
-For inspiration, here's samples of just a random few top-notch
-professionals and their portfolio sites:
+For inspiration, here's samples of just a random few top-notch professionals and their portfolio sites:
 
-[Adam
-Fay](https://www.google.com/url?q=https://adamfayillustration.com/final-space&sa=D&source=editors&ust=1759597865394243&usg=AOvVaw2xkRD0MWswn_BaFD459VWl)
-[Justin
-Rodrigues](https://www.google.com/url?q=https://www.justindraws.com/production-work&sa=D&source=editors&ust=1759597865394318&usg=AOvVaw1CpsiIjQNr462AthTIRLKK)
-[Megan
-Phonesavanh](https://www.google.com/url?q=https://www.savanconcepts.com/character-design&sa=D&source=editors&ust=1759597865394392&usg=AOvVaw2eol1iakSa56au0thZc0T5)
+- [Adam Fay](https://www.google.com/url?q=https://adamfayillustration.com/final-space&sa=D&source=editors&ust=1759597865394243&usg=AOvVaw2xkRD0MWswn_BaFD459VWl)
+- [Justin Rodrigues](https://www.google.com/url?q=https://www.justindraws.com/production-work&sa=D&source=editors&ust=1759597865394318&usg=AOvVaw1CpsiIjQNr462AthTIRLKK)
+- [Megan Phonesavanh](https://www.google.com/url?q=https://www.savanconcepts.com/character-design&sa=D&source=editors&ust=1759597865394392&usg=AOvVaw2eol1iakSa56au0thZc0T5)
+- [Anya Butler](https://www.google.com/url?q=https://www.meppity.com/character-design&sa=D&source=editors&ust=1759597865394474&usg=AOvVaw0hffThiQ5LsqAXtXMabjD7)
+- [Nikita Greer](https://www.google.com/url?q=https://nikitag.myportfolio.com/character&sa=D&source=editors&ust=1759597865394539&usg=AOvVaw24l4B1JWIP4aIXgX7r3YWa)
+- [Moss Lawto](https://www.google.com/url?q=https://www.dinolich.com/llustration&sa=D&source=editors&ust=1759597865394602&usg=AOvVaw2f3f7h-O026IwoMbaxm_eR)
+- [Steve Lambe](https://www.google.com/url?q=https://www.stevelambe.com/portfolio/characterdesign&sa=D&source=editors&ust=1759597865394690&usg=AOvVaw3VDWwIbG126-0UMdQXlV_P)
+- [Hong Soonsang](https://www.google.com/url?q=https://www.behance.net/soonsang&sa=D&source=editors&ust=1759597865394752&usg=AOvVaw1BhVHG23T1aT8pBoSZ01Mj)
+- [Chris Ables](https://www.google.com/url?q=https://www.chrisablesart.com/misc&sa=D&source=editors&ust=1759597865394815&usg=AOvVaw247rDj3i38nq9PKXET_8--)
+- [Rian Trost](https://www.google.com/url?q=https://www.artstation.com/riantrost&sa=D&source=editors&ust=1759597865394905&usg=AOvVaw0kOuwHwRnyDn-ETQ-OG6un)
+- [Anya Butler](https://www.google.com/url?q=https://www.meppity.com/character-design&sa=D&source=editors&ust=1759597865394974&usg=AOvVaw3MsNp5JZ8Q9GBs5vF3d4nS)
+- [Fabien Mense](https://www.google.com/url?q=https://www.artstation.com/fabien-mense&sa=D&source=editors&ust=1759597865395038&usg=AOvVaw0-XUR2PbTpnhA5AFFz7THq)
+- [Chris Battle](https://www.google.com/url?q=https://chrisbattleart.artstation.com/projects&sa=D&source=editors&ust=1759597865395130&usg=AOvVaw0m2cJfk1q0BvyUKMIZuOmx)
+- [Matt Utsunmoyia](https://www.google.com/url?q=https://matthewutsunomiya.myportfolio.com/character-design&sa=D&source=editors&ust=1759597865395207&usg=AOvVaw13eDHZ8eaF8NEorX0eqZ8F)
+- [Danny Hynes](https://www.google.com/url?q=https://dannyhynesportfolio.tumblr.com/&sa=D&source=editors&ust=1759597865395270&usg=AOvVaw3_8JhMp1cKqlKxVJupS7Yg)
+- [Jenny Calabro](https://www.google.com/url?q=https://jennycalabro.carbonmade.com/&sa=D&source=editors&ust=1759597865395354&usg=AOvVaw0J8LSZMQR0mnv13zwH7IGF)
+- [Joel Mackenzie](https://www.google.com/url?q=https://joel-mackenzie.com/%23/characterdesigns/&sa=D&source=editors&ust=1759597865395422&usg=AOvVaw1M5b2VlD3wL4OIMXk_6Z4A)
+- [Scott MacDonald](https://www.google.com/url?q=https://scottkmacdonald.com/PRODUCTION-DESIGN&sa=D&source=editors&ust=1759597865395495&usg=AOvVaw2h3rIbcCuuZqjmamJCSLL5)
+- [Bassem Salman](https://www.google.com/url?q=https://www.behance.net/gallery/68787177/Character-Design-Zone-Zero&sa=D&source=editors&ust=1759597865395590&usg=AOvVaw0u4imz-DF4zucuHTOtgJef)
+- [Delaney Januzzi](https://www.google.com/url?q=https://delaneyjanuzzi.com/character-design-1&sa=D&source=editors&ust=1759597865395664&usg=AOvVaw3oIuwKAF668XUrjBqdO16u)
+- [Deanna Marsigliese](https://www.google.com/url?q=https://www.dmarsigliese.com/film/i2?itemId%3Dy5q37gtsfd0os1hkaiyzm1m5bvza48&sa=D&source=editors&ust=1759597865395745&usg=AOvVaw1rJVWla5fRHVdGWjA8GA9R)
+- [Rebecca Chan](https://www.google.com/url?q=https://rebeccachan.portfoliobox.net/oni&sa=D&source=editors&ust=1759597865395832&usg=AOvVaw2FIA20HKlae2rNjACTwp8s)
+- [Karl Cruz](https://www.google.com/url?q=https://karlcruz.com/&sa=D&source=editors&ust=1759597865395886&usg=AOvVaw3YjiOJD0j0BDSwG1ykYgsu)
+- [Sarah Doo](https://www.google.com/url?q=https://sarahdooart.com/character&sa=D&source=editors&ust=1759597865395946&usg=AOvVaw0olkMQ4nRB1KRR6g2rkEpw)
+- [Kat Hudson](https://www.google.com/url?q=https://www.kathudsonart.com/character-design&sa=D&source=editors&ust=1759597865396026&usg=AOvVaw191S2tG7-bOYRLTslzM_g5)
+- [Hollie Mengert](https://www.google.com/url?q=https://holliemengert.com/characterdesign&sa=D&source=editors&ust=1759597865396096&usg=AOvVaw2FG4GtSHTmrIm3LQP-4MXn)
+- [Isabella Ceravolo](https://www.google.com/url?q=https://www.isabellaceravolo.com/portfolio-character-designer-storyboard-artist-colorscript/&sa=D&source=editors&ust=1759597865396185&usg=AOvVaw0EJFD4scjle5UFAHRLiQ2V)
+- [Uwe Heidschötter](https://www.google.com/url?q=https://www.heidschoetter.com/&sa=D&source=editors&ust=1759597865396272&usg=AOvVaw0CnlUTA0zdq0v1yV8BnUes)
+- [Harley Huang](https://www.google.com/url?q=https://www.harleyhuang.com/portfolio&sa=D&source=editors&ust=1759597865396334&usg=AOvVaw3BNXTEL0u1wgRW2f-niaud)
+- [Aaron Belcha](https://www.google.com/url?q=https://www.monstersquid.com/character-design&sa=D&source=editors&ust=1759597865396401&usg=AOvVaw08ZUYjgQU5KIj7lfK1tTun)
+- [Maxime Mary](https://www.google.com/url?q=https://www.artstation.com/maximemary&sa=D&source=editors&ust=1759597865396487&usg=AOvVaw3rF9AH70-QtnJw4iOx7nKg)
+- [Steven Silver](https://www.google.com/url?q=https://www.silvertoons.com/portfolio-tv&sa=D&source=editors&ust=1759597865396552&usg=AOvVaw0QU5mkZX6wstAPLPbZDaBr)
+- [Rayner Alencar](https://www.google.com/url?q=https://www.artstation.com/rayneralencar&sa=D&source=editors&ust=1759597865396623&usg=AOvVaw0gCoWd--7V26yJJxvVZQNQ)
+- [Kal Athannassov](https://www.google.com/url?q=https://www.artofkalathannassov.com/&sa=D&source=editors&ust=1759597865396710&usg=AOvVaw0B9vKS6dM-G6V4fA2Uxcc0)
+- [Kat Hudson](https://www.google.com/url?q=https://www.kathudsonart.com/character-design&sa=D&source=editors&ust=1759597865396812&usg=AOvVaw3l5krATAdT6fx19ibC1x-I)
+- [Charlie Faulks](https://www.google.com/url?q=https://charliefaulks.com/character-design&sa=D&source=editors&ust=1759597865396882&usg=AOvVaw3kVeOPeTtpSgnLD3B7OIJ0)
+- [Nic Parris](https://www.google.com/url?q=https://www.nicparris.com/character-designs&sa=D&source=editors&ust=1759597865396964&usg=AOvVaw2o79LStPenUZKGtS1w32zE)
+- [Thai Phuong](https://www.google.com/url?q=https://thaiphuong.net/character-design&sa=D&source=editors&ust=1759597865397028&usg=AOvVaw2_I695u5ROSbRawdGd0tXl)
+- [Daniel Casas](https://www.google.com/url?q=https://www.hebrocharacterdesign.com/&sa=D&source=editors&ust=1759597865397098&usg=AOvVaw3XkPdh6qPAsTOcKeP-dHcL)
+- [George Crosbie](https://www.google.com/url?q=https://www.georgecrosbie.com/&sa=D&source=editors&ust=1759597865397180&usg=AOvVaw2uFTIMmXiqixsVBNXSELtu)
+- [Alison Donato](https://www.google.com/url?q=https://alisondonato.format.com/%23_%3D_&sa=D&source=editors&ust=1759597865397245&usg=AOvVaw3ndnMkgijOQLnG1CqWQgbi)
 
-[Anya
-Butler](https://www.google.com/url?q=https://www.meppity.com/character-design&sa=D&source=editors&ust=1759597865394474&usg=AOvVaw0hffThiQ5LsqAXtXMabjD7)
-[Nikita
-Greer](https://www.google.com/url?q=https://nikitag.myportfolio.com/character&sa=D&source=editors&ust=1759597865394539&usg=AOvVaw24l4B1JWIP4aIXgX7r3YWa)
-[Moss
-Lawto](https://www.google.com/url?q=https://www.dinolich.com/llustration&sa=D&source=editors&ust=1759597865394602&usg=AOvVaw2f3f7h-O026IwoMbaxm_eR)
+View these portfolios as solid examples of what YOU can achieve after a few years of experience! It's easy to be intimidated by the refined styles of these pro illustrators and designers and the sleek layout of their portfolios \-- These high standards take years to slowly build up and achieve. But remember: the quality of your designs will depend on the time you spent on them and how much research and preparation you've done beforehand. If you are worried about having no production experience \-- it still truly doesn't matter...
 
-[Steve
-Lambe](https://www.google.com/url?q=https://www.stevelambe.com/portfolio/characterdesign&sa=D&source=editors&ust=1759597865394690&usg=AOvVaw3VDWwIbG126-0UMdQXlV_P)
-[Hong
-Soonsang](https://www.google.com/url?q=https://www.behance.net/soonsang&sa=D&source=editors&ust=1759597865394752&usg=AOvVaw1BhVHG23T1aT8pBoSZ01Mj)
-[Chris
-Ables](https://www.google.com/url?q=https://www.chrisablesart.com/misc&sa=D&source=editors&ust=1759597865394815&usg=AOvVaw247rDj3i38nq9PKXET_8--)
+Your portfolio is meant to display your vast potential to your employers. If you DO have experience, then your résumé (LinkedIn) can show off your list of jobs and skill sets, along with listings of what productions you've worked on in the past, including any personal projects and courses you've taken, no matter how small the tasks and work you've done, include EVERYTHING.
 
-[Rian
-Trost](https://www.google.com/url?q=https://www.artstation.com/riantrost&sa=D&source=editors&ust=1759597865394905&usg=AOvVaw0kOuwHwRnyDn-ETQ-OG6un)
-[Anya
-Butler](https://www.google.com/url?q=https://www.meppity.com/character-design&sa=D&source=editors&ust=1759597865394974&usg=AOvVaw3MsNp5JZ8Q9GBs5vF3d4nS)
-[Fabien
-Mense](https://www.google.com/url?q=https://www.artstation.com/fabien-mense&sa=D&source=editors&ust=1759597865395038&usg=AOvVaw0-XUR2PbTpnhA5AFFz7THq)
+- 👉 [Portfolio Tips by Laura Price](https://www.google.com/url?q=https://youtu.be/cQMSfmzQVS0?t%3D47&sa=D&source=editors&ust=1759597865398323&usg=AOvVaw1EjBB64v1NI7aYQ0jOxhor)
+- 👉 [Portfolio Tips by Jackie Droujko](https://www.google.com/url?q=https://www.youtube.com/watch?v%3Db3fk659zNAU%26list%3DPL5i0TPST7aSikyQminIuRowKvKIXYqKS2%26ab_channel%3DJackieDroujko&sa=D&source=editors&ust=1759597865398462&usg=AOvVaw2_rkEZoD8ewqqeGfKbH6N4)
 
-[Chris
-Battle](https://www.google.com/url?q=https://chrisbattleart.artstation.com/projects&sa=D&source=editors&ust=1759597865395130&usg=AOvVaw0m2cJfk1q0BvyUKMIZuOmx)
-[Matt
-Utsunmoyia](https://www.google.com/url?q=https://matthewutsunomiya.myportfolio.com/character-design&sa=D&source=editors&ust=1759597865395207&usg=AOvVaw13eDHZ8eaF8NEorX0eqZ8F)
-[Danny
-Hynes](https://www.google.com/url?q=https://dannyhynesportfolio.tumblr.com/&sa=D&source=editors&ust=1759597865395270&usg=AOvVaw3_8JhMp1cKqlKxVJupS7Yg)
+Your portfolio site should always be focused on keeping the very best of your designs on display. Always think about clear and simple page layouts, and indicate you are more than willing to receive and complete their design tests when submitting your applications. Your skills, your dedication, and work ethic will ALWAYS matter most to employers.
 
-[Jenny
-Calabro](https://www.google.com/url?q=https://jennycalabro.carbonmade.com/&sa=D&source=editors&ust=1759597865395354&usg=AOvVaw0J8LSZMQR0mnv13zwH7IGF)
-[Joel
-Mackenzie](https://www.google.com/url?q=https://joel-mackenzie.com/%23/characterdesigns/&sa=D&source=editors&ust=1759597865395422&usg=AOvVaw1M5b2VlD3wL4OIMXk_6Z4A)
-[Scott
-MacDonald](https://www.google.com/url?q=https://scottkmacdonald.com/PRODUCTION-DESIGN&sa=D&source=editors&ust=1759597865395495&usg=AOvVaw2h3rIbcCuuZqjmamJCSLL5)
-
-[Bassem
-Salman](https://www.google.com/url?q=https://www.behance.net/gallery/68787177/Character-Design-Zone-Zero&sa=D&source=editors&ust=1759597865395590&usg=AOvVaw0u4imz-DF4zucuHTOtgJef)
-[Delaney
-Januzzi](https://www.google.com/url?q=https://delaneyjanuzzi.com/character-design-1&sa=D&source=editors&ust=1759597865395664&usg=AOvVaw3oIuwKAF668XUrjBqdO16u)
-[Deanna
-Marsigliese](https://www.google.com/url?q=https://www.dmarsigliese.com/film/i2?itemId%3Dy5q37gtsfd0os1hkaiyzm1m5bvza48&sa=D&source=editors&ust=1759597865395745&usg=AOvVaw1rJVWla5fRHVdGWjA8GA9R)
-
-[Rebecca
-Chan](https://www.google.com/url?q=https://rebeccachan.portfoliobox.net/oni&sa=D&source=editors&ust=1759597865395832&usg=AOvVaw2FIA20HKlae2rNjACTwp8s)
-[Karl
-Cruz](https://www.google.com/url?q=https://karlcruz.com/&sa=D&source=editors&ust=1759597865395886&usg=AOvVaw3YjiOJD0j0BDSwG1ykYgsu)
-[Sarah
-Doo](https://www.google.com/url?q=https://sarahdooart.com/character&sa=D&source=editors&ust=1759597865395946&usg=AOvVaw0olkMQ4nRB1KRR6g2rkEpw)
-
-[Kat
-Hudson](https://www.google.com/url?q=https://www.kathudsonart.com/character-design&sa=D&source=editors&ust=1759597865396026&usg=AOvVaw191S2tG7-bOYRLTslzM_g5)
-[Hollie
-Mengert](https://www.google.com/url?q=https://holliemengert.com/characterdesign&sa=D&source=editors&ust=1759597865396096&usg=AOvVaw2FG4GtSHTmrIm3LQP-4MXn)
-[Isabella
-Ceravolo](https://www.google.com/url?q=https://www.isabellaceravolo.com/portfolio-character-designer-storyboard-artist-colorscript/&sa=D&source=editors&ust=1759597865396185&usg=AOvVaw0EJFD4scjle5UFAHRLiQ2V)
-
-[Uwe
-Heidschötter](https://www.google.com/url?q=https://www.heidschoetter.com/&sa=D&source=editors&ust=1759597865396272&usg=AOvVaw0CnlUTA0zdq0v1yV8BnUes)
-[Harley
-Huang](https://www.google.com/url?q=https://www.harleyhuang.com/portfolio&sa=D&source=editors&ust=1759597865396334&usg=AOvVaw3BNXTEL0u1wgRW2f-niaud)
-[Aaron
-Belcha](https://www.google.com/url?q=https://www.monstersquid.com/character-design&sa=D&source=editors&ust=1759597865396401&usg=AOvVaw08ZUYjgQU5KIj7lfK1tTun)
-
-[Maxime
-Mary](https://www.google.com/url?q=https://www.artstation.com/maximemary&sa=D&source=editors&ust=1759597865396487&usg=AOvVaw3rF9AH70-QtnJw4iOx7nKg)
-[Steven
-Silver](https://www.google.com/url?q=https://www.silvertoons.com/portfolio-tv&sa=D&source=editors&ust=1759597865396552&usg=AOvVaw0QU5mkZX6wstAPLPbZDaBr)
-[Rayner
-Alencar](https://www.google.com/url?q=https://www.artstation.com/rayneralencar&sa=D&source=editors&ust=1759597865396623&usg=AOvVaw0gCoWd--7V26yJJxvVZQNQ)
-
-[Kal
-Athannassov](https://www.google.com/url?q=https://www.artofkalathannassov.com/&sa=D&source=editors&ust=1759597865396710&usg=AOvVaw0B9vKS6dM-G6V4fA2Uxcc0)
-[Kat
-Hudson](https://www.google.com/url?q=https://www.kathudsonart.com/character-design&sa=D&source=editors&ust=1759597865396812&usg=AOvVaw3l5krATAdT6fx19ibC1x-I)
-[Charlie
-Faulks](https://www.google.com/url?q=https://charliefaulks.com/character-design&sa=D&source=editors&ust=1759597865396882&usg=AOvVaw3kVeOPeTtpSgnLD3B7OIJ0)
-
-[Nic
-Parris](https://www.google.com/url?q=https://www.nicparris.com/character-designs&sa=D&source=editors&ust=1759597865396964&usg=AOvVaw2o79LStPenUZKGtS1w32zE)
-[Thai
-Phuong](https://www.google.com/url?q=https://thaiphuong.net/character-design&sa=D&source=editors&ust=1759597865397028&usg=AOvVaw2_I695u5ROSbRawdGd0tXl)
-[Daniel
-Casas](https://www.google.com/url?q=https://www.hebrocharacterdesign.com/&sa=D&source=editors&ust=1759597865397098&usg=AOvVaw3XkPdh6qPAsTOcKeP-dHcL)
-
-[George
-Crosbie](https://www.google.com/url?q=https://www.georgecrosbie.com/&sa=D&source=editors&ust=1759597865397180&usg=AOvVaw2uFTIMmXiqixsVBNXSELtu)
-[Alison
-Donato](https://www.google.com/url?q=https://alisondonato.format.com/%23_%3D_&sa=D&source=editors&ust=1759597865397245&usg=AOvVaw3ndnMkgijOQLnG1CqWQgbi)
-
-View these portfolios as solid examples of what YOU can achieve after a
-few years of experience! It's easy to be intimidated by the refined
-styles of these pro illustrators and designers and the sleek layout of
-their portfolios \-- These high standards take years to slowly build up
-and achieve. But remember: the quality of your designs will depend on
-the time you spent on them and how much research and preparation you've
-done beforehand. If you are worried about having no production
-experience \-- it still truly doesn't matter...
-
-Your portfolio is meant to display your vast potential to your
-employers. If you DO have experience, then your résumé (LinkedIn) can
-show off your list of jobs and skill sets, along with listings of what
-productions you've worked on in the past, including any personal
-projects and courses you've taken, no matter how small the tasks and
-work you've done, include EVERYTHING.
-
-👉 [Portfolio Tips by Laura
-Price](https://www.google.com/url?q=https://youtu.be/cQMSfmzQVS0?t%3D47&sa=D&source=editors&ust=1759597865398323&usg=AOvVaw1EjBB64v1NI7aYQ0jOxhor)
-
-👉 [Portfolio Tips by Jackie
-Droujko](https://www.google.com/url?q=https://www.youtube.com/watch?v%3Db3fk659zNAU%26list%3DPL5i0TPST7aSikyQminIuRowKvKIXYqKS2%26ab_channel%3DJackieDroujko&sa=D&source=editors&ust=1759597865398462&usg=AOvVaw2_rkEZoD8ewqqeGfKbH6N4)
-
-Your portfolio site should always be focused on keeping the very best of
-your designs on display. Always think about clear and simple page
-layouts, and indicate you are more than willing to receive and complete
-their design tests when submitting your applications. Your skills, your
-dedication, and work ethic will ALWAYS matter most to employers.
-
-If you're showcasing samples of your character designs created from the
-exercises off this site or just your own original creations (or a bit of
-both), know that your portfolio site is primarily there to present your
-diversity in the styles you are capable of producing and the potential
-you have at being a solid worker. Your portfolio needs to show your
-range as an artist, keep things simple and straight-forward, remember,
-the bigger range of different styles you show, the more employable it
-will make you, but only show your most high quality work.
+If you're showcasing samples of your character designs created from the exercises off this site or just your own original creations (or a bit of both), know that your portfolio site is primarily there to present your diversity in the styles you are capable of producing and the potential you have at being a solid worker. Your portfolio needs to show your range as an artist, keep things simple and straight-forward, remember, the bigger range of different styles you show, the more employable it will make you, but only show your most high quality work.
 
 ![image](./images/unnamed_026.jpg)
 
-If you happen to be humble, timid, stoic, shy, soft spoken, introverted,
-or nervous \-- that's totally fine! A studio head, talent recruiter,
-employer, director, or producer will always want you more for your
-skills, ideas, resourcefulness, creativity and artistic abilities above
-all else. Be aware of the fact that the odds of anyone stumbling upon
-your portfolio by random chance are very, very slim. You need to reach
-out to studios, their talent recruitment person, HR person, line
-producer, operations manager, whoever it may be, and give them the link
-to your work and ask if they have a test for you to complete, or any
-jobs you could do for them.
+If you happen to be humble, timid, stoic, shy, soft spoken, introverted, or nervous \-- that's totally fine! A studio head, talent recruiter, employer, director, or producer will always want you more for your skills, ideas, resourcefulness, creativity and artistic abilities above all else. Be aware of the fact that the odds of anyone stumbling upon your portfolio by random chance are very, very slim. You need to reach out to studios, their talent recruitment person, HR person, line producer, operations manager, whoever it may be, and give them the link to your work and ask if they have a test for you to complete, or any jobs you could do for them.
 
 ![image](./images/unnamed_478.jpg)
 
-Skill and methodology evolves over time, be patient. Know that everyone
-draws, sketches and designs differently and in their own way. Even with
-a short résumé and little-to-no experience \> don't be discouraged! You
-can apply for other types of design work within the [studio
-pipeline](https://www.google.com/url?q=https://youtu.be/AcLeBajc38I&sa=D&source=editors&ust=1759597865400383&usg=AOvVaw0kWqAu7ITg2O_rvSX3VbJg)
-to get started and to get your experience points built up; Prop
-Designer, Character Clean-up Artist, Character Design Assistant, or
-Design Revisionist are just some of the alternatives and common
-first-jobs you can get in the design department of an animation studio.
-Ask them about how to start off as a junior artist or a design intern -
-they're all excellent ways to get your foot-in-the-door, it's all about
-how to get your start, convince them to give you a chance, to complete
-some tests to show your skills or to have you on a short internship. See
-advice
-[here](https://www.google.com/url?q=http://www.poopinmymouth.com/tutorials/money-mouth-paper.html&sa=D&source=editors&ust=1759597865401073&usg=AOvVaw0_KGF0RN7yovpV_dBR2X0A)
-for those wanting to break into video game design.
+Skill and methodology evolves over time, be patient. Know that everyone draws, sketches and designs differently and in their own way. Even with a short résumé and little-to-no experience \> don't be discouraged! You can apply for other types of design work within the [studio pipeline](https://www.google.com/url?q=https://youtu.be/AcLeBajc38I&sa=D&source=editors&ust=1759597865400383&usg=AOvVaw0kWqAu7ITg2O_rvSX3VbJg) to get started and to get your experience points built up; Prop Designer, Character Clean-up Artist, Character Design Assistant, or Design Revisionist are just some of the alternatives and common first-jobs you can get in the design department of an animation studio. Ask them about how to start off as a junior artist or a design intern - they're all excellent ways to get your foot-in-the-door, it's all about how to get your start, convince them to give you a chance, to complete some tests to show your skills or to have you on a short internship. See advice [here](https://www.google.com/url?q=http://www.poopinmymouth.com/tutorials/money-mouth-paper.html&sa=D&source=editors&ust=1759597865401073&usg=AOvVaw0_KGF0RN7yovpV_dBR2X0A) for those wanting to break into video game design.
 
-Then it's your responsibility to do the best work you can as fast as you
-can, show them you have some potential to grow, learn, to be helpful and
-useful to their design team at the very least. While you are waiting for
-work, keep drawing and keep adding to your portfolio!
+Then it's your responsibility to do the best work you can as fast as you can, show them you have some potential to grow, learn, to be helpful and useful to their design team at the very least. While you are waiting for work, keep drawing and keep adding to your portfolio!
 
-👉 [Find Your
-Specialty](https://www.google.com/url?q=https://youtu.be/7qaf6niW2eI&sa=D&source=editors&ust=1759597865401478&usg=AOvVaw0Yx2sSJ1BfmElgA1AggEbV)
+- 👉 [Find Your Specialty](https://www.google.com/url?q=https://youtu.be/7qaf6niW2eI&sa=D&source=editors&ust=1759597865401478&usg=AOvVaw0Yx2sSJ1BfmElgA1AggEbV)
+- 👉 [Getting Noticed Online](https://www.google.com/url?q=https://www.clipstudio.net/how-to-draw/archives/155402&sa=D&source=editors&ust=1759597865401586&usg=AOvVaw12mEo3BX5yTe2dHuVceWFW)
+- 👉 [How to Network in this Industry](https://www.google.com/url?q=https://youtu.be/e8g_nqbEpAw&sa=D&source=editors&ust=1759597865401691&usg=AOvVaw2YSMlQhy5t7CkbCkNmyJlz)
+- 👉 [Process for Creating Your Portfolio](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DhHoFS-PyS5M&sa=D&source=editors&ust=1759597865401802&usg=AOvVaw28DQzwZTcxKosv1SulnGwy)
+- 👉 [Collection of Various Designers' Portfolios](https://www.google.com/url?q=https://carbonmade.com/portfolios/character-design&sa=D&source=editors&ust=1759597865401926&usg=AOvVaw0zwogNFgo8yC3TZqZOkDHX)
 
-👉 [Getting Noticed
-Online](https://www.google.com/url?q=https://www.clipstudio.net/how-to-draw/archives/155402&sa=D&source=editors&ust=1759597865401586&usg=AOvVaw12mEo3BX5yTe2dHuVceWFW)
+To add a bit of variety in your portfolio you can create casts of characters as a group together...
 
-👉 [How to Network in this
-Industry](https://www.google.com/url?q=https://youtu.be/e8g_nqbEpAw&sa=D&source=editors&ust=1759597865401691&usg=AOvVaw2YSMlQhy5t7CkbCkNmyJlz)
-
-👉 [Process for Creating Your
-Portfolio](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DhHoFS-PyS5M&sa=D&source=editors&ust=1759597865401802&usg=AOvVaw28DQzwZTcxKosv1SulnGwy)
-
-👉 [Collection of Various Designers'
-Portfolios](https://www.google.com/url?q=https://carbonmade.com/portfolios/character-design&sa=D&source=editors&ust=1759597865401926&usg=AOvVaw0zwogNFgo8yC3TZqZOkDHX)
-
-To add a bit of variety in your portfolio you can create casts of
-characters as a group together...
-
-Try this! \> Design a family portrait: 6 characters (full body) -
-Mother, Father, Daughter, Son, Grandmother, and house Pet (dog, cat,
-iguana, or anything). Choices in their attitudes/expressions will help
-to define their moods in this moment. Are they all happy, sad, angry,
-bored? A mixture of all these? Their hair and clothing choices are
-important in depicting what type of family they are and what time period
-they may be from. Pose them as a group together. Have fun with it.
+Try this! \> Design a family portrait: **6 characters** (full body) - Mother, Father, Daughter, Son, Grandmother, and house Pet (dog, cat, iguana, or anything). Choices in their attitudes/expressions will help to define their moods in this moment. Are they all happy, sad, angry, bored? A mixture of all these? Their hair and clothing choices are important in depicting what type of family they are and what time period they may be from. Pose them as a group together. Have fun with it.
 
 ![image](./images/unnamed_1270.jpg)
 
@@ -10063,685 +8832,313 @@ For extra effort, add more family members, and in color!
 
 ![image](./images/unnamed_302.jpg)
 
-Try this! \> Design a classroom of kids: Pick any design style you're
-most comfortable with, and create a school classroom group photo,
-showcasing 16 characters of 2nd grade kids. This will have you think
-about what their distinctly unique personalities, clothing, hairstyles,
-postures and expressions are.
+Try this! \> Design a classroom of kids: Pick any design style you're most comfortable with, and create a school classroom group photo, showcasing **16 characters** of 2nd grade kids. This will have you think about what their distinctly unique personalities, clothing, hairstyles, postures and expressions are.
 
 ![image](./images/unnamed_938.jpg)
 
-Try this! \> Design a group from a fantasy roleplaying adventure game: 4
-characters - a Barbarian, a Thief (Rogue), a Wizard (Sorcerer), and a
-Warrior (Fighter). Add more if you wish, like a Bard, a Knight, a
-Ranger, a Cleric, or a Monk. Pose them together as a team.
+Try this! \> Design a group from a fantasy roleplaying adventure game: **4 characters** - a Barbarian, a Thief (Rogue), a Wizard (Sorcerer), and a Warrior (Fighter). Add more if you wish, like a Bard, a Knight, a Ranger, a Cleric, or a Monk. Pose them together as a team.
 
 ![image](./images/unnamed_473.jpg)
 ![image](./images/unnamed_1156.jpg)
 ![image](./images/unnamed_637.jpg)
 ![image](./images/unnamed_321.jpg)
-
 ![image](./images/unnamed_1205.jpg)
-
 ![image](./images/unnamed_005.jpg)
 
-Color and texture is not necessary, but a welcome bonus.
+> Color and texture is not necessary, but a welcome bonus.
 
 Including pieces like these add originality to your portfolio!
 
-Exploring how your character would look at various ages can help you
-discover certain aspects about them and have you see your character in a
-different way, which can help your visual development process for your
-personal work. A nice exercise to produce for your portfolio would be to
-pick ANY one character, from your own creation or not, and re-draw them
-at various ages. As an example - showing them as a baby, toddler, child,
-teenager, adult, older adult and elder. This can be a great 7-stage
-progression of character designs to showcase:
+Exploring how your character would look at various ages can help you discover certain aspects about them and have you see your character in a different way, which can help your visual development process for your personal work. A nice exercise to produce for your portfolio would be to pick ANY one character, from your own creation or not, and re-draw them at **various ages**. As an example - showing them as a baby, toddler, child, teenager, adult, older adult and elder. This can be a great 7-stage progression of character designs to showcase:
 
 ![image](./images/unnamed_060.jpg)
 ![image](./images/unnamed_1404.jpg)
 
-Suggested ages you could draw the same character at: 1, 5, 10, 16, 30,
-60, 90
+Suggested ages you could draw the same character at: 1, 5, 10, 16, 30, 60, 90
 
-When can you update your portfolio with your new work?
+#### When can you update your portfolio with your new work?
 
-The question is often raised about WHEN should you post the designs in
-your portfolio you've made for a client or studio?
+The question is often raised about WHEN should you post the designs in your portfolio you've made for a client or studio?
 
-You've worked on a contract for a few months, the production has come to
-an end, but there's still many months, possibly over a year before the
-designs you've made are animated, completed, and broadcast/streamed to
-the public.
+You've worked on a contract for a few months, the production has come to an end, but there's still many months, possibly over a year before the designs you've made are animated, completed, and broadcast/streamed to the public.
 
-In nearly ALL cases, executives and studios do not allow the release of
-any visual material (online or anywhere) before all the episodes have
-come out. Therefore, unfortunately you cannot post your work in a
-portfolio update or social media posts until the animated property has
-been released. Afterwards you're good to publish your work and update
-the online portfolio.
+In nearly ALL cases, executives and studios do not allow the release of any visual material (online or anywhere) before all the episodes have come out. Therefore, unfortunately you cannot post your work in a portfolio update or social media posts until the animated property has been released. Afterwards you're good to publish your work and update the online portfolio.
 
-For your own personal projects and characters of your own creation, of
-course, update your portfolio with these as soon as you can.
+For your own personal projects and characters of your own creation, of course, update your portfolio with these as soon as you can.
 
-Copyrights
+#### Copyrights
 
-To dispel any myths about the dangers of copyright laws for what you are
-permitted to place in your portfolio - here\'s a breakdown of the two
-possible scenarios\...
+To dispel any myths about the dangers of copyright laws for what you are permitted to place in your portfolio - here\'s a breakdown of the two possible scenarios\...
 
-This is YOUR own drawings of a new character in a few established styles
-from four different animated series:
+This is YOUR own drawings of a new character in a few **established styles** from four different animated series:
 
 ![image](./images/unnamed_1408.png)
 
-This is based upon the character [Walter
-White](https://www.google.com/url?q=https://www.google.com/search?sca_esv%3Dc7b0050babf1fbf5%26rlz%3D1C5CHFA_enCA1088CA1088%26sxsrf%3DAHTn8zr0lOgIhfwYjwkpxJS8TNK8QuUSgA:1740851625458%26q%3Dwalter%2Bwhite%26udm%3D2%26fbs%3DABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBsxayPSIAqObp_AgjkUGqekYoUzDaOcDDjQfK4KpR2OIjj43mhrQBsMJgHY2LSx-SUj4wz68xSZ8iYTfqgrdxb3MJvHOMODdIcpti-xYMckL_DuO7Mno3LlWlsnznPPjfINcnPSb3s0mY1_Udv3xmGYGwDe_3zR2JNQT7OndwaUM5c3nJw%26sa%3DX%26sqi%3D2%26ved%3D2ahUKEwjOyvfVuemLAxXEl4kEHbezCjwQtKgLegQIEBAB%26biw%3D1728%26bih%3D931%26dpr%3D2&sa=D&source=editors&ust=1759597865406347&usg=AOvVaw3UAqw1Xc20JJm3ystAzlIl)
-from the live-action series Breaking Bad.
+This is based upon the character [Walter White](https://www.google.com/url?q=https://www.google.com/search?sca_esv%3Dc7b0050babf1fbf5%26rlz%3D1C5CHFA_enCA1088CA1088%26sxsrf%3DAHTn8zr0lOgIhfwYjwkpxJS8TNK8QuUSgA:1740851625458%26q%3Dwalter%2Bwhite%26udm%3D2%26fbs%3DABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBsxayPSIAqObp_AgjkUGqekYoUzDaOcDDjQfK4KpR2OIjj43mhrQBsMJgHY2LSx-SUj4wz68xSZ8iYTfqgrdxb3MJvHOMODdIcpti-xYMckL_DuO7Mno3LlWlsnznPPjfINcnPSb3s0mY1_Udv3xmGYGwDe_3zR2JNQT7OndwaUM5c3nJw%26sa%3DX%26sqi%3D2%26ved%3D2ahUKEwjOyvfVuemLAxXEl4kEHbezCjwQtKgLegQIEBAB%26biw%3D1728%26bih%3D931%26dpr%3D2&sa=D&source=editors&ust=1759597865406347&usg=AOvVaw3UAqw1Xc20JJm3ystAzlIl) from the live-action series Breaking Bad.
 
-And this is a drawing of a known established character in YOUR own
-style:
+And this is a drawing of a known **established character** in YOUR own style:
 
 ![image](./images/unnamed_1323.png)
 
-A re-imagined version of the character [Homer
-Simpson](https://www.google.com/url?q=https://www.google.com/search?sca_esv%3Dc7b0050babf1fbf5%26rlz%3D1C5CHFA_enCA1088CA1088%26sxsrf%3DAHTn8zoKR1bd-_ZVocuwcGZYXRpJq8cFHQ:1740851837936%26q%3Dhomer%2Bsimpson%26udm%3D2%26fbs%3DABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBtmuEdhfywyzhendkLDnhcoz2MIB1dVLatL09WpR-ccvCtXxLsflwELstGgc_oBVxoK4Y7T8UZBBji5dx0E-6JCZtb88GLeioJvf13V8cdv9FYgiL5szuOUJ0w6xwrJWcyDs6JuHP_xCa0SbN996ttYO3TvnwAq2QD8IAs5lRRpoX6hrnw%26sa%3DX%26sqi%3D2%26ved%3D2ahUKEwjeo6C7uumLAxUQhIkEHW6VEdMQtKgLegQIEBAB%26biw%3D1728%26bih%3D931%26dpr%3D2&sa=D&source=editors&ust=1759597865406860&usg=AOvVaw2OVqByZYjyeFkaV0pw5iUs).
+A re-imagined version of the character [Homer Simpson](https://www.google.com/url?q=https://www.google.com/search?sca_esv%3Dc7b0050babf1fbf5%26rlz%3D1C5CHFA_enCA1088CA1088%26sxsrf%3DAHTn8zoKR1bd-_ZVocuwcGZYXRpJq8cFHQ:1740851837936%26q%3Dhomer%2Bsimpson%26udm%3D2%26fbs%3DABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBtmuEdhfywyzhendkLDnhcoz2MIB1dVLatL09WpR-ccvCtXxLsflwELstGgc_oBVxoK4Y7T8UZBBji5dx0E-6JCZtb88GLeioJvf13V8cdv9FYgiL5szuOUJ0w6xwrJWcyDs6JuHP_xCa0SbN996ttYO3TvnwAq2QD8IAs5lRRpoX6hrnw%26sa%3DX%26sqi%3D2%26ved%3D2ahUKEwjeo6C7uumLAxUQhIkEHW6VEdMQtKgLegQIEBAB%26biw%3D1728%26bih%3D931%26dpr%3D2&sa=D&source=editors&ust=1759597865406860&usg=AOvVaw2OVqByZYjyeFkaV0pw5iUs).
 
 Both are NOT infringing on any copyrights.
 
-According to copyright law: drawing a known character in your own style
-is generally considered acceptable as long as you significantly alter
-the original character\'s design (or appearance if it's based upon an
-existing actor/celebrity/person), adding your own unique creative
-elements, and not simply copying the core features and appearance of a
-copyrighted character; essentially, you are protected by the
-\"derivative work\" and [Fair
-Use](https://www.google.com/url?q=https://www.google.com/search?q%3Dfair%2Buse%2Bcopyright%26rlz%3D1C5CHFA_enCA1088CA1088%26oq%3Dfair%2Buse%26gs_lcrp%3DEgZjaHJvbWUqBwgBEAAYgAQyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDM1ODRqMGo3qAIAsAIA%26sourceid%3Dchrome%26ie%3DUTF-8&sa=D&source=editors&ust=1759597865407544&usg=AOvVaw16C_-4HhbzbhntSt4BP-fv)
-concept, where you\'re expressing the original idea in a substantially
-different way through your artistic interpretation; and there are no
-laws preventing you from drawing new characters resembling a pre
-existing established style of design for any intellectual property of
-any kind.
+According to copyright law: drawing a known character in your own style is generally considered acceptable as long as you significantly alter the original character\'s design (or appearance if it's based upon an existing actor/celebrity/person), adding your own unique creative elements, and not simply copying the core features and appearance of a copyrighted character; essentially, you are protected by the \"derivative work\" and [Fair Use](https://www.google.com/url?q=https://www.google.com/search?q%3Dfair%2Buse%2Bcopyright%26rlz%3D1C5CHFA_enCA1088CA1088%26oq%3Dfair%2Buse%26gs_lcrp%3DEgZjaHJvbWUqBwgBEAAYgAQyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDM1ODRqMGo3qAIAsAIA%26sourceid%3Dchrome%26ie%3DUTF-8&sa=D&source=editors&ust=1759597865407544&usg=AOvVaw16C_-4HhbzbhntSt4BP-fv) concept, where you\'re expressing the original idea in a substantially different way through your artistic interpretation; and there are no laws preventing you from drawing new characters resembling a pre existing established style of design for any intellectual property of any kind.
 
-Source:
-[(](https://www.google.com/url?q=https://www.aspectlg.com/posts/copyright-in-characters-what-can-i-use%23:~:text%3DFor%2520characters%252C%2520the%2520character%2520only,character%2520created%2520by%2520the%2520artist.&sa=D&source=editors&ust=1759597865407920&usg=AOvVaw3akKXie6bmWK9EIW7cmbAG)[1](https://www.google.com/url?q=https://www.aspectlg.com/posts/copyright-in-characters-what-can-i-use%23:~:text%3DFor%2520characters%252C%2520the%2520character%2520only,character%2520created%2520by%2520the%2520artist.&sa=D&source=editors&ust=1759597865407997&usg=AOvVaw11xmJroIGrXNsq8W8y3u9D)[)](https://www.google.com/url?q=https://www.aspectlg.com/posts/copyright-in-characters-what-can-i-use%23:~:text%3DFor%2520characters%252C%2520the%2520character%2520only,character%2520created%2520by%2520the%2520artist.&sa=D&source=editors&ust=1759597865408075&usg=AOvVaw2g5QZ1Cu9cg4P_4KcftBRB)
-[(](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Copyright_protection_for_fictional_characters%23:~:text%3DCopyright%2520protection%2520is%2520available%2520to%2520both%2520characters%2520that%2520have%2520been,unique%2520expression%2520in%2520graphic%2520form.&sa=D&source=editors&ust=1759597865408174&usg=AOvVaw3ePNx8RXAMuM9YCSIhpWiw)[2](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Copyright_protection_for_fictional_characters%23:~:text%3DCopyright%2520protection%2520is%2520available%2520to%2520both%2520characters%2520that%2520have%2520been,unique%2520expression%2520in%2520graphic%2520form.&sa=D&source=editors&ust=1759597865408261&usg=AOvVaw390Zg0Qe8e6Fz8lLfqu99K)[)](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Copyright_protection_for_fictional_characters%23:~:text%3DCopyright%2520protection%2520is%2520available%2520to%2520both%2520characters%2520that%2520have%2520been,unique%2520expression%2520in%2520graphic%2520form.&sa=D&source=editors&ust=1759597865408348&usg=AOvVaw0qXRuJHWQ2hxTa29ybaZ2i)
+- [Source: 1](https://www.aspectlg.com/posts/copyright-in-characters-what-can-i-use#:~:text=For%20characters%2C%20the%20character%20only,character%20created%20by%20the%20artist.)
+- [Source: 2](https://en.wikipedia.org/wiki/Copyright_protection_for_fictional_characters#:~:text=Copyright%20protection%20is%20available%20to%20both%20characters%20that%20have%20been,unique%20expression%20in%20graphic%20form.)
 
-Another aspect of design that can be used by anyone in any way are
-[Public
-Domain](https://www.google.com/url?q=https://www.google.com/search?q%3Dpublic%2Bdomain%2Bcharacters%26sca_esv%3D7d47c209775424ca%26rlz%3D1C5CHFA_enCA1088CA1088%26sxsrf%3DAHTn8zot7ASATBGUfQTtAVRkK3BLOhSOfg%253A1746384274819%26ei%3DkrUXaPnNMdXj5NoPyqCsoQo%26ved%3D0ahUKEwj53t2yvIqNAxXVMVkFHUoQK6QQ4dUDCBA%26uact%3D5%26oq%3Dpublic%2Bdomain%2Bcharacters%26gs_lp%3DEgxnd3Mtd2l6LXNlcnAiGHB1YmxpYyBkb21haW4gY2hhcmFjdGVyczILEAAYgAQYkQIYigUyCxAAGIAEGJECGIoFMgsQABiABBiRAhiKBTIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyCxAAGIAEGJECGIoFMgsQABiABBiRAhiKBTIFEAAYgARI1iJQAFjdIXAAeAGQAQCYAWegAfgOqgEEMjIuMrgBA8gBAPgBAZgCGKACjhDCAgoQIxiABBgnGIoFwgIEECMYJ8ICCxAuGIAEGLEDGIMBwgILEAAYgAQYsQMYgwHCAhEQLhiABBixAxjRAxiDARjHAcICCBAuGIAEGLEDwgIOEAAYgAQYsQMYgwEYigXCAg8QIxiABBgnGIoFGEYY-QHCAgoQABiABBhDGIoFwgIOEC4YgAQYsQMY0QMYxwHCAggQABiABBixA8ICJxAAGIAEGIoFGEYY-QEYlwUYjAUY3QQYRhj5ARj0Axj1Axj2A9gBAcICExAuGIAEGLEDGNEDGEMYxwEYigXCAg0QABiABBixAxhDGIoFwgIOEAAYgAQYkQIYsQMYigXCAgsQLhiABBjHARivAcICBRAuGIAEmAMAugYGCAEQARgTkgcEMTcuN6AHgpACsgcEMTcuN7gHjhA%26sclient%3Dgws-wiz-serp&sa=D&source=editors&ust=1759597865408810&usg=AOvVaw134Vwfpq51ajgyuWsfzS2Z)
-characters. Examples are: Robin Hood, Dracula, Sherlock Holmes, King
-Arthur, Zorro, John Carter, Frankenstein\'s Monster, King Kong,
-Pinocchio, Hercules, and Alice in Wonderland.Public domain characters
-are fictional characters that are not protected by copyright, meaning
-anyone can use them freely without permission from the creator or
-another rightsholder. This happens when the copyright protection for a
-work expires, typically a few decades after the creator's death. Once in
-the public domain, these characters, along with other elements of the
-story, become open to public use.
+Another aspect of design that can be used by anyone in any way are [Public Domain](https://www.google.com/url?q=https://www.google.com/search?q%3Dpublic%2Bdomain%2Bcharacters%26sca_esv%3D7d47c209775424ca%26rlz%3D1C5CHFA_enCA1088CA1088%26sxsrf%3DAHTn8zot7ASATBGUfQTtAVRkK3BLOhSOfg%253A1746384274819%26ei%3DkrUXaPnNMdXj5NoPyqCsoQo%26ved%3D0ahUKEwj53t2yvIqNAxXVMVkFHUoQK6QQ4dUDCBA%26uact%3D5%26oq%3Dpublic%2Bdomain%2Bcharacters%26gs_lp%3DEgxnd3Mtd2l6LXNlcnAiGHB1YmxpYyBkb21haW4gY2hhcmFjdGVyczILEAAYgAQYkQIYigUyCxAAGIAEGJECGIoFMgsQABiABBiRAhiKBTIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyCxAAGIAEGJECGIoFMgsQABiABBiRAhiKBTIFEAAYgARI1iJQAFjdIXAAeAGQAQCYAWegAfgOqgEEMjIuMrgBA8gBAPgBAZgCGKACjhDCAgoQIxiABBgnGIoFwgIEECMYJ8ICCxAuGIAEGLEDGIMBwgILEAAYgAQYsQMYgwHCAhEQLhiABBixAxjRAxiDARjHAcICCBAuGIAEGLEDwgIOEAAYgAQYsQMYgwEYigXCAg8QIxiABBgnGIoFGEYY-QHCAgoQABiABBhDGIoFwgIOEC4YgAQYsQMY0QMYxwHCAggQABiABBixA8ICJxAAGIAEGIoFGEYY-QEYlwUYjAUY3QQYRhj5ARj0Axj1Axj2A9gBAcICExAuGIAEGLEDGNEDGEMYxwEYigXCAg0QABiABBixAxhDGIoFwgIOEAAYgAQYkQIYsQMYigXCAgsQLhiABBjHARivAcICBRAuGIAEmAMAugYGCAEQARgTkgcEMTcuN6AHgpACsgcEMTcuN7gHjhA%26sclient%3Dgws-wiz-serp&sa=D&source=editors&ust=1759597865408810&usg=AOvVaw134Vwfpq51ajgyuWsfzS2Z) characters. Examples are: Robin Hood, Dracula, Sherlock Holmes, King Arthur, Zorro, John Carter, Frankenstein\'s Monster, King Kong, Pinocchio, Hercules, and Alice in Wonderland.Public domain characters are fictional characters that are not protected by copyright, meaning anyone can use them freely without permission from the creator or another rightsholder. This happens when the copyright protection for a work expires, typically a few decades after the creator's death. Once in the public domain, these characters, along with other elements of the story, become open to public use.
 
 ### Job Applications
 
-There's only a few places online to search for character design work,
-the most common places are:
-[(1)](https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/1eR2oAXOuflr8CZeGoz3JTrsgNj3KuefbdXJOmNtjEVM/edit%23gid%3D0&sa=D&source=editors&ust=1759597865409738&usg=AOvVaw0wHUvb7NwKBDwbNsbm6edI)
-[(2)](https://www.google.com/url?q=https://ca.indeed.com/jobs?q%3Dcharacter%2Bdesign%26l%3D%26from%3DsearchOnDesktopSerp%26vjk%3D5a0422c51badf886&sa=D&source=editors&ust=1759597865409814&usg=AOvVaw0dDkINMF6E6cBJnwx-pGR4)
-[(3)](https://www.google.com/url?q=http://www.canadiananimationresources.ca/?s%3Dcharacter%2Bdesigner&sa=D&source=editors&ust=1759597865409880&usg=AOvVaw0TIyJ_xWBYK7bGuabMHC4q)
-[(4)](https://www.google.com/url?q=https://www.linkedin.com/jobs/search/?currentJobId%3D4093889464%26geoId%3D101174742%26keywords%3Dcharacter%2520design%26origin%3DJOB_SEARCH_PAGE_SEARCH_BUTTON%26refresh%3Dtrue&sa=D&source=editors&ust=1759597865409970&usg=AOvVaw1xkh8dSOlLhhpQnLiEJrY7)
+There's only a few places online to search for character design work, the most common places are:
 
-There's no need to wait for a studio to post up a job ad for the work
-you are going for, once you have a portfolio site assembled, send that
-link to the provided email that takes in submission, and do it to any
-and all studios you can find.
+- [(1)](https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/1eR2oAXOuflr8CZeGoz3JTrsgNj3KuefbdXJOmNtjEVM/edit%23gid%3D0&sa=D&source=editors&ust=1759597865409738&usg=AOvVaw0wHUvb7NwKBDwbNsbm6edI)
+- [(2)](https://www.google.com/url?q=https://ca.indeed.com/jobs?q%3Dcharacter%2Bdesign%26l%3D%26from%3DsearchOnDesktopSerp%26vjk%3D5a0422c51badf886&sa=D&source=editors&ust=1759597865409814&usg=AOvVaw0dDkINMF6E6cBJnwx-pGR4)
+- [(3)](https://www.google.com/url?q=http://www.canadiananimationresources.ca/?s%3Dcharacter%2Bdesigner&sa=D&source=editors&ust=1759597865409880&usg=AOvVaw0TIyJ_xWBYK7bGuabMHC4q)
+- [(4)](https://www.google.com/url?q=https://www.linkedin.com/jobs/search/?currentJobId%3D4093889464%26geoId%3D101174742%26keywords%3Dcharacter%2520design%26origin%3DJOB_SEARCH_PAGE_SEARCH_BUTTON%26refresh%3Dtrue&sa=D&source=editors&ust=1759597865409970&usg=AOvVaw1xkh8dSOlLhhpQnLiEJrY7)
 
-Here's samples of what online job descriptions look like for a typical
-character design post:
+There's no need to wait for a studio to post up a job ad for the work you are going for, once you have a portfolio site assembled, send that link to the provided email that takes in submission, and do it to **any and all studios** you can find.
 
-Junior Designer
+Here's samples of what online job descriptions look like for a typical character design post:
 
-Job Description
+- **Junior Designer**
 
-We are looking for a 2D Character Designer to join the team for an
-animated series. Full-Time Contract for 9 months (with potential for
-extension).
+  - **Job Description**
+    - We are looking for a 2D Character Designer to join the team for an animated series. Full-Time Contract for 9 months (with potential for extension).
+  - **Responsibilities**
+    - Over the course of the 9 months the artist will:
+    - Work on digital designs for an animated series with Photoshop software
+    - Collaborate with the team on the design style and look of the production
+    - The position includes:
+    - Work with Director to design characters in the style of the show
+    - Sketch character designs in various forms from rough concepts to finished rotations in Photoshop
+    - Produce character expression and pose sheets
+    - Additional design as needed such as prop design, character illustrations, special poses, mock-ups etc.
+    - Demonstrate commitment to creative collaboration in a time-sensitive environment
+    - Attend review meetings and design briefs
+    - Learn the basic process to break and rig characters in Harmony to be aware of any specifics you need to incorporate into your work
+  - **Artistic Development**
+    - Expectations: Excellent drawing skills (strong knowledge of anatomy and posing of humans and animals for). Have an intuitive sense of what makes a character appealing and appropriate for the needs of the design. A thorough understanding of the character design process and a clear understanding of how the designs will be used through the production pipeline.
+  - **Skills Required**
+    - Experience with Photoshop and Harmony (Illustrator is a bonus) -- knowledge of other art/graphics software an asset
+    - Knowledge of designing characters in various styles is an asset
+    - Excellent creativity and demonstrated ability to generate innovative concepts and ideas
+    - Able to design within certain specifications (maintaining pre-determined proportions and keeping within an overall look)
+    - Ability to communicate in a professional and positive manner
+    - You have excellent attention to detail and time management skills
+    - Understanding character design for animation (turnarounds, expressions, head angles, hand poses, mouth charts)
+    - Ability to organize and manage time effectively to meet deadlines
+    - A positive attitude and dedication to the success of the project
+    - Capable of taking direction and working collaboratively within a team
 
-Responsibilities
+- **Senior Character Designer**
 
-Over the course of the 9 months the artist will:
+  - **Job Description**
+    - We are currently seeking an experienced Senior Character Designer / Concept Artist to join our team for an exciting new production with worldwide exposure. We're looking for Designers with portfolios that demonstrate versatility, passion and a strong understanding of 2D animation. This talented individual will work closely with the Director / Art Director to design and develop characters for the series while ensuring all elements of the design are flawless and ready for animation.
+  - **Job Responsibilities**
+    - Work closely with the Art Director to understand show concepts and style
+    - Translate character description and attitude from script to visual design
+    - Create engaging, high quality characters and/or props, from initial rough drawings to final designs
+    - Submit multiple design variations and revisions based on feedback from the Art Director
+    - Create model sheets of character turnarounds and facial/anatomical expressions
+    - Collaborate with other designers and departments to ensure smooth deliveries throughout the production pipeline
+    - Provide feedback to the entire junior team on a regular basis
+    - Character rigging experience is a plus
+    - Be accountable for ensuring that our high quality standards are met and complete on time
+    - Must have the ability to effectively coach, train and mentor junior Character Designer.
+    - Work closely with our Character Designers, animators, artists and technical departments in order to identify and solve problems
+    - Must be able to communicate artistic and technical concepts clearly and concisely in either verbal or written format in order to guide team members
+  - **Job Requirements**
+    - Strong grasp of character anatomy
+    - Must have an understanding of traditional animation and design principles
+    - Able to work and communicate effectively in a collaborative, fast paced environment
+    - Solid critical thinking and problem solving skills
+    - Uncompromising attention to detail
+    - Must be flexible and willing to learn
+    - English speaking/writing is a requirement
+    - You are accountable, self-motivated and possess strong time management skills required for a fast-paced environment
+    - You're able to professionally and productively discuss, make decisions, and communicate ideas in a wide variety of aesthetic areas
 
--- Work on digital designs for an animated series with Photoshop
-software
+- **2D Character Designer**
 
--- Collaborate with the team on the design style and look of the
-production
+  - **Job Description**
+    - We are currently looking for a Character Designer to join our studio and our new and exciting series, for a 10 month full-time contract on a 2D animated series.
+  - **Responsibilities**
+    - Create characters in Photoshop as required for use by various departments within the animation pipeline.
+    - Collaborate with the Design Supervisor and Asset Coordinator to troubleshoot creative and technical issues as they arise
+    - Resolve design problems with creative supervisors
+    - Coordinate with the Harmony rigging team to ensure all aspects of designs given to them are within their preferences
+    - Communicate progress of work to appropriate production staff and ensure all deadlines are met
+    - Must demonstrate proficiency in style of show
+  - **Essential Qualifications**
+    - Previous experience on production design for animation or a kick-ass portfolio
+    - Strong character design and construction/mechanical skills
+    - Knowledge of drawing software including Photoshop and Harmony
+    - Strong time-management skills
+    - Ability to work flexible hours if and when necessary
+    - Ability to work in a collaborative environment and take direction
+    - Excellent communication skills both written and verbal
+    - Ability to work under pressure with tight deadlines
 
-The position includes:
+- **2D Character Designer**
 
--- Work with Director to design characters in the style of the show
+  - **Key Responsibilities**
+    - Design 2D characters for the production across the entire season.
+    - Collaborate with the director and project team to understand the creative vision, style requirements, and design goals for characters in the project.
+    - Conceptualize and develop 2D character designs based on real-life reference material that effectively conveys personality, emotions, and visual appeal while aligning with the project\'s artistic direction.
+    - Maintain organized file structures and adhere to production workflows, ensuring the smooth integration of animations into the pipeline and collaborating with other departments when necessary.
+    - Adhere to the production guidelines regarding file types and sizes.
+  - **Requirements**
+    - Previous experience as a 2D Character Designer or a similar role, with a strong portfolio that showcases character design and illustration.
+    - Strong proficiency in Photoshop and Toonboom. Characters will be required to be designed in Harmony.
+    - We are seeking an individual who possesses strong portrait skills.
+    - Experience with life drawing skills and human interpretation.
+    - Strong capability to effectively receive and execute direction in a professional manner.
+    - Knowledge of color theory, shading, and lighting techniques to enhance the visual impact and depth of the characters.
+    - Excellent attention to detail and ability to produce high-quality work within designated timeframes. Strong time-management skills.
 
--- Sketch character designs in various forms from rough concepts to
-finished rotations in Photoshop
+- **Production Designer**
+  - **Job Description**
+    - Work with existing funpack designs, and prepare them for rigging/building by cleaning up within\ Harmony.
+    - Create supplemental views and library elements for the characters/props as needed for\ production.
+    - Work with the Director and Art Director to design in the style of the show.
+    - Work with the Asset Supervisor and Rigging Team to ensure that the designs meet the necessary.\ expectation for Rigging and Animation.
+    - Collaborate with the Art Director and design team to maintain a consistent look for the show.
+    - Demonstrate commitment to creative collaboration in a time-sensitive environment.
+  - **Skill Sets**
+    - Excellent drawing and design skills.
+    - Have an intuitive sense of what makes the design appealing and appropriate.
+    - A thorough and clear understanding of how your designs will be used through the production pipeline.
+    - Experience with cleanup and design in Harmony -- knowledge of other art/graphics software an asset.
+    - Experience on 2D animated productions and knowledge of the creation and rigging of an asset.
+    - A working understanding of 2D Harmony cut-out and hybrid rigs (mixture of puppet and classical style of models).
+    - Excellent creativity and demonstrated ability to generate innovative designs and design solutions.
+    - Able to design within certain specifications (maintaining pre-determined proportions and keeping within an overall look).
+    - Ability to productively discuss, make decisions, and communicate ideas in a wide variety of aesthetic areas.
 
--- Produce character expression and pose sheets
-
--- Additional design as needed such as prop design, character
-illustrations, special poses, mock-ups etc.
-
--- Demonstrate commitment to creative collaboration in a time-sensitive
-environment
-
--- Attend review meetings and design briefs
-
--- Learn the basic process to break and rig characters in Harmony to be
-aware of any specifics you need to incorporate into your work
-
-Artistic Development
-
-Expectations: Excellent drawing skills (strong knowledge of anatomy and
-posing of humans and animals for). Have an intuitive sense of what makes
-a character appealing and appropriate for the needs of the design. A
-thorough understanding of the character design process and a clear
-understanding of how the designs will be used through the production
-pipeline.
-
-Skills Required
-
-- Experience with Photoshop and Harmony (Illustrator is a bonus) --
-  knowledge of other art/graphics software an asset
-- Knowledge of designing characters in various styles is an asset
-- Excellent creativity and demonstrated ability to generate innovative
-  concepts and ideas
-- Able to design within certain specifications (maintaining
-  pre-determined proportions and keeping within an overall look)
-- Ability to communicate in a professional and positive manner
-- You have excellent attention to detail and time management skills
-- Understanding character design for animation (turnarounds,
-  expressions, head angles, hand poses, mouth charts)
-- Ability to organize and manage time effectively to meet deadlines
-- A positive attitude and dedication to the success of the project
-- Capable of taking direction and working collaboratively within a
-  team
-
-Senior Character Designer
-
-Job Description
-
-We are currently seeking an experienced Senior Character Designer /
-Concept Artist to join our team for an exciting new production with
-worldwide exposure. We're looking for Designers with portfolios that
-demonstrate versatility, passion and a strong understanding of 2D
-animation. This talented individual will work closely with the Director
-/ Art Director to design and develop characters for the series while
-ensuring all elements of the design are flawless and ready for
-animation.
-
-Job Responsibilities
-
-- Work closely with the Art Director to understand show concepts and
-  style
-- Translate character description and attitude from script to visual
-  design
-- Create engaging, high quality characters and/or props, from initial
-  rough drawings to final designs
-- Submit multiple design variations and revisions based on feedback
-  from the Art Director
-- Create model sheets of character turnarounds and facial/anatomical
-  expressions
-- Collaborate with other designers and departments to ensure smooth
-  deliveries throughout the production pipeline
-- Provide feedback to the entire junior team on a regular basis
-- Character rigging experience is a plus
-- Be accountable for ensuring that our high quality standards are met
-  and complete on time
-- Must have the ability to effectively coach, train and mentor junior
-  Character Designer.
-- Work closely with our Character Designers, animators, artists and
-  technical departments in order to identify and solve problems
-- Must be able to communicate artistic and technical concepts clearly
-  and concisely in either verbal or written format in order to guide
-  team members
-
-Job Requirements
-
-- Strong grasp of character anatomy
-- Must have an understanding of traditional animation and design
-  principles
-- Able to work and communicate effectively in a collaborative, fast
-  paced environment
-- Solid critical thinking and problem solving skills
-- Uncompromising attention to detail
-- Must be flexible and willing to learn
-- English speaking/writing is a requirement
-- You are accountable, self-motivated and possess strong time
-  management skills required for a fast-paced environment
-- You're able to professionally and productively discuss, make
-  decisions, and communicate ideas in a wide variety of aesthetic
-  areas
-
-2D Character Designer
-
-Job Description
-
-We are currently looking for a Character Designer to join our studio and
-our new and exciting series, for a 10 month full-time contract on a 2D
-animated series.
-
-Responsibilities
-
-- Create characters in Photoshop as required for use by various
-  departments within the animation pipeline.
-- Collaborate with the Design Supervisor and Asset Coordinator to
-  troubleshoot creative and technical issues as they arise
-- Resolve design problems with creative supervisors
-- Coordinate with the Harmony rigging team to ensure all aspects of
-  designs given to them are within their preferences
-- Communicate progress of work to appropriate production staff and
-  ensure all deadlines are met
-- Must demonstrate proficiency in style of show
-
-Essential Qualifications
-
-- Previous experience on production design for animation or a kick-ass
-  portfolio
-- Strong character design and construction/mechanical skills
-- Knowledge of drawing software including Photoshop and Harmony
-- Strong time-management skills
-- Ability to work flexible hours if and when necessary
-- Ability to work in a collaborative environment and take direction
-- Excellent communication skills both written and verbal
-- Ability to work under pressure with tight deadlines
-
-2D Character Designer
-
-Key Responsibilities
-
-- \- Design 2D characters for the production across the entire season.
-- \- Collaborate with the director and project team to understand the
-  creative vision, style requirements, and design goals for characters
-  in the project.
-- \- Conceptualize and develop 2D character designs based on real-life
-  reference material that effectively conveys personality, emotions,
-  and visual appeal while aligning with the project\'s artistic
-  direction.
-- \- Maintain organized file structures and adhere to production
-  workflows, ensuring the smooth integration of animations into the
-  pipeline and collaborating with other departments when necessary.
-- \- Adhere to the production guidelines regarding file types and
-  sizes.
--
-
-Requirements
-
-- \- Previous experience as a 2D Character Designer or a similar role,
-  with a strong portfolio that showcases character design and
-  illustration.
-- \- Strong proficiency in Photoshop and Toonboom. Characters will be
-  required to be designed in Harmony.
-- \- We are seeking an individual who possesses strong portrait
-  skills.
-- \- Experience with life drawing skills and human interpretation.
-- \- Strong capability to effectively receive and execute direction in
-  a professional manner.
-- \- Knowledge of color theory, shading, and lighting techniques to
-  enhance the visual impact and depth of the characters.
-- \- Excellent attention to detail and ability to produce high-quality
-  work within designated timeframes. Strong time-management skills.
-
-Production Designer
-
-Job Description
-
-- Work with existing funpack designs, and prepare them for
-  rigging/building by cleaning up within\
-  Harmony.
-- Create supplemental views and library elements for the
-  characters/props as needed for\
-  production.
-- Work with the Director and Art Director to design in the style of
-  the show.
-- Work with the Asset Supervisor and Rigging Team to ensure that the
-  designs meet the necessary.\
-  expectation for Rigging and Animation.
-- Collaborate with the Art Director and design team to maintain a
-  consistent look for the show.
-- Demonstrate commitment to creative collaboration in a time-sensitive
-  environment.
-
-Skill Sets
-
-- Excellent drawing and design skills.
-- Have an intuitive sense of what makes the design appealing and
-  appropriate.
-- A thorough and clear understanding of how your designs will be used
-  through the production pipeline.
-- Experience with cleanup and design in Harmony -- knowledge of other
-  art/graphics software an asset.
-- Experience on 2D animated productions and knowledge of the creation
-  and rigging of an asset.
-- A working understanding of 2D Harmony cut-out and hybrid rigs
-  (mixture of puppet and classical style of models).
-- Excellent creativity and demonstrated ability to generate innovative
-  designs and design solutions.
-- Able to design within certain specifications (maintaining
-  pre-determined proportions and keeping within an overall look).
-- Ability to productively discuss, make decisions, and communicate
-  ideas in a wide variety of aesthetic areas.
-
-You can see how there's many similarities for what studios are looking
-for in an artist. You might also see employers asking for 2, 3, or 5+
-years of experience, but you should STILL APPLY, no matter how much or
-how little experience you have. Because they will judge your skills
-based on your work, and there's always a chance that your ability to
-switch styles (along with showcasing your own personal design style)
-could be what they're looking for. For every job post, there's an email
-to contact the talent recruitment person or a link to an online form to
-fill out &\* submit; Send them the link to your portfolio, answer any
-questions they may have, and await a reply. Don't stop working on your
-portfolio and draftsmanship, while waiting to be accepted you need to
-[remain
-persistent](https://www.google.com/url?q=https://youtu.be/jYJgC90XQdM&sa=D&source=editors&ust=1759597865422407&usg=AOvVaw1S3enR8mTTh6uJE3Kk3NLX).
+You can see how there's many similarities for what studios are looking for in an artist. You might also see employers asking for 2, 3, or 5+ years of experience, but you should STILL APPLY, no matter how much or how little experience you have. Because they will judge your skills based on **your work**, and there's always a chance that your ability to switch styles (along with showcasing your own personal design style) could be what they're looking for. For every job post, there's an **email** to contact the talent recruitment person or a link to an online form to fill out &\* submit; Send them the link to your portfolio, answer any questions they may have, and await a reply. Don't stop working on your portfolio and draftsmanship, while waiting to be accepted you need to [remain persistent](https://www.google.com/url?q=https://youtu.be/jYJgC90XQdM&sa=D&source=editors&ust=1759597865422407&usg=AOvVaw1S3enR8mTTh6uJE3Kk3NLX).
 
 ![image](./images/unnamed_089.gif)
 
-After you've had a few more years of knowledge and experience under your
-belt, you'll see a job post looking like Character Art
-Director,Character Supervisor, or Character Design Lead, that might
-target you and your skill sets. Naturally, more responsibilities are
-mandatory with these sorts of positions. If it's for a 2D Animated
-Series, you may be required to supervise other artists as part of a
-small team, this requires organizing, delegating, and possibly the
-training of this small crew. If it's for a Video Game or 3D/CG
-production, you may be required to have a basic working knowledge of
-certain software as well:
+After you've had a few more years of knowledge and experience under your belt, you'll see a job post looking like _Character Art Director_, _Character Supervisor_, or _Character Design Lead_, that might target you and your skill sets. Naturally, more responsibilities are mandatory with these sorts of positions. If it's for a 2D Animated Series, you may be required to supervise other artists as part of a small team, this requires organizing, delegating, and possibly the training of this small crew. If it's for a Video Game or 3D/CG production, you may be required to have a basic working knowledge of certain software as well:
 
-Lead Character Designer
+- **Lead Character Designer**
 
-Job Description
+  - **Job Description**
+    - Collaborate with the Production Designer and design team to develop a consistent look for the show.
+    - Contribute substantially and decisively to the evolution of the show design.
+    - Conceptualize, create and maintain detailed design documentation throughout the project cycle.
+    - Evolve ideas in conjunction with a team and assign work to your design team.
+    - Assist design colleagues to bring the project in as planned.
+    - Mentor design colleagues and level artists.
+    - Demonstrate commitment to creative collaboration in a time-sensitive environment.
+    - Provide guidance, feedback, or instruction to those individuals that enhance their work. This includes reviewing scripts & storyboards.
+  - **Qualifications**
+    - Excellent drawing and design skills (strong knowledge of anatomy and posing and fashion an asset)\ The candidate needs to be flexible and be able to design characters, including any props, wardrobe and costuming the characters may need, as both conceptual and production ready art.
+    - Experience with Photoshop and Illustrator -- knowledge of other art/graphics software is an asset.
+    - Experience with pixel-art and image optimization.
+    - Have an intuitive sense of what makes a character appealing and appropriate for the needs of the design.
+    - Able to design within certain specifications (maintaining pre-determined proportions and keeping within an overall look).
+    - Excellent creativity and demonstrated ability to generate innovative concepts and ideas.\ Ability to productively discuss, make decisions, and communicate ideas in a wide variety of aesthetic areas, such as backgrounds, hairstyles, costumes/wardrobe, props etc.
 
-- Collaborate with the Production Designer and design team to develop
-  a consistent look for the show.
-- Contribute substantially and decisively to the evolution of the show
-  design.
-- Conceptualize, create and maintain detailed design documentation
-  throughout the project cycle.
-- Evolve ideas in conjunction with a team and assign work to your
-  design team.
-- Assist design colleagues to bring the project in as planned.
-- Mentor design colleagues and level artists.
+- **Character Art Director**
 
-- Demonstrate commitment to creative collaboration in a time-sensitive
-  environment.
-- Provide guidance, feedback, or instruction to those individuals that
-  enhance their work. This includes reviewing scripts & storyboards.
+  - **Job Description**
+    - We are looking for an exceptional Character Art Director to join our incredibly fast-paced and exciting art direction team. You will be responsible for creating original and captivating characters, visual assets, and art deliverables for our studio and our clients. You will work closely with and supervise other designers and artists to produce high-quality character turnarounds, graphics, and more. This position is a full-time and fully remote role.
+  - **Responsibilities**
+    - Create original, beautiful, compelling and engaging 2D characters and elements for the studio. Be able to take ideas from rough sketches to polished finished pieces.
+    - Actively participate in concept development and storyboarding phases, providing creative input and ensuring character designs are well-integrated into the world\'s narrative and style.
+    - Have high proficiency with character art fundamentals such as silhouette, palette, exaggeration, composition, shape design, anatomy, proportion, etc.
+    - Collaborate with other artists, external vendors, freelancers, and partners to expand and enrich our character design capabilities. This includes identifying, evaluating, and selecting talented external artists or studios that align with the artistic vision and standards of our studio.
+    - Manage and coordinate projects with these external clients to meet their design prerequisites and schedules, serving as a potential point of contact for all communications related to character art design. This entails providing clear briefs, timelines, and feedback to ensure their work aligns with our project requirements and quality standards.
+    - Oversee the character design process from concept to finalization.
+    - Work within established art and design guidelines to ensure consistency.
+    - Occasionally mentor and train a new junior animator.
+    - Be excited by and stay with the latest industry trends, emerging techniques, design best practices and pop culture know-how to continuously deliver the high-quality of engaging characters.
+    - Utilize a variety of traditional and digital artistic techniques to produce high-quality visual designs.
+    - Make certain all artwork is properly backed up and stored appropriately
+  - **Requirements**
+    - Professional experience in 2D character design, and experience in gaming companies is highly preferred.
+    - A strong portfolio showcasing a wide range of character designs, styles, techniques, and high-quality work from past projects.
+    - Excellent skills in explaining your work, process, and decisions to cross-functional stakeholders and crave feedback to help you produce your best work.
+    - Obsess over details and are excited to push the boundaries of your skill set in art that excites and delights.
+    - Ability to collaborate effectively in a team environment, take constructive feedback, and incorporate it into the work.
+    - High skill level across industry software tools such as Photoshop and Clip Studio Paint, and basic knowledge of other tools like Illustrator, AfterEffects, Sketch, Painter, and Blender.
 
-Qualifications
+- **Design Supervisor**
+  - **Job Description**
+    - Leading the Design Department, guiding the team in creating all character and prop assets in the style of the show. Tracking and coordinating all design sheets pre-board and post-board.
+  - **Key Responsibilities**
+    - Lead & mentor design crew, helping facilitate the creation & completion of assets for the Rigging & Animation Team
+    - Communicate and maintain the creative vision of the production
+    - Relay specific instructions from the Art Director, Producer, and Showrunner to the design team
+    - Collaborate with the team to create standards and practices for the series
+    - Review the animatics and Fun Packs, finalize design lists with Director/Art Director and interpret the reference materials provided
+    - Distribute assignments to the team and tracks progress, providing feedback and necessary revisions
+    - Review work done by the team to ensure builds are complete and effective, satisfying rigging needs for animation
+    - Review designs throughout the production to ensure that all designs remain consistent from the start of production to the end
+    - Work with the Art Director to ensure that the color style remains consistent throughout the pipeline.
+    - Work closely with Directors and Producer on the approval of materials and required revisions
+    - Manage all internal and external deadlines
+    - Resolves problems or concerns in a productive and positive manner
+    - Problem solve and find creative solutions to challenges, knowing when to escalate
+  - **Required Experience/Professional Skills**
+    - 1-3 years of previous experience in a lead design role on a 2D animation production
+    - Proficient understanding of Toon Boom Harmony
+    - Strong organizational skills
+    - Solid understanding of design fundamentals, color theory, and three-dimensional from, with the ability to communicate this to the design team
+    - Strong composition and perspective skills, with a keen eye for detail across tasks
+    - Excellent communication skills both written and verbal, with success communicating to various levels within the production team
+    - Able to work under pressure with tight deadlines, by accurately predicting labour needs and assigning work accordingly to maintain the schedule
+    - Able to mentor, motivate and provide feedback to a team of designers
+    - Able to problem-solve and raise concerns as they arise, with the ability to find creative solution
+    - Able to work effectively with other departments within a production
+    - Ability to work flexible hours if and when necessary
 
-- Excellent drawing and design skills (strong knowledge of anatomy and
-  posing and fashion an asset)\
-  The candidate needs to be flexible and be able to design characters,
-  including any props, wardrobe and costuming the characters may need,
-  as both conceptual and production ready art.
-- Experience with Photoshop and Illustrator -- knowledge of other
-  art/graphics software is an asset.
-- Experience with pixel-art and image optimization.
-- Have an intuitive sense of what makes a character appealing and
-  appropriate for the needs of the design.
-- Able to design within certain specifications (maintaining
-  pre-determined proportions and keeping within an overall look).
-- Excellent creativity and demonstrated ability to generate innovative
-  concepts and ideas.\
-  Ability to productively discuss, make decisions, and communicate
-  ideas in a wide variety of aesthetic areas, such as backgrounds,
-  hairstyles, costumes/wardrobe, props etc.
-
-Character Art Director
-
-Job Description
-
-We are looking for an exceptional Character Art Director to join our
-incredibly fast-paced and exciting art direction team. You will be
-responsible for creating original and captivating characters, visual
-assets, and art deliverables for our studio and our clients. You will
-work closely with and supervise other designers and artists to produce
-high-quality character turnarounds, graphics, and more. This position is
-a full-time and fully remote role.
-
-Responsibilities
-
-- \- Create original, beautiful, compelling and engaging 2D characters
-  and elements for the studio. Be able to take ideas from rough
-  sketches to polished finished pieces.
-- \- Actively participate in concept development and storyboarding
-  phases, providing creative input and ensuring character designs are
-  well-integrated into the world\'s narrative and style.
-- \- Have high proficiency with character art fundamentals such as
-  silhouette, palette, exaggeration, composition, shape design,
-  anatomy, proportion, etc.
-- \- Collaborate with other artists, external vendors, freelancers,
-  and partners to expand and enrich our character design capabilities.
-  This includes identifying, evaluating, and selecting talented
-  external artists or studios that align with the artistic vision and
-  standards of our studio.
-- \- Manage and coordinate projects with these external clients to
-  meet their design prerequisites and schedules, serving as a
-  potential point of contact for all communications related to
-  character art design. This entails providing clear briefs,
-  timelines, and feedback to ensure their work aligns with our project
-  requirements and quality standards.
-- \- Oversee the character design process from concept to
-  finalization.
-- \- Work within established art and design guidelines to ensure
-  consistency.
-- \- Occasionally mentor and train a new junior animator.
-- \- Be excited by and stay with the latest industry trends, emerging
-  techniques, design best practices and pop culture know-how to
-  continuously deliver the high-quality of engaging characters.
-- \- Utilize a variety of traditional and digital artistic techniques
-  to produce high-quality visual designs.
-- \- Make certain all artwork is properly backed up and stored
-  appropriately
-
-Requirements
-
-- \- Professional experience in 2D character design, and experience in
-  gaming companies is highly preferred.
-- \- A strong portfolio showcasing a wide range of character designs,
-  styles, techniques, and high-quality work from past projects.
-- \- Excellent skills in explaining your work, process, and decisions
-  to cross-functional stakeholders and crave feedback to help you
-  produce your best work.
-- \- Obsess over details and are excited to push the boundaries of
-  your skill set in art that excites and delights.
-- \- Ability to collaborate effectively in a team environment, take
-  constructive feedback, and incorporate it into the work.
-- \- High skill level across industry software tools such as Photoshop
-  and Clip Studio Paint, and basic knowledge of other tools like
-  Illustrator, AfterEffects, Sketch, Painter, and Blender.
-
-Design Supervisor
-
-Job Description
-
-Leading the Design Department, guiding the team in creating all
-character and prop assets in the style of the show. Tracking and
-coordinating all design sheets pre-board and post-board.
-
-Key Responsibilities
-
-- Lead & mentor design crew, helping facilitate the creation &
-  completion of assets for the Rigging & Animation Team
-- Communicate and maintain the creative vision of the production
-- Relay specific instructions from the Art Director, Producer, and
-  Showrunner to the design team
-- Collaborate with the team to create standards and practices for the
-  series
-- Review the animatics and Fun Packs, finalize design lists with
-  Director/Art Director and interpret the reference materials provided
-- Distribute assignments to the team and tracks progress, providing
-  feedback and necessary revisions
-- Review work done by the team to ensure builds are complete and
-  effective, satisfying rigging needs for animation
-- Review designs throughout the production to ensure that all designs
-  remain consistent from the start of production to the end
-- Work with the Art Director to ensure that the color style remains
-  consistent throughout the pipeline.
-- Work closely with Directors and Producer on the approval of
-  materials and required revisions
-- Manage all internal and external deadlines
-- Resolves problems or concerns in a productive and positive manner
-- Problem solve and find creative solutions to challenges, knowing
-  when to escalate
-
-Required Experience/Professional Skills
-
-- 1-3 years of previous experience in a lead design role on a 2D
-  animation production
-- Proficient understanding of Toon Boom Harmony
-- Strong organizational skills
-- Solid understanding of design fundamentals, color theory, and
-  three-dimensional from, with the ability to communicate this to the
-  design team
-- Strong composition and perspective skills, with a keen eye for
-  detail across tasks
-- Excellent communication skills both written and verbal, with success
-  communicating to various levels within the production team
-- Able to work under pressure with tight deadlines, by accurately
-  predicting labour needs and assigning work accordingly to maintain
-  the schedule
-- Able to mentor, motivate and provide feedback to a team of designers
-- Able to problem-solve and raise concerns as they arise, with the
-  ability to find creative solution
-- Able to work effectively with other departments within a production
-- Ability to work flexible hours if and when necessary
-
-Some studios require you to fill out a form on their website, this way
-it always goes to the same talent recruiting / HR person on staff. Where
-they can process the intake of applications and will be forwarded to the
-relevant department heads, studio director, or the creative lead, who
-can ascertain the skill sets displayed in the portfolio. This process
-will then have them determine to hire you, or place you on a waitlist,
-or have a test delivered to you, to bring you to the next phase of
-potentially being hired.
+Some studios require you to fill out a form on their website, this way it always goes to the same talent recruiting / HR person on staff. Where they can process the intake of applications and will be forwarded to the relevant department heads, studio director, or the creative lead, who can ascertain the skill sets displayed in the portfolio. This process will then have them determine to hire you, or place you on a waitlist, or have a test delivered to you, to bring you to the next phase of potentially being hired.
 
 ![image](./images/unnamed_865.png)
 
-Filling out and submitting those forms are easy. There's usually a spot
-to fill out for a body of text, where you can insert or type out a cover
-letter or brief introduction about yourself. In either case, if you seem
-enthusiastic, straight-to-the-point, open to start anytime and anywhere
-and eager to help them out, it can go a long way to reveal your solid
-work ethic and positive attitude.
+Filling out and submitting those forms are easy. There's usually a spot to fill out for a body of text, where you can insert or type out a cover letter or brief introduction about yourself. In either case, if you seem enthusiastic, straight-to-the-point, open to start anytime and anywhere and eager to help them out, it can go a long way to reveal your solid work ethic and positive attitude.
 
-Here's an example of what that cover letter (email message) from you
-could look like:
+Here's an example of what that cover letter (email message) from you could look like:
 
-I\'m sending this email to apply for the Character Design position at
-your studio. As I\'ve just recently finished my portfolio that you can
-see here (insert your website URL), I\'m very eager to start gaining
-some real-world experience in the animation industry. I\'ve been a huge
-fan of animation and cartoons my whole life, and I have been drawing my
-own characters and developing my own stories since I was a child.
+> I\'m sending this email to apply for the Character Design position at your studio. As I\'ve just recently finished my portfolio that you can see here (insert your website URL), I\'m very eager to start gaining some real-world experience in the animation industry. I\'ve been a huge fan of animation and cartoons my whole life, and I have been drawing my own characters and developing my own stories since I was a child.
+>
+> This passion has only grown as I\'ve gotten older, as cartoons have begun to expand into a vast array of different genres and are constantly exploring more and more concepts and ideas. I\'m currently a massive fan of series such as (insert name of an animated series). The use of color in the character designs and their costumes truly evoke a strong sense of what the characters' struggles & personalities are and how they fit in their environments. I also adore the art and animation style of (insert name of another animated series), its unique qualities within the series\' universe, such as its loose regulations for physical consistency within the characters - while still maintaining its own set of logic and rules within the world and show itself. At the same time, it seamlessly blends the cartoony style of the characters with its detailed backgrounds.
+>
+> Since my college course has ended, I have been keeping myself occupied by expanding my knowledge in (Harmony, Photoshop & Blender). I\'ve been teaching myself the principles of designing characters in a variety of different styles. It\'s for this reason I would absolutely love the opportunity to work at (insert studio name here). I feel I should also note that I'm willing to take any character design test as well, to show you where my skill sets are, and how quickly I can learn. I would love a short internship at your studio, or any junior design position like prop design and character design assistance, or even contribute to tasks like finishing turnarounds or doing clean-up on designs and poses.
+>
+> Thank you kindly for the opportunity.
+>
+> (Your Name)
 
-This passion has only grown as I\'ve gotten older, as cartoons have
-begun to expand into a vast array of different genres and are constantly
-exploring more and more concepts and ideas. I\'m currently a massive fan
-of series such as (insert name of an animated series). The use of color
-in the character designs and their costumes truly evoke a strong sense
-of what the characters' struggles & personalities are and how they fit
-in their environments. I also adore the art and animation style of
-(insert name of another animated series), its unique qualities within
-the series\' universe, such as its loose regulations for physical
-consistency within the characters - while still maintaining its own set
-of logic and rules within the world and show itself. At the same time,
-it seamlessly blends the cartoony style of the characters with its
-detailed backgrounds.
-
-Since my college course has ended, I have been keeping myself occupied
-by expanding my knowledge in (Harmony, Photoshop & Blender). I\'ve been
-teaching myself the principles of designing characters in a variety of
-different styles. It\'s for this reason I would absolutely love the
-opportunity to work at (insert studio name here). I feel I should also
-note that I'm willing to take any character design test as well, to show
-you where my skill sets are, and how quickly I can learn. I would love a
-short internship at your studio, or any junior design position like prop
-design and character design assistance, or even contribute to tasks like
-finishing turnarounds or doing clean-up on designs and poses.
-
-Thank you kindly for the opportunity.
-
-(Your Name)
-
-This is just an example, and you should customize and personalize this
-template to make it fit to your personal preferences, along with the
-work and parameters of the job you're asking about. Replace the names of
-the shows, the name of the studio you're writing to, and the software
-names with your own. After you've gotten your first job or two, you'll
-never need cover letters again, your portfolio will speak for itself.
-But this letter gives you an idea of how it can be kept short-and-sweet,
-while showing your appreciation for the craft. It increases your chances
-when you demonstrate that you're an impassioned nerd about the art of
-character design!
+This is just an example, and you should customize and personalize this template to make it fit to your personal preferences, along with the work and parameters of the job you're asking about. Replace the names of the shows, the name of the studio you're writing to, and the software names with your own. After you've gotten your first job or two, you'll never need cover letters again, your portfolio will speak for itself. But this letter gives you an idea of how it can be kept short-and-sweet, while showing your appreciation for the craft. It increases your chances when you demonstrate that you're an impassioned nerd about the art of character design!
 
 ![image](./images/unnamed_104.png)
 
 ### Studio Design Tests
 
-After applying to a studio by sending them the online link to your
-character design portfolio, you may receive a design test from them so
-that they can better determine where your skill sets are and to see if
-you can adapt to their production's art style. You'll be given reference
-and you'll need to create a small cast of new characters (or a
-turnaround for a single character) that matches the art direction
-provided to you. In all cases, whether you are given a test to do over a
-few days, or if they hire you on-the-spot, you'll need to sign an NDA.
-These are Non-Disclosure Agreements, this is a common practice and
-understanding that you cannot divulge any information about the property
-you are working on to anyone that isn't working on the property, before
-or during production (sometimes even a while after production has
-ended). And you cannot place samples of the work you are doing (or have
-done), online, or in your portfolio, until the production has been
-broadcast, streamed, published, released, or made public.
+After applying to a studio by sending them the online link to your **character design portfolio**, you may receive a design test from them so that they can better determine where your skill sets are and to see if you can adapt to their production's art style. You'll be given reference and you'll need to create a small cast of new characters (or a turnaround for a single character) that matches the art direction provided to you. In all cases, whether you are given a test to do over a few days, or if they hire you on-the-spot, you'll need to sign an NDA. These are Non-Disclosure Agreements, this is a common practice and understanding that you cannot divulge any information about the property you are working on to anyone that isn't working on the property, before or during production (sometimes even a while after production has ended). And you cannot place samples of the work you are doing (or have done), online, or in your portfolio, until the production has been broadcast, streamed, published, released, or made public.
 
-Your ability to match the style of the property while showing your
-originality, accuracy, consistency, and creativity will determine if you
-get accepted on the team. Make sure you know what the parameters are; is
-color required, how many views to draw, and what the deadline is. Exceed
-their expectations by drawing clean, keeping the characters alive,
-expressive, distinct, non-ambiguous, and instantly-recognizable, they
-may also want to see your roughs and thought-process, so save all your
-sketches too, include your progression in the design submission.
+Your ability to match the style of the property while showing your originality, accuracy, consistency, and creativity will determine if you get accepted on the team. Make sure you know what the parameters are; is color required, how many views to draw, and what the deadline is. Exceed their expectations by drawing clean, keeping the characters alive, expressive, distinct, non-ambiguous, and instantly-recognizable, they may also want to see your roughs and thought-process, so save all your sketches too, include your progression in the design submission.
+
 ![image](./images/unnamed_776.jpg)
-
 ![image](./images/unnamed_1393.jpg)
-
 ![image](./images/unnamed_378.jpg)
 
 by Ray Santos
 
-These tests are usually not paid for, so no need to ask them, and they
-are structured to test your creativity & resourcefullness. It's
-engineered to see how you would handle a specific kind of assignment,
-and to see if your style (and interpretation of their style) is a good
-fit for the production. It's essentially acting like a job interview,
-like when there's try-outs for athletes to see if they qualify to be in
-the competition or become a member of the team. Similar to auditions for
-actors to perform a certain part in a play.
+These tests are usually not paid for, so no need to ask them, and they are structured to test your creativity & resourcefullness. It's engineered to see how you would handle a specific kind of assignment, and to see if your style (and interpretation of their style) is a good fit for the production. It's essentially acting like a **job interview**, like when there's try-outs for athletes to see if they qualify to be in the competition or become a member of the team. Similar to auditions for actors to perform a certain part in a play.
 
-Suggestion: If they don't provide a deadline, then complete the test
-within 2 days. How promptly you return the artwork is a factor for how
-they'll determine your skill sets, unless the style is difficult or
-they're asking for lots of artwork as part of the requirements, showing
-your commitment by responding quickly with results will go a long way.
-Do not compromise quality, if you feel you can make the designs look
-better if you had more time, then take that time to improve the test.
+Suggestion: If they don't provide a deadline, then complete the test within 2 days. How promptly you return the artwork is a factor for how they'll determine your skill sets, unless the style is difficult or they're asking for lots of artwork as part of the requirements, showing your commitment by responding quickly with results will go a long way. Do not compromise quality, if you feel you can make the designs look better if you had more time, then take that time to improve the test.
 
-If you're hired, they send you the contract with the details outlined on
-the specifics of the job, along with a start date!
+If you're hired, they send you the contract with the details outlined on the specifics of the job, along with a start date!
 
-Sometimes a design test will consist of designing several versions of a
-single concept, like when the director wants to see 10 iterations of the
-same character. For example, here the design test is to design a Mailman
-in the style of Loud House:
+Sometimes a design test will consist of designing several versions of a single concept, like when the director wants to see 10 iterations of the same character. For example, here the design test is to design a Mailman in the style of Loud House:
 
 ![image](./images/unnamed_569.jpg)
 
@@ -10751,295 +9148,163 @@ And here, to design Lori's Boyfriend:
 
 by Jerry Suh
 
--
-
-- [Advice from Chris
-  Battle](https://www.google.com/url?q=https://youtu.be/H3wWUa9GVR4&sa=D&source=editors&ust=1759597865439327&usg=AOvVaw2dHncK1BiDfBLMfl4VfTuF)
-- [Advice from Dennise
-  Casurra](https://www.google.com/url?q=https://youtu.be/XhbvSWmnykM?t%3D129&sa=D&source=editors&ust=1759597865439445&usg=AOvVaw062HeJqe2nD0N1fSZopO0Q)
+- [Advice from Chris Battle](https://www.google.com/url?q=https://youtu.be/H3wWUa9GVR4&sa=D&source=editors&ust=1759597865439327&usg=AOvVaw2dHncK1BiDfBLMfl4VfTuF)
+- [Advice from Dennise Casurra](https://www.google.com/url?q=https://youtu.be/XhbvSWmnykM?t%3D129&sa=D&source=editors&ust=1759597865439445&usg=AOvVaw062HeJqe2nD0N1fSZopO0Q)
 
 ### Inside The Studio
 
-Here's a Survival Guide on what to expect once you're hired as a
-character designer for an animated series.
+Here's a Survival Guide on what to expect once you're hired as a character designer for an animated series.
 
-Staying inspired is a big part of the job. In addition to having a firm
-grasp on the artistic and technical aspects of the work, there are also
-some mental challenges that one must control in order to remain
-effective.
+Staying inspired is a big part of the job. In addition to having a firm grasp on the artistic and technical aspects of the work, there are also some mental challenges that one must control in order to remain effective.
 
-Usually a character designer's job has lots of work and responsibility
-to it. It's not an easy role, it can be a very very fun job, but it can
-be very difficult and demanding work as well. It's one of the first
-roles to be hired on the production once the world is developed, the
-characters are conceived, and the story is written.
+Usually a character designer's job has lots of work and responsibility to it. It's not an easy role, it can be a very very fun job, but it can be very difficult and demanding work as well. It's one of the first roles to be hired on the production once the world is developed, the characters are conceived, and the story is written.
 
-Topics covered in this chapter include: finding the right amount of ego,
-conquering inconsistent progress, managing the ebb and flow from
-show-to-show, navigating studio politics, working with casting, catching
-and missing breaks on a production, making the most out of every
-opportunity, and letting go of emotional attachment to the work while
-still getting the best designs you can. Let's get started...
+Topics covered in this chapter include: finding the right amount of ego, conquering inconsistent progress, managing the ebb and flow from show-to-show, navigating studio politics, working with casting, catching and missing breaks on a production, making the most out of every opportunity, and letting go of emotional attachment to the work while still getting the best designs you can. Let's get started...
 
-Attitude
+#### Attitude
 
 The most common advice on attitude is to have a positive one.
 
-This is, of course, easier said than done. It's normal to have bad days,
-we're only human. It's what you do with both the good and bad days that
-can make or break your success and overall fulfillment in the job.
+This is, of course, easier said than done. It's normal to have bad days, we're only human. It's what you do with both the good and bad days that can make or break your success and overall fulfillment in the job.
 
-Steadiness is the key and a proactive attitude is your best weapon.
-Recognize the bad days, reflect on what made them bad, then let them go.
-Embrace the good days, reflect on what made them good. The nuggets you
-glean can keep you extremely motivated.
+Steadiness is the key and a proactive attitude is your best weapon. Recognize the bad days, reflect on what made them bad, then let them go. Embrace the good days, reflect on what made them good. The nuggets you glean can keep you extremely motivated.
 
 The scale of the successes and failures change but there will be both.
 
-1. Successes:
+1. **Successes:**
    - Getting picked up on a show
    - Nailing your designs
    - Making a big contribution to a worthwhile project
-1. Failures:
+1. **Failures:**
    - Your characters get revised over and over
    - Missing deadlines
    - Characters reassigned
    - Not having a contract picked up
 
-How you react to your circumstances says as much about you as a designer
-as your work. The best advice is to try to stay humble after success and
-to try and reset after failure. Not every success or failure is a
-representation of your abilities. You may struggle on a turn-around
-view, a whole character concept, or even for an entire show. It does not
-mean you are not a good designer. You may just be working on something
-that lays outside your sensibilities.
+How you react to your circumstances says as much about you as a designer as your work. The best advice is to try to stay humble after success and to try and reset after failure. Not every success or failure is a representation of your abilities. You may struggle on a turn-around view, a whole character concept, or even for an entire show. It does not mean you are not a good designer. You may just be working on something that lays outside your sensibilities.
 
-On the flip side, you may kick ass and work your way up into a top
-position on one show, but not hold that position when moved to the next.
-You can never expect special treatment because of your achievements and
-don't be bummed if you don't get it. Try to maintain a steady
-professional attitude and this will speak volumes.
+On the flip side, you may kick ass and work your way up into a top position on one show, but not hold that position when moved to the next. You can never expect special treatment because of your achievements and don't be bummed if you don't get it. Try to maintain a steady professional attitude and this will speak volumes.
 
-Ironically the FIRST portfolio you create to get your FIRST job is your
-most important one, and yet it will be the WORST one of your career.
-Your first portfolio is the one made to show your potential, so that
-employers see that you have the basic raw skills needed to start off in
-their studio, and at the least, to be contributing to their productions
-in significant ways. Once you've finished your first contract on your
-first show, most of your portfolio will be replaced with the NEW work
-you've done. After each production after that, you keep adding and
-replacing things to your portfolio, and with each project being
-completed, you make yourself more valuable.
+Ironically the FIRST portfolio you create to get your FIRST job is your most important one, and yet it will be the WORST one of your career. Your first portfolio is the one made to show your potential, so that employers see that you have the basic raw skills needed to start off in their studio, and at the least, to be contributing to their productions in significant ways. Once you've finished your first contract on your first show, most of your portfolio will be replaced with the NEW work you've done. After each production after that, you keep adding and replacing things to your portfolio, and with each project being completed, you make yourself more valuable.
 
 ![image](./images/unnamed_1014.png)
 
-As you can see from this chart, the factors that are most important for
-Getting Hired versus Staying Hired, can change quite a bit. When you are
-gunning for your first job, you don't have any production experience
-yet, so your speed is unknown, they don't know how fast you are, and YOU
-don't even know how fast you can be, until you're put to the test. The
-quality of your FIRST portfolio will be weak compared to the one you'll
-have after only a few months of production work, but it's all you have
-to go by, and that's fine, you have no reputation (good or bad) and your
-speed is unknown to them (and yourself).
+As you can see from this chart, the factors that are most important for Getting Hired versus Staying Hired, can change quite a bit. When you are gunning for your first job, you don't have any production experience yet, so your speed is unknown, they don't know how fast you are, and YOU don't even know how fast you can be, until you're put to the test. The quality of your FIRST portfolio will be weak compared to the one you'll have after only a few months of production work, but it's all you have to go by, and that's fine, you have no reputation (good or bad) and your speed is unknown to them (and yourself).
 
-Your attitude and work ethic are also not known to any employer. So
-first impressions are important, and the people hiring you are aware of
-the fact that you are new to the process, so they are looking for
-diversity in your skill range and on the stylistic and artistic level,
-able to offer some creativity in your designs and accuracy within the
-turn-around samples you provide. It shows that SPEED isn't a factor
-until you get hired, with that said, if you take a VERY long time in
-completing a design test, then that would affect their decision in
-hiring you, of course. So assuming you don't take more than a few days
-to complete the design test, then your quality and creativity is what
-will impress them most.
+Your attitude and work ethic are also not known to any employer. So first impressions are important, and the people hiring you are aware of the fact that you are new to the process, so they are looking for diversity in your skill range and on the stylistic and artistic level, able to offer some creativity in your designs and accuracy within the turn-around samples you provide. It shows that SPEED isn't a factor until you get hired, with that said, if you take a VERY long time in completing a design test, then that would affect their decision in hiring you, of course. So assuming you don't take more than a few days to complete the design test, then your quality and creativity is what will impress them most.
 
-(\\\_/)
+> (\\\_/)
+> ( •\_•)
+> /\>🍿\<
 
-( •\_•)
+Once you are hired, your attitude is actually MORE important to keeping yourself employed than all other factors. Your quality and speed will increase naturally as time goes on, you'll develop your work-habits reputation in this way. But if you maintain a positive attitude, help others with their work, meet your deadlines, make yourself easy to work with, ask questions, be consistent, stay reliable, offer resourceful solutions to design problems, and always show a steady growth in your skill level... you'll stay employed forever.
 
-/\>🍿\<
-
-Once you are hired, your attitude is actually MORE important to keeping
-yourself employed than all other factors. Your quality and speed will
-increase naturally as time goes on, you'll develop your work-habits
-reputation in this way. But if you maintain a positive attitude, help
-others with their work, meet your deadlines, make yourself easy to work
-with, ask questions, be consistent, stay reliable, offer resourceful
-solutions to design problems, and always show a steady growth in your
-skill level... you'll stay employed forever.
-
-What will matter MORE than your overall quality and speed, is your
-positive attitude, your work ethic and your steady rate of improvement
-(even if it is only small amounts over time). These will increase your
-chances of staying hired, getting promoted, or getting transferred over
-to the next new production as contracts end and new ones begin.
+What will matter MORE than your overall quality and speed, is your positive attitude, your work ethic and your steady rate of improvement (even if it is only small amounts over time). These will increase your chances of staying hired, getting promoted, or getting transferred over to the next new production as contracts end and new ones begin.
 
 ![image](./images/unnamed_760.png)
 
-Ego
+#### Ego
 
 The advice we typically hear around EGO is, "Check your ego."
 
-It is in your best interest to be a pleasant person to work with. There
-will be egos. Expect it. How you handle yourself will truly make or
-break your success at the studio.
+It is in your best interest to be a pleasant person to work with. There will be egos. Expect it. How you handle yourself will truly make or break your success at the studio.
 
-Checking your ego only works when everyone else checks theirs as well -
-which typically does not happen. There will be situations where this
-happens and they\'re great, and there will be times where you will need
-to have the confidence to stand up for yourself as well.
+Checking your ego only works when everyone else checks theirs as well - which typically does not happen. There will be situations where this happens and they\'re great, and there will be times where you will need to have the confidence to stand up for yourself as well.
 
 ![image](./images/unnamed_741.jpg)
 
-Building your confidence level:
+#### Building your confidence level
 
-Checking your ego and being humble doesn\'t mean putting down your work.
-In a safe work environment such as college, this may work, but in a
-professional environment you will be lowering people's expectations of
-your work.
+Checking your ego and being humble doesn\'t mean putting down your work. In a safe work environment such as college, this may work, but in a professional environment you will be lowering people's expectations of your work.
 
-Having confidence is part of the job. Your job as a designer is to
-deliver the best and most appropriate concepts on the characters you are
-given. You will face challenges every week, and you need to create
-solutions to design problems all the time.
+Having confidence is part of the job. Your job as a designer is to deliver the best and most appropriate concepts on the characters you are given. You will face challenges every week, and you need to create solutions to design problems all the time.
 
-Doing so requires having some level of confidence in your abilities.
-Failure can come from presenting half-baked ideas with your concepts
-because of a lack of confidence or defaulting to other people's
-opinions. Getting input is KEY to a successful design, and bringing your
-best to the table first shows that you are indeed giving your best.
+Doing so requires having some level of confidence in your abilities. Failure can come from presenting half-baked ideas with your concepts because of a lack of confidence or defaulting to other people's opinions. Getting input is KEY to a successful design, and bringing your best to the table first shows that you are indeed giving your best.
 
-You will get notes and notes and more notes, on most characters you take
-on. That doesn't mean you can switch off and rely on other people's
-opinions moving forward. Follow instructions, listen to feedback, read
-the descriptions, but ALSO follow your instincts, that's why they hired
-you in the first place.
+You will get notes and notes and more notes, on most characters you take on. That doesn't mean you can switch off and rely on other people's opinions moving forward. Follow instructions, listen to feedback, read the descriptions, but ALSO follow your instincts, that's why they hired you in the first place.
 
 ![image](./images/unnamed_781.png)
 
-Your Growth
+#### Your Growth
 
-The typical character designer's journey into the industry looks like
-this:
+The typical character designer's journey into the industry looks like this:
 
-1. Apply to animation studios, complete and submit the tests they send
-   to you.
+1. Apply to animation studios, complete and submit the tests they send to you.
 2. Get hired and get your first design gig.
-3. Struggle a bit getting up to speed once you get into your first
-   production.
-4. Spend lots of extra hours to catch up to the demands of the
-   workload.
+3. Struggle a bit getting up to speed once you get into your first production.
+4. Spend lots of extra hours to catch up to the demands of the workload.
 5. Start to crack the learning curve and make fast improvements.
 6. Hit a stride and kick some butt.
-7. Run into some inconsistency - some character designs you hit, some
-   you miss.
-8. Getting on a great show is really where you make progress. End up on
-   a tough show - where you level off or stop making progress, then
-   you're working really hard just to stay afloat.
+7. Run into some inconsistency - some character designs you hit, some you miss.
+8. Getting on a great show is really where you make progress. End up on a tough show - where you level off or stop making progress, then you're working really hard just to stay afloat.
 
 It's a non-linear path. Why? Well for a number of reasons:
 
 1. Talent - you need to build it. It takes time and practice.
-2. Skill level - where you are at is indicative of the type of job
-   you'll be ready for.
-3. Experience - the more you have typically the more desirable you'll
-   be.
-4. Situation - relocation, work visas, family, getting a position on
-   good shows and bad shows.
+2. Skill level - where you are at is indicative of the type of job you'll be ready for.
+3. Experience - the more you have typically the more desirable you'll be.
+4. Situation - relocation, work visas, family, getting a position on good shows and bad shows.
 
 Expectations of what it's like in a studio:
 
-1. We pick up certain things at college and then at jobs in smaller
-   studios.
-2. Working on a smaller project can be a greater opportunity for
-   creative input.
-3. When making the transition to a larger studio, realize it's a
-   gradual process to learn everything you need to know.
-4. In most cases you will be starting in a smaller role and building up
-   to your vision of the ideal position you want to be in.
-5. On a small production in a small studio you might have to do
-   everything for the character designs; full turnarounds, colors,
-   expressions, mouth charts, hand charts. In a big production, at a
-   big studio, you might only be doing one aspect; maybe just clean-up,
-   or finishing turns, since you'll be part of a team, where each
-   member specializes in one or two areas, because there's a high
-   volume of characters that need to get done every week.
+1. We pick up certain things at college and then at jobs in smaller studios.
+2. Working on a smaller project can be a greater opportunity for creative input.
+3. When making the transition to a larger studio, realize it's a gradual process to learn everything you need to know.
+4. In most cases you will be starting in a smaller role and building up to your vision of the ideal position you want to be in.
+5. On a small production in a small studio you might have to do everything for the character designs; full turnarounds, colors, expressions, mouth charts, hand charts. In a big production, at a big studio, you might only be doing one aspect; maybe just clean-up, or finishing turns, since you'll be part of a team, where each member specializes in one or two areas, because there's a high volume of characters that need to get done every week.
 
 In a perfect world every character designer would:
 
 1. Work at their studio of choice.
 2. Be on a project that they feel strongly about.
 3. Make a meaningful creative contribution to the production.
-4. Be part of a supportive crew that values their work and respects
-   their opinion.
+4. Be part of a supportive crew that values their work and respects their opinion.
 
 The reality of this job:
 
-1. Every once in a while all of these elements will come together, in a
-   positive way, and in your favor. However, it is rare to have them
-   all fall into place at once even at the best of studios.
-2. As pros we must find ways to do our best work and find creative
-   satisfaction even while we're not working under optimal conditions.
-3. As an entry level designer, and a lot of times as a mid-level
-   designer, nearly all of these factors come down to breaks. Which
-   means, for the most part, things that are out of our control.
+1. Every once in a while all of these elements will come together, in a positive way, and in your favor. However, it is rare to have them all fall into place at once even at the best of studios.
+2. As pros we must find ways to do our best work and find creative satisfaction even while we're not working under optimal conditions.
+3. As an entry level designer, and a lot of times as a mid-level designer, nearly all of these factors come down to breaks. Which means, for the most part, things that are out of our control.
 
 ![image](./images/unnamed_1225.png)
 
-The Breaks
+#### The Breaks
 
-In this business sometimes you catch the breaks and sometimes you don't.
-Opportunities don't always line up with qualifications. Luck and timing
-definitely play a factor.
+In this business sometimes you catch the breaks and sometimes you don't. Opportunities don't always line up with qualifications. Luck and timing definitely play a factor.
 
-Breaks include:
+#### Breaks include
 
 1. Getting Hired
+   - Timing (lots of luck)
+2. Which Project
+   - There may be a show in the works that's right up your alley but your skills are needed on a different show
+3. Your Leads
+   - Different leads/supervisors have different styles
+   - Some leads like to build up their teams
+   - Some like to be very regimented in the process of the daily tasks and require constant communication about your progress
+   - Others are more soft-spoken and keep communication to a minimum and just let the artists do their work
 
-- Timing (lots of luck)
+#### Other design roles
 
-1. Which Project
+There are different jobs and positions for designers, some are more glamorous than others. Alternative roles include:
 
-- There may be a show in the works that's right up your alley but your skills are needed on a different show
+1. **Prop Designer:** Producing all objects, items and vehicles.
+2. **Clean-up Artist:** Producing the final line, maintaining consistency and volumes while tracing the rough lines.
+3. **Design Revisionist:** Revises character designs according to client notes or art director's notes.
+4. **Design Assistant:** Also known as a Junior Designer, they do a bit of everything, finishing turnarounds, doing redresses on existing characters, creating head tilts, re-dressing re-use characters, creating hand charts and mouth charts on approved characters, prepping/labelling files to be exported so they can be shipped out and presented for review.
 
-1. Your Leads
-
-- Different leads/supervisors have different styles
-- Some leads like to build up their teams
-- Some like to be very regimented in the process of the daily tasks and require constant communication about your progress
-- Others are more soft-spoken and keep communication to a minimum and just let the artists do their work
-
-Other design roles:
-
-There are different jobs and positions for designers, some are more
-glamorous than others. Alternative roles include:
-
-1. Prop Designer: Producing all objects, items and vehicles.
-2. Clean-up Artist: Producing the final line, maintaining consistency and volumes while tracing the rough lines.
-3. Design Revisionist: Revises character designs according to client notes or art director's notes.
-4. Design Assistant: Also known as a Junior Designer, they do a bit of everything, finishing turnarounds, doing redresses on existing characters, creating head tilts, re-dressing re-use characters, creating hand charts and mouth charts on approved characters, prepping/labelling files to be exported so they can be shipped out and presented for review.
-
-Best practices:
+#### Best practices
 
 1. The biggest complaint from designers is that they feel they are not being used to their full potential.
+   - It's not always the production's goal to use you to your full potential. The goal is to get the series/film done at a consistent pace and at a high quality.
+2. It's important to realize that the breaks are just that, and are, in most cases, out of your control.
+   - You could end up spending energy worrying about this stuff to the point where it affects the work and your attitude.
+3. The best practice is to make the most of the opportunities that present themselves.
+   - When you get your first job there will be very little "training", most likely none at all, you'll be thrown into the work right away. You will have to dive in and learn what is required of you as you work through it.
+4. Try not to take it too hard when you miss the breaks, because there will be other opportunities.
+   - No one opportunity will make or break your career in animation/character design.
 
-- It's not always the production's goal to use you to your full potential. The goal is to get the series/film done at a consistent pace and at a high quality.
-
-1. It's important to realize that the breaks are just that, and are, in most cases, out of your control.
-
-- You could end up spending energy worrying about this stuff to the point where it affects the work and your attitude.
-
-1. The best practice is to make the most of the opportunities that present themselves.
-
-- When you get your first job there will be very little "training", most likely none at all, you'll be thrown into the work right away. You will have to dive in and learn what is required of you as you work through it.
-
-1. Try not to take it too hard when you miss the breaks, because there will be other opportunities.
-
-- No one opportunity will make or break your career in animation/character design.
-
-What determines being picked for character design on a production:
+> **What determines being picked for character design on a production:**
 
 1. Experience
 2. Skill set
@@ -11050,223 +9315,120 @@ What determines being picked for character design on a production:
 7. Momentum
 8. Trust in you by the Art Director
 
-What constitutes a 'good' character? Is it a Main Character or Primary
-Character? That might be a common consensus, since they'll have the most
-screen time, they'll need the most attention, they're the most important
-to the story, the most views will need to be illustrated, and the most
-additional assets made for it. However, some Supporting Characters often
-become more interesting and more fun to create; the sidekicks, the
-villains, the old wiseman, the quirky relative, the funny co-worker, the
-classroom friend, these usually become the more memorable characters in
-a film or series. When YOU think of your favorite character from an
-animated movie or series, it's very rare that it's the Lead Character.
+What constitutes a 'good' character? Is it a Main Character or Primary Character? That might be a common consensus, since they'll have the most screen time, they'll need the most attention, they're the most important to the story, the most views will need to be illustrated, and the most additional assets made for it. However, some Supporting Characters often become more interesting and more fun to create; the sidekicks, the villains, the old wiseman, the quirky relative, the funny co-worker, the classroom friend, these usually become the more memorable characters in a film or series. When YOU think of your favorite character from an animated movie or series, it's very rare that it's the Lead Character.
 
 ![image](./images/unnamed_904.jpg)
 
-What are your sensibilities or specialities? You'll discover these as
-time goes on, and your directors will notice what areas are your
-strengths and weaknesses. You may prefer to draw more mechanical/robot
-characters, it might be more cartoony funny-looking characters, it might
-be more realistic-looking human characters, or it might be animals and
-creatures. Your specialties and preferences will reveal themselves and
-will grow over time. You may end up on a production that has a style
-that you are very unfamiliar with, take the opportunity to research,
-practice and learn from it, you will only become a stronger artist as a
-result.
+What are your sensibilities or specialities? You'll discover these as time goes on, and your directors will notice what areas are your strengths and weaknesses. You may prefer to draw more mechanical/robot characters, it might be more cartoony funny-looking characters, it might be more realistic-looking human characters, or it might be animals and creatures. Your specialties and preferences will reveal themselves and will grow over time. You may end up on a production that has a style that you are very unfamiliar with, take the opportunity to research, practice and learn from it, you will only become a stronger artist as a result.
 
-You may be offered a job that you can't accept because you haven't
-finished your current contract yet. Try not to worry about missed
-opportunities like this. First, see if you can work on BOTH, because if
-the overlap between both projects is manageable and you're willing to
-work overtime in order to wrap up on one production while starting on a
-new one, then it could work out good for everyone. This way you don't
-miss your chance on the other cool job. Also, you can talk to the Line
-producer or Director, to see if you can start a bit later and catch up
-with some over time later, this way, you don't miss that contract
-entirely, especially if it's a show you're looking forward to.
+You may be offered a job that you can't accept because you haven't finished your current contract yet. Try not to worry about missed opportunities like this. First, see if you can work on BOTH, because if the overlap between both projects is manageable and you're willing to work overtime in order to wrap up on one production while starting on a new one, then it could work out good for everyone. This way you don't miss your chance on the other cool job. Also, you can talk to the Line producer or Director, to see if you can start a bit later and catch up with some over time later, this way, you don't miss that contract entirely, especially if it's a show you're looking forward to.
 
 ![image](./images/unnamed_1135.png)
 
-If you see that there's another production in the studio that they're
-doing character designs for and you love the look and style of it, but
-you're stuck on the other less-appealing show, ask your supervisor/art
-director if you can possibly transfer over to the more desirable
-project. The more experience you have the more they will make changes to
-accommodate your preferences. Most times they cast and pick which
-designers go on which productions based upon their style, speed, and
-strengths. They can't always meet your requests, but it doesn't hurt to
-ask.
+If you see that there's another production in the studio that they're doing character designs for and you love the look and style of it, but you're stuck on the other less-appealing show, ask your supervisor/art director if you can possibly transfer over to the more desirable project. The more experience you have the more they will make changes to accommodate your preferences. Most times they cast and pick which designers go on which productions based upon their style, speed, and strengths. They can't always meet your requests, but it doesn't hurt to ask.
 
-Speed
+#### Speed
 
-Each production is different for expectations on what rate of speed is
-required. Usually each character takes two weeks from concept to
-completion. But you are always working on several characters at once,
-some require more turn-around views than others, some require more
-angles and mouth charts and hand poses than others. It all depends on
-how comprehensive the design pack for each character is.
+Each production is different for expectations on what rate of speed is required. Usually each character takes two weeks from concept to completion. But you are always working on several characters at once, some require more turn-around views than others, some require more angles and mouth charts and hand poses than others. It all depends on how comprehensive the design pack for each character is.
 
 ![image](./images/unnamed_028.gif)
 
-Don't beat yourself up about not being a fast designer:
+> **Don't beat yourself up about not being a fast designer:**
 
-Speed develops with time and the good news is that you're not going to
-be getting A+ characters at the studio on day one. They will give you
-simple characters in the beginning, or tasks that have you assisting a
-more senior designer. So you can learn the studio's pipeline, learn the
-etiquette in the reviews of your designs, and learn how to receive
-feedback, be mindful and resourceful when implementing the revisions to
-your work. Steady consistency in your performance and work quality and
-slow but gradual consistency in your rate of improvement will ALWAYS be
-noticed by your directors and supervisors.
+Speed develops with time and the good news is that you're not going to be getting A+ characters at the studio on day one. They will give you simple characters in the beginning, or tasks that have you assisting a more senior designer. So you can learn the studio's pipeline, learn the etiquette in the reviews of your designs, and learn how to receive feedback, be mindful and resourceful when implementing the revisions to your work. Steady consistency in your performance and work quality and slow but gradual consistency in your rate of improvement will ALWAYS be noticed by your directors and supervisors.
 
 ![image](./images/unnamed_026.jpg)
 
-Feedback
+#### Feedback
 
-The feedback loop changes slightly from show to show.
+The feedback loop changes slightly from show to show. Once you've had a few years of experience and a few shows under your belt, you'll see there's a few patterns of workflow that work best, here are a few standards and bits of advice that would be good to know for most studios...
 
-Once you've had a few years of experience and a few shows under your
-belt, you'll see there's a few patterns of workflow that work best, here
-are a few standards and bits of advice that would be good to know for
-most studios...
+> **Understanding launches and review meetings:**
 
-Understanding launches and review meetings:
+- Design Launch - every week or two, you'll have a meeting with the Art Director about your new design assignments, and what factors you need to consider and what references you need to use.
+- Design Review - every week there's a meeting reviewing new and revised designs from the previous week, this is when your art director/design supervisor and possibly the showrunner, all offer feedback and creative direction. This could be in-person or through a live video conference call, and also as redlines/draw-overs with written notes in the form of emails and in online documents/spreadsheets.
 
-- Design Launch - every week or two, you'll have a meeting with the
-  Art Director about your new design assignments, and what factors you
-  need to consider and what references you need to use.
-- Design Review - every week there's a meeting reviewing new and
-  revised designs from the previous week, this is when your art
-  director/design supervisor and possibly the showrunner, all offer
-  feedback and creative direction. This could be in-person or through
-  a live video conference call, and also as redlines/draw-overs with
-  written notes in the form of emails and in online
-  documents/spreadsheets.
-
-Know what type of forum is it for the weekly reviews:
+> **Know what type of forum is it for the weekly reviews:**
 
 - Are opinions being solicited?
-- In most cases it is a presentation of work to the art directors &
-  series director for their feedback.
+- In most cases it is a presentation of work to the art directors & series director for their feedback.
 - Sit back and observe the etiquette and be sure to respect it.
-- Getting multiple sources of feedback is often disruptive for a
-  character, but it's often unavoidable, there will be times where you
-  get notes from a director and showrunner that might contradict each
-  other, when this happens - see if there's a way to accommodate both
-  notes with a compromise, or communicate with your
-  supervisor/director (after the meetings) on what the best course of
-  action is.
+- Getting multiple sources of feedback is often disruptive for a character, but it's often unavoidable, there will be times where you get notes from a director and showrunner that might contradict each other, when this happens - see if there's a way to accommodate both notes with a compromise, or communicate with your supervisor/director (after the meetings) on what the best course of action is.
 
-Different directors and supervisors have different expectations from
-designers:
+> **Different directors and supervisors have different expectations from designers:**
 
 - Some will value your opinion, some won't.
-- Some will have an open dialogue. Sometimes the dialogue is
-  one-sided.
+- Some will have an open dialogue. Sometimes the dialogue is one-sided.
+  - Try not to take it personally.
+  - Stay humble.
+  - Stay focused.
+  - Remind yourself of what the goals are.
+  - What is the intention behind the character personalities and their purpose in the story.
 
-Try not to take it personally.
+#### Addressing notes
 
-Stay humble.
-
-Stay focused.
-
-Remind yourself of what the goals are.
-
-What is the intention behind the character personalities and their
-purpose in the story.
-
-Addressing notes:
-
-- Get a feel for the director's sensibilities, try to get in their
-  head.
+- Get a feel for the director's sensibilities, try to get in their head.
 - If you are just hitting the notes you're not doing enough.
 - Avoid becoming simply a pair of hands.
 
-Own your designs and your notes and get to the root of critiques and
-feedback:
+> **Own your designs and your notes and get to the root of critiques and feedback:**
 
 Getting back on the horse...
 
 - You willhave your favorite characters changed or cut out.
-- Don't let tough notes and story changes take the wind out of your
-  sails.
-- With tough notes try to take a step back and find the meaning behind
-  the note. Approach the revision in a way that still keeps your
-  contribution valid and creative.
+- Don't let tough notes and story changes take the wind out of your sails.
+- With tough notes try to take a step back and find the meaning behind the note. Approach the revision in a way that still keeps your contribution valid and creative.
 
-Ebb and flow:
+#### Ebb and flow
 
-When you first start off in the industry, everything is precious.
+- When you first start off in the industry, everything is precious.
+- Big notes or character changes feel devastating.
+- Working on a character design can be a rollercoaster.
+- When our character design progress is doing well, we are doing well.
+- You can be on top of the world one day while things are going well, and then be absolutely broken up the next when things start falling apart.
 
-Big notes or character changes feel devastating.
-
-Working on a character design can be a rollercoaster.
-
-When our character design progress is doing well, we are doing well.
-
-You can be on top of the world one day while things are going well,
-
-and then be absolutely broken up the next when things start falling
-apart.
-
-Over time you realize that the best approach is to have a slight
-emotional detachment from your work, and this attitude develops over
-time. Finding the combination of commitment to the production and
-dedication to the work is the secret recipe to live by. Stay a bit
-detached from the work so that you are not so devastated and crushed
-when designs get changed drastically, or given to someone else to do, or
-cut out of the production entirely. But not too detached if you don't
-care about the work, if you don't commit yourself fully to the
-production, it shows in your art and your creativity will suffer.
+Over time you realize that the best approach is to have a slight emotional detachment from your work, and this attitude develops over time. Finding the combination of commitment to the production and dedication to the work is the secret recipe to live by. Stay a bit detached from the work so that you are not so devastated and crushed when designs get changed drastically, or given to someone else to do, or cut out of the production entirely. But not too detached if you don't care about the work, if you don't commit yourself fully to the production, it shows in your art and your creativity will suffer.
 
 ![image](./images/unnamed_035.gif)
 
-Networking
+#### Networking
 
-1. Politics are everywhere:
-
-- In hiring, casting, advancement. It's a part of the game.
-- When politics work in your favor, they almost seem invisible.
-- When they work against you, it can be frustrating.
-
-1. The nature of politics:
-
-- It's not all evil.
-- If you were to start a project, who would you hire?
-- Would you search long and far for the best candidate, or would you first start with people that you know and trust?
-
-1. People working politics:
-
-- It's not unusual to see people schmoozing.
-- This again is one of the things outside of your control.
-- There will be people who find success this way.
-- There will also be folks who try to, and it backfires.
-
-1. Best practices:
-
-- Stay true to your nature.
-- Let the schmoozers schmooze and focus on doing the best work you can.
-- Double down on your strengths, work on fixing your weaknesses a little bit at a time.
-- Your best network connections are your peers.
-- Remember this and remember to not burn bridges.
-- This industry is very small.
+1. **Politics are everywhere:**
+   - In hiring, casting, advancement. It's a part of the game.
+   - When politics work in your favor, they almost seem invisible.
+   - When they work against you, it can be frustrating.
+2. **The nature of politics:**
+   - It's not all evil.
+   - If you were to start a project, who would you hire?
+   - Would you search long and far for the best candidate, or would you first start with people that you know and trust?
+3. **People working politics:**
+   - It's not unusual to see people schmoozing.
+   - This again is one of the things outside of your control.
+   - There will be people who find success this way.
+   - There will also be folks who try to, and it backfires.
+4. **Best practices:**
+   - Sta'y true to your nature.
+   - Let the schmoozers schmooze and focus on doing the best work you can.
+   - Double down on your strengths, work on fixing your weaknesses a little bit at a time.
+   - Your best network connections are your peers.
+   - Remember this and remember to not burn bridges.
+   - Thi's industry is very small.
 
 ![image](./images/unnamed_1238.jpg)
 
-Experience
+#### Experience
 
-1. Clarity over time:
+1. **Clarity over time:**
    - The experience you will gain in the first 8 weeks of your first job, will out-weigh all the stuff you learned in your courses.
    - As days and weeks go by, we realize that our perception of our own work has changed, you will look back on the stuff you did 2 months ago, and you'll see your mistakes and what aspects you do differently now.
    - There are so many things in this industry that seem confusing at the time but become crystal clear with more experience.
-1. Looking back on the work:
+2. **Looking back on the work:**
    - You'll look back on times that you felt you were struggling and spinning your wheels and realize that you were growing in ways you didn't notice.
    - Other times you might think that you were shafted on a certain show by being given crappy characters to work on, only to look back and realize that your skill wasn't at the level to take on bigger tasks yet.
-1. The level is always going up across the industry:
+3. **The level is always going up across the industry:**
    - Keeping up is an effort in it of itself - You have to give yourself credit.
    - The demand for high quality work rises with each passing year in film work and series/streaming properties. You need to stay current and up to date on everything you can see that is being worked on; new releases, new shorts, new films, new shows, and realize you must always be working on how to improve.
-1. On growth in your environment:
+4. **On growth in your environment:**
    - It's important to realize that everyone has their own path.
    - You'll see some of the slowest learners grow to be top talent.
    - At the same time you'll see top prospects burn out and leave the industry.
@@ -11276,7 +9438,7 @@ Experience
 
 ![image](./images/unnamed_1401.jpg)
 
-Review
+#### Review
 
 1. There are things other than your work that will affect your career as a character designer.
 1. The best bets for success are to stay true to your nature and focus your energy on your work.
@@ -11287,525 +9449,161 @@ Review
 
 ![image](./images/unnamed_794.jpg)
 
-Closing the gap between beginner and skilled designer through practice:
-
-You will learn that this industry is all about process. It\'s a funny
-thing because I was so desperate early on in my career. I remember
-thinking "like, man, I wish I could just take a pill that would just
-instantly make me better at this"\... And I ask students today, I say,
-"who here, if you could take a pill and you\'d just be a great designer
-and animator, who here would take it?" Of course, everybody would. But
-that thinking is really interesting to me because it just highlights
-this sort of backwards notion that it\'s results over process and
-results are inevitably shallow. And the more you work at your craft, the
-better the results become.
-
-Deliberate practice is what turns amateurs into professionals. Across
-every field, deliberate practice is what creates top performers and what
-they use to stay at the top of their game. As a general concept,
-'practice' means preparing, and it's absolutely essential for expert
-performance. It's the act of repeatedly performing certain activities
-with the intention of improving a specific associated skill. We rehearse
-what to do in low-pressure situations so we'll be better when we use a
-skill in situations where something is actually at stake, such as in a
-competition or in the workplace with a fast-approaching deadline.
-
-In the beginning, you really want this high quality result, this
-professional result, and you don\'t know how to get it and you see other
-people doing it and you\'re like "ah, I don\'t know how they\'re doing
-that." And it\'s frustrating and it's this scary thing, because it\'s
-not like you're bummed about being bad at what you\'re trying to do.
-It\'s about not knowing what to do about that. And the answer is
-deceptively simple, which is... just do more. That\'s it, but it
-doesn\'t always feel like doing more is working. But it\'s the only
-answer, and the results of your hard work seem painstakingly slow and
-invisible.
-
-I would start to visualize because I was getting frustrated and
-distracted with emotion, all this kind of stuff and the pressure of
-getting better faster. And so I would visualize what my best work could
-be like, and it seems to live way out there, out of reach. There\'s no
-way to get at your best work fast and instantly.
-
-I visualized that as it existed and between it and me was just this long
-like, you know, tunnel of shit that I just had to dig through. And just
-move these bad sketches and designs out of the way. You work at a
-design, over and over to get the first ones, the bad ones out of the
-way, and eventually the superior design starts to emerge from the mess
-of roughs you make. And by doing that and going through that, what you
-realize is that the results start to, or the importance of the result,
-start to reveal themselves, and the progress is huge.
-
-The progress is small, the process is a burden, you know when you first
-start, you\'re digging for this result, and the process is just like
-you\'re enduring it and it\'s this burden or this task that you gotta
-fight your way through. And, you know, it gets so cumbersome, but
-working through a hundred bad drawings is what will get you to those few
-amazing ones. Like what pro photographers say, you need to take a
-hundred photos before you nail that one good one.
-
-Even just seeing the software, or the blank page looking back at you, it
-can be a major mental block to overcome, you get up in the morning and
-you sit down at your computer and you see that little Photoshop icon and
-you\'re like "ugh\-- don\'t even wanna click on it" - because everything
-about that thing makes me feel intimidated by the work that's ahead of
-me. It doesn\'t give me any positive feedback at all. It just keeps
-going like, "hey, you\'re terrible."
-
-At the end of the day, you MUST fall in love with the process. The
-discovery, the collaborating, the iterations, the many many versions you
-need to create, all to arrive at the final results, to explore and find
-the character for yourself. Within this process, is how you grow as an
-artist, build up those experience points and learn to be better at your
-craft.
-
--Portion from a Character Design Workshop by Ron Doucet
+> **Closing the gap between beginner and skilled designer through practice:** \
+>
+> You will learn that this industry is all about process. It\'s a funny thing because I was so desperate early on in my career. I remember thinking "like, man, I wish I could just take a pill that would just instantly make me better at this"\... And I ask students today, I say, "who here, if you could take a pill and you\'d just be a great designer and animator, who here would take it?" Of course, everybody would. But that thinking is really interesting to me because it just highlights this sort of backwards notion that it\'s results over process and results are inevitably shallow. And the more you work at your craft, the better the results become.
+>
+> Deliberate practice is what turns amateurs into professionals. Across every field, deliberate practice is what creates top performers and what they use to stay at the top of their game. As a general concept, 'practice' means preparing, and it's absolutely essential for expert performance. It's the act of repeatedly performing certain activities with the intention of improving a specific associated skill. We rehearse what to do in low-pressure situations so we'll be better when we use a skill in situations where something is actually at stake, such as in a competition or in the workplace with a fast-approaching deadline.
+>
+> In the beginning, you really want this high quality result, this professional result, and you don\'t know how to get it and you see other people doing it and you\'re like "ah, I don\'t know how they\'re doing that." And it\'s frustrating and it's this scary thing, because it\'s not like you're bummed about being bad at what you\'re trying to do. It\'s about not knowing what to do about that. And the answer is deceptively simple, which is... just do more. That\'s it, but it doesn\'t always feel like doing more is working. But it\'s the only answer, and the results of your hard work seem painstakingly slow and invisible.
+>
+> I would start to visualize because I was getting frustrated and distracted with emotion, all this kind of stuff and the pressure of getting better faster. And so I would visualize what my best work could be like, and it seems to live way out there, out of reach. There\'s no way to get at your best work fast and instantly.
+>
+> I visualized that as it existed and between it and me was just this long like, you know, tunnel of shit that I just had to dig through. And just move these bad sketches and designs out of the way. You work at a design, over and over to get the first ones, the bad ones out of the way, and eventually the superior design starts to emerge from the mess of roughs you make. And by doing that and going through that, what you realize is that the results start to, or the importance of the result, start to reveal themselves, and the progress is huge.
+>
+> The progress is small, the process is a burden, you know when you first start, you\'re digging for this result, and the process is just like you\'re enduring it and it\'s this burden or this task that you gotta fight your way through. And, you know, it gets so cumbersome, but working through a hundred bad drawings is what will get you to those few amazing ones. Like what pro photographers say, you need to take a hundred photos before you nail that one good one.
+>
+> Even just seeing the software, or the blank page looking back at you, it can be a major mental block to overcome, you get up in the morning and you sit down at your computer and you see that little Photoshop icon and you\'re like "ugh\-- don\'t even wanna click on it" - because everything about that thing makes me feel intimidated by the work that's ahead of me. It doesn\'t give me any positive feedback at all. It just keeps going like, "hey, you\'re terrible."
+>
+> At the end of the day, you MUST fall in love with the process. The discovery, the collaborating, the iterations, the many many versions you need to create, all to arrive at the final results, to explore and find the character for yourself. Within this process, is how you grow as an artist, build up those experience points and learn to be better at your craft.
+>
+> -Portion from a Character Design Workshop by Ron Doucet
 
 ![image](./images/unnamed_095.png)
 
 ### Contracts & Schedules
 
-Here's the very boring aspect of the job. This can be a difficult
-subject to talk about, but here's some suggestions and thoughts on the
-topic of salaries and pay rates for when you get a character design
-job - this all depends on many different factors: Average hours of work,
-amount of designs being asked of you, deadlines and expected output
-speed, amount of revisions being asked of you to do, your personal level
-of experience, and how much is involved with each design (3-point
-Turnaround? Full 8-point Turnaround? Head Angles?
-Poses/Expressions/Mouth Charts? Quick Color Concepts or Full Color?)\...
-So there's many elements involved, which is why a good starting point is
-to settle on a daily rate for yourself, and compare that with the
-offer-of-pay or work contract being given to you.
+Here's the very boring aspect of the job. This can be a difficult subject to talk about, but here's some suggestions and thoughts on the topic of salaries and pay rates for when you get a character design job - this all depends on many different factors: Average hours of work, amount of designs being asked of you, deadlines and expected output speed, amount of revisions being asked of you to do, your personal level of experience, and how much is involved with each design (3-point Turnaround? Full 8-point Turnaround? Head Angles? Poses/Expressions/Mouth Charts? Quick Color Concepts or Full Color?)\... So there's many elements involved, which is why a good starting point is to settle on a daily rate for yourself, and compare that with the offer-of-pay or work contract being given to you.
 
-The first thing for YOU to determine is to know if you will be exclusive
-to this client/employer. This means that regardless of whether you only
-do 3 characters per week with full turnarounds and no-color and two
-revision passes, or 5 characters per week with only two views and one
-revisions pass, you assume that you are full time, exclusive to this
-studio/director/client, and if you are consistent at putting in 8-9
-hours per day (5 days per week) of work, and that is how much you are
-willing to dedicate to this production and to this client - then your
-fair rate of pay can be determined from that. Sometimes they need you
-only in a freelance (hourly) capacity, one week you'll perhaps be
-full-time, the next week only half time, and they require you to pass in
-a timesheet that logs your hours and you get paid accordingly. Or are
-you paid by the character (as they get completed or approved)? Or are
-you simply on salary expected to produce an average predetermined amount
-of characters every week. Ask these questions, or read your contract to
-determine what are your parameters and your expected output of work.
+The first thing for YOU to determine is to know if you will be exclusive to this client/employer. This means that regardless of whether you only do 3 characters per week with full turnarounds and no-color and two revision passes, or 5 characters per week with only two views and one revisions pass, you assume that you are full time, exclusive to this studio/director/client, and if you are consistent at putting in 8-9 hours per day (5 days per week) of work, and that is how much you are willing to dedicate to this production and to this client - then your fair rate of pay can be determined from that. Sometimes they need you only in a freelance (hourly) capacity, one week you'll perhaps be full-time, the next week only half time, and they require you to pass in a timesheet that logs your hours and you get paid accordingly. Or are you paid by the character (as they get completed or approved)? Or are you simply on salary expected to produce an average predetermined amount of characters every week. Ask these questions, or read your contract to determine what are your parameters and your expected output of work.
 
-There might be an exclusivity clause in your contract, if so, realize
-that this means that if they catch you working for any other
-client/employer while under contract with them, they would have the
-right to terminate your employment. This is because exclusivity means
-you can only work for them while under their employment, this is a good
-thing, because it usually means they will pay you well, and want you to
-work full time and maybe even overtime for them and only them. If you
-find the pay is not fair (kinda low) given these terms, then you need to
-negotiate a higher salary or have them remove the exclusivity clause
-from your contract (their choice).
+There might be an exclusivity clause in your contract, if so, realize that this means that if they catch you working for any other client/employer while under contract with them, they would have the right to terminate your employment. This is because exclusivity means you can only work for them while under their employment, this is a good thing, because it usually means they will pay you well, and want you to work full time and maybe even overtime for them and only them. If you find the pay is not fair (kinda low) given these terms, then you need to negotiate a higher salary or have them remove the exclusivity clause from your contract (their choice).
 
-By working on multiple productions (very possible when working from
-home), you can be working on 2 or 3 or more projects at once, as long as
-they're all part-time jobs. Just be careful to not get too overwhelmed
-and overworked, and do not miss deadlines or compromise quality with
-your supervisors/directors.
+By working on multiple productions (very possible when working from home), you can be working on 2 or 3 or more projects at once, as long as they're all part-time jobs. Just be careful to not get too overwhelmed and overworked, and do not miss deadlines or compromise quality with your supervisors/directors.
 
-All this stuff can be boring (or stressful) to think about, and tough to
-figure out with your employer. Don't worry about this too much, most of
-the time, your employer (the studio's line producer, operations manager,
-production manager) has it ALL written out for you, if there's lots of
-legal jargon you can't decipher from your contract, ask for a sit down
-or a screen-sharing video call to have them walk you through your
-contract, prior to signing and submitting it to them.
+All this stuff can be boring (or stressful) to think about, and tough to figure out with your employer. Don't worry about this too much, most of the time, your employer (the studio's line producer, operations manager, production manager) has it ALL written out for you, if there's lots of legal jargon you can't decipher from your contract, ask for a sit down or a screen-sharing video call to have them walk you through your contract, prior to signing and submitting it to them.
 
 ![image](./images/unnamed_547.png)
 
 The daily rate system:
 
-The client may want to pay a certain amount per hour or a certain amount
-per character, this is fine, from this info (and the rate they offer
-you) you can determine the daily rateyou're comfortable with, knowing
-you'll work full time, 8-9 hours per day, then you can easily determine
-what is fair and reasonable. Perhaps the client only has enough work for
-you to do 2 or 3 days per week? Then your daily rate still applies.
+The client may want to pay a certain amount per hour or a certain amount per character, this is fine, from this info (and the rate they offer you) you can determine the daily rateyou're comfortable with, knowing you'll work full time, 8-9 hours per day, then you can easily determine what is fair and reasonable. Perhaps the client only has enough work for you to do 2 or 3 days per week? Then your daily rate still applies.
 
-For example, if you set your daily rate to be \$200 per day \-- Then it
-doesn't matter how many characters per week, or how many revisions on
-your designs are requested. From this rate (or whatever rate you feel is
-fair) you can determine how much your income would be for a weekly rate
-or a per-character rate (on average), then you must determine (with your
-boss/client/director) how many characters you can develop per week.
+For example, if you set your daily rate to be \$200 per day \-- Then it doesn't matter how many characters per week, or how many revisions on your designs are requested. From this rate (or whatever rate you feel is fair) you can determine how much your income would be for a weekly rate or a per-character rate (on average), then you must determine (with your boss/client/director) how many characters you can develop per week.
 
-/// This is only an example, it's between you and your employer (and the
-production budget) what the adequate rate should be based on the work
-and the schedule ///
+> /// This is only an example, it's between you and your employer (and the production budget) what the adequate rate should be based on the work and the schedule ///
 
-You know you're working 8 to 9 hours daily. This may translate into 5
-characters in one week with 4-point turnarounds and a few head angles
-for each, or it may be only 2 characters because the client wanted to
-see several rounds of rough concepts and then had a few passes of notes
-on your turnaround views and color passes. Either way, your TIME
-coincides with your rate of pay.
+You know you're working 8 to 9 hours daily. This may translate into 5 characters in one week with 4-point turnarounds and a few head angles for each, or it may be only 2 characters because the client wanted to see several rounds of rough concepts and then had a few passes of notes on your turnaround views and color passes. Either way, your TIME coincides with your **rate of pay**.
 
 ![image](./images/unnamed_1253.jpg)
 
-If the client wants to pay you \$800 per character and each character is
-a 5-point turnaround, clean line-art (no color), a few poses and
-expressions, with only two rounds of notes at the rough and rotation
-stages, at a rate of 4 characters every 2 weeks, and that is the
-agreed-upon consistency of work - then you must determine if this is
-do-able in the time constraints laid out. It may be a high rate of pay,
-but the work may not be do-able in the provided schedule. Often some
-testing is required, and the first one or two characters will determine
-how difficult the work will be. A two week trial period is not uncommon.
+If the client wants to pay you \$800 per character and each character is a 5-point turnaround, clean line-art (no color), a few poses and expressions, with only two rounds of notes at the rough and rotation stages, at a rate of 4 characters every 2 weeks, and that is the agreed-upon consistency of work - then you must determine if this is do-able in the time constraints laid out. It may be a high rate of pay, but the work may not be do-able in the provided schedule. Often some testing is required, and the first one or two characters will determine how difficult the work will be. A two week trial period is not uncommon.
 
 ![image](./images/unnamed_492.jpg)
 
-Once the style is established, are you able to do that amount of work to
-meet their weekly quota? If you are able to do this amount of work
-within the 40-45 hour time span to complete it, then you are meeting
-your personal daily rate, and your client is receiving the adequate
-amount of designs from you, so everyone is happy; the client gets the
-characters from you, and you are getting paid well for the work. You
-figure out: I will work 8-10 hours per day, I want to get paid \$240 per
-day regardless of how much work there is, multiply that rate by ten (10
-days in a standard 2-week period), then that's your salary that you're
-aiming for, and your client expects to characters being completed every
-week, just an example!
+Once the style is established, are you able to do that amount of work to meet their weekly quota? If you are able to do this amount of work within the 40-45 hour time span to complete it, then you are meeting your personal **_daily rate_**, and your client is receiving the adequate amount of designs from you, so everyone is happy; the client gets the characters from you, and you are getting paid well for the work. You figure out: I will work 8-10 hours per day, I want to get paid \$240 per day regardless of how much work there is, multiply that rate by ten (10 days in a standard 2-week period), then that's your salary that you're aiming for, and your client expects to characters being completed every week, just an example!
 
-If the client wants to pay you \$1400 per week, flat rate, with a
-yet-to-be-determined amount of work per week, then make certain the
-deadlines are realistic, since they can quickly overlap and build up, as
-we've seen in this document there can be many stages in the creative
-process simply in attempting to find the character's personality in the
-design along with locking down the style itself. This could have you
-spending weeks in the concept art phase, and then weeks to go through
-approvals for costumes, turn-around views, colors, and the many other
-technical aspects to complete the design sheets. Most times you don't
-KNOW how realistic the deadlines will be until you dive into it, and
-experience the workflow of a typical 2 week cycle.
+If the client wants to pay you \$1400 per week, flat rate, with a yet-to-be-determined amount of work per week, then make certain the deadlines are realistic, since they can quickly overlap and build up, as we've seen in this document there can be many stages in the creative process simply in attempting to find the character's personality in the design along with locking down the style itself. This could have you spending weeks in the concept art phase, and then weeks to go through approvals for costumes, turn-around views, colors, and the many other technical aspects to complete the design sheets. Most times you don't KNOW how realistic the deadlines will be until you dive into it, and experience the workflow of a typical 2 week cycle.
 
 ![image](./images/unnamed_688.jpg)
 
-There are a few factors to consider:
+**There are a few factors to consider:**
 
 Is there an established character design style to follow?
 
-If not, how many days or weeks of time is there for you (or someone) to
-do the necessary visual development ahead of time in order to ascertain
-the design style? If there's lots of steady feedback - how long will
-this feedback from the director/client take? Be aware (and make your
-boss aware) that the development side of the design could take several
-weeks, and could be treated as its own contract or its own project.
-Because when it comes to discovering the style, then this one first
-character could take SEVERAL WEEKS to complete, and only once this style
-is locked down then the creation of the other characters will go much
-much faster. Again, you expect a daily rate no matter what, they are
-paying for your time, if it's \$250/day, then you know you will commit a
-certain number of hours weekly to help get the production's character
-development style into view and made to their liking. How this gets
-quantified is up to them. The norm is to get paid every 2 weeks for the
-work performed during the time worked over the previous two weeks.
+If not, how many days or weeks of time is there for you (or someone) to do the necessary visual development ahead of time in order to ascertain the design style? If there's lots of steady feedback - how long will this feedback from the director/client take? Be aware (and make your boss aware) that the development side of the design could take several weeks, and could be treated as its own contract or its own project. Because when it comes to discovering the style, then this one first character could take SEVERAL WEEKS to complete, and only once this style is locked down then the creation of the other characters will go much much faster. Again, you expect a daily rate no matter what, they are paying for your time, if it's \$250/day, then you know you will commit a certain number of hours weekly to help get the production's character development style into view and made to their liking. How this gets quantified is up to them. The norm is to get paid every 2 weeks for the work performed during the time worked over the previous two weeks.
 
-[»](https://www.google.com/url?q=https://www.toptal.com/designers/htmlarrows/punctuation/double-right-pointing-angle-quotation-mark/&sa=D&source=editors&ust=1759597865480964&usg=AOvVaw3pOgf2b_CMjMEFj0niCCvg)These
-\$ numbers are not to be taken literally, every employer is different,
-every budget is different, and all studios are all different in their
-pay structures that are based upon your speed, experience and
-agreed-upon contract - so use these as a baseline example.
+> [»](https://www.google.com/url?q=https://www.toptal.com/designers/htmlarrows/punctuation/double-right-pointing-angle-quotation-mark/&sa=D&source=editors&ust=1759597865480964&usg=AOvVaw3pOgf2b_CMjMEFj0niCCvg) These \$ numbers are not to be taken literally, every employer is different, every budget is different, and all studios are all different in their pay structures that are based upon your speed, experience and agreed-upon contract - so use these as a baseline example.
 
-At first the nature of the work can present itself in a few different
-ways; It could mean exploring lots of different styles before even a
-single character is approved. But once the first one is approved, it
-sets up the template for all other characters to follow on the same
-visual path.
+At first the nature of the work can present itself in a few different ways; It could mean exploring lots of different styles before even a single character is approved. But once the first one is approved, it sets up the template for all other characters to follow on the same visual path.
 
-Character #1 could take 3 weeks to complete, as you'll be required to
-explore, rough out, and later refine the style for the main principle
-characters that will have the most time on-screen, but after that you
-can be creating a single-view character at a rate of 1 to 3 per day, so
-your output will accelerate considerably depending on how rough the
-sketches can be or how clean your submissions can be. Your personal
-speed translates into the amount of work output. The more efficient you
-are at producing a higher rate of characters per week, the more valuable
-an employee you will become to them.
+Character #1 could take 3 weeks to complete, as you'll be required to explore, rough out, and later refine the style for the main principle characters that will have the most time on-screen, but after that you can be creating a single-view character at a rate of 1 to 3 per day, so your output will accelerate considerably depending on how rough the sketches can be or how clean your submissions can be. Your personal speed translates into the amount of work output. The more efficient you are at producing a higher rate of characters per week, the more valuable an employee you will become to them.
 
-Be aware that spending 2 hours on a rough character concept can be
-dragged out over several weeks. Because you wait on feedback, then redo
-that rough along with some alternate versions, then you do it again,
-then you refine it, then you make two more views, then there's some
-back-peddling, where the face and costume got looked at from another
-executive and they had some thoughts and opinions. So than
-previously-approved aspects of the character are now re-worked, this
-affects other elements of the character, and makes the refining and
-finalizing of a character to sometimes be a process that drags on for a
-long time.
+Be aware that spending 2 hours on a rough character concept can be dragged out over several weeks. Because you wait on feedback, then redo that rough along with some alternate versions, then you do it again, then you refine it, then you make two more views, then there's some back-peddling, where the face and costume got looked at from another executive and they had some thoughts and opinions. So than previously-approved aspects of the character are now re-worked, this affects other elements of the character, and makes the refining and finalizing of a character to sometimes be a process that drags on for a long time.
 
 ![image](./images/unnamed_268.jpg)
 
-You may be asked to fill out timesheets; these are logs that they will
-ask from you the hours you do weekly. You may only do 20 hours of actual
-work on a particular week if you were put on pause while approvals were
-waiting to come in and you didn't have other tasks to work on in the
-meantime.
+You may be asked to fill out timesheets; these are logs that they will ask from you the hours you do weekly. You may only do 20 hours of actual work on a particular week if you were put on pause while approvals were waiting to come in and you didn't have other tasks to work on in the meantime.
 
-You may be asked to fill out tax credit forms, these are very normal.
-TV/Film/Media tax incentives typically come in the form of Tax Credits,
-equal to a percentage of a production's qualified in- state/provincial
-spending and/or exemptions from sales tax on qualified transactions.
-Know that the production company relies on these forms to be signed so
-that they can receive a tax return on the portion of the budget they
-spend on artists' salaries (your salaries). The state/provincial and
-federal governments all pay for a significant portion of your salary
-(usually between 30-60% of your wages), signing those documents helps to
-make it all happen. Every city in every country has some sort of
-film/television/new media/gaming labor incentives program that the
-studio you work for must tap into, in order to complete the budget's
-production, this is the only way to get the deal from their client.
+You may be asked to fill out tax credit forms, these are very normal. TV/Film/Media tax incentives typically come in the form of Tax Credits, equal to a percentage of a production's qualified in- state/provincial spending and/or exemptions from sales tax on qualified transactions. Know that the production company relies on these forms to be signed so that they can receive a tax return on the portion of the budget they spend on artists' salaries (your salaries). The state/provincial and federal governments all pay for a significant portion of your salary (usually between 30-60% of your wages), signing those documents helps to make it all happen. Every city in every country has some sort of film/television/new media/gaming labor incentives program that the studio you work for must tap into, in order to complete the budget's production, this is the only way to get the deal from their client.
 
 ![image](./images/unnamed_1229.jpg)
 
-If the style is already established, then it's up to you to start
-drawing/designing in that style as quickly as possible, which might mean
-your first few characters will take lots more rounds of revisions and
-notes before you can get on-track. Which might mean you'll need to put
-in more unpaid overtime in the first two weeks so that you can get your
-skills up to the standards required. There's nothing worse than falling
-behind schedule within just the first week or two of production, but
-don't worry, this is VERY common. Clients and directors will expect you
-to get accustomed to the style as soon as possible. This is a very
-normal expectation for the animation industry.
+If the style is already established, then it's up to you to start drawing/designing in that style as quickly as possible, which might mean your first few characters will take lots more rounds of revisions and notes before you can get on-track. Which might mean you'll need to put in more unpaid overtime in the first two weeks so that you can get your skills up to the standards required. There's nothing worse than falling behind schedule within just the first week or two of production, but don't worry, this is VERY common. Clients and directors will expect you to get accustomed to the style as soon as possible. This is a very normal expectation for the animation industry.
 
 ![image](./images/unnamed_584.png)
 
-After the first week or two, you should be in a more solid groove and in
-a more consistent routine for your own personal workflow, you've
-practiced the style of the production a lot, and are getting the hang of
-it. As with ANY new production, the first couple weeks are the most
-difficult, as you might struggle to find your footing, and you will need
-to burn more hours of time in order to prevent falling too far behind,
-along with absorbing lots of notes and feedback on your designs.
+After the first week or two, you should be in a more solid groove and in a more consistent routine for your own personal workflow, you've practiced the style of the production a lot, and are getting the hang of it. As with ANY new production, the first couple weeks are the most difficult, as you might struggle to find your footing, and you will need to burn more hours of time in order to prevent falling too far behind, along with absorbing lots of notes and feedback on your designs.
 
-Try to figure out what the parameters are and how to get into a
-workflow, from week to week it might vary a lot, for example:
+Try to figure out what the parameters are and how to get into a workflow, from week to week it might vary a lot, for example:
 
-Week 1
+- **Week 1**
+  - 2 Main Characters \> Rough Concepts (6-10 sketches)
+  - 2 Secondary Characters \> Rough Concepts (4-8 sketches)
+- **Week 2**
+  - 2 Main Characters \> Revisions - Refine select roughs
+  - 2 Secondary Characters - Approved \> Produce Clean Line art and 4-point turnaround
+- **Week 3**
+  - 4 Character Redress \> Re-use Old Secondary Characters and place new costumes and new color scheme
+  - 2 Main Characters - Approved \> Produce Clean Line art and 4-point turnaround
+  - 2 Main Characters \> Produce Roughs for up and down head angles
+- **Week 4**
+  - 2 Secondary Characters - Line Art Approved \> Produce Color pass
+  - 2 Main Characters \> Revisions - On the 4-point turnarounds
+  - 2 Main Character Props \> Backpacks, Goggles, Walking Stick
+  - 4 Character Redress \> Revisions
+- **Week 5**
+  - 4 Character Redress \> Revisions
+  - 2 Main Characters Turnarounds - Approved \> Produce Color pass
+  - 2 Secondary Characters \> Revisions on Color
+  - 2 Main Character Props \> Revisions
+  - 2 Main Characters \> Revisions on Head Angles - Revise and make line art version
+- **Week 6**
+  - 2 Main Characters \> Mouth Charts (3 views each, for happy+sad)
+  - 2 Main Characters \> Rough Poses (6) and Expressions (6)
+  - 2 Main Character Props \> Color pass
+  - 4 Character Redress \> Color pass
+  - 1 New Main Characters \> Rough Concepts
+  - 2 New Secondary Characters \> Rough Concepts
 
-2 Main Characters \> Rough Concepts (6-10 sketches)
-
-2 Secondary Characters \> Rough Concepts (4-8 sketches)
-
-Week 2
-
-2 Main Characters \> Revisions - Refine select roughs
-
-2 Secondary Characters - Approved \> Produce Clean Line art and 4-point
-turnaround
-
-Week 3
-
-4 Character Redress \> Re-use Old Secondary Characters and place new
-costumes and new color scheme
-
-2 Main Characters - Approved \> Produce Clean Line art and 4-point
-turnaround
-
-2 Main Characters \> Produce Roughs for up and down head angles
-
-Week 4
-
-2 Secondary Characters - Line Art Approved \> Produce Color pass
-
-2 Main Characters \> Revisions - On the 4-point turnarounds
-
-2 Main Character Props \> Backpacks, Goggles, Walking Stick
-
-4 Character Redress \> Revisions
-
-Week 5
-
-4 Character Redress \> Revisions
-
-2 Main Characters Turnarounds - Approved \> Produce Color pass
-
-2 Secondary Characters \> Revisions on Color
-
-2 Main Character Props \> Revisions
-
-2 Main Characters \> Revisions on Head Angles - Revise and make line art
-version
-
-Week 6
-
-2 Main Characters \> Mouth Charts (3 views each, for happy+sad)
-
-2 Main Characters \> Rough Poses (6) and Expressions (6)
-
-2 Main Character Props \> Color pass
-
-4 Character Redress \> Color pass
-
-1 New Main Characters \> Rough Concepts
-
-2 New Secondary Characters \> Rough Concepts
-
-See how every week's tasks tend to pile up when the previous week\'s
-assignments come back to you with notes and adjustments, and you'll
-notice there's lots of different stages to take care of. Normally color
-is done by a color designer or color stylist, and mouth charts, or
-additional costume changes and turnaround views are done by a secondary
-designer. But sometimes, if there's not that many characters to do each
-week, then YOU will have to do almost everything. As you can see, by the
-6th week the tasks begin to overlap, there's at least 9 days of work
-compressed in a single week, as you await feedback on other assets. So
-be mindful of the hours you put in, keep track of the tasks you're
-given, stay organized with all the stages needed to be completed for
-each task for every design asset. Always triple check to make sure you
-re-read all the notes, making certain you cover everything that is
-required of you to change or implement in your work. This will help you
-to rack up those approvals.
+See how every week's tasks tend to pile up when the previous week\'s assignments come back to you with notes and adjustments, and you'll notice there's lots of different stages to take care of. Normally color is done by a color designer or color stylist, and mouth charts, or additional costume changes and turnaround views are done by a secondary designer. But sometimes, if there's not that many characters to do each week, then YOU will have to do almost everything. As you can see, by the 6th week the tasks begin to overlap, there's at least 9 days of work compressed in a single week, as you await feedback on other assets. So be mindful of the hours you put in, keep track of the tasks you're given, **stay organized** with all the stages needed to be completed for each task for every design asset. Always triple check to make sure you re-read all the notes, making certain you cover everything that is required of you to change or implement in your work. This will help you to rack up those approvals.
 
 ![image](./images/unnamed_270.jpg)
 
-The longer it takes for your client/director to come back with notes on
-a design you submitted, the higher the chances the overlapping tasks
-will accumulate. Simply take into account that there will always be some
-unforeseen circumstances and you don't have control over - like how long
-it takes for designs to be reviewed or approved. Sometimes it needs to
-go through several levels of approvals, filtering through many different
-people. After a design is complete it can take several days or several
-weeks before feedback returns to you, sometimes it can take just a few
-hours. It depends how many people need to see it, how readily accessible
-they are, how quick they are in providing comments and criticism, how
-fast they are with other aspects of the production, and how fast they
-are at reviewing and handing out notes.
+The longer it takes for your client/director to come back with notes on a design you submitted, the higher the chances the overlapping tasks will accumulate. Simply take into account that there will always be some unforeseen circumstances and you don't have control over - like how long it takes for designs to be reviewed or approved. Sometimes it needs to go through several levels of approvals, filtering through many different people. After a design is complete it can take several days or several weeks before feedback returns to you, sometimes it can take just a few hours. It depends how many people need to see it, how readily accessible they are, how quick they are in providing comments and criticism, how fast they are with other aspects of the production, and how fast they are at reviewing and handing out notes.
 
 ![image](./images/unnamed_007.gif)
 
-Schedules and deadlines are no doubt one of the least fun aspects of
-this work. But it's an unavoidable reality of the job.
+Schedules and deadlines are no doubt one of the least fun aspects of this work. But it's an unavoidable reality of the job.
 
-If the workload becomes too much to handle, there's a few ways for you
-to tackle the situation:
+**If the workload becomes too much to handle, there's a few ways for you to tackle the situation:**
 
-- See if the over abundance of work will be temporary. For instance,
-  only for this week everything has converged and coincidentally
-  multiple deadlines have fallen on dates that merged in the same
-  week, then you can push through this exception and do the extra time
-  and effort to get the job done, as long as this is not a repeating
-  pattern.
-
-- Is the style of the designs more difficult and demanding than
-  originally expected, or more laborious than initially agreed upon?
-  Then you talk to your supervisor/director/production manager and see
-  what can be done to alleviate the work, extend deadlines or have the
-  volume of work and/or notes be reduced? Otherwise, deadlines will be
-  missed. Request an assistant to help you in your tasks, or inform
-  your supervisor of the delays, make a prediction as to the date of
-  completion and make certain you meet that date. Keeping open
-  communication with the person in charge of deadlines or the one
-  assigning you the work is important.
-
-- Unforeseen circumstances like you getting sick and needing a day or
-  two toi recover, or the clients being unable to be decisive in their
-  notes, or creative decisions have led to a pile up of designs having
-  to be redone - all lead to disrupting the flow of work and forcing
-  you to spend more time than predicted to complete the designs that
-  were assigned to you. Communicate with your direct supervisor or
-  director, inform them of your progress, your estimated time of
-  completion, the reasons why you will need more time to finish the
-  work, and discuss strategies on how you can get help, so that the
-  work can continue to go through the pipeline without causing more
-  delays.
-
-- There might be ways for you to be more efficient in your work. Does
-  the client trust you to bring the design task to the next stage
-  without them seeing it again? If the designs you complete will
-  include the revisions they gave you then ask them if you can push
-  through to the next stage. Therefore reducing the number of passes,
-  and making you consolidate more stages of approval to make things go
-  faster with less submission & review time, which means less
-  wait-time and less overlapping tasks for YOU. Example - The client
-  has seen3 passes of your rough version, and on the last pass, they
-  only had very minor tweaks to your art. Ask if you can do those
-  small adjustments AND proceed to doing the turnaround views in order
-  to prevent re-submitting the same design again, costing you and them
-  more time to review and offer feedback. Some clients/directors do
-  not allow any stage to move forward without 100% approvals declared
-  in the previous step, otherwise are very open to it for the sake of
-  efficiency, but usually trust has to be built up first between you
-  and them.
+- See if the over abundance of work will be temporary. For instance, only for this week everything has converged and coincidentally multiple deadlines have fallen on dates that merged in the same week, then you can push through this exception and do the extra time and effort to get the job done, as long as this is not a repeating pattern.
+- Is the style of the designs more difficult and demanding than originally expected, or more laborious than initially agreed upon? Then you talk to your supervisor/director/production manager and see what can be done to alleviate the work, extend deadlines or have the volume of work and/or notes be reduced? Otherwise, deadlines will be missed. Request an assistant to help you in your tasks, or inform your supervisor of the delays, make a prediction as to the date of completion and make certain you meet that date. Keeping open communication with the person in charge of deadlines or the one assigning you the work is important.
+- Unforeseen circumstances like you getting sick and needing a day or two toi recover, or the clients being unable to be decisive in their notes, or creative decisions have led to a pile up of designs having to be redone - all lead to disrupting the flow of work and forcing you to spend more time than predicted to complete the designs that were assigned to you. Communicate with your direct supervisor or director, inform them of your progress, your estimated time of completion, the reasons why you will need more time to finish the work, and discuss strategies on how you can get help, so that the work can continue to go through the pipeline without causing more delays.
+- There might be ways for you to be more efficient in your work. Does the client trust you to bring the design task to the next stage without them seeing it again? If the designs you complete will include the revisions they gave you then ask them if you can push through to the next stage. Therefore reducing the number of passes, and making you consolidate more stages of approval to make things go faster with less submission & review time, which means less wait-time and less overlapping tasks for YOU. Example - The client has seen3 passes of your rough version, and on the last pass, they only had very minor tweaks to your art. Ask if you can do those small adjustments AND proceed to doing the turnaround views in order to prevent re-submitting the same design again, costing you and them more time to review and offer feedback. Some clients/directors do not allow any stage to move forward without 100% approvals declared in the previous step, otherwise are very open to it for the sake of efficiency, but usually trust has to be built up first between you and them.
 
 ![image](./images/unnamed_021.gif)
 
-These tactics can help to prevent you from being overwhelmed with too
-many assets to complete at one time. Or perhaps MORE stages of review
-are needed in order to prevent unnecessary work from being done. If you
-produce lots of clean, polished artwork only for it to be torn apart and
-rebuilt from scratch, then maybe to have a few rough stages as concept
-passes in the beginning would work better to prevent unnecessary
-revisions.
+These tactics can help to prevent you from being overwhelmed with too many assets to complete at one time. Or perhaps MORE stages of review are needed in order to prevent unnecessary work from being done. If you produce lots of clean, polished artwork only for it to be torn apart and rebuilt from scratch, then maybe to have a few rough stages as concept passes in the beginning would work better to prevent unnecessary revisions.
 
-This way you're not wasting time making too much clean line art, only to
-have it re-done, and works best for more hands-on directors and creative
-producers that are artists themselves. Doing quick rough thumbnails with
-lots of options and variations for them to choose from will have them
-see and understand your intentions more clearly, and depending on the
-director, they may love to do draw-overs / redline sketches, to help
-visualize their revisions for you.
+This way you're not wasting time making too much clean line art, only to have it re-done, and works best for more hands-on directors and creative producers that are artists themselves. Doing quick rough thumbnails with lots of options and variations for them to choose from will have them see and understand your intentions more clearly, and depending on the director, they may love to do draw-overs / redline sketches, to help visualize their revisions for you.
 
 ![image](./images/unnamed_353.png)
 
-This route works best when certain clients tend to approve a design at
-the rough stage but then change their minds at the next clean/color
-stages. Sometimes you don't see a problem with the design until you
-attempt various turn-around views, you can spot problematic areas that
-force you to revise yourself to make the rotations work. So it's faster
-to do these rough concepts, it will minimize the revisions later as you
-gradually refine the process and hone in on the approved look. This way
-creates more submissions and more review stages, but each stage is
-quicker and faster to do, and makes things slow at the start with lots
-of changes as you are searching for the proper design, but the changes
-are easier to do and notes coming back to you in later stages become
-less and less.
+This route works best when certain clients tend to approve a design at the rough stage but then change their minds at the next clean/color stages. Sometimes you don't see a problem with the design until you attempt various turn-around views, you can spot problematic areas that force you to revise yourself to make the rotations work. So it's faster to do these rough concepts, it will minimize the revisions later as you gradually refine the process and hone in on the approved look. This way creates more submissions and more review stages, but each stage is quicker and faster to do, and makes things slow at the start with lots of changes as you are searching for the proper design, but the changes are easier to do and notes coming back to you in later stages become less and less.
 
-Also be prepared for the times when work will pile up and will seem
-overwhelming, just know that the wave will pass, and will not happen too
-often.
+Also be prepared for the times when work will pile up and will seem overwhelming, just know that the wave will pass, and will not happen too often.
 
-Every project is different, when you are getting overwhelmed talk to
-your supervisor/boss/client, about how to relieve the pressure or to
-push back deadline dates.
+Every project is different, when you are getting overwhelmed talk to your supervisor/boss/client, about how to relieve the pressure or to push back deadline dates.
 
 ![image](./images/unnamed_1238.jpg)
 
-In terms of your weekly salary or hourly rate, you rarely have room to
-negotiate. Budgets are locked in and are out of your control, and in
-most cases out of your boss's control too. All the strategies outlined
-above are for you to use in various situations. Later on in your career,
-once you have lots of experience under your belt, there's a better
-chance to arrange and haggle on your salary as your skill set and
-experience will make you of higher value (as an artist) to their
-production and the studio at large. In the first few years of your
-career as a character designer you are still learning the ways of the
-production pipeline and what works best for your own workflow. As you
-gain speed, efficiency and knowledge, you will rise in value, and
-studios will begin to seek YOU out. Then you will have more room to
-negotiate your work loads and salaries.
+In terms of your weekly salary or hourly rate, you rarely have room to negotiate. Budgets are locked in and are out of your control, and in most cases out of your boss's control too. All the strategies outlined above are for you to use in various situations. Later on in your career, once you have lots of experience under your belt, there's a better chance to arrange and haggle on your salary as your skill set and experience will make you of higher value (as an artist) to their production and the studio at large. In the first few years of your career as a character designer you are still learning the ways of the production pipeline and what works best for your own workflow. As you gain speed, efficiency and knowledge, you will rise in value, and studios will begin to seek YOU out. Then you will have more room to negotiate your work loads and salaries.
 
-Deadlines and schedules can be the least fun aspect of this job. But for
-YOUR own sanity, staying organized with your own workflow is vital to
-staying efficient and stress-free.
+Deadlines and schedules can be the least fun aspect of this job. But for YOUR own sanity, staying organized with your own workflow is vital to staying efficient and stress-free.
 
-Remember: You can base the combinations of labor vs time vs income by
-starting with the daily rate system, and work your way up or down from
-there. How much do you value a full day of work to be for your skills?
-How much is a full-day-of-work for you? Assess the difficulty and
-demands of the production, adjust your rate accordingly and then compare
-with their contract offer. As you grow older and increase those skill
-points, that rate gradually increases. As months and years build up, so
-will your experience and speed, and so will your value to any employer.
+Remember: You can base the combinations of labor vs time vs income by starting with the **daily rate** system, and work your way up or down from there. How much do you value a full day of work to be for your skills? How much is a full-day-of-work for you? Assess the difficulty and demands of the production, adjust your rate accordingly and then compare with their contract offer. As you grow older and increase those skill points, that rate gradually increases. As months and years build up, so will your experience and speed, and so will your value to any employer.
 
 ![image](./images/unnamed_396.jpg)
 
@@ -11813,294 +9611,140 @@ will your experience and speed, and so will your value to any employer.
 
 ### Commissions
 
-While waiting on feedback from the animation studios on your
-applications or design test submissions, or just during your free time
-between work contracts, many artists do online freelance work through
-commissions. There's lots of advice for freelancers out there for how
-commissions work, from one-time gigs, to full-time regular client work,
-to online character illustration requests, including portraits and
-caricatures. Commissions are far more informal and very casual, a simple
-agreement between you and a client.
+While waiting on feedback from the animation studios on your applications or design test submissions, or just during your free time between work contracts, many artists do online freelance work through commissions. There's lots of advice for freelancers out there for how commissions work, from one-time gigs, to full-time regular client work, to online character illustration requests, including portraits and caricatures. Commissions are far more informal and very casual, a simple agreement between you and a client.
 
 ![image](./images/unnamed_1331.png)
 
-For one-on-one commission work like this, where you do a single
-illustration for an individual, there's no need for signing contracts.
-Remember, you don't hand off your work until you get paid.
+For one-on-one commission work like this, where you do a single illustration for an individual, there's no need for signing contracts. Remember, you don't hand off your work until you get paid.
 
-There's varying opinions on how artists should handle commission work,
-see
-[here](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DGiazASdvqpw&sa=D&source=editors&ust=1759597865497016&usg=AOvVaw0imrLh_hiqAj27f0sxLLZP)
-and
-[here](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D3cDDjEf69Zs&sa=D&source=editors&ust=1759597865497102&usg=AOvVaw0f4wmtywwmrhnJMzVwIpNV)
-for just a few of the many guides you can find on the subject. With this
-advice in mind you'll have all the info you need to dive into this
-realm, you will learn through repetition and as time goes on you will
-figure out what methods and what system works best for you. Here's some
-additional tips on self-promotion: [How to Market Yourself on Social
-Media](https://www.google.com/url?q=https://thestackhouse.com/blogs/printery-press-blog/5-tips-for-promoting-your-art-on-social-media&sa=D&source=editors&ust=1759597865497483&usg=AOvVaw1jBSOrfQ_GhT0KughGFAxK)
+There's varying opinions on how artists should handle commission work, see [here](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DGiazASdvqpw&sa=D&source=editors&ust=1759597865497016&usg=AOvVaw0imrLh_hiqAj27f0sxLLZP) and [here](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D3cDDjEf69Zs&sa=D&source=editors&ust=1759597865497102&usg=AOvVaw0f4wmtywwmrhnJMzVwIpNV) for just a few of the many guides you can find on the subject. With this advice in mind you'll have all the info you need to dive into this realm, you will learn through repetition and as time goes on you will figure out what methods and what system works best for you. Here's some additional tips on self-promotion: [How to Market Yourself on Social Media](https://www.google.com/url?q=https://thestackhouse.com/blogs/printery-press-blog/5-tips-for-promoting-your-art-on-social-media&sa=D&source=editors&ust=1759597865497483&usg=AOvVaw1jBSOrfQ_GhT0KughGFAxK)
 
 ![image](./images/unnamed_659.png)
-
 ![image](./images/unnamed_652.png)
 
 ### Freelancing
 
-Here are some contracts for more professional works on bigger, long-term
-projects to consider using between you and your clients:
+Here are some contracts for more professional works on bigger, long-term projects to consider using between you and your clients:
 
-[Professional Artist / Client
-Toolkit](https://www.google.com/url?q=https://artpact.artisfy.com/Contracts/&sa=D&source=editors&ust=1759597865498023&usg=AOvVaw3xfqjZbTjgi3WlrhgUHMH3)
+[Professional Artist / Client Toolkit](https://www.google.com/url?q=https://artpact.artisfy.com/Contracts/&sa=D&source=editors&ust=1759597865498023&usg=AOvVaw3xfqjZbTjgi3WlrhgUHMH3)
 
-These are pre-made contracts and agreements where you really only have
-to fill in the blanks with your name, date and signatures for whatever
-occasions, be it cease and desist / original artwork / commission work /
-all rights for limited time purposes. Read these contract templates and
-arm yourself with them, and be sure to use the appropriate ones. These
-are for you to use as an independent artist, for medium to large sized
-projects between you and another individual, purely for freelance work.
-Not to be used for character design studio tests from animation/game
-companies and production studios, they will provide you with their own
-contracts since they hire you as a contract worker or employee for the
-services they want you to do for them.
+These are pre-made contracts and agreements where you really only have to fill in the blanks with your name, date and signatures for whatever occasions, be it cease and desist / original artwork / commission work / all rights for limited time purposes. Read these contract templates and arm yourself with them, and be sure to use the appropriate ones. These are for you to use as an independent artist, for medium to large sized projects between you and another individual, purely for freelance work. Not to be used for character design studio tests from animation/game companies and production studios, they will provide you with their own contracts since they hire you as a contract worker or employee for the services they want you to do for them.
 
-- There's varied opinions on how to break into freelancing (in the
-  fields of design / illustration / animation), here's a few tips:
-  [(1)](https://www.google.com/url?q=https://youtu.be/1qbTlxkOCzk&sa=D&source=editors&ust=1759597865498903&usg=AOvVaw3E75E19Y-ajDS8SyBw7Iew)
-  [(2)](https://www.google.com/url?q=https://youtu.be/ta5skdKkhSM&sa=D&source=editors&ust=1759597865498955&usg=AOvVaw0p2FIMm-2ZQBLqRkE9Tzew)
-  [(3)](https://www.google.com/url?q=https://youtu.be/pB7WkWqTMWI&sa=D&source=editors&ust=1759597865499004&usg=AOvVaw2iUuwlfQsMg1rTxOytgVpt)
-  [(4)](https://www.google.com/url?q=https://youtu.be/18gwx8j_fHc&sa=D&source=editors&ust=1759597865499058&usg=AOvVaw0vM_9BRaq4pWBt6O8fVaYi)
-  [(5)](https://www.google.com/url?q=https://youtu.be/Tn9s9Rr1OE8&sa=D&source=editors&ust=1759597865499109&usg=AOvVaw0Hk0gMqhS191l8LkIjz0RW)
+- There's varied opinions on how to break into freelancing (in the fields of design / illustration / animation), here's a few tips:
+  - [Break into freelancing 1](https://www.google.com/url?q=https://youtu.be/1qbTlxkOCzk&sa=D&source=editors&ust=1759597865498903&usg=AOvVaw3E75E19Y-ajDS8SyBw7Iew)
+  - [Break into freelancing 2](https://www.google.com/url?q=https://youtu.be/ta5skdKkhSM&sa=D&source=editors&ust=1759597865498955&usg=AOvVaw0p2FIMm-2ZQBLqRkE9Tzew)
+  - [Break into freelancing 3](https://www.google.com/url?q=https://youtu.be/pB7WkWqTMWI&sa=D&source=editors&ust=1759597865499004&usg=AOvVaw2iUuwlfQsMg1rTxOytgVpt)
+  - [Break into freelancing 4](https://www.google.com/url?q=https://youtu.be/18gwx8j_fHc&sa=D&source=editors&ust=1759597865499058&usg=AOvVaw0vM_9BRaq4pWBt6O8fVaYi)
+  - [Break into freelancing 5](https://www.google.com/url?q=https://youtu.be/Tn9s9Rr1OE8&sa=D&source=editors&ust=1759597865499109&usg=AOvVaw0Hk0gMqhS191l8LkIjz0RW)
 
 ![image](./images/unnamed_1371.png)
 
-Article by Mark Mayerson:
+Article by _Mark Mayerson_:
 
-If you are not on salary or working under a contract and somebody asks
-you to produce some art or character designs, here are the things you
-need to know (in writing) before you start work.
-
-• How much will you be paid and what is the payment schedule?
-
-• Are there royalties or other compensation you are entitled to in the
-future?
-
-• What are the specifics of the work you are providing?
-
-• What format are you delivering the work in?
-
-• When is the work due?
-
-\
-Then there is the question of rights. What exactly are you selling in
-exchange for the money?
-
-• Are you selling the work outright?
-
-• Are you selling the work only for a specific use?
-
-• Are you selling the work for a limited amount of time?
-
-• Is the sale for exclusive or non-exclusive rights to use the work?
-
-• Will the artist get screen credit or be allowed to sign the work?
-
-\
-If the client provides this information in a written document, you have
-the right to ask for changes to anything that is specified. The client
-has the right to say no, but so do you. An agreement implies that both
-parties (the client and the artist) see eye to eye on conditions under
-which the work will be produced.\
-\
-You also have the right to consult a lawyer, agent or other professional
-on the agreement before signing it.\
-\
-There is a tendency for artists to be so thrilled that somebody wants
-their work that they skip all of the above or worse, they agree to work
-on spec. Spec work, (work done on speculation), means that the artist
-produces work for a client with no promise of payment. There are also
-cases where a client promises no money but offers the benefit of
-experience or exposure.\
-\
-There is a word that describes working for free: Slavery.
-
-Slavery can only occur through force, which we have not yet sunk to in
-North America, or complicity, where the artist agrees to be a slave.\
-\
-There are occasions where artists may choose to work for free. Work gets
-donated to a charity or done to help a friend or family member. But if a
-profit making company is asking for artwork, they should pay for it and
-all of the above conditions should be met.\
-\
-Please note that the above is different from pitching. In that case, you
-are creating the artwork for yourself and hope to interest a buyer in
-it. If no payment is forthcoming, you are free to take that artwork
-elsewhere to try to market it. Doing free work for yourself is different
-from doing free work at the request of a profit-making company.\
-\
-I\'m going to talk about two instances that I\'ve been consulted on in
-the past. I have to be vague so as not to break any confidence.\
-\
-In the first case, a distributor was interested in a student film made
-by a Sheridan graduate. The distributor wanted non-exclusive theatrical
-rights and exclusive rights for DVD, VOD, TV, Internet and
-Merchandising. In exchange for these rights, the distributor was willing
-to pay \$50. I told the grad that for the low fee, none of the rights
-should be exclusive. If the grad had the opportunity to sell the film
-again in any market, he should be able to do it. The student asked for
-changes to the contract and the rights were made non-exclusive.\
-\
-In the second case, a college grad from an animation program was
-commissioned by a company to produce a short film for a fee. When the
-film was delivered, the grad was told that the person who commissioned
-the film didn\'t have authorization to do it. The company was sorry and
-felt bad about it, but could only offer the grad half the agreed upon
-fee as a gesture of good will. The grad asked me for advice. I warned
-the grad that if she made a fuss, there was a chance that the company
-would refuse all payment. The grad wanted to proceed anyway, so I
-counseled the grad to tell them that she had an email from a company
-employee and she looked upon that as a contract. If there was a problem,
-it was between the company and the employee, not the company and her. If
-they didn\'t pay her in full, she would publicize the fact that the
-company had ripped her off and would warn other artists not to do work
-for the company. Furthermore, if the company didn\'t pay the full fee
-and used the work, she would sue the company for copyright
-infringement.\
-\
-The company responded that they regretted her aggressive tone. This is
-known as blaming the victim. However, they did agree to pay the full
-fee.\
-\
-There is no shortage of companies looking to take advantage of young
-artists. It is important to understand the proper way to do business,
-demanding a signed, written agreement that covers the payment, the
-rights, the deadline, and the deliverables, before the artwork is
-created. Your art and your time are what you are selling as a
-professional. If you work for free or don\'t proceed in a professional
-manner, you are merely a hobbyist and you are hurting people who are
-professionals in this industry.
+> If you are not on salary or working under a contract and somebody asks you to produce some art or character designs, here are the things you need to know (in writing) before you start work.
+>
+> - How much will you be paid and what is the payment schedule?
+> - Are there royalties or other compensation you are entitled to in the future?
+> - What are the specifics of the work you are providing?
+> - What format are you delivering the work in?
+> - When is the work due?
+>
+> Then there is the question of rights. What exactly are you selling in exchange for the money?
+>
+> - Are you selling the work outright?
+> - Are you selling the work only for a specific use?
+> - Are you selling the work for a limited amount of time?
+> - Is the sale for exclusive or non-exclusive rights to use the work?
+> - Will the artist get screen credit or be allowed to sign the work?
+>
+> If the client provides this information in a written document, you have the right to ask for changes to anything that is specified. The client has the right to say no, but so do you. An agreement implies that both parties (the client and the artist) see eye to eye on conditions under which the work will be produced.
+>
+> You also have the right to consult a lawyer, agent or other professional on the agreement before signing it.
+>
+> There is a tendency for artists to be so thrilled that somebody wants their work that they skip all of the above or worse, they agree to work on spec. Spec work, (work done on speculation), means that the artist produces work for a client with no promise of payment. There are also cases where a client promises no money but offers the benefit of experience or exposure.
+>
+> There is a word that describes working for free: Slavery.
+>
+> Slavery can only occur through force, which we have not yet sunk to in North America, or complicity, where the artist agrees to be a slave.
+>
+> There are occasions where artists may choose to work for free. Work gets donated to a charity or done to help a friend or family member. But if a profit making company is asking for artwork, they should pay for it and all of the above conditions should be met.
+>
+> Please note that the above is different from pitching. In that case, you are creating the artwork for yourself and hope to interest a buyer in it. If no payment is forthcoming, you are free to take that artwork elsewhere to try to market it. Doing free work for yourself is different from doing free work at the request of a profit-making company.
+>
+> I\'m going to talk about two instances that I\'ve been consulted on in the past. I have to be vague so as not to break any confidence.
+>
+> In the first case, a distributor was interested in a student film made by a Sheridan graduate. The distributor wanted non-exclusive theatrical rights and exclusive rights for DVD, VOD, TV, Internet and Merchandising. In exchange for these rights, the distributor was willing to pay \$50. I told the grad that for the low fee, none of the rights should be exclusive. If the grad had the opportunity to sell the film again in any market, he should be able to do it. The student asked for changes to the contract and the rights were made non-exclusive.
+>
+> In the second case, a college grad from an animation program was commissioned by a company to produce a short film for a fee. When the film was delivered, the grad was told that the person who commissioned the film didn\'t have authorization to do it. The company was sorry and felt bad about it, but could only offer the grad half the agreed upon fee as a gesture of good will. The grad asked me for advice. I warned the grad that if she made a fuss, there was a chance that the company would refuse all payment. The grad wanted to proceed anyway, so I counseled the grad to tell them that she had an email from a company employee and she looked upon that as a contract. If there was a problem, it was between the company and the employee, not the company and her. If they didn\'t pay her in full, she would publicize the fact that the company had ripped her off and would warn other artists not to do work for the company. Furthermore, if the company didn\'t pay the full fee and used the work, she would sue the company for copyright infringement.
+>
+> The company responded that they regretted her aggressive tone. This is known as blaming the victim. However, they did agree to pay the full fee.
+>
+> There is no shortage of companies looking to take advantage of young artists. It is important to understand the proper way to do business, demanding a signed, written agreement that covers the payment, the rights, the deadline, and the deliverables, before the artwork is created. Your art and your time are what you are selling as a professional. If you work for free or don\'t proceed in a professional manner, you are merely a hobbyist and you are hurting people who are professionals in this industry.
 
 ![image](./images/unnamed_1259.png)
 
 ### Staying Productive
 
-Your journey in learning has only begun! Here are a few strategies that
-can really help boost your creativity and productivity:
+Your journey in learning has only begun! Here are a few strategies that can really help boost your creativity and productivity:
 
-1\. Have a Designated Creative Space
+#### 1. Have a Designated Creative Space
 
-Because of the way our brains are wired, it can be much easier to get
-creative if your brain associates a specific location with your artistic
-practice. So, allocate a nice, comfortable space for yourself. Whether
-it\'s a desk, couch, bed, or even somewhere outdoors that you enjoy. The
-most important thing about whatever creative space you pick is that it
-should be cozy and functional. Remember to make sure your tools are also
-easily accessible in or nearby this space!
+Because of the way our brains are wired, it can be much easier to get creative if your brain associates a specific location with your artistic practice. So, allocate a nice, comfortable space for yourself. Whether it\'s a desk, couch, bed, or even somewhere outdoors that you enjoy. The most important thing about whatever creative space you pick is that it should be cozy and functional. Remember to make sure your tools are also easily accessible in or nearby this space!
 
-Have a portable creative space (and tools) also, like [this sketchbook
-kit](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DJGes1YAdbdo&sa=D&source=editors&ust=1759597865504979&usg=AOvVaw36ZwJtabJmReleqIQ_zybN).
+Have a portable creative space (and tools) also, like [this sketchbook kit](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DJGes1YAdbdo&sa=D&source=editors&ust=1759597865504979&usg=AOvVaw36ZwJtabJmReleqIQ_zybN).
 
-How to start your sketchbook
-[guide](https://www.google.com/url?q=https://www.milenamilak.com/blog/how-to-sketch-every-day-introducing-analog-day&sa=D&source=editors&ust=1759597865505131&usg=AOvVaw3rnkIskmGo-jCFpFFbQAvg).
+How to start your sketchbook [guide](https://www.google.com/url?q=https://www.milenamilak.com/blog/how-to-sketch-every-day-introducing-analog-day&sa=D&source=editors&ust=1759597865505131&usg=AOvVaw3rnkIskmGo-jCFpFFbQAvg).
 
-The fundamentals are truly all you need...
-
-but you need to know them and know them very well, [practice drawing
-this](https://www.google.com/url?q=https://practicedrawingthis.com/&sa=D&source=editors&ust=1759597865505361&usg=AOvVaw3vfEkdJoMR7ZoveUa2G9M_).
+The fundamentals are truly all you need... but you need to know them and know them very well, [practice drawing this](https://www.google.com/url?q=https://practicedrawingthis.com/&sa=D&source=editors&ust=1759597865505361&usg=AOvVaw3vfEkdJoMR7ZoveUa2G9M_).
 
 ![image](./images/unnamed_1415.png)
-
 ![image](./images/unnamed_922.png)
-
 ![image](./images/unnamed_1370.jpg)
-
 ![image](./images/unnamed_1022.jpg)
-
 ![image](./images/unnamed_216.jpg)
 
-2\. Start a Multi-Part Project
+#### 2. Start a Multi-Part Project
 
-A great way to motivate yourself to get creative immediately is to set
-yourself a project that requires multiple different pieces. Maybe it\'s
-a small comic (do one panel per day), a series of character studies, or
-even just participating in a month-long art challenge; there's many to
-choose from only like Inktober, the 100DayProject, or other themed
-challenges like drawing a specific object daily, or exploring different
-art styles, or a series a small digital paintings. There's dozens of
-options like these to try out amongst online communities. Follow your
-intuition: [Becoming a Better
-Artist](https://www.google.com/url?q=https://youtu.be/n4LmhWi-hC8&sa=D&source=editors&ust=1759597865506370&usg=AOvVaw1gihi8o1Tndiowf1XPL-CZ)
+A great way to motivate yourself to get creative immediately is to set yourself a project that requires multiple different pieces. Maybe it\'s a small comic (do one panel per day), a series of character studies, or even just participating in a month-long art challenge; there's many to choose from only like Inktober, the 100DayProject, or other themed challenges like drawing a specific object daily, or exploring different art styles, or a series a small digital paintings. There's dozens of options like these to try out amongst online communities. Follow your intuition: [Becoming a Better Artist](https://www.google.com/url?q=https://youtu.be/n4LmhWi-hC8&sa=D&source=editors&ust=1759597865506370&usg=AOvVaw1gihi8o1Tndiowf1XPL-CZ)
 
-By providing yourself with an ongoing project you are going to add
-structure and stability to your creativity and ensure that you are
-practicing and developing your skills more consistently. This could just
-be very simple low-intensity self-improvement schedule, like this:
-[Artist Starter
-Plan](https://www.google.com/url?q=https://www.youtube.com/playlist?list%3DPLPxRig8A0K97L3bzt3qc308R3WGLtjCy4&sa=D&source=editors&ust=1759597865506742&usg=AOvVaw0zCk5iQ7InvMUnrMHIUld_)
+By providing yourself with an ongoing project you are going to add structure and stability to your creativity and ensure that you are practicing and developing your skills more consistently. This could just be very simple low-intensity self-improvement schedule, like this: [Artist Starter Plan](https://www.google.com/url?q=https://www.youtube.com/playlist?list%3DPLPxRig8A0K97L3bzt3qc308R3WGLtjCy4&sa=D&source=editors&ust=1759597865506742&usg=AOvVaw0zCk5iQ7InvMUnrMHIUld_)
 
 ![image](./images/unnamed_466.jpg)
 
-3\. Create a List
+#### 3. Create a List
 
-When you are experiencing art block it can be great to have a list of
-ideas that inspire you. So, next time you are feeling super motivated
-and full of awesome ideas, note them down on your phone or in your
-[sketchbook](https://www.google.com/url?q=https://www.milenamilak.com/blog/how-to-start-a-sketchbook&sa=D&source=editors&ust=1759597865507224&usg=AOvVaw1BfJ0d6wvS7XILecsXntwI).
-That way, when you are struggling to come up with new ideas, you will
-always have a list to refer back to!
+When you are experiencing art block it can be great to have a list of ideas that inspire you. So, next time you are feeling super motivated and full of awesome ideas, note them down on your phone or in your [sketchbook](https://www.google.com/url?q=https://www.milenamilak.com/blog/how-to-start-a-sketchbook&sa=D&source=editors&ust=1759597865507224&usg=AOvVaw1BfJ0d6wvS7XILecsXntwI). That way, when you are struggling to come up with new ideas, you will always have a list to refer back to!
 
-Dedicate weekly time to studying: [Practice Drawing
-Forms](https://www.google.com/url?q=https://www.youtube.com/@PracticeDrawingThis/playlists&sa=D&source=editors&ust=1759597865507481&usg=AOvVaw3HN2aVOp2LmaS4GOwfJKZW)
+Dedicate weekly time to studying: [Practice Drawing Forms](https://www.google.com/url?q=https://www.youtube.com/@PracticeDrawingThis/playlists&sa=D&source=editors&ust=1759597865507481&usg=AOvVaw3HN2aVOp2LmaS4GOwfJKZW)
 
-Research and use the tips that other artists with experience have to
-offer:
-[(1)](https://www.google.com/url?q=https://www.youtube.com/shorts/l5j9qyT4tzQ?feature%3Dshare&sa=D&source=editors&ust=1759597865507637&usg=AOvVaw1NOp5xkSCbinBuszFfk8KO)
-[(2)](https://www.google.com/url?q=https://youtu.be/3qAJIYExuSs&sa=D&source=editors&ust=1759597865507689&usg=AOvVaw3-K3b8gbwnsOFfxHz3OSMF)
+Research and use the tips that other artists with experience have to offer:
 
-4\. Take Breaks
+- [Tip 1](https://www.google.com/url?q=https://www.youtube.com/shorts/l5j9qyT4tzQ?feature%3Dshare&sa=D&source=editors&ust=1759597865507637&usg=AOvVaw1NOp5xkSCbinBuszFfk8KO)
+- [Tip 2](https://www.google.com/url?q=https://youtu.be/3qAJIYExuSs&sa=D&source=editors&ust=1759597865507689&usg=AOvVaw3-K3b8gbwnsOFfxHz3OSMF)
 
-When working full time: Every hour, take a 5 minute break. It's
-important to get up, stretch, look out the window to get your eyes
-adjusted to focusing on distant objects again, hydrate, or get some
-coffee/snacks in you, but doing this refreshes your brain too, it's a
-mini-reset, before getting back down to focusing on the work.
+#### 4. Take Breaks
 
-Sometimes you get in a state of hyper-concertration, time flies by.
-You're in a flow state, also known as \"being in the zone,\" a mental
-state of complete immersion and energized focus in an activity, leading
-to deep enjoyment and effortless action. Only when you naturally break
-away from that, THEN take a break. There's nothing wrong with prolonged
-states of productivity.
+When working full time: Every hour, take a 5 minute break. It's important to get up, stretch, look out the window to get your eyes adjusted to focusing on distant objects again, hydrate, or get some coffee/snacks in you, but doing this refreshes your brain too, it's a mini-reset, before getting back down to focusing on the work.
 
-5\. Fifteen Minutes a Day
+Sometimes you get in a state of hyper-concertration, time flies by. You're in a flow state, also known as \"being in the zone,\" a mental state of complete immersion and energized focus in an activity, leading to deep enjoyment and effortless action. Only when you naturally break away from that, THEN take a break. There's nothing wrong with prolonged states of productivity.
 
-15 minutes a day seems pretty easy, right? By setting yourself an
-achievable amount of practice time you are much more likely to be
-consistent. You aren't always going to have infinite time each day to
-practice, and setting larger time goals can make creativity feel like a
-daunting chore! So, aim for just 15 minutes a day, some days you might
-even start and then decide you feel like creating for hours instead!
-Either way, you will be achieving your goal. During these 15 minutes,
-focus on drawing/painting a new style, or learning a new piece of
-software, or just watching a tutorial for a new software or technique.
+#### 5. Fifteen Minutes a Day
+
+15 minutes a day seems pretty easy, right? By setting yourself an achievable amount of practice time you are much more likely to be consistent. You aren't always going to have infinite time each day to practice, and setting larger time goals can make creativity feel like a daunting chore! So, aim for just 15 minutes a day, some days you might even start and then decide you feel like creating for hours instead! Either way, you will be achieving your goal. During these 15 minutes, focus on drawing/painting a new style, or learning a new piece of software, or just watching a tutorial for a new software or technique.
 
 ![image](./images/unnamed_1311.jpg)
 
-- [What to Study for Improving Your
-  Art](https://www.google.com/url?q=https://youtu.be/la1-otR7LiU&sa=D&source=editors&ust=1759597865509426&usg=AOvVaw0F17LG0HZZN5376_aHnSGn)
+> [What to Study for Improving Your Art](https://www.google.com/url?q=https://youtu.be/la1-otR7LiU&sa=D&source=editors&ust=1759597865509426&usg=AOvVaw0F17LG0HZZN5376_aHnSGn) \
+> \
+> Research various aspects of drawing you lack knowledge in, and draw them, over and over and over.
 
-Research various aspects of drawing you lack knowledge in, and draw
-them, over and over and over.
-
-Just a few random examples from hundreds of topics you could choose to
-work on...
+Just a few random examples from hundreds of topics you could choose to work on...
 
 Capes, Cloaks, Ponchos, Hoods
 
 ![image](./images/unnamed_986.jpg)
 ![image](./images/unnamed_1396.jpg)
 ![image](./images/unnamed_968.jpg)
-
 ![image](./images/unnamed_652.jpg)
 
 Eyeglasses
@@ -12110,414 +9754,190 @@ Eyeglasses
 Stylized Eyes & Eyebrows
 
 ![image](./images/unnamed_818.png)
-
 ![image](./images/unnamed_066.jpg)
-
 ![image](./images/unnamed_1111.jpg)
-
 ![image](./images/unnamed_016.jpg)
-
 ![image](./images/unnamed_1083.jpg)
-
 ![image](./images/unnamed_029.jpg)
 ![image](./images/unnamed_1261.jpg)
 
 Wings & Fur
 
 ![image](./images/unnamed_246.jpg)
-
 ![image](./images/unnamed_256.jpg)
 ![image](./images/unnamed_708.jpg)
-
 ![image](./images/unnamed_856.jpg)
 ![image](./images/unnamed_783.png)
 ![image](./images/unnamed_821.jpg)
 ![image](./images/unnamed_108.jpg)
-
 ![image](./images/unnamed_1078.png)
-
 ![image](./images/unnamed_1713.png)
-
 ![image](./images/unnamed_1410.png)
 
 Birds
 
 ![image](./images/unnamed_833.png)
-
 ![image](./images/unnamed_1661.png)
-
 ![image](./images/unnamed_1541.png)
-
 ![image](./images/unnamed_1239.png)
 
 Hands & Feet
 
 ![image](./images/unnamed_780.png)
-
 ![image](./images/unnamed_843.png)
-
 ![image](./images/unnamed_1017.png)
-
 ![image](./images/unnamed_1019.png)
-
 ![image](./images/unnamed_1343.png)
-
 ![image](./images/unnamed_017.png)
-
 ![image](./images/unnamed_250.png)
-
 ![image](./images/unnamed_1033.png)
 
-These are just a few of hundreds of subjects you can search up to
-collect as reference, and use to practice drawing with.
+These are just a few of hundreds of subjects you can search up to collect as reference, and use to practice drawing with.
 
-6\. Carry Your Own Sketchbook
+#### 6. Carry Your Own Sketchbook
 
-Every professional artist has a sketchbook and knows how to use it. This
-is a big part of being an artist as you can go out into the real world
-and draw real stuff.
+Every professional artist has a sketchbook and knows how to use it. This is a big part of being an artist as you can go out into the real world and draw real stuff.
 
-👉 [Drawing Exercises for
-Warm-up](https://www.google.com/url?q=https://youtu.be/hSaXBVYVcQg&sa=D&source=editors&ust=1759597865511884&usg=AOvVaw3DMIadOxNSRSUMLSBPkZ9a)
+> 👉 [Drawing Exercises for Warm-up](https://www.google.com/url?q=https://youtu.be/hSaXBVYVcQg&sa=D&source=editors&ust=1759597865511884&usg=AOvVaw3DMIadOxNSRSUMLSBPkZ9a)
 
 ![image](./images/unnamed_1596.png)
 
-You can find [helpful
-guides](https://www.google.com/url?q=https://www.artistsnetwork.com/art-mediums/10-easy-sketchbook-tips/&sa=D&source=editors&ust=1759597865512043&usg=AOvVaw1BFZktziJXEmRv5IPhHlOx)
-that teach you the basics of
-[drawing](https://www.google.com/url?q=https://www.cassart.co.uk/how-to-draw-figures-from-photo-reference/&sa=D&source=editors&ust=1759597865512140&usg=AOvVaw0ckrmTeNcSwIn2d1Rnyteh)
-in a sketchbook. But it's ultimately just a way to loosen up and draw
-away from the computer. This is especially useful for concept artists
-who plan to work digitally, but character designers need to practice in
-their sketchbooks too!
+You can find [helpful guides](https://www.google.com/url?q=https://www.artistsnetwork.com/art-mediums/10-easy-sketchbook-tips/&sa=D&source=editors&ust=1759597865512043&usg=AOvVaw1BFZktziJXEmRv5IPhHlOx) that teach you the basics of [drawing](https://www.google.com/url?q=https://www.cassart.co.uk/how-to-draw-figures-from-photo-reference/&sa=D&source=editors&ust=1759597865512140&usg=AOvVaw0ckrmTeNcSwIn2d1Rnyteh) in a sketchbook. But it's ultimately just a way to loosen up and draw away from the computer. This is especially useful for concept artists who plan to work digitally, but character designers need to practice in their sketchbooks too!
 
-The [Moleskine
-sketchbooks](https://www.google.com/url?q=https://www.amazon.com/gp/product/8883701151/ref%3Das_li_qf_sp_asin_il_tl?ie%3DUTF8%26tag%3Dconartemp-20%26camp%3D1789%26creative%3D9325%26linkCode%3Das2%26creativeASIN%3D8883701151%26linkId%3Db1a7755ae617d92b158b4d86272e663d&sa=D&source=editors&ust=1759597865512493&usg=AOvVaw0Dtt4Ml5FaMPdPQAd5Y-iR)
-tend to be the most popular and they're super easy to carry with you.
-All you need is any drawing utensil (pencil or pen) and some free time.
-The sketchbooks are lightweight and easy to handle in any climate, and
-search around there's plenty of [less
-expensive](https://www.google.com/url?q=https://www.staples.ca/search?query%3Dsketchbook%26indices%255Bshopify_products%255D%255Bconfigure%255D%255Bfilters%255D%3Dtags%253A%2522en_CA%2522%26indices%255Bshopify_products%255D%255Bconfigure%255D%255BruleContexts%255D%255B0%255D%3Dlogged-out%26indices%255Bshopify_products%255D%255Bpage%255D%3D1%26indices%255Bshopify_products%255D%255BsortBy%255D%3Dshopify_products&sa=D&source=editors&ust=1759597865512848&usg=AOvVaw1lz1YQKBQsvUCwMOMEZ2Ih)
-alternatives.
+The [Moleskine sketchbooks](https://www.google.com/url?q=https://www.amazon.com/gp/product/8883701151/ref%3Das_li_qf_sp_asin_il_tl?ie%3DUTF8%26tag%3Dconartemp-20%26camp%3D1789%26creative%3D9325%26linkCode%3Das2%26creativeASIN%3D8883701151%26linkId%3Db1a7755ae617d92b158b4d86272e663d&sa=D&source=editors&ust=1759597865512493&usg=AOvVaw0Dtt4Ml5FaMPdPQAd5Y-iR) tend to be the most popular and they're super easy to carry with you. All you need is any drawing utensil (pencil or pen) and some free time. The sketchbooks are lightweight and easy to handle in any climate, and search around there's plenty of [less expensive](https://www.google.com/url?q=https://www.staples.ca/search?query%3Dsketchbook%26indices%255Bshopify_products%255D%255Bconfigure%255D%255Bfilters%255D%3Dtags%253A%2522en_CA%2522%26indices%255Bshopify_products%255D%255Bconfigure%255D%255BruleContexts%255D%255B0%255D%3Dlogged-out%26indices%255Bshopify_products%255D%255Bpage%255D%3D1%26indices%255Bshopify_products%255D%255BsortBy%255D%3Dshopify_products&sa=D&source=editors&ust=1759597865512848&usg=AOvVaw1lz1YQKBQsvUCwMOMEZ2Ih) alternatives.
 
 ![image](./images/unnamed_786.png)
 
-Look into this guide on [choosing the best
-sketchbook](https://www.google.com/url?q=https://conceptartempire.com/best-sketchbooks/&sa=D&source=editors&ust=1759597865513045&usg=AOvVaw1RB9O49AjXBM9hNzYBjyy8)
-to find one that works for your needs and goals.
+Look into this guide on [choosing the best sketchbook](https://www.google.com/url?q=https://conceptartempire.com/best-sketchbooks/&sa=D&source=editors&ust=1759597865513045&usg=AOvVaw1RB9O49AjXBM9hNzYBjyy8) to find one that works for your needs and goals.
 
-Whenever you're on a trip that might break your typical routine, the
-sketchbook can keep you on task. Even 15 mins of daily drawing &
-doodling is better than nothing. You just want to keep yourself in that
-mindset of putting pencil to paper every single day.
+Whenever you're on a trip that might break your typical routine, the sketchbook can keep you on task. Even 15 mins of daily drawing & doodling is better than nothing. You just want to keep yourself in that mindset of putting pencil to paper every **single day**.
 
-Treat this little
-[sketchbook](https://www.google.com/url?q=https://www.amazon.com/s?k%3Dthick%2Bsketchbook%26crid%3D28N0UOWBA5GH1%26sprefix%3Dthick%2Bsket%252Caps%252C1243%26ref%3Dnb_sb_noss_2&sa=D&source=editors&ust=1759597865513534&usg=AOvVaw0ay0mojPvIbTMvByjFCfJS)
-as your personal scrapbook for new ideas, or to test out ideas, doodles
-and designs and characters and creatures and plants of all sorts. Be
-willing to try stuff and don't feel like anything in your sketchbook is
-finished work. You never have to show anybody your drawings, because
-they're really only for you to practice freely without limitations or
-judgment: [Sketchbook
-Inspiration](https://www.google.com/url?q=https://youtu.be/Bj-eGYMjFqI&sa=D&source=editors&ust=1759597865513919&usg=AOvVaw0ta6j1HZHEat8L6-CDBOIl)
+Treat this little [sketchbook](https://www.google.com/url?q=https://www.amazon.com/s?k%3Dthick%2Bsketchbook%26crid%3D28N0UOWBA5GH1%26sprefix%3Dthick%2Bsket%252Caps%252C1243%26ref%3Dnb_sb_noss_2&sa=D&source=editors&ust=1759597865513534&usg=AOvVaw0ay0mojPvIbTMvByjFCfJS) as your personal scrapbook for new ideas, or to test out ideas, doodles and designs and characters and creatures and plants of all sorts. Be willing to try stuff and don't feel like anything in your sketchbook is finished work. You never have to show anybody your drawings, because they're really only for you to practice freely without limitations or judgment: [Sketchbook Inspiration](https://www.google.com/url?q=https://youtu.be/Bj-eGYMjFqI&sa=D&source=editors&ust=1759597865513919&usg=AOvVaw0ta6j1HZHEat8L6-CDBOIl)
 
-Another exercise to do: Fill a sketchbook in 30 days, as story artist
-Matt Jones once did
-[here](https://www.google.com/url?q=https://mattjonezanimation.blogspot.com/2012/07/30-day-sketchbook-challenge.html&sa=D&source=editors&ust=1759597865514154&usg=AOvVaw1Y7IX56cvlqQw-AsGtnDzU).
+Another exercise to do: Fill a sketchbook in 30 days, as story artist Matt Jones once did [here](https://www.google.com/url?q=https://mattjonezanimation.blogspot.com/2012/07/30-day-sketchbook-challenge.html&sa=D&source=editors&ust=1759597865514154&usg=AOvVaw1Y7IX56cvlqQw-AsGtnDzU).
 
 ![image](./images/unnamed_023.png)
 
-And check out his techniques in his fast-and-loose gesture drawing
-videos
-[here](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DynN3hOpJV-E%26list%3DPL6RfRnQtjwaKE12XzKZ2E7xQk_aw2wAWQ%26ab_channel%3DShot%252CDrawn%2526Cut&sa=D&source=editors&ust=1759597865514412&usg=AOvVaw0qM3nGwHdqLtNoFAmn7gko).
+And check out his techniques in his fast-and-loose gesture drawing videos [here](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DynN3hOpJV-E%26list%3DPL6RfRnQtjwaKE12XzKZ2E7xQk_aw2wAWQ%26ab_channel%3DShot%252CDrawn%2526Cut&sa=D&source=editors&ust=1759597865514412&usg=AOvVaw0qM3nGwHdqLtNoFAmn7gko).
 
-Check out [this
-post](https://www.google.com/url?q=http://orlincultureshop.com/blog/2013/8/16/illustrator-tips-on-teaching-yourself-to-draw&sa=D&source=editors&ust=1759597865514558&usg=AOvVaw24OWP_GgxXBeKAJAJ_b6WC)
-talking about how to train yourself for steady drawing improvements. If
-you don't have a full-time job: There's a recommended schedule of
-drawing 5 hours per day: 2 in the morning, 1 after lunch and 2 in the
-evening.
+Check out [this post](https://www.google.com/url?q=http://orlincultureshop.com/blog/2013/8/16/illustrator-tips-on-teaching-yourself-to-draw&sa=D&source=editors&ust=1759597865514558&usg=AOvVaw24OWP_GgxXBeKAJAJ_b6WC) talking about how to train yourself for steady drawing improvements. If you don't have a full-time job: There's a recommended schedule of drawing 5 hours per day: 2 in the morning, 1 after lunch and 2 in the evening.
 
-Not everyone will have time for this but it gives you a solid model to
-attempt, and be careful to never [compare
-yourself](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DgvPHQZ4CkXE&sa=D&source=editors&ust=1759597865514937&usg=AOvVaw2yLgAu4E1ATbQZzrC5BO45)
-to other artists. Instead, learn from other designers, discover new
-illustrators and do [style
-studies](https://www.google.com/url?q=https://youtu.be/qJhNsBv81xQ&sa=D&source=editors&ust=1759597865515080&usg=AOvVaw0Vj4c-Rs9XRQ3cCuZwhfUw)
-of their work.
+Not everyone will have time for this but it gives you a solid model to attempt, and be careful to never [compare yourself](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DgvPHQZ4CkXE&sa=D&source=editors&ust=1759597865514937&usg=AOvVaw2yLgAu4E1ATbQZzrC5BO45) to other artists. Instead, learn from other designers, discover new illustrators and do [style studies](https://www.google.com/url?q=https://youtu.be/qJhNsBv81xQ&sa=D&source=editors&ust=1759597865515080&usg=AOvVaw0Vj4c-Rs9XRQ3cCuZwhfUw) of their work.
 
-When you are not working at a job, it's important to keep upgrading and
-improving your skill levels. Whether it's perspective, anatomy,
-clothing, plants, buildings, animals, or anything and
-[everything](https://www.google.com/url?q=https://www.slideshare.net/slideshow/how-to-draw-sketch-and-draw-anything-anywhere/252204623%2381&sa=D&source=editors&ust=1759597865515365&usg=AOvVaw03oM6F8VpDMvFSx-1MHPlu),
-find the aspects you're weakest at, and focus on ways to improve upon
-them: [Sketching tips to help elevate your
-skills](https://www.google.com/url?q=https://www.creativebloq.com/illustration/sketching-tips-beginners-81516497&sa=D&source=editors&ust=1759597865515540&usg=AOvVaw05fPyX6MqLyP5H9RjUlToQ).
+When you are not working at a job, it's important to keep upgrading and improving your skill levels. Whether it's perspective, anatomy, clothing, plants, buildings, animals, or anything and [everything](https://www.google.com/url?q=https://www.slideshare.net/slideshow/how-to-draw-sketch-and-draw-anything-anywhere/252204623%2381&sa=D&source=editors&ust=1759597865515365&usg=AOvVaw03oM6F8VpDMvFSx-1MHPlu), find the aspects you're weakest at, and focus on ways to improve upon them: [Sketching tips to help elevate your skills](https://www.google.com/url?q=https://www.creativebloq.com/illustration/sketching-tips-beginners-81516497&sa=D&source=editors&ust=1759597865515540&usg=AOvVaw05fPyX6MqLyP5H9RjUlToQ).
 
 ![image](./images/unnamed_1580.png)
-
 ![image](./images/unnamed_1293.png)
 
-Look into this guide on the best [digital
-tablets](https://www.google.com/url?q=https://www.creativebloq.com/features/best-drawing-tablet&sa=D&source=editors&ust=1759597865515792&usg=AOvVaw2AVQ4YT_A5r4PIW9sVSrR3).
+> Look into this guide on the best [digital tablets](https://www.google.com/url?q=https://www.creativebloq.com/features/best-drawing-tablet&sa=D&source=editors&ust=1759597865515792&usg=AOvVaw2AVQ4YT_A5r4PIW9sVSrR3).
 
-When you have all day free to work on your craft and practice your art -
-Drawing for 5 hours is much better than 1 or 2, and you'll see
-[improvements](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DG0Yed7jSHok%26ab_channel%3DWalidFeghali&sa=D&source=editors&ust=1759597865516038&usg=AOvVaw1eEAU6SgRoXIT20aEupCO8)
-quicker which will then positively impact your confidence too. Even if
-you can do it 10-20 minutes per day, even if it's entirely digital
-sketching too, every little bit helps. Stay focused, keep practicing,
-try to keep yourself motivated.
+When you have all day free to work on your craft and practice your art - Drawing for 5 hours is much better than 1 or 2, and you'll see [improvements](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DG0Yed7jSHok%26ab_channel%3DWalidFeghali&sa=D&source=editors&ust=1759597865516038&usg=AOvVaw1eEAU6SgRoXIT20aEupCO8) quicker which will then positively impact your confidence too. Even if you can do it 10-20 minutes per day, even if it's entirely digital sketching too, every little bit helps. Stay focused, keep practicing, try to keep yourself motivated.
 
 ![image](./images/unnamed_1162.png)
 ![image](./images/unnamed_674.png)
 ![image](./images/unnamed_1645.png)
 ![image](./images/unnamed_620.png)
-
 ![image](./images/unnamed_078.png)
-
 ![image](./images/unnamed_897.png)
 
 Sketchbook doodles by Laura Horobin
 
-"When you doodle in your sketchbook, do so knowing that you should NEVER
-show your sketchbook contents to ANYONE, not EVER\... Why? Because if
-you can keep telling yourself to never show your sketches from your
-books to anyone, it will FREE you to grow faster as a character artist!
-It will free you to draw in it more, free you to stay rough and loose,
-free you to try out different things, and without the burden of
-wondering 'what will people think?' You are not creating sketches to
-eventually show to someone, this is purely for your own growth and
-benefit. The freedom of knowing this, knowing that your sketches aren\'t
-for anyone to see, will allow you to draw in it more. Permitting you to
-stay fast and rough and to draw anything and to draw in the book more
-without the fear of being judged or critiqued. THIS will make your
-skills evolve faster, knowing that it's ONLY for practice, and this way
-you'll fill up sketchbooks quicker, and doing this will accelerate your
-artistic improvements."
+> "When you doodle in your sketchbook, do so knowing that you should NEVER show your sketchbook contents to ANYONE, not EVER\... Why? Because if you can keep telling yourself to never show your sketches from your books to anyone, it will FREE you to grow faster as a character artist! It will free you to draw in it more, free you to stay rough and loose, free you to try out different things, and without the burden of wondering 'what will people think?' You are not creating sketches to eventually show to someone, this is purely for your own growth and benefit. The freedom of knowing this, knowing that your sketches aren\'t for anyone to see, will allow you to draw in it more. Permitting you to stay fast and rough and to draw anything and to draw in the book more without the fear of being judged or critiqued. THIS will make your skills evolve faster, knowing that it's ONLY for practice, and this way you'll fill up sketchbooks quicker, and doing this will accelerate your artistic improvements." -Portion from a Character Design Workshop by Ron Doucet
 
--Portion from a Character Design Workshop by Ron Doucet
+#### 7. Just Get Started
 
-7\. Just Get Started
+Let's call it _\'using inertia\'_. It's a million times easier to keep doing something once you have started. So if I don't feel like working out I tell myself I'll just do a short work out. Or if the dishes need to be done I'll tell myself to do one. More often than not, once I start doing something my brain stops fighting so much against it. It's a psychological trick you play on yourself to get motivated.
 
-Let's call it \'using inertia\'. It's a million times easier to keep
-doing something once you have started. So if I don't feel like working
-out I tell myself I'll just do a short work out. Or if the dishes need
-to be done I'll tell myself to do one. More often than not, once I start
-doing something my brain stops fighting so much against it. It's a
-psychological trick you play on yourself to get motivated.
-
-The important thing though is to let yourself only do the short workout
-or that one dish if you start and still are fighting yourself. Otherwise
-you just don't start in the first place because you know you are really
-talking about doing the whole thing.
+The important thing though is to let yourself only do the short workout or that one dish if you start and still are fighting yourself. Otherwise you just don't start in the first place because you know you are really talking about doing the whole thing.
 
 ![image](./images/unnamed_509.jpg)
 
-Usually, it\'s the initial push, the start of something, anything, which
-is the most challenging or difficult. But once we start what we want to
-do and build up momentum, continuing that task is easier. Also known as
-the \'Theory of Momentum\'. The same can be said about going from one
-task to another. If you go to work, then immediately go to the gym, cook
-dinner, put away laundry, without taking a rest between each task,
-accomplishing each becomes easier, the break and rest you take later
-will feel much more satisfying. This momentum helps you to flow from one
-task to the next without having to expend that initial starting energy
-for each individual task. [Sketchbook
-drawing](https://www.google.com/url?q=https://youtu.be/WRQ8_oVt9nM&sa=D&source=editors&ust=1759597865519118&usg=AOvVaw2feQ9gFGNhwE0PRU1T1fnc)
-and character design should be approached the same way.
+Usually, it\'s the initial push, the start of something, anything, which is the most challenging or difficult. But once we start what we want to do and build up momentum, continuing that task is easier. Also known as the \'Theory of Momentum\'. The same can be said about going from one task to another. If you go to work, then immediately go to the gym, cook dinner, put away laundry, without taking a rest between each task, accomplishing each becomes easier, the break and rest you take later will feel much more satisfying. This momentum helps you to flow from one task to the next without having to expend that initial starting energy for each individual task. [Sketchbook drawing](https://www.google.com/url?q=https://youtu.be/WRQ8_oVt9nM&sa=D&source=editors&ust=1759597865519118&usg=AOvVaw2feQ9gFGNhwE0PRU1T1fnc) and character design should be approached the same way.
 
 ![image](./images/unnamed_976.png)
-
 ![image](./images/unnamed_1193.png)
 ![image](./images/unnamed_192.png)
-
 ![image](./images/unnamed_1139.png)
-
 ![image](./images/unnamed_239.png)
-
 ![image](./images/unnamed_218.png)
-
 ![image](./images/unnamed_933.jpg)
 ![image](./images/unnamed_604.jpg)
 
-"The best way to draw in your sketchbook? The messier the better, just
-let it all out. Doodles, scribbles, notes, sketches, unfinished drawings
-\... everything. Trying to keep your sketchbooks neat and tidy with only
-\"nice\" drawings can actually end up holding you back from making the
-leaps of progress that truly-free experimentation allows. That\'s not to
-say your sketchbook can\'t be neat, or tidy, or have beautiful drawings,
-but if you make those things your exclusive goal, you may be missing out
-on a big part of what a sketchbook can do for you and your art. At its
-best a sketchbook is not your best-ofs." - Lorenzo Etherington
+> "The best way to draw in your sketchbook? The messier the better, just let it all out. Doodles, scribbles, notes, sketches, unfinished drawings \... everything. Trying to keep your sketchbooks neat and tidy with only \"nice\" drawings can actually end up holding you back from making the leaps of progress that truly-free experimentation allows. That\'s not to say your sketchbook can\'t be neat, or tidy, or have beautiful drawings, but if you make those things your exclusive goal, you may be missing out on a big part of what a sketchbook can do for you and your art. At its best a sketchbook is not your best-ofs." - Lorenzo Etherington
 
-Beginners rarely know where to start. This is why it's so difficult to
-jump right into drawing because there's so much to learn and there's no
-specific direction to go.
+Beginners rarely know where to start. This is why it's so difficult to jump right into drawing because there's so much to learn and there's no specific direction to go.
 
-To handle this, just organize a small lesson plan that fits into the
-time you have. If you're only drawing for 1 hour each day then you might
-do a breakdown of 20 minutes of gesture drawing, 20 minutes of shape
-drawing, and 20 minutes of geometric/perspective drawing.
+To handle this, just organize a small lesson plan that fits into the time you have. If you're only drawing for 1 hour each day then you might do a breakdown of 20 minutes of gesture drawing, 20 minutes of shape drawing, and 20 minutes of geometric/perspective drawing.
 
 ![image](./images/unnamed_1560.png)
 
-When first getting started you need to put the most effort into your
-fundamentals. It's fine to make time for fun drawing. But this isn't
-real focused practice and won't yield the quickest rate of growth.
-Practice techniques to strengthen your skills:
+When first getting started you need to put the most effort into your fundamentals. It's fine to make time for fun drawing. But this isn't real focused practice and won't yield the quickest rate of growth. Practice techniques to strengthen your skills:
 
-- [Sketching Forms in Spatial
-  Direction](https://www.google.com/url?q=https://youtu.be/sOlwDL8HtT0&sa=D&source=editors&ust=1759597865520988&usg=AOvVaw2Lj7kkzJ22N72GG_OVmplw)
+> [Sketching Forms in Spatial Direction](https://www.google.com/url?q=https://youtu.be/sOlwDL8HtT0&sa=D&source=editors&ust=1759597865520988&usg=AOvVaw2Lj7kkzJ22N72GG_OVmplw)
 
-8\. Don't Stop Learning
+#### 8. Don't Stop Learning
 
-Even when you are not working, there's always something you can do to
-prepare yourself, and better yourself, for when the work starts up
-again! You'll never stop learning, throughout your entire career as an
-artist. Art and design is a life-long journey of a non-stop habit of
-exploration and discovery. Where practice will never make perfect, it
-will only lead to more practice. Be inspired by other people's journeys:
+Even when you are not working, there's always something you can do to prepare yourself, and better yourself, for when the work starts up again! You'll never stop learning, throughout your entire career as an artist. Art and design is a life-long journey of a non-stop habit of exploration and discovery. Where practice will never make perfect, it will only lead to more practice. Be inspired by other people's journeys:
 
-- [Advice for Starting your Art
-  Journey](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DTxAuSaqC4Wc%26pp%3DygUgYWR2aWNlIG9uIGJlaW5nIGEgZGlnaXRhbCBhcnRpc3Q%253D&sa=D&source=editors&ust=1759597865521681&usg=AOvVaw1vxKFOBP46h8p7AQg-H7L1)
-
-- [Pro Artists' Secrets to Their
-  Success](https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dt_S_wqemUbA%26pp%3DygUgYWR2aWNlIG9uIGJlaW5nIGEgZGlnaXRhbCBhcnRpc3Q%253D&sa=D&source=editors&ust=1759597865521812&usg=AOvVaw2fqeL11nwUCsO5CCRHYfSz)
-
-- [Art is Hard
-  by](https://www.google.com/url?q=https://www.youtube.com/playlist?list%3DPL_xZrLnmVxBSzjab58n2EiUVi2lZFBjPy&sa=D&source=editors&ust=1759597865521924&usg=AOvVaw154WF3FEjNfrvfHVRFIxQJ)
-  [Mattias
-  Pilhede](https://www.google.com/url?q=https://www.youtube.com/@MattiasPilhede&sa=D&source=editors&ust=1759597865521980&usg=AOvVaw3BWNV-BMpxpcJ70Gz_LK_M)
-- [Drawing Advice by Campbell
-  Walker](https://www.google.com/url?q=https://youtu.be/M6NsEDwHHiE&sa=D&source=editors&ust=1759597865522085&usg=AOvVaw3x5cpfx5fMCh6xLvOD9TeO)
-- [Jason Wang's Drawing
-  Fundamentals](https://www.google.com/url?q=https://www.youtube.com/playlist?list%3DPLe4cPjcvoEfS-4QCJmrEu8uw3wH31MZ6z&sa=D&source=editors&ust=1759597865522199&usg=AOvVaw2B_qY48vpKXUhSzQuvakK6)
-- [Lucas Peinador\'s Tips for Artist
-  Survival](https://www.google.com/url?q=https://youtu.be/gQdKMIBMLGs&sa=D&source=editors&ust=1759597865522304&usg=AOvVaw3UOvySyhxxma9lw8sGwv9h)
-- [Kyle Webster's Illustration
-  Masterclass](https://www.google.com/url?q=https://www.youtube.com/@kyletwebster/videos&sa=D&source=editors&ust=1759597865522414&usg=AOvVaw12XqqZdXQpTlDOuRh4l3s1)
-
-- [A Conversation on Character Design with Shiyoon Kim and Jin
-  Kim](https://www.google.com/url?q=https://youtu.be/1vSEenOH23o&sa=D&source=editors&ust=1759597865522548&usg=AOvVaw0aJFB2eiPGwnqTc46dzV4u)
+- [Advice for Starting your Art Journey](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DTxAuSaqC4Wc%26pp%3DygUgYWR2aWNlIG9uIGJlaW5nIGEgZGlnaXRhbCBhcnRpc3Q%253D&sa=D&source=editors&ust=1759597865521681&usg=AOvVaw1vxKFOBP46h8p7AQg-H7L1)
+- [Pro Artists' Secrets to Their Success](https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dt_S_wqemUbA%26pp%3DygUgYWR2aWNlIG9uIGJlaW5nIGEgZGlnaXRhbCBhcnRpc3Q%253D&sa=D&source=editors&ust=1759597865521812&usg=AOvVaw2fqeL11nwUCsO5CCRHYfSz)
+- [Art is Hard by](https://www.google.com/url?q=https://www.youtube.com/playlist?list%3DPL_xZrLnmVxBSzjab58n2EiUVi2lZFBjPy&sa=D&source=editors&ust=1759597865521924&usg=AOvVaw154WF3FEjNfrvfHVRFIxQJ) [Mattias Pilhede](https://www.google.com/url?q=https://www.youtube.com/@MattiasPilhede&sa=D&source=editors&ust=1759597865521980&usg=AOvVaw3BWNV-BMpxpcJ70Gz_LK_M)
+- [Drawing Advice by Campbell Walker](https://www.google.com/url?q=https://youtu.be/M6NsEDwHHiE&sa=D&source=editors&ust=1759597865522085&usg=AOvVaw3x5cpfx5fMCh6xLvOD9TeO)
+- [Jason Wang's Drawing Fundamentals](https://www.google.com/url?q=https://www.youtube.com/playlist?list%3DPLe4cPjcvoEfS-4QCJmrEu8uw3wH31MZ6z&sa=D&source=editors&ust=1759597865522199&usg=AOvVaw2B_qY48vpKXUhSzQuvakK6)
+- [Lucas Peinador\'s Tips for Artist Survival](https://www.google.com/url?q=https://youtu.be/gQdKMIBMLGs&sa=D&source=editors&ust=1759597865522304&usg=AOvVaw3UOvySyhxxma9lw8sGwv9h)
+- [Kyle Webster's Illustration Masterclass](https://www.google.com/url?q=https://www.youtube.com/@kyletwebster/videos&sa=D&source=editors&ust=1759597865522414&usg=AOvVaw12XqqZdXQpTlDOuRh4l3s1)
+- [A Conversation on Character Design with Shiyoon Kim and Jin Kim](https://www.google.com/url?q=https://youtu.be/1vSEenOH23o&sa=D&source=editors&ust=1759597865522548&usg=AOvVaw0aJFB2eiPGwnqTc46dzV4u)
 
 ![image](./images/unnamed_667.jpg)
 
-Learn all the rules and basic theories, learn them well, only then, can
-you know how to break them properly!
+Learn all the rules and basic theories, learn them well, only then, can you know how to break them properly!
 
-Collect and absorb all the knowledge from all the books available online
-like:
+Collect and absorb all the knowledge from all the books available online like:
 
-👉 [Fundamentals of Character
-Design](https://www.google.com/url?q=https://drive.google.com/file/d/1LrqmL95N2p4ZtxxtHDMEyqcLfyD_X39r/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865523006&usg=AOvVaw1N7f6UvvTcEE3wcdbieeiP)
-
-👉 [The Character
-Designer](https://www.google.com/url?q=https://drive.google.com/file/d/1HoO8oU31JEnmTywHogXTrJJYY74zQWe8/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865523134&usg=AOvVaw1gKncLdgtQiFOOVKdhRpMb)
+- 👉 [Fundamentals of Character Design](https://www.google.com/url?q=https://drive.google.com/file/d/1LrqmL95N2p4ZtxxtHDMEyqcLfyD_X39r/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865523006&usg=AOvVaw1N7f6UvvTcEE3wcdbieeiP)
+- 👉 [The Character Designer](https://www.google.com/url?q=https://drive.google.com/file/d/1HoO8oU31JEnmTywHogXTrJJYY74zQWe8/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865523134&usg=AOvVaw1gKncLdgtQiFOOVKdhRpMb)
 
 ![image](./images/unnamed_436.png)
 
-Every artist/teacher/author has their own style and ways of showing
-illustration techniques, sometimes you'll even notice some will
-contradict the advice of others (and that's OK, try everything and see
-what works best for YOU), many of these books and videos cover the same
-aspects that were mentioned in this document. But there is always a lot
-to gain through this repetition of methods and thought process. Read all
-these books and watch all these tutorials, learn and hold on to as much
-as you can, on some occasions you may see some information that
-contradicts other things, but this is all for you to filter in and
-absorb the things that make most sense to you and your sensibilities.
+Every artist/teacher/author has their own style and ways of showing illustration techniques, sometimes you'll even notice some will contradict the advice of others (and that's OK, try everything and see what works best for YOU), many of these books and videos cover the same aspects that were mentioned in this document. But there is always a lot to gain through this repetition of methods and thought process. Read all these books and watch all these tutorials, learn and hold on to as much as you can, on some occasions you may see some information that contradicts other things, but this is all for you to filter in and absorb the things that make most sense to you and your sensibilities.
 
-Learn from the old masters like [Kim Jung
-Gi](https://www.google.com/url?q=https://youtu.be/bUlop3ogWPA?t%3D6&sa=D&source=editors&ust=1759597865523991&usg=AOvVaw3YOziurcvQbCIdw2ebykKc)
-and [Frank
-Frazetta](https://www.google.com/url?q=https://youtu.be/jo-brNlHWOE&sa=D&source=editors&ust=1759597865524072&usg=AOvVaw2gKdw6x3s4cozXvX7o2s3N).
+Learn from the old masters like [Kim Jung Gi](https://www.google.com/url?q=https://youtu.be/bUlop3ogWPA?t%3D6&sa=D&source=editors&ust=1759597865523991&usg=AOvVaw3YOziurcvQbCIdw2ebykKc) and [Frank Frazetta](https://www.google.com/url?q=https://youtu.be/jo-brNlHWOE&sa=D&source=editors&ust=1759597865524072&usg=AOvVaw2gKdw6x3s4cozXvX7o2s3N).
 
-Different artists and teachers all have their own unique experiences and
-points-of-view. One may say to do something one way, while the other
-proclaims another way. Ultimately YOU must pick and choose what you want
-to learn from and adopt and absorb for your own self. Try out various
-techniques and the ones that work best for you, will be the lessons and
-methods you hold on to, and put into practice.
+Different artists and teachers all have their own unique experiences and points-of-view. One may say to do something one way, while the other proclaims another way. Ultimately YOU must pick and choose what you want to learn from and adopt and absorb for your own self. Try out various techniques and the ones that work best for you, will be the lessons and methods you hold on to, and put into practice.
 
-The dedication and commitment needed to do the job is like any other
-discipline - painters, sculptors, writers, musicians, chefs, visual
-artists, we have to immerse ourselves in the material, know it well,
-then dive into the work, as actor Walter Goggins explains
-[here](https://www.google.com/url?q=https://www.youtube.com/shorts/kra3rcaxx0A?feature%3Dshare&sa=D&source=editors&ust=1759597865524751&usg=AOvVaw3w1YrAfFXoRBocveFgv4A5).
+The dedication and commitment needed to do the job is like any other discipline - painters, sculptors, writers, musicians, chefs, visual artists, we have to immerse ourselves in the material, know it well, then dive into the work, as actor Walter Goggins explains [here](https://www.google.com/url?q=https://www.youtube.com/shorts/kra3rcaxx0A?feature%3Dshare&sa=D&source=editors&ust=1759597865524751&usg=AOvVaw3w1YrAfFXoRBocveFgv4A5).
 
 ![image](./images/unnamed_237.png)
 
-Consider expanding your knowledge by studying from other online
-programs, here are just a few of many options:
+Consider expanding your knowledge by studying from other online programs, here are just a few of many options:
 
-The [Learning Character Development and
-Design](https://www.google.com/url?q=https://www.linkedin.com/learning/learning-character-development-and-design&sa=D&source=editors&ust=1759597865525106&usg=AOvVaw0yiD4prEwZGTnQQxO-vnS-)
-course
+- The [Learning Character Development and Design](https://www.google.com/url?q=https://www.linkedin.com/learning/learning-character-development-and-design&sa=D&source=editors&ust=1759597865525106&usg=AOvVaw0yiD4prEwZGTnQQxO-vnS-) course
+- The [Schoolism Expressive Character Design](https://www.google.com/url?q=https://schoolism.com/courses/concept-art/fundamentals-of-expressive-character-design-wouter-tulp&sa=D&source=editors&ust=1759597865525258&usg=AOvVaw0_qQtDA1m_NpSMaFA2CNFS) course
+- The [Aaron Blaise Creature Design](https://www.google.com/url?q=https://creatureartteacher.com/product/creature-design-with-aaron-blaise/&sa=D&source=editors&ust=1759597865525389&usg=AOvVaw17MEZVmqpzTzEFKw0J36rF) course
+- Evan Cheng's [Character Design Course](https://www.google.com/url?q=https://www.linkedin.com/learning/evan-cheng-character-designer/preview&sa=D&source=editors&ust=1759597865525520&usg=AOvVaw2Uh2ZPMD-1vxIDF9QYoJPx)
+- Jesse LeDoux's [Building Your Character](https://www.google.com/url?q=https://www.skillshare.com/en/classes/Building-Character-1-Design-and-Sketch-Your-Character/1244630685?coupon%3DLAVENDERTOWNE%26utm_source%3DLavenderTowne%26utm_medium%3DYoutube%26utm_campaign%3D2017-01-LavenderTowne-youtube-sv%26utm_term%3Dclass-design-and-sketch&sa=D&source=editors&ust=1759597865525699&usg=AOvVaw3ac47G--jHDbzX6lAQgmbT) course
+- Brookes Eggleston's [Learn Character Design](https://www.google.com/url?q=https://brookeseggleston.com/learn&sa=D&source=editors&ust=1759597865525822&usg=AOvVaw0W3XCRusn83nWnKbZflRJZ) course
+- Tony Bancroft's [Drawing Character Poses with Personality](https://www.google.com/url?q=https://www.21-draw.com/course/drawing-character-poses/?utm_source%3Dbrevo%26utm_campaign%3DLearn%2520to%2520Animate%2520With%2520Disney%2520Animators%2520the%2520Bancroft%2520Brothers%2520re-sent%26utm_medium%3Demail&sa=D&source=editors&ust=1759597865525997&usg=AOvVaw3FDNX-UULPCIUeGGhmA0Ef) course
+- The [Silver Drawing Academy](https://www.google.com/url?q=https://www.silverdrawingacademy.com/&sa=D&source=editors&ust=1759597865526113&usg=AOvVaw190IChLcOFz06omkOutkUq)
+- Jean Fraisse's [Designing Characters for Animation and Video Games](https://www.google.com/url?q=https://www.domestika.org/en/courses/443-introduction-to-design-of-characters-for-animation-and-video-games&sa=D&source=editors&ust=1759597865526275&usg=AOvVaw3mFSw1sqxH2xWDLNmA3Hf8)
+- Magdalina Dianova's [Drawing Appealing Characters with Personality](https://www.google.com/url?q=https://www.domestika.org/en/courses/3194-drawing-appealing-characters-with-personality&sa=D&source=editors&ust=1759597865526454&usg=AOvVaw0yZ_VnDwUo4FqkyhO3Q07w)
+- Mitch Leeuwe's [Drawing Fundamentals Tutorials](https://www.google.com/url?q=https://mitchleeuwe.gumroad.com/&sa=D&source=editors&ust=1759597865526571&usg=AOvVaw0x7OGIWsgu-YawFHG4RM6q)
 
-The [Schoolism Expressive Character
-Design](https://www.google.com/url?q=https://schoolism.com/courses/concept-art/fundamentals-of-expressive-character-design-wouter-tulp&sa=D&source=editors&ust=1759597865525258&usg=AOvVaw0_qQtDA1m_NpSMaFA2CNFS)
-course
-
-The [Aaron Blaise Creature
-Design](https://www.google.com/url?q=https://creatureartteacher.com/product/creature-design-with-aaron-blaise/&sa=D&source=editors&ust=1759597865525389&usg=AOvVaw17MEZVmqpzTzEFKw0J36rF)
-course
-
-Evan Cheng's [Character Design
-Course](https://www.google.com/url?q=https://www.linkedin.com/learning/evan-cheng-character-designer/preview&sa=D&source=editors&ust=1759597865525520&usg=AOvVaw2Uh2ZPMD-1vxIDF9QYoJPx)
-
-Jesse LeDoux's [Building Your
-Character](https://www.google.com/url?q=https://www.skillshare.com/en/classes/Building-Character-1-Design-and-Sketch-Your-Character/1244630685?coupon%3DLAVENDERTOWNE%26utm_source%3DLavenderTowne%26utm_medium%3DYoutube%26utm_campaign%3D2017-01-LavenderTowne-youtube-sv%26utm_term%3Dclass-design-and-sketch&sa=D&source=editors&ust=1759597865525699&usg=AOvVaw3ac47G--jHDbzX6lAQgmbT)
-course
-
-Brookes Eggleston's [Learn Character
-Design](https://www.google.com/url?q=https://brookeseggleston.com/learn&sa=D&source=editors&ust=1759597865525822&usg=AOvVaw0W3XCRusn83nWnKbZflRJZ)
-course
-
-Tony Bancroft's [Drawing Character Poses with
-Personality](https://www.google.com/url?q=https://www.21-draw.com/course/drawing-character-poses/?utm_source%3Dbrevo%26utm_campaign%3DLearn%2520to%2520Animate%2520With%2520Disney%2520Animators%2520the%2520Bancroft%2520Brothers%2520re-sent%26utm_medium%3Demail&sa=D&source=editors&ust=1759597865525997&usg=AOvVaw3FDNX-UULPCIUeGGhmA0Ef)
-course
-
-The [Silver Drawing
-Academy](https://www.google.com/url?q=https://www.silverdrawingacademy.com/&sa=D&source=editors&ust=1759597865526113&usg=AOvVaw190IChLcOFz06omkOutkUq)
-
-Jean Fraisse's [Designing Characters for Animation and Video
-Games](https://www.google.com/url?q=https://www.domestika.org/en/courses/443-introduction-to-design-of-characters-for-animation-and-video-games&sa=D&source=editors&ust=1759597865526275&usg=AOvVaw3mFSw1sqxH2xWDLNmA3Hf8)
-
-Magdalina Dianova's [Drawing Appealing Characters with
-Personality](https://www.google.com/url?q=https://www.domestika.org/en/courses/3194-drawing-appealing-characters-with-personality&sa=D&source=editors&ust=1759597865526454&usg=AOvVaw0yZ_VnDwUo4FqkyhO3Q07w)
-
-Mitch Leeuwe's [Drawing Fundamentals
-Tutorials](https://www.google.com/url?q=https://mitchleeuwe.gumroad.com/&sa=D&source=editors&ust=1759597865526571&usg=AOvVaw0x7OGIWsgu-YawFHG4RM6q)
-
-Most of these are relatively inexpensive, if you're considering any of
-these - research any reviews on these first, watch previews and teasers
-and samples of the tutorials & classes. This will give you a hint if
-it's something you'll like and benefit from.
+Most of these are relatively inexpensive, if you're considering any of these - research any reviews on these first, watch previews and teasers and samples of the tutorials & classes. This will give you a hint if it's something you'll like and benefit from.
 
 ![image](./images/unnamed_1265.png)
 
-👉 [Stay motivated and stay
-CURIOUS!](https://www.google.com/url?q=https://youtu.be/16mHZ8f1HGo&sa=D&source=editors&ust=1759597865527045&usg=AOvVaw2Xwxvw8UeNFrEwOYpx3tJd)
+> 👉 [Stay motivated and stay CURIOUS!](https://www.google.com/url?q=https://youtu.be/16mHZ8f1HGo&sa=D&source=editors&ust=1759597865527045&usg=AOvVaw2Xwxvw8UeNFrEwOYpx3tJd)
 
-9\. Practice Practice Practice
+#### 9. Practice Practice Practice
 
-If you find you are quite self-motivated and in no need of taking any of
-these online courses, then everything in this document, and its provided
-links along with lots of practice is truly all you need. Search for and
-discover any online trends you could participate in. For example; [this
-exercise](https://www.google.com/url?q=https://drive.google.com/file/d/12J_qf2JHiHyIQnNKoCdRcS960CPtfDTG/view?usp%3Dshare_link&sa=D&source=editors&ust=1759597865527517&usg=AOvVaw14SHFa0CyU-oUPMymgEPZ7)
-where you pick a movie celebrity or pop culture character and draw them
-in various styles.
+If you find you are quite self-motivated and in no need of taking any of these online courses, then everything in this document, and its provided links along with lots of practice is truly all you need. Search for and discover any online trends you could participate in. For example; [this exercise](https://www.google.com/url?q=https://drive.google.com/file/d/12J_qf2JHiHyIQnNKoCdRcS960CPtfDTG/view?usp%3Dshare_link&sa=D&source=editors&ust=1759597865527517&usg=AOvVaw14SHFa0CyU-oUPMymgEPZ7) where you pick a movie celebrity or pop culture character and draw them in various styles.
 
-There are many ideas you can find online for practice exercises to do,
-here's just a few:
+There are many ideas you can find online for practice exercises to do, here's just a few:
 
 ![image](./images/unnamed_043.jpg)
 
-Practice merging styles together into cartoon mash-ups, like how Dirk
-Schulz re-skinned some classic characters by drawing American Dad &
-Family Guy in the style of Tom & Jerry:
+Practice merging styles together into cartoon mash-ups, like how Dirk Schulz re-skinned some classic characters by drawing American Dad & Family Guy in the style of Tom & Jerry:
 
 ![image](./images/unnamed_1534.png)
 
@@ -12529,10 +9949,7 @@ Bob's Burgers re-designed in the style of Archer:
 
 ![image](./images/unnamed_1303.png)
 
-Another fun exercise is to find a few different styles, and work on ways
-to combine them into one or cross-pollinate them, to achieve a [blend of
-styles](https://www.google.com/url?q=https://youtu.be/UcHsUhEn6rY&sa=D&source=editors&ust=1759597865528652&usg=AOvVaw3MT_wtPfZ814toDQPQZfna)
-as a way to experiment and learn how they work:
+Another fun exercise is to find a few different styles, and work on ways to combine them into one or cross-pollinate them, to achieve a [blend of styles](https://www.google.com/url?q=https://youtu.be/UcHsUhEn6rY&sa=D&source=editors&ust=1759597865528652&usg=AOvVaw3MT_wtPfZ814toDQPQZfna) as a way to experiment and learn how they work:
 
 ![image](./images/unnamed_1431.jpg)
 ![image](./images/unnamed_153.png)
@@ -12540,13 +9957,9 @@ as a way to experiment and learn how they work:
 ![image](./images/unnamed_719.png)
 ![image](./images/unnamed_1073.jpg)
 
-An experiment to explore is to draw the same one character in
-
-various styles, could be a self portrait or any new creation of your
-choice:
+An experiment to explore is to draw the same one character in various styles, could be a self portrait or any new creation of your choice:
 
 ![image](./images/unnamed_108.png)
-
 ![image](./images/unnamed_339.png)
 
 By u/ccarucci10
@@ -12563,1254 +9976,493 @@ Designing a television personality into various animated styles:
 
 By \@wayneberg
 
-Another alternative is to pick a well known animated character and
-re-designing them to match some other well-known styles:
+Another alternative is to pick a well known animated character and re-designing them to match some other well-known styles:
 
 ![image](./images/unnamed_1063.jpg)
 ![image](./images/unnamed_360.jpg)
 ![image](./images/unnamed_319.jpg)
 
-Create some tasks and artistic experiments for yourself. See how master
-cartoonist [Mike
-Holmes](https://www.google.com/url?q=https://www.flickr.com/photos/dubblelightnin/page1&sa=D&source=editors&ust=1759597865530077&usg=AOvVaw3hpRaz7vdP7W83VsMSm0X5)
-pursued a [personal
-project](https://www.google.com/url?q=https://mikeholmes.bigcartel.com/product/mikenesses-the-book&sa=D&source=editors&ust=1759597865530191&usg=AOvVaw0HxIkKv5oW2cQ895xLUXa5)
-to flex his illustration muscles by producing a drawing of himself (and
-his cat) in a new style each week. He chose certain properties,
-illustrators, and comic artists as his inspiration, and created a great
-collection of self portraits. He learned a lot about himself, and it
-made him explore & discover new drawing habits, which quickly expanded
-his skill sets in the process.
+Create some tasks and artistic experiments for yourself. See how master cartoonist [Mike Holmes](https://www.google.com/url?q=https://www.flickr.com/photos/dubblelightnin/page1&sa=D&source=editors&ust=1759597865530077&usg=AOvVaw3hpRaz7vdP7W83VsMSm0X5) pursued a [personal project](https://www.google.com/url?q=https://mikeholmes.bigcartel.com/product/mikenesses-the-book&sa=D&source=editors&ust=1759597865530191&usg=AOvVaw0HxIkKv5oW2cQ895xLUXa5) to flex his illustration muscles by producing a drawing of himself (and his cat) in a new style each week. He chose certain properties, illustrators, and comic artists as his inspiration, and created a great collection of self portraits. He learned a lot about himself, and it made him explore & discover new drawing habits, which quickly expanded his skill sets in the process.
 
 ![image](./images/unnamed_259.jpg)
 
-Another fun exercise is to redesign old timey comic book characters into
-a more cartoony or modern style:
+Another fun exercise is to redesign old timey comic book characters into a more cartoony or modern style:
 
 ![image](./images/unnamed_054.jpg)
 ![image](./images/unnamed_609.jpg)
 ![image](./images/unnamed_979.jpg)
-
 ![image](./images/unnamed_1365.jpg)
 ![image](./images/unnamed_1468.jpg)
 ![image](./images/unnamed_859.jpg)
 ![image](./images/unnamed_630.jpg)
 ![image](./images/unnamed_167.jpg)
 
-Art director Connie Kang created a great exercise for herself here, in
-her post with this artwork, she wrote:
+Art director Connie Kang created a great exercise for herself here, in her post with this artwork, she wrote:
 
-Excited to share a new series of animal-to-human character designs I've
-been working on! Each piece reimagines an animal as a unique human
-personality --- blending nature, fashion, and storytelling. It's a fun
-exploration of body language, attitude, and identity through the lens of
-character design.
+Excited to share a new series of animal-to-human character designs I've been working on! Each piece reimagines an animal as a unique human personality --- blending nature, fashion, and storytelling. It's a fun exploration of body language, attitude, and identity through the lens of character design.
 
 ![image](./images/unnamed_045.jpg)
-
 ![image](./images/unnamed_376.jpg)
 ![image](./images/unnamed_1137.jpg)
 ![image](./images/unnamed_1145.jpg)
 ![image](./images/unnamed_1216.jpg)
 ![image](./images/unnamed_370.jpg)
 ![image](./images/unnamed_1463.jpg)
-
 ![image](./images/unnamed_118.jpg)
 
-Creating a series of illustrations like this can really get you to think
-about creatively depicting story, attitude, personalities and atmosphere
-within your characters.
+Creating a series of illustrations like this can really get you to think about creatively depicting story, attitude, personalities and atmosphere within your characters.
 
-Find exercises to try out, have fun with them, and fill up your paper
-sketchbooks (or digital sketchbooks) - for example, you can try this...
-cram as many different characters as you can on one page:
+Find exercises to try out, have fun with them, and fill up your paper sketchbooks (or digital sketchbooks) - for example, you can try this... cram as many different characters as you can on one page:
 
 ![image](./images/unnamed_1279.png)
-
 ![image](./images/unnamed_1342.png)
-
 ![image](./images/unnamed_1727.png)
-
 ![image](./images/unnamed_1634.png)
-
 ![image](./images/unnamed_585.png)
 
-10\. Organize Your Self-Improvement Lessons
+#### 10. Organize Your Self-Improvement Lessons
 
-You should start by setting aside time to draw every day on focused
-tasks. This might be 15-30 minutes or it might be 4 hours (or even more,
-depending on the time you choose to commit to this). The point is to
-stick with this time [every single
-day](https://www.google.com/url?q=https://onedrawingdaily.com/2015/01/29/why-dont-you-start-drawing-every-day-take-the-challenge/&sa=D&source=editors&ust=1759597865532561&usg=AOvVaw0sab8A8rpvB6bD_21VCYEy)
-to never avoid drawing.
+You should start by setting aside time to draw every day on focused tasks. This might be 15-30 minutes or it might be 4 hours (or even more, depending on the time you choose to commit to this). The point is to stick with this time [every single day](https://www.google.com/url?q=https://onedrawingdaily.com/2015/01/29/why-dont-you-start-drawing-every-day-take-the-challenge/&sa=D&source=editors&ust=1759597865532561&usg=AOvVaw0sab8A8rpvB6bD_21VCYEy) to never avoid drawing.
 
-You can also focus on specific aspects of anatomy; narrowing down
-particular body parts and research and immerse yourself in these areas
-to learn all about them.
+You can also focus on specific aspects of anatomy; narrowing down particular body parts and research and immerse yourself in these areas to learn all about them.
 
 ![image](./images/unnamed_1030.jpg)
-
 ![image](./images/unnamed_613.jpg)
 ![image](./images/unnamed_583.jpg)
-
 ![image](./images/unnamed_1502.png)
-
 ![image](./images/unnamed_178.png)
-
 ![image](./images/unnamed_687.jpg)
-
 ![image](./images/unnamed_447.jpg)
-
 ![image](./images/unnamed_1446.jpg)
-
 ![image](./images/unnamed_1383.png)
-
 ![image](./images/unnamed_1251.png)
-
 ![image](./images/unnamed_946.png)
-
 ![image](./images/unnamed_294.png)
-
 ![image](./images/unnamed_1231.png)
-
 ![image](./images/unnamed_1098.png)
-
 ![image](./images/unnamed_1067.png)
-
 ![image](./images/unnamed_543.png)
-
 ![image](./images/unnamed_1339.png)
-
 ![image](./images/unnamed_1074.png)
-
 ![image](./images/unnamed_1659.png)
-
 ![image](./images/unnamed_733.png)
 
-Dive into more complex areas for yourself. Discover styles you may not
-be familiar with, like detailed giant monster designs:
+Dive into more complex areas for yourself. Discover styles you may not be familiar with, like detailed giant monster designs:
 
 ![image](./images/unnamed_873.jpg)
 ![image](./images/unnamed_1429.jpg)
 
-👉 Watch [this
-video](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DrjiDrp_hXb4%26ab_channel%3DProko&sa=D&source=editors&ust=1759597865534072&usg=AOvVaw3npfiWOQWUi558M5zrNufp)
-by Scott Flanders on his drawing process.
+- 👉 Watch [this video](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DrjiDrp_hXb4%26ab_channel%3DProko&sa=D&source=editors&ust=1759597865534072&usg=AOvVaw3npfiWOQWUi558M5zrNufp) by Scott Flanders on his drawing process.
+- 👉 Watch [these videos](https://www.google.com/url?q=https://www.youtube.com/playlist?list%3DPLgRfjS8fHJA8nAeP4ZyEXXUw0jzZUij_P&sa=D&source=editors&ust=1759597865534249&usg=AOvVaw08qF5_ZbEffaYJrUl_sQPT) by Bobby Rebholz on his drawing process.
 
-👉 Watch [these
-videos](https://www.google.com/url?q=https://www.youtube.com/playlist?list%3DPLgRfjS8fHJA8nAeP4ZyEXXUw0jzZUij_P&sa=D&source=editors&ust=1759597865534249&usg=AOvVaw08qF5_ZbEffaYJrUl_sQPT)
-by Bobby Rebholz on his drawing process.
+Practicing the drawing of animals, insects and creatures are often overlooked. There's many more guides, tutorials & techniques to explore for designing animals & creatures, here's just a few:
 
-Practicing the drawing of animals, insects and creatures are often
-overlooked. There's many more guides, tutorials & techniques to explore
-for designing animals & creatures, here's just a few:
+- 👉 [The Art of Animal Drawing by Ken Hultgren](https://www.google.com/url?q=https://drive.google.com/file/d/1udLaC2BVZGyyw1M2t-Io-Xt9JfIQrm50/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865534627&usg=AOvVaw0KTyW0BJYrEqEDoawQyERx)
+- 👉 [Animal Character Design Inspiration - Part 1](https://www.google.com/url?q=https://www.pinterest.ca/raychchel/character-design-animals/&sa=D&source=editors&ust=1759597865534769&usg=AOvVaw3VTic1lOi-2p6qBIlZyClD)
+- 👉 [Animal Character Design Inspiration - Part 2](https://www.google.com/url?q=https://www.pinterest.ca/dgoldsmi/animal-character-design/&sa=D&source=editors&ust=1759597865534909&usg=AOvVaw3MbC2g6fOm46FhmOjyexYO)
+- 👉 [Creature Design Tips - Part 1](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DYasNlmE6IBo%26list%3DPLvt8_pMl6ywmq9sx_OKHobRURXMIBbSBz%26index%3D1%26ab_channel%3DArtProf%253ACreate%2526Critique&sa=D&source=editors&ust=1759597865535047&usg=AOvVaw22ealVDX0R0lTuwXcZpvIE)
+- 👉 [Creature Design Tips - Part 2](https://www.google.com/url?q=https://www.creativebloq.com/features/15-tips-for-better-creature-design&sa=D&source=editors&ust=1759597865535180&usg=AOvVaw0bk_oJv34lpgv2qRP_MwTb)
+- 👉 [Dina Norlund's Process for Designing a New Creature](https://www.google.com/url?q=https://youtu.be/Q-7y9uqEzi0&sa=D&source=editors&ust=1759597865535340&usg=AOvVaw3WCI6tsxttMh8rNsOnTtQ7)
 
-👉 [The Art of Animal Drawing by Ken
-Hultgren](https://www.google.com/url?q=https://drive.google.com/file/d/1udLaC2BVZGyyw1M2t-Io-Xt9JfIQrm50/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865534627&usg=AOvVaw0KTyW0BJYrEqEDoawQyERx)
-
-👉 [Animal Character Design Inspiration - Part
-1](https://www.google.com/url?q=https://www.pinterest.ca/raychchel/character-design-animals/&sa=D&source=editors&ust=1759597865534769&usg=AOvVaw3VTic1lOi-2p6qBIlZyClD)
-
-👉 [Animal Character Design Inspiration - Part
-2](https://www.google.com/url?q=https://www.pinterest.ca/dgoldsmi/animal-character-design/&sa=D&source=editors&ust=1759597865534909&usg=AOvVaw3MbC2g6fOm46FhmOjyexYO)
-
-👉 [Creature Design Tips - Part
-1](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DYasNlmE6IBo%26list%3DPLvt8_pMl6ywmq9sx_OKHobRURXMIBbSBz%26index%3D1%26ab_channel%3DArtProf%253ACreate%2526Critique&sa=D&source=editors&ust=1759597865535047&usg=AOvVaw22ealVDX0R0lTuwXcZpvIE)
-
-👉 [Creature Design Tips - Part
-2](https://www.google.com/url?q=https://www.creativebloq.com/features/15-tips-for-better-creature-design&sa=D&source=editors&ust=1759597865535180&usg=AOvVaw0bk_oJv34lpgv2qRP_MwTb)
-
-👉 [Dina Norlund's Process for Designing a New
-Creature](https://www.google.com/url?q=https://youtu.be/Q-7y9uqEzi0&sa=D&source=editors&ust=1759597865535340&usg=AOvVaw3WCI6tsxttMh8rNsOnTtQ7)
-
-Working on and presenting non-human characters will add diversity to
-your artwork and portfolio.
+Working on and presenting non-human characters will add diversity to your artwork and portfolio.
 
 ![image](./images/unnamed_444.jpg)
 
 These are just examples.
 
-Practice through repetition, find and discover new techniques, find
-various things to focus on, and draw iterations and versions of the same
-subject over and over, just like practicing piano, only through
-repetition can you learn the piece well. Practice drawing that subject
-in various angles and styles, over and over and over again. Explore and
-experiment different methods to broaden your skill sets throughout the
-design spectrum. Think about what areas of drawing you are weakest at or
-most fearful of doing, and research these areas and make yourself sketch
-them over and over.
+Practice through repetition, find and discover new techniques, find various things to focus on, and draw iterations and versions of the same subject over and over, just like practicing piano, only through repetition can you learn the piece well. Practice drawing that subject in various angles and styles, over and over and over again. Explore and experiment different methods to broaden your skill sets throughout the design spectrum. Think about what areas of drawing you are weakest at or most fearful of doing, and research these areas and make yourself sketch them over and over.
 
-The point of working with a self-made, rigid schedule is that it keeps
-you honest. Every day you'll be working towards building a subconscious
-routine that just sorta happens whether you're thinking about it or not.
+The point of working with a self-made, rigid schedule is that it keeps you honest. Every day you'll be working towards building a subconscious routine that just sorta happens whether you're thinking about it or not.
 
-You might have some days where you can't make the time to practice
-because of an unforeseen circumstance or just being too tired. If that's
-the case just move your drawings to the next day. Or tack on extra time
-throughout the week to make up for lost drawing hours.
+You might have some days where you can't make the time to practice because of an unforeseen circumstance or just being too tired. If that's the case just move your drawings to the next day. Or tack on extra time throughout the week to make up for lost drawing hours.
 
 ![image](./images/unnamed_999.png)
-
 ![image](./images/unnamed_026.png)
-
 ![image](./images/unnamed_1106.png)
-
 ![image](./images/unnamed_971.png)
 
-Using pantone markers and highlighters can also be fun to add contrast
-and tonal values!
+> Using pantone markers and highlighters can also be fun to add contrast and tonal values!
 
 ![image](./images/unnamed_626.png)
 
-It really doesn't matter what you're drawing in the beginning. If you
-never had much practice [drawing as a
-child](https://www.google.com/url?q=https://conceptartempire.com/drawing-starting-late/&sa=D&source=editors&ust=1759597865537192&usg=AOvVaw3E4xBNNJQoQmM_l3CIzaIi)
-or doodling in your school scribblers and such, that's totally fine,
-most likely you need to catch up for that lost time, and do lots of line
-mileage now, to get your skill levels up! Don't be nervous about the
-long road ahead - start now, be consistent, draw every day, look up lots
-of references, re-read this document, watch the videos, [listen to the
-advice](https://www.google.com/url?q=https://youtu.be/fSblQcgBhCM&sa=D&source=editors&ust=1759597865537586&usg=AOvVaw0_V8x-KfidFfCbcwh6R932),
-and you'll advance quickly. There's many, many different areas here to
-challenge yourself with, don't be overwhelmed, tackle one thing at a
-time, write down your battle plan for what areas to practice first, make
-lists, and get started right away.
+It really doesn't matter what you're drawing in the beginning. If you never had much practice [drawing as a child](https://www.google.com/url?q=https://conceptartempire.com/drawing-starting-late/&sa=D&source=editors&ust=1759597865537192&usg=AOvVaw3E4xBNNJQoQmM_l3CIzaIi) or doodling in your school scribblers and such, that's totally fine, most likely you need to catch up for that lost time, and do lots of line mileage now, to get your skill levels up! Don't be nervous about the long road ahead - start now, be consistent, draw every day, look up lots of references, re-read this document, watch the videos, [listen to the advice](https://www.google.com/url?q=https://youtu.be/fSblQcgBhCM&sa=D&source=editors&ust=1759597865537586&usg=AOvVaw0_V8x-KfidFfCbcwh6R932), and you'll advance quickly. There's many, many different areas here to challenge yourself with, don't be overwhelmed, tackle one thing at a time, write down your battle plan for what areas to practice first, make lists, and get started right away.
 
 ![image](./images/unnamed_1238.png)
-
 ![image](./images/unnamed_457.png)
 ![image](./images/unnamed_330.png)
 
-The benefit of being a newbie is that you can draw pretty much anything
-and improve. If you drew lines for 30 minutes a day you'd see your [line
-work](https://www.google.com/url?q=https://youtu.be/mysAqNK6CHI&sa=D&source=editors&ust=1759597865538141&usg=AOvVaw2sayzB1Z28I2gkeVBzrZ-N)
-improve in no time. But at some point you will need to actually start
-focusing your drawing efforts and trying to practice certain skills.
-Narrow down specific areas that interest you and any areas you are weak
-in.
+The benefit of being a newbie is that you can draw pretty much anything and improve. If you drew lines for 30 minutes a day you'd see your [line work](https://www.google.com/url?q=https://youtu.be/mysAqNK6CHI&sa=D&source=editors&ust=1759597865538141&usg=AOvVaw2sayzB1Z28I2gkeVBzrZ-N) improve in no time. But at some point you will need to actually start focusing your drawing efforts and trying to practice certain skills. Narrow down specific areas that interest you and any areas you are weak in.
 
 ![image](./images/unnamed_1297.png)
-
 ![image](./images/unnamed_1160.png)
-
 ![image](./images/unnamed_226.png)
-
 ![image](./images/unnamed_1275.png)
 
-Make yourself a lesson plan that moves between different topics.
-Practice perspective for a few days, and then move on to anatomy, then
-perhaps birds, switch to plants and trees, then maybe insects, then
-furni, and then hairstyles. Switch between different subjects so that
-you give yourself a well rounded [art
-education](https://www.google.com/url?q=https://www.domestika.org/en/courses/area/19-character-design&sa=D&source=editors&ust=1759597865538858&usg=AOvVaw1DYZkPCB5EKOeEoGrLYisv).
+Make yourself a lesson plan that moves between different topics. Practice perspective for a few days, and then move on to anatomy, then perhaps birds, switch to plants and trees, then maybe insects, then furni, and then hairstyles. Switch between different subjects so that you give yourself a well rounded [art education](https://www.google.com/url?q=https://www.domestika.org/en/courses/area/19-character-design&sa=D&source=editors&ust=1759597865538858&usg=AOvVaw1DYZkPCB5EKOeEoGrLYisv).
 
 ![image](./images/unnamed_658.png)
 
-For inspiration - observe, search through, save, and study online
-threads, reels, boards and forums like these [character design
-studies](https://www.google.com/url?q=https://characterdesignreferences.com/character-design-boards&sa=D&source=editors&ust=1759597865539123&usg=AOvVaw2mMGjZ3QaZEKl-80x1dK7-),
-along with many other [online visual
-libraries](https://www.google.com/url?q=https://characterdesignreferences.com/visual-library&sa=D&source=editors&ust=1759597865539225&usg=AOvVaw0v1aBRBy3pi4pGcheIPT8Q),
-and purchase [good
-books](https://www.google.com/url?q=https://youtu.be/YytdLj89iXE?t%3D63&sa=D&source=editors&ust=1759597865539295&usg=AOvVaw3Re_-XUcXL6nn3_RSgdej7)!
+For inspiration - observe, search through, save, and study online threads, reels, boards and forums like these [character design studies](https://www.google.com/url?q=https://characterdesignreferences.com/character-design-boards&sa=D&source=editors&ust=1759597865539123&usg=AOvVaw2mMGjZ3QaZEKl-80x1dK7-), along with many other [online visual libraries](https://www.google.com/url?q=https://characterdesignreferences.com/visual-library&sa=D&source=editors&ust=1759597865539225&usg=AOvVaw0v1aBRBy3pi4pGcheIPT8Q), and purchase [good books](https://www.google.com/url?q=https://youtu.be/YytdLj89iXE?t%3D63&sa=D&source=editors&ust=1759597865539295&usg=AOvVaw3Re_-XUcXL6nn3_RSgdej7)!
 
-It cannot be stressed enough: the importance of getting on a schedule.
-It is possible to just draw whenever you have free time. But that sort
-of loosey-goosey scheduling isn't how you build consistent
-month-over-month progress. Remain regimented, continuous, steady - with
-a list of topics, subjects and items to mark off to practice on.
+It cannot be stressed enough: the importance of getting on a schedule. It is possible to just draw whenever you have free time. But that sort of loosey-goosey scheduling isn't how you build consistent month-over-month progress. Remain regimented, continuous, steady - with a list of topics, subjects and items to mark off to practice on.
 
 ![image](./images/unnamed_1359.png)
-
 ![image](./images/unnamed_1612.png)
-
 ![image](./images/unnamed.png)
-
 ![image](./images/unnamed_731.png)
-
 ![image](./images/unnamed_665.png)
-
 ![image](./images/unnamed_233.png)
 
-If you stick with it and get into the habit of drawing every single day,
-then you're guaranteed to see improvements. Self-motivation and
-perseverance will help you get through the early stages. Learning art
-has little to do with inspiration and everything to do with hard work.
-Just like working out your muscles, consistency is the key, always!
+If you stick with it and get into the habit of drawing every single day, then you're guaranteed to see improvements. Self-motivation and perseverance will help you get through the early stages. Learning art has little to do with inspiration and everything to do with hard work. Just like working out your muscles, consistency is the key, always!
 
 ![image](./images/unnamed_851.png)
 
-"It's not about the journey, it's not about the destination,
+> "It's not about the journey, it's not about the destination, it's about the person you become on the journey." - Jimmy Carr
 
-it's about the person you become on the journey."
+An Article by _Clara Lieu_, Visual Arts Professor at the _Rhode Island School of Design_:
 
-\- Jimmy Carr
+Drawing is a highly complex beast which involves so many different elements at various skill levels. Rather than get into all of those details, I\'m going to boil it down to four fundamental directives that will help improve your drawing abilities across all skill levels and media.
 
-An Article by Clara Lieu, Visual Arts Professor at the Rhode Island
-School of Design:
+1. Draw from direct observation\
+   - This sounds so simple, and yet I\'m appalled at how many artists don\'t work from direct observation when they are looking to improve their drawing skills. Photographs may be convenient and easier to work from, but they\'re a cheap shortcut that will lead to the development of all sorts of bad habits. The amount of information that a photograph has pales in comparison to seeing a subject in real life. This is not to say that one should never ever in their lifetime work from a photograph; I work from photographs all the time now.
+   - However, I\'m able to do this because I\'ve developed skills based on many, many years of working from direct observation.
+   - When you work from life, you experience your subject matter in a way that a photograph could never allow you to: you can touch your subject, smell it, walk around it, and see the subject within the context of its environment. This overall sensory experience is vital towards your understanding of your subject matter and will translate into your drawing.
+   - Drawing is as much about learning how to see as it is about the marks that you put on the page. Experiencing your subject in real life will teach you how to hone your skills in observation. The skills that you will gain from working from direct observation will tremendously inform and support your ability to work from all sorts of other references.
+   - ![image](./images/unnamed_1307.png)
+2. Practice daily\
+   - Drawing is very similar to athletics. If you were an athlete, you would have a rigid schedule of training set up that you would adhere to. Drawing is the same way: it requires serious focus, rigorous training, and intense physical stamina. Every time you sit down to draw, it\'s an opportunity to sharpen your eye, and become more proficient in coordinating your mind and eye with the physical movements of your arm and hand. Many people get impatient with drawing and expect results right away. You have to be committed, and be able to recognize that improvement is a slow and gradual process. One would never expect to be an Olympic-level skier after one week of training, the same way you can\'t expect to be a master of drawing after working for a few days.
+3. Look at historical drawings
+   - Go to the library and check out books (or go [online](https://www.google.com/url?q=https://www.google.com/search?sca_esv%3D47a159505e5d460b%26rlz%3D1C5CHFA_enCA1088CA1088%26sxsrf%3DACQVn0_oJGqQ7h70hmfpL-de1R0BWRB-uw:1709648379474%26q%3Dhistorical%2Bartists%2Bsketches%26tbm%3Disch%26source%3Dlnms%26sa%3DX%26ved%3D2ahUKEwj1quXCqN2EAxXSrokEHfWlDPYQ0pQJegQIEBAB%26biw%3D1637%26bih%3D896%26dpr%3D2&sa=D&source=editors&ust=1759597865544525&usg=AOvVaw3MwFyVd5HwcOLgpsGdP6HJ)) that feature drawings by historical artists. The drawings that you\'ll learn the most from are gesture drawings and quick sketches done in sketchbooks. In these quick sketches you\'ll get to see all of the visual evidence: you get to see all of the mistakes, all of the troubleshooting that happens in an artist\'s drawing process. This is what is so unique about drawing that you won\'t see in other media like painting and sculpture \-- the opportunity to see traces of an artist\'s process in a drawing. Investigate and analyze what kinds of strategies these artists take in their drawing process and try to use them in your own.
+4. Practice gesture drawing\
+   - If you can do strong gesture drawings, you\'ve already won half the battle. Gesture drawings are the core of any drawing, they capture the essence of what a drawing is trying to say in just a few strokes, in just a few minutes. The first two minutes of a drawing are critical in that they lay the foundation for the rest of the drawing. It doesn\'t matter how polished your drawing is if the initial gesture isn\'t there to begin with.
+   - ![image](./images/unnamed_267.png)
+   - By Maaike Scherff
+   - Ideally, one should practice gesture drawing from a nude model, but if you don\'t have access to a model, there are plenty of other options. You can go to a local cafe and sketch people sitting in the cafe, or draw a bunch of friends who are hanging out. One of my friends always liked going to the beach to draw because people sit still, and they\'re practically naked anyway. I had a peer in art school who used to go to college parties and draw all of the drunk people sitting around. Get creative and find as many contexts as possible where you can practice your gesture drawing.
+   - There's many free online Figure Drawing classes and resources to choose from (warning - nudity):
+   - [Free online Figure Drawing 1](https://www.google.com/url?q=https://line-of-action.com/practice-tools/figure-drawing&sa=D&source=editors&ust=1759597865546540&usg=AOvVaw2eIjx4lh6UERM46Yagi3Cr)
+   - [Free online Figure Drawing 2](https://www.google.com/url?q=https://quickposes.com/en&sa=D&source=editors&ust=1759597865546607&usg=AOvVaw0ZF4EV_J727sk7GX9ydU-M)
+   - [Free online Figure Drawing 3](https://www.google.com/url?q=https://www.photo-reference-for-comic-artists.com/&sa=D&source=editors&ust=1759597865546674&usg=AOvVaw2eXbS5CFQuTOxt-zgQ2ej7)
+   - [Free online Figure Drawing 4](https://www.google.com/url?q=http://reference.sketchdaily.net/en&sa=D&source=editors&ust=1759597865546729&usg=AOvVaw0d8w2-4ins1vNIHDcuKyJv)
+   - [Free online Figure Drawing 5](https://www.google.com/url?q=https://www.human-anatomy-for-artist.com/&sa=D&source=editors&ust=1759597865546784&usg=AOvVaw0F4lWbq3SBScmoB4trZ5AU)
+   - [Free online Figure Drawing 6](https://www.google.com/url?q=https://www.bodiesinmotion.photo/&sa=D&source=editors&ust=1759597865546835&usg=AOvVaw1NTpfh4uGubJCrqiUtFGqD)
+   - [Free online Figure Drawing 7](https://www.google.com/url?q=https://www.youtube.com/c/DrawThis/videos&sa=D&source=editors&ust=1759597865546888&usg=AOvVaw2DkQlqrlo5tn1yNjJQmdN0)
+   - [Free online Figure Drawing 8](https://www.google.com/url?q=https://drive.google.com/drive/folders/1c-K3gSjNvFniFq3Ea8oJ4xZ0dKX9w9fS?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865546963&usg=AOvVaw1MJWQd9HY9wHDhpSSyWOlV)
+   - [Free online Figure Drawing 9](https://www.google.com/url?q=https://drive.google.com/drive/folders/1QccjQ7czzpS-c9QWTH5rZZ08P_TQ48MC?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865547038&usg=AOvVaw2q63FPBJ75hHJWr0SAxmVW)
+   - To create a strong gesture, it\'s important to keep your arm moving and circulating throughout the page, moving from top to bottom, side to side, very quickly. Start very, very light with marks that barely show on the page. This allows you to make lots of mistakes that will not show later because they\'ll be so light. Develop all of the parts of the drawing together so that you don\'t neglect any area. Try to aim for continuous movements and fluid lines rather than fragmenting your lines into choppy marks. Look at your subject more than you look at your drawing; your subject is where the information is. Keep your gesture drawings about two to five minutes in length, any longer than that it\'s too easy to get lazy and fall back into bad habits.
+   - ![image](./images/unnamed_344.png)
+   - ![image](./images/unnamed_1364.png)
+   - ![image](./images/unnamed_1480.png)
+   - ![image](./images/unnamed_886.png)
+   - ![image](./images/unnamed_147.png)
+   - Figure Drawings by [Matt Cassan](https://www.google.com/url?q=https://www.instagram.com/mattcassan/?img_index%3D2&sa=D&source=editors&ust=1759597865548004&usg=AOvVaw01CDNwec43oBI641Snvmta)
 
-Drawing is a highly complex beast which involves so many different
-elements at various skill levels. Rather than get into all of those
-details, I\'m going to boil it down to four fundamental directives that
-will help improve your drawing abilities across all skill levels and
-media.
+#### 11. Compile References / Organize Some Studies To Try Out
 
-1\) Draw from direct observation\
-This sounds so simple, and yet I\'m appalled at how many artists don\'t
-work from direct observation when they are looking to improve their
-drawing skills. Photographs may be convenient and easier to work from,
-but they\'re a cheap shortcut that will lead to the development of all
-sorts of bad habits. The amount of information that a photograph has
-pales in comparison to seeing a subject in real life. This is not to say
-that one should never ever in their lifetime work from a photograph; I
-work from photographs all the time now.
+A few habits you must motivate yourself in doing before every big design task, but also to do in general when you are out of work and waiting on your next job - hone your skills, work on any weaknesses...
 
-However, I\'m able to do this because I\'ve developed skills based on
-many, many years of working from direct observation.
-
-When you work from life, you experience your subject matter in a way
-that a photograph could never allow you to: you can touch your subject,
-smell it, walk around it, and see the subject within the context of its
-environment. This overall sensory experience is vital towards your
-understanding of your subject matter and will translate into your
-drawing.
-
-Drawing is as much about learning how to see as it is about the marks
-that you put on the page. Experiencing your subject in real life will
-teach you how to hone your skills in observation. The skills that you
-will gain from working from direct observation will tremendously inform
-and support your ability to work from all sorts of other references.
-
-![image](./images/unnamed_1307.png)
-
-2\) Practice daily\
-Drawing is very similar to athletics. If you were an athlete, you would
-have a rigid schedule of training set up that you would adhere to.
-Drawing is the same way: it requires serious focus, rigorous training,
-and intense physical stamina. Every time you sit down to draw, it\'s an
-opportunity to sharpen your eye, and become more proficient in
-coordinating your mind and eye with the physical movements of your arm
-and hand. Many people get impatient with drawing and expect results
-right away. You have to be committed, and be able to recognize that
-improvement is a slow and gradual process. One would never expect to be
-an Olympic-level skier after one week of training, the same way you
-can\'t expect to be a master of drawing after working for a few days.
-
-3\) Look at historical drawings
-
-Go to the library and check out books (or go
-[online](https://www.google.com/url?q=https://www.google.com/search?sca_esv%3D47a159505e5d460b%26rlz%3D1C5CHFA_enCA1088CA1088%26sxsrf%3DACQVn0_oJGqQ7h70hmfpL-de1R0BWRB-uw:1709648379474%26q%3Dhistorical%2Bartists%2Bsketches%26tbm%3Disch%26source%3Dlnms%26sa%3DX%26ved%3D2ahUKEwj1quXCqN2EAxXSrokEHfWlDPYQ0pQJegQIEBAB%26biw%3D1637%26bih%3D896%26dpr%3D2&sa=D&source=editors&ust=1759597865544525&usg=AOvVaw3MwFyVd5HwcOLgpsGdP6HJ))
-that feature drawings by historical artists. The drawings that you\'ll
-learn the most from are gesture drawings and quick sketches done in
-sketchbooks. In these quick sketches you\'ll get to see all of the
-visual evidence: you get to see all of the mistakes, all of the
-troubleshooting that happens in an artist\'s drawing process. This is
-what is so unique about drawing that you won\'t see in other media like
-painting and sculpture \-- the opportunity to see traces of an artist\'s
-process in a drawing. Investigate and analyze what kinds of strategies
-these artists take in their drawing process and try to use them in your
-own.
-
-4\) Practice gesture drawing\
-If you can do strong gesture drawings, you\'ve already won half the
-battle. Gesture drawings are the core of any drawing, they capture the
-essence of what a drawing is trying to say in just a few strokes, in
-just a few minutes. The first two minutes of a drawing are critical in
-that they lay the foundation for the rest of the drawing. It doesn\'t
-matter how polished your drawing is if the initial gesture isn\'t there
-to begin with.
-
-![image](./images/unnamed_267.png)
-
-By Maaike Scherff
-
-Ideally, one should practice gesture drawing from a nude model, but if
-you don\'t have access to a model, there are plenty of other options.
-You can go to a local cafe and sketch people sitting in the cafe, or
-draw a bunch of friends who are hanging out. One of my friends always
-liked going to the beach to draw because people sit still, and they\'re
-practically naked anyway. I had a peer in art school who used to go to
-college parties and draw all of the drunk people sitting around. Get
-creative and find as many contexts as possible where you can practice
-your gesture drawing.
-
-There's many free online Figure Drawing classes and resources to choose
-from (warning - nudity):
-[X](https://www.google.com/url?q=https://line-of-action.com/practice-tools/figure-drawing&sa=D&source=editors&ust=1759597865546540&usg=AOvVaw2eIjx4lh6UERM46Yagi3Cr)
-/
-[X](https://www.google.com/url?q=https://quickposes.com/en&sa=D&source=editors&ust=1759597865546607&usg=AOvVaw0ZF4EV_J727sk7GX9ydU-M)
-/
-[X](https://www.google.com/url?q=https://www.photo-reference-for-comic-artists.com/&sa=D&source=editors&ust=1759597865546674&usg=AOvVaw2eXbS5CFQuTOxt-zgQ2ej7)
-/
-[X](https://www.google.com/url?q=http://reference.sketchdaily.net/en&sa=D&source=editors&ust=1759597865546729&usg=AOvVaw0d8w2-4ins1vNIHDcuKyJv)
-/
-[X](https://www.google.com/url?q=https://www.human-anatomy-for-artist.com/&sa=D&source=editors&ust=1759597865546784&usg=AOvVaw0F4lWbq3SBScmoB4trZ5AU)
-/
-[X](https://www.google.com/url?q=https://www.bodiesinmotion.photo/&sa=D&source=editors&ust=1759597865546835&usg=AOvVaw1NTpfh4uGubJCrqiUtFGqD)
-/
-[X](https://www.google.com/url?q=https://www.youtube.com/c/DrawThis/videos&sa=D&source=editors&ust=1759597865546888&usg=AOvVaw2DkQlqrlo5tn1yNjJQmdN0)
-/
-[X](https://www.google.com/url?q=https://drive.google.com/drive/folders/1c-K3gSjNvFniFq3Ea8oJ4xZ0dKX9w9fS?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865546963&usg=AOvVaw1MJWQd9HY9wHDhpSSyWOlV)
-/
-[X](https://www.google.com/url?q=https://drive.google.com/drive/folders/1QccjQ7czzpS-c9QWTH5rZZ08P_TQ48MC?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865547038&usg=AOvVaw2q63FPBJ75hHJWr0SAxmVW)
-
-To create a strong gesture, it\'s important to keep your arm moving and
-circulating throughout the page, moving from top to bottom, side to
-side, very quickly. Start very, very light with marks that barely show
-on the page. This allows you to make lots of mistakes that will not show
-later because they\'ll be so light. Develop all of the parts of the
-drawing together so that you don\'t neglect any area. Try to aim for
-continuous movements and fluid lines rather than fragmenting your lines
-into choppy marks. Look at your subject more than you look at your
-drawing; your subject is where the information is. Keep your gesture
-drawings about two to five minutes in length, any longer than that it\'s
-too easy to get lazy and fall back into bad habits.
-
-![image](./images/unnamed_344.png)
-
-![image](./images/unnamed_1364.png)
-![image](./images/unnamed_1480.png)
-
-![image](./images/unnamed_886.png)
-![image](./images/unnamed_147.png)
-
-Figure Drawings by [Matt
-Cassan](https://www.google.com/url?q=https://www.instagram.com/mattcassan/?img_index%3D2&sa=D&source=editors&ust=1759597865548004&usg=AOvVaw01CDNwec43oBI641Snvmta)
-
-11\. Compile References / Organize Some Studies To Try Out
-
-A few habits you must motivate yourself in doing before every big design
-task, but also to do in general when you are out of work and waiting on
-your next job - hone your skills, work on any weaknesses...
-
-Practice your techniques, gather and collect images & materials from a
-wide range of subjects, and always explore and experiment different
-methods to improve your draftsmanship:
+Practice your techniques, gather and collect images & materials from a wide range of subjects, and always explore and experiment different methods to improve your draftsmanship:
 
 ![image](./images/unnamed_1148.jpg)
-
 ![image](./images/unnamed_1066.jpg)
-
 ![image](./images/unnamed_048.jpg)
-
 ![image](./images/unnamed_1170.jpg)
 ![image](./images/unnamed_392.jpg)
 
-All these were found within minutes of searching online for their
-various subjects.
+All these were found within minutes of searching online for their various subjects.
 
 When searching for something, add "drawing" ahead of your subject:
 
-Drawing drapery
+- Drawing drapery
+- Drawing wings
+- Drawing mermaid tails
+- Drawing wolves
+- Drawing horses
+- Drawing swords
 
-Drawing wings
-
-Drawing mermaid tails
-
-Drawing wolves
-
-Drawing horses
-
-Drawing swords
-
-It's endless the various subjects you can find and focus on for just a
-short while.
+It's endless the various subjects you can find and focus on for just a short while.
 
 ![image](./images/unnamed_284.jpg)
 
-All the imagery shown above was gathered from Pinterest, as a way to
-collect various designs and how-to-draw guides for certain topics.
-Creating reference boards like this for yourself is vital for exploring
-facets you might be weaker in. Cataloging visual information and saving
-hundreds of images in neatly organized folders, will help you to learn
-how to design these subjects in the future by having them at your
-fingertips for reference.
+All the imagery shown above was gathered from Pinterest, as a way to collect various designs and how-to-draw guides for certain topics. Creating reference boards like this for yourself is vital for exploring facets you might be weaker in. Cataloging visual information and saving hundreds of images in neatly organized folders, will help you to learn how to design these subjects in the future by having them at your fingertips for reference.
 
-👉 [Practice flexing your visual memory
-skills](https://www.google.com/url?q=https://www.youtube.com/shorts/Yhv0F0K4lt4?feature%3Dshare&sa=D&source=editors&ust=1759597865549933&usg=AOvVaw3HqfbDFwRrpGIWZ5ey67f7)
+> 👉 [Practice flexing your visual memory skills](https://www.google.com/url?q=https://www.youtube.com/shorts/Yhv0F0K4lt4?feature%3Dshare&sa=D&source=editors&ust=1759597865549933&usg=AOvVaw3HqfbDFwRrpGIWZ5ey67f7)
 
 ![image](./images/unnamed_1375.jpg)
-
 ![image](./images/unnamed_472.jpg)
 
-12\. Work Habits
+#### 12. Work Habits
 
-Here is a collection of videos/podcasts on various subjects, from advice
-on career paths, to tips & tricks for illustrators on learning new
-techniques: [School of Visual
-Storytelling](https://www.google.com/url?q=https://www.youtube.com/@SVSLearn/videos&sa=D&source=editors&ust=1759597865550371&usg=AOvVaw3zT9uevtkOoNi8vd0srZu7)
+Here is a collection of videos/podcasts on various subjects, from advice on career paths, to tips & tricks for illustrators on learning new techniques: [School of Visual Storytelling](https://www.google.com/url?q=https://www.youtube.com/@SVSLearn/videos&sa=D&source=editors&ust=1759597865550371&usg=AOvVaw3zT9uevtkOoNi8vd0srZu7)
 
-Animator, Patrick Smith has some good tips and strategies on healthy
-work habits and how to set yourself up to efficiently work-from-home:
-[Staying Productive and
-Motivated](https://www.google.com/url?q=https://docs.google.com/document/d/14K5tjjlo_APYYPz0p9CeWrADBt2JUQq-Y8WOBfcj-xg/edit?usp%3Dsharing&sa=D&source=editors&ust=1759597865550648&usg=AOvVaw0P2O3XmXflqpVuyYwYexQz)
+Animator, Patrick Smith has some good tips and strategies on healthy work habits and how to set yourself up to efficiently work-from-home: [Staying Productive and Motivated](https://www.google.com/url?q=https://docs.google.com/document/d/14K5tjjlo_APYYPz0p9CeWrADBt2JUQq-Y8WOBfcj-xg/edit?usp%3Dsharing&sa=D&source=editors&ust=1759597865550648&usg=AOvVaw0P2O3XmXflqpVuyYwYexQz)
 
-Something to practice \> 'Monk Mode' --- inspired by the disciplined
-lifestyle of monks --- referring to intense periods of uninterrupted
-focus to optimize productivity. It involves hyper-concentration on a
-single task and removing all distractions: [Be Productive with Immersion
-and
-Focus](https://www.google.com/url?q=https://youtu.be/Fg0UcmvMgIQ?t%3D32&sa=D&source=editors&ust=1759597865551032&usg=AOvVaw1uaUfoE43OUhEbL1plvIsy)
+Something to practice \> 'Monk Mode' --- inspired by the disciplined lifestyle of monks --- referring to intense periods of uninterrupted focus to optimize productivity. It involves hyper-concentration on a single task and removing all distractions: [Be Productive with Immersion and Focus](https://www.google.com/url?q=https://youtu.be/Fg0UcmvMgIQ?t%3D32&sa=D&source=editors&ust=1759597865551032&usg=AOvVaw1uaUfoE43OUhEbL1plvIsy)
 
-Costume designer, special effects artist, and model-maker Adam Savage
-has great advice about learning from your mistakes: [Don't Take Things
-Personally](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D4shMZpJYWtE%26ab_channel%3DAdamSavage%25E2%2580%2599sTested&sa=D&source=editors&ust=1759597865551299&usg=AOvVaw0ZfZhekIYiyHn1uAtjjqYv)
+Costume designer, special effects artist, and model-maker Adam Savage has great advice about learning from your mistakes: [Don't Take Things Personally](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D4shMZpJYWtE%26ab_channel%3DAdamSavage%25E2%2580%2599sTested&sa=D&source=editors&ust=1759597865551299&usg=AOvVaw0ZfZhekIYiyHn1uAtjjqYv)
 
-"Nothing will serve you better than a strong work ethic. Nothing. And
-it\'s something that you can\'t teach. You have to be thrown into it,
-where you\'re going to sink or swim." - Robert Downey Jr.
+> "Nothing will serve you better than a strong work ethic. Nothing. And it\'s something that you can\'t teach. You have to be thrown into it, where you\'re going to sink or swim." - Robert Downey Jr.
 
-A work ethic is a personal set of values that determines how any
-employee approaches their work. Artists with strong work ethics are
-highly motivated and endeavor to produce consistently high-quality
-results. If YOU feel like you should have a stronger work ethic, then
-realizing this and staying positive about improving yourself is the
-first step. Find ways to keep yourself motivated, you will get profound
-satisfaction from completed work. Procrastination is very very common
-amongst artists, but keep working on yourself, your skills, your
-confidence, your goals, and you WILL get better. There's no guaranteed
-method to ensure productivity, there's no secret formula, you just need
-to find and discover what works best for YOU. Because all humans work in
-different ways. You just need to push yourself to keep practicing, don't
-wait for anyone or anything.
+A work ethic is a personal set of values that determines how any employee approaches their work. Artists with strong work ethics are highly motivated and endeavor to produce consistently high-quality results. If YOU feel like you should have a stronger work ethic, then realizing this and staying positive about improving yourself is the first step. Find ways to keep yourself motivated, you will get profound satisfaction from completed work. Procrastination is very very common amongst artists, but keep working on yourself, your skills, your confidence, your goals, and you WILL get better. There's no guaranteed method to ensure productivity, there's no secret formula, you just need to find and discover what works best for YOU. Because all humans work in different ways. You just need to push yourself to keep practicing, don't wait for anyone or anything.
 
 Always absorb the lessons and life experiences of others:
 
 ![image](./images/unnamed_776.png)
-
 ![image](./images/unnamed_709.png)
-
 ![image](./images/unnamed_1042.png)
-
 ![image](./images/unnamed_574.png)
-
 ![image](./images/unnamed_1168.png)
-
 ![image](./images/unnamed_1492.png)
-
 ![image](./images/unnamed_1186.jpg)
-
 ![image](./images/unnamed_675.jpg)
-
 ![image](./images/unnamed_1362.jpg)
-
 ![image](./images/unnamed_1218.jpg)
-
 ![image](./images/unnamed_207.jpg)
-
 ![image](./images/unnamed_254.jpg)
-
 ![image](./images/unnamed_1231.jpg)
-
 ![image](./images/unnamed_099.jpg)
 
 ### Pitching
 
-Creating, developing, and presenting your own properties and ideas for
-an animated series or film is a very big and extensive realm to dive
-into. Character Design is only one aspect of this grand venture. To
-successfully develop, pitch and sell your own concept is truly the final
-frontier and the golden ticket of the entire animation industry, for any
-artist/creator. There's many books and sites out there that can offer
-lots of advice on the subject.
+Creating, developing, and presenting your own properties and ideas for an animated series or film is a very big and extensive realm to dive into. Character Design is only one aspect of this grand venture. To successfully develop, pitch and sell your own concept is truly the final frontier and the golden ticket of the entire animation industry, for any artist/creator. There's many books and sites out there that can offer lots of advice on the subject.
 
-You must be ready for the heavy reality that you'll not only need to
-develop the visuals (or find someone to help you do so) but you must
-also explore the story development and scriptwriting aspect as well.
-[Storyboarding](https://www.google.com/url?q=https://youtu.be/YcchrgJgryo&sa=D&source=editors&ust=1759597865554082&usg=AOvVaw1DPrsCmV4TVbARAqGhOQ4W)
-is also something to be familiar with, at the very least try it, and
-learn about how they are made. Especially for animation, storyboards are
-sort of the second half of the writing process.
+You must be ready for the heavy reality that you'll not only need to develop the visuals (or find someone to help you do so) but you must also explore the story development and scriptwriting aspect as well. [Storyboarding](https://www.google.com/url?q=https://youtu.be/YcchrgJgryo&sa=D&source=editors&ust=1759597865554082&usg=AOvVaw1DPrsCmV4TVbARAqGhOQ4W) is also something to be familiar with, at the very least try it, and learn about how they are made. Especially for animation, storyboards are sort of the second half of the writing process.
 
-"Always, always invest in yourself, invest in your ideas,
+> "Always, always invest in yourself, invest in your ideas, and in your passions. Regret can be worse than failure." \- Larry F. Houston
 
-and in your passions. Regret can be worse than failure."
-
-\- Larry F. Houston
-
-Creating a pitch package can take a long time, and depending how much
-resources you have, you can create a short and condensed pitch deck that
-covers the basic concept and visual style like
-[this](https://www.google.com/url?q=https://drive.google.com/file/d/1GNbHToaeHoFvFwt55cX8Rp76TTX0qZnD/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865554816&usg=AOvVaw3dnmU0ZYI9nj6jMCsS_7QU).
-Or a long detailed bible that covers all aspects of the character
-descriptions, art direction, and story outlines like
-[this](https://www.google.com/url?q=https://drive.google.com/file/d/17xj2oFgHdMqiNkn8bhoVU9DWbwjy7ROM/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865554998&usg=AOvVaw0VaCCKr25Gxk4rTvgSkUm3).
+Creating a pitch package can take a long time, and depending how much resources you have, you can create a short and condensed pitch deck that covers the basic concept and visual style like [this](https://www.google.com/url?q=https://drive.google.com/file/d/1GNbHToaeHoFvFwt55cX8Rp76TTX0qZnD/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865554816&usg=AOvVaw3dnmU0ZYI9nj6jMCsS_7QU). Or a long detailed bible that covers all aspects of the character descriptions, art direction, and story outlines like [this](https://www.google.com/url?q=https://drive.google.com/file/d/17xj2oFgHdMqiNkn8bhoVU9DWbwjy7ROM/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865554998&usg=AOvVaw0VaCCKr25Gxk4rTvgSkUm3).
 
 ![image](./images/unnamed_1011.png)
 
-Writing & Developing
+#### Writing & Developing
 
-Before you can pitch your idea, you must first develop it, and to
-develop a concept, you must assemble a pitch deck, to create this you
-must put together some scripts and plot synopsis, and to do this, you
-must learn how to write for animation. There's lots to learn when it
-comes to creating worlds, creating characters, and writing for film or
-episodic television. Here's some links with a wealth of information to
-get you started...
+Before you can pitch your idea, you must first develop it, and to develop a concept, you must assemble a pitch deck, to create this you must put together some scripts and plot synopsis, and to do this, you must learn how to write for animation. There's lots to learn when it comes to creating worlds, creating characters, and writing for film or episodic television. Here's some links with a wealth of information to get you started...
 
-👉 [Creating Animated Cartoons: A Guide To Developing and
-Producing](https://www.google.com/url?q=https://drive.google.com/file/d/1DxCSTvEyjbEMMVu41_Bz2dTeNuhGZNdx/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865555776&usg=AOvVaw2mKrv9mDSDfoPrnADtutZL)
+- 👉 [Creating Animated Cartoons: A Guide To Developing and Producing](https://www.google.com/url?q=https://drive.google.com/file/d/1DxCSTvEyjbEMMVu41_Bz2dTeNuhGZNdx/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865555776&usg=AOvVaw2mKrv9mDSDfoPrnADtutZL)
+- 👉 [Secret Guide: Developing Kids' Animated Comedy Series](https://www.google.com/url?q=https://drive.google.com/file/d/1FKiSpkKnLLc5vGBfn7BdddGxuXnZvFJE/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865555932&usg=AOvVaw2oQ-uzMSFnEP-VsdGXVCQL)
+- 👉 [Animation Development From Pitch to Production](https://www.google.com/url?q=https://drive.google.com/file/d/1Vq4L5gFMgBv5Vyc4bkaws47RDYQiz7Ll/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865556086&usg=AOvVaw2bBecjjAqWE0VVrWI6flsX)
+- 👉 [The Storyteller's Handbook for Animation](https://www.google.com/url?q=https://drive.google.com/file/d/1G94OwN6RZ5iCdAD7uw_TLPxziyoZcUyI/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865556226&usg=AOvVaw2Rg5Nu7nc2GHfo1GrGtONy)
+- 👉 [TV Animation Writing Resources](https://www.google.com/url?q=https://docs.google.com/document/d/1Oep942kkGEzhTc3c7sL9UAMjHy59Wm4sHcPW3AWdBSg/edit?usp%3Dsharing&sa=D&source=editors&ust=1759597865556364&usg=AOvVaw2f9L7mO3OaVwB4-lGyYfDV)
+- 👉 [Character Development Resources](https://www.google.com/url?q=https://docs.google.com/document/d/10XjYsQnoz0B1Y805jLAOfZ_IPIUnd3kaetiHvkgZihI/edit?usp%3Dsharing&sa=D&source=editors&ust=1759597865556499&usg=AOvVaw00iEy3Tt_GjleW24EEd6MD)
+- 👉 [How To Pitch & Sell An Animated Series](https://www.google.com/url?q=https://docs.google.com/document/d/1GSJHeNyjTu7bBJwYJF-POPNTpjTr4swVj8_n6wQlkgo/edit?usp%3Dsharing&sa=D&source=editors&ust=1759597865556641&usg=AOvVaw2QwrMItmcCtRZnNTmP6ZTZ)
+- 👉 [Samples of Pitch Packages](https://www.google.com/url?q=https://drive.google.com/drive/folders/1kmT02TwT9tb2fCO-Eko1DKyHaMQvv5-T?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865556767&usg=AOvVaw3iXlRjhn90ORZcYmwT-dvW)
+- 👉 [How to Start World Building](https://www.google.com/url?q=https://youtu.be/Tfe6cNlrG0c&sa=D&source=editors&ust=1759597865556905&usg=AOvVaw0QuizdnCLkPyBaIznYarxi)
+- 👉 [World Building Tips](https://www.google.com/url?q=https://youtu.be/sfcgw2zWVFY&sa=D&source=editors&ust=1759597865556997&usg=AOvVaw1vU9CFsejao0ZI6DReWryG)
+- 👉 [World Building and Storytelling](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DLoqInYFWmpU%26ab_channel%3DAnimationHustle&sa=D&source=editors&ust=1759597865557117&usg=AOvVaw1nH57sFW3BarAf1pEjdvY7)
+- 👉 [World Building Advice](https://www.google.com/url?q=https://youtu.be/AnUNXcKnF_8?t%3D165&sa=D&source=editors&ust=1759597865557218&usg=AOvVaw3UYmOHLhz1HH80KtuzY5Is)
+- 👉 [Character Motivations](https://www.google.com/url?q=https://docs.google.com/document/d/1zRKUbwYosRuIiZTTyQJlwM_ww0qxXG8v4worF4Zt_RU/edit?usp%3Dsharing&sa=D&source=editors&ust=1759597865557343&usg=AOvVaw1qDZKdqNQZJ8PBfIaNUMy2)
+- 👉 [Writing an Outline](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DRGOhn-nHQqo&sa=D&source=editors&ust=1759597865557443&usg=AOvVaw0Se0BGKYq4rU7LtoDrOIg3)
+- 👉 [Writing a Pilot](https://www.google.com/url?q=https://youtu.be/y3pUbawWCyM&sa=D&source=editors&ust=1759597865557532&usg=AOvVaw24Gh1Q7vfwcWIq6NTAEPEi)
+- 👉 [Writing for Animation](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DyM5YaS4eso4%26ab_channel%3DNicktoons&sa=D&source=editors&ust=1759597865557638&usg=AOvVaw3xi0v2PXfASVb9sD4QF_Qt)
+- 👉 [Writing with Authenticity and Honesty](https://www.google.com/url?q=https://www.youtube.com/@writeforanimation/videos&sa=D&source=editors&ust=1759597865557759&usg=AOvVaw0i0102n1wyXMuN7XyaSUmK)
+- 👉 [The Secret to Character Arcs](https://www.google.com/url?q=https://jerichowriters.com/character-arcs/&sa=D&source=editors&ust=1759597865557916&usg=AOvVaw2_7bVi6wr1xoiBpG3w4EU4)
+- 👉 [Dan Harmon's Story Circle](https://www.google.com/url?q=https://docs.google.com/document/d/14STXovnUP7Kw0zSVU_f0TjbeZfuWjFGahDSmUCZWxwo/edit?usp%3Dsharing&sa=D&source=editors&ust=1759597865558048&usg=AOvVaw1s5wat0EhMx31t66AcdLYu)
+- 👉 [Robert Mckee's Principles of Screenwriting](https://www.google.com/url?q=https://drive.google.com/file/d/1bFtscT1KoPeQem5CNeO8b9_L8Qpzz7xu/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865558192&usg=AOvVaw2jPjQljABAoxF-NuWwT3Qh)
+- 👉 [John Truby's Anatomy of Story](https://www.google.com/url?q=https://drive.google.com/file/d/18mW7-B0n4MseRCtyXp5QLDtJR_Lsv6t3/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865558315&usg=AOvVaw3wc_cwFbCpmciZlhbt5itq)
+- 👉 [Creating Character Arcs](https://www.google.com/url?q=https://drive.google.com/file/d/12FuSaogns2tuyGAmSPs1WTO_odp2hIKC/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865558480&usg=AOvVaw0kyXE8DeKLRZswaXixtP-V)
+- 👉 [Types of Traits to Instill in Your Characters](https://www.google.com/url?q=https://lets-get-fictional.tumblr.com/post/161980721393/hey-youre-awesome-thanks-for-existing&sa=D&source=editors&ust=1759597865558629&usg=AOvVaw1FcxMFX_YfokQXVWW8drv8)
+- 👉 [Building Characters with Core Values and Flaws](https://www.google.com/url?q=https://docs.google.com/document/d/1YdAJty4VkFzxEJ2xhPGqUtoyLu_usk8MwROT7vCdzMU/edit?usp%3Dsharing&sa=D&source=editors&ust=1759597865558776&usg=AOvVaw2M_lBy10xrtWbsJJxRW-aZ)
+- 👉 [How to Develop Their Personality](https://www.google.com/url?q=https://thecharacterchick.tumblr.com/post/126866334180/your-characters-personality&sa=D&source=editors&ust=1759597865558907&usg=AOvVaw0VXyKJYyEVYMVgDmMt2vTF)
+- 👉 [Character Development Questions to Ask](https://www.google.com/url?q=https://www.masterclass.com/articles/character-development-questions-to-ask-your-characters&sa=D&source=editors&ust=1759597865559048&usg=AOvVaw0llnVHtp5cgQFmdKB4sWre)
+- 👉 [A Comprehensive Guide to Screenwriting](https://www.google.com/url?q=https://drive.google.com/file/d/1ZMLuJebe4a4zFQsH9RNJbkKx2ng1P8ZU/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865559213&usg=AOvVaw0q4WanGS-tJSaQD9u1ys8T)
+- 👉 [Animation Writing and Development](https://www.google.com/url?q=https://drive.google.com/file/d/1ziVIt8xqXeENyMUPSC9mDWmL5QyUyAp_/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865559345&usg=AOvVaw2XNhK4G8kuDsErM7Co4gVR)
+- 👉 [Resources for Character Creation](https://www.google.com/url?q=http://bookandslugclub.tumblr.com/post/124011497252/resource-dump-creating-characters-primary&sa=D&source=editors&ust=1759597865559481&usg=AOvVaw2xggBXtcHbspWUZBvD_VHk)
+- 👉 [The Elements of Style by Strunk & White](https://www.google.com/url?q=https://drive.google.com/file/d/1kt5h3OJI8d4ynBXDyBu_1BmOFz7gbnQk/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865559620&usg=AOvVaw3fKiTkgsujo9GpVF7rlh3T)
+- 👉 [Sample Scripts from Animated Films](https://www.google.com/url?q=https://www.studiobinder.com/blog/animation-scripts/&sa=D&source=editors&ust=1759597865559738&usg=AOvVaw31XvoQTDs4lZ1c-J0aDAhb)
+- 👉 [StoryBeats and Why to Use Them](https://www.google.com/url?q=https://youtu.be/1zVpAKnXCB0&sa=D&source=editors&ust=1759597865559856&usg=AOvVaw1CtYBgnyPVktIIZisdEbAf)
+- 👉 [The Art of Evolution of Animation Layout](https://www.google.com/url?q=https://drive.google.com/file/d/13iY8_1igbXSAhLAaHfHkkPHJI0MLEMNH/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865559992&usg=AOvVaw0W40ulwx3e0CSyqqa-57-i)
+- 👉 [Samples of Storyboards for Animated Series](https://www.google.com/url?q=https://drive.google.com/drive/folders/1PHSb7JpzoshSH39zbdNWRS_Z6hFaqS09?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865560136&usg=AOvVaw1eqi2YECq7uSN1U8CFxkyd)
+- 👉 [Pixar in a Box](https://www.google.com/url?q=https://www.khanacademy.org/computing/pixar/storytelling&sa=D&source=editors&ust=1759597865560262&usg=AOvVaw0brK6WkC7IqdaqnX137VlG) has all a bunch of chapters containing short videos showcasing artists and directors going through theories and lessons on visual language, story structure, and character development.
+- 👉 [Creativity tips](https://www.google.com/url?q=https://youtu.be/_cRFCayhzfM&sa=D&source=editors&ust=1759597865560540&usg=AOvVaw3gd2tKnXZKqSZAclBozpXj), be inspired by the pursuit of exceptional and ambitious works.
+- 👉 [Cartoon Pitch Pro](https://www.google.com/url?q=https://cartoonpitchpro.com/animation-pitch-bible-guide/&sa=D&source=editors&ust=1759597865560721&usg=AOvVaw1d6vH_QRQZrZhmzxdnNDWe) has articles that cover a few aspects about how to prepare, develop, and present your concept.
+- 👉 [Story Structure](https://www.google.com/url?q=https://docs.google.com/document/d/1rGz_BohuHWlEOWjAt_jrlSuqW6xHNco5efrVxSMGvN0/edit?usp%3Dsharing&sa=D&source=editors&ust=1759597865560944&usg=AOvVaw0oDFgp5TvTvNCJVxOP8zxT) is a breakdown on all the things to consider when crafting your characters and plots.
+- 👉 [Write for Animation](https://www.google.com/url?q=https://docs.google.com/document/d/1rGz_BohuHWlEOWjAt_jrlSuqW6xHNco5efrVxSMGvN0/edit?usp%3Dsharing&sa=D&source=editors&ust=1759597865561174&usg=AOvVaw1VAsk6UZZVBNhoGPQYhqpT) is a channel that dives into storytelling and development for animated films and series.
+- 👉 [Sample scripts](https://www.google.com/url?q=https://drive.google.com/drive/folders/1sQVQ5IJeRZV95r5Fiew6Cwsf6jK8Naj2?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865561390&usg=AOvVaw0DazsBAVw9n4zelvndKQpE) and various materials on structure, formatting, pitching, and creating writing guides.
+- 👉 [Big list](https://www.google.com/url?q=http://thecharacterchick.tumblr.com/post/126866334180/your-characters-personality&sa=D&source=editors&ust=1759597865561596&usg=AOvVaw0dkMH7-PNIiioXA8_VOMSd) of in-depth character personalities, motivations and traits.
+- 👉 [Informative interviews](https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/1S-kOUX0YrSqEPE8BgRUAklNWB5360GopGKCFtNxf9a0/edit?gid%3D0%23gid%3D0&sa=D&source=editors&ust=1759597865561802&usg=AOvVaw3O2q7lYxM-o_tt1ESsJ5-R) from experienced artists and creators in the animation industry.
+- 👉 Study the use of [tropes](https://www.google.com/url?q=https://youtu.be/lLcM9mh9sic?t%3D10&sa=D&source=editors&ust=1759597865561980&usg=AOvVaw17T3g1iRoTD7lCZmc5PXDA), this is a storytelling convention used as a shortcut for describing [situations](https://www.google.com/url?q=https://youtu.be/C1GquS_dPaQ&sa=D&source=editors&ust=1759597865562111&usg=AOvVaw1p9EwLbJzyG6m_Lz9AJJya) the writer can reasonably assume the audience will recognize.
+- 👉 Brandon McNulty has a growing list of video essays that covers themes, conflict, narrative structure, advice on writing dialogue, creating dynamic & memorable characters, and many more interesting topics on [his channel](https://www.google.com/url?q=https://www.youtube.com/playlist?list%3DPL485VkV9KDCOFJEIiy6tsaN7WGWJrg0jf&sa=D&source=editors&ust=1759597865562473&usg=AOvVaw0tZoreR9tzDAD9bsBdGI8-).
+- 👉 You essentially become the [producer](https://www.google.com/url?q=https://youtu.be/WYTXDqsky0k&sa=D&source=editors&ust=1759597865562622&usg=AOvVaw0B0EeFhDx4DxmBGkZRHzSm) for your own series/film when creating and developing your own concept, and by doing so, you must learn all you can about the animation [process](https://www.google.com/url?q=https://youtu.be/isIoa-IND0s?t%3D9&sa=D&source=editors&ust=1759597865562793&usg=AOvVaw1IoelEeSzjTscCb24eC6r2).
+- 👉 Olan Rogers has comprehensive and unique guides for how to develop your own animated series with entertaining insight and strategies on [his channel](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DLn8H4Vyq2XY%26list%3DPLMMQjv6sWkBAee_pXPj_r8BxbcSJ1LSM9%26ab_channel%3DOlanRogers&sa=D&source=editors&ust=1759597865563059&usg=AOvVaw2MkOS-jmgL_HZTkdhELhiD).
 
-👉 [Secret Guide: Developing Kids' Animated Comedy
-Series](https://www.google.com/url?q=https://drive.google.com/file/d/1FKiSpkKnLLc5vGBfn7BdddGxuXnZvFJE/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865555932&usg=AOvVaw2oQ-uzMSFnEP-VsdGXVCQL)
-
-👉 [Animation Development From Pitch to
-Production](https://www.google.com/url?q=https://drive.google.com/file/d/1Vq4L5gFMgBv5Vyc4bkaws47RDYQiz7Ll/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865556086&usg=AOvVaw2bBecjjAqWE0VVrWI6flsX)
-
-👉 [The Storyteller's Handbook for
-Animation](https://www.google.com/url?q=https://drive.google.com/file/d/1G94OwN6RZ5iCdAD7uw_TLPxziyoZcUyI/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865556226&usg=AOvVaw2Rg5Nu7nc2GHfo1GrGtONy)
-
-👉 [TV Animation Writing
-Resources](https://www.google.com/url?q=https://docs.google.com/document/d/1Oep942kkGEzhTc3c7sL9UAMjHy59Wm4sHcPW3AWdBSg/edit?usp%3Dsharing&sa=D&source=editors&ust=1759597865556364&usg=AOvVaw2f9L7mO3OaVwB4-lGyYfDV)
-
-👉 [Character Development
-Resources](https://www.google.com/url?q=https://docs.google.com/document/d/10XjYsQnoz0B1Y805jLAOfZ_IPIUnd3kaetiHvkgZihI/edit?usp%3Dsharing&sa=D&source=editors&ust=1759597865556499&usg=AOvVaw00iEy3Tt_GjleW24EEd6MD)
-
-👉 [How To Pitch & Sell An Animated
-Series](https://www.google.com/url?q=https://docs.google.com/document/d/1GSJHeNyjTu7bBJwYJF-POPNTpjTr4swVj8_n6wQlkgo/edit?usp%3Dsharing&sa=D&source=editors&ust=1759597865556641&usg=AOvVaw2QwrMItmcCtRZnNTmP6ZTZ)
-
-👉 [Samples of Pitch
-Packages](https://www.google.com/url?q=https://drive.google.com/drive/folders/1kmT02TwT9tb2fCO-Eko1DKyHaMQvv5-T?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865556767&usg=AOvVaw3iXlRjhn90ORZcYmwT-dvW)
-
-👉 [How to Start World
-Building](https://www.google.com/url?q=https://youtu.be/Tfe6cNlrG0c&sa=D&source=editors&ust=1759597865556905&usg=AOvVaw0QuizdnCLkPyBaIznYarxi)
-
-👉 [World Building
-Tips](https://www.google.com/url?q=https://youtu.be/sfcgw2zWVFY&sa=D&source=editors&ust=1759597865556997&usg=AOvVaw1vU9CFsejao0ZI6DReWryG)
-
-👉 [World Building and
-Storytelling](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DLoqInYFWmpU%26ab_channel%3DAnimationHustle&sa=D&source=editors&ust=1759597865557117&usg=AOvVaw1nH57sFW3BarAf1pEjdvY7)
-
-👉 [World Building
-Advice](https://www.google.com/url?q=https://youtu.be/AnUNXcKnF_8?t%3D165&sa=D&source=editors&ust=1759597865557218&usg=AOvVaw3UYmOHLhz1HH80KtuzY5Is)
-
-👉 [Character
-Motivations](https://www.google.com/url?q=https://docs.google.com/document/d/1zRKUbwYosRuIiZTTyQJlwM_ww0qxXG8v4worF4Zt_RU/edit?usp%3Dsharing&sa=D&source=editors&ust=1759597865557343&usg=AOvVaw1qDZKdqNQZJ8PBfIaNUMy2)
-
-👉 [Writing an
-Outline](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DRGOhn-nHQqo&sa=D&source=editors&ust=1759597865557443&usg=AOvVaw0Se0BGKYq4rU7LtoDrOIg3)
-
-👉 [Writing a
-Pilot](https://www.google.com/url?q=https://youtu.be/y3pUbawWCyM&sa=D&source=editors&ust=1759597865557532&usg=AOvVaw24Gh1Q7vfwcWIq6NTAEPEi)
-
-👉 [Writing for
-Animation](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DyM5YaS4eso4%26ab_channel%3DNicktoons&sa=D&source=editors&ust=1759597865557638&usg=AOvVaw3xi0v2PXfASVb9sD4QF_Qt)
-
-👉 [Writing with Authenticity and
-Honesty](https://www.google.com/url?q=https://www.youtube.com/@writeforanimation/videos&sa=D&source=editors&ust=1759597865557759&usg=AOvVaw0i0102n1wyXMuN7XyaSUmK)
-
-👉 [The Secret to Character
-Arcs](https://www.google.com/url?q=https://jerichowriters.com/character-arcs/&sa=D&source=editors&ust=1759597865557916&usg=AOvVaw2_7bVi6wr1xoiBpG3w4EU4)
-
-👉 [Dan Harmon's Story
-Circle](https://www.google.com/url?q=https://docs.google.com/document/d/14STXovnUP7Kw0zSVU_f0TjbeZfuWjFGahDSmUCZWxwo/edit?usp%3Dsharing&sa=D&source=editors&ust=1759597865558048&usg=AOvVaw1s5wat0EhMx31t66AcdLYu)
-
-👉 [Robert Mckee's Principles of
-Screenwriting](https://www.google.com/url?q=https://drive.google.com/file/d/1bFtscT1KoPeQem5CNeO8b9_L8Qpzz7xu/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865558192&usg=AOvVaw2jPjQljABAoxF-NuWwT3Qh)
-
-👉 [John Truby's Anatomy of
-Story](https://www.google.com/url?q=https://drive.google.com/file/d/18mW7-B0n4MseRCtyXp5QLDtJR_Lsv6t3/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865558315&usg=AOvVaw3wc_cwFbCpmciZlhbt5itq)
-
-👉 [Creating Character
-Arcs](https://www.google.com/url?q=https://drive.google.com/file/d/12FuSaogns2tuyGAmSPs1WTO_odp2hIKC/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865558480&usg=AOvVaw0kyXE8DeKLRZswaXixtP-V)
-
-👉 [Types of Traits to Instill in Your
-Characters](https://www.google.com/url?q=https://lets-get-fictional.tumblr.com/post/161980721393/hey-youre-awesome-thanks-for-existing&sa=D&source=editors&ust=1759597865558629&usg=AOvVaw1FcxMFX_YfokQXVWW8drv8)
-
-👉 [Building Characters with Core Values and
-Flaws](https://www.google.com/url?q=https://docs.google.com/document/d/1YdAJty4VkFzxEJ2xhPGqUtoyLu_usk8MwROT7vCdzMU/edit?usp%3Dsharing&sa=D&source=editors&ust=1759597865558776&usg=AOvVaw2M_lBy10xrtWbsJJxRW-aZ)
-
-👉 [How to Develop Their
-Personality](https://www.google.com/url?q=https://thecharacterchick.tumblr.com/post/126866334180/your-characters-personality&sa=D&source=editors&ust=1759597865558907&usg=AOvVaw0VXyKJYyEVYMVgDmMt2vTF)
-
-👉 [Character Development Questions to
-Ask](https://www.google.com/url?q=https://www.masterclass.com/articles/character-development-questions-to-ask-your-characters&sa=D&source=editors&ust=1759597865559048&usg=AOvVaw0llnVHtp5cgQFmdKB4sWre)
-
-👉 [A Comprehensive Guide to
-Screenwriting](https://www.google.com/url?q=https://drive.google.com/file/d/1ZMLuJebe4a4zFQsH9RNJbkKx2ng1P8ZU/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865559213&usg=AOvVaw0q4WanGS-tJSaQD9u1ys8T)
-
-👉 [Animation Writing and
-Development](https://www.google.com/url?q=https://drive.google.com/file/d/1ziVIt8xqXeENyMUPSC9mDWmL5QyUyAp_/view?usp%3Dsharing&sa=D&source=editors&ust=1759597865559345&usg=AOvVaw2XNhK4G8kuDsErM7Co4gVR)
-
-👉 [Resources for Character
-Creation](https://www.google.com/url?q=http://bookandslugclub.tumblr.com/post/124011497252/resource-dump-creating-characters-primary&sa=D&source=editors&ust=1759597865559481&usg=AOvVaw2xggBXtcHbspWUZBvD_VHk)
-
-👉 [The Elements of Style by Strunk &
-White](https://www.google.com/url?q=https://drive.google.com/file/d/1kt5h3OJI8d4ynBXDyBu_1BmOFz7gbnQk/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865559620&usg=AOvVaw3fKiTkgsujo9GpVF7rlh3T)
-
-👉 [Sample Scripts from Animated
-Films](https://www.google.com/url?q=https://www.studiobinder.com/blog/animation-scripts/&sa=D&source=editors&ust=1759597865559738&usg=AOvVaw31XvoQTDs4lZ1c-J0aDAhb)
-
-👉 [StoryBeats and Why to Use
-Them](https://www.google.com/url?q=https://youtu.be/1zVpAKnXCB0&sa=D&source=editors&ust=1759597865559856&usg=AOvVaw1CtYBgnyPVktIIZisdEbAf)
-
-👉 [The Art of Evolution of Animation
-Layout](https://www.google.com/url?q=https://drive.google.com/file/d/13iY8_1igbXSAhLAaHfHkkPHJI0MLEMNH/view?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865559992&usg=AOvVaw0W40ulwx3e0CSyqqa-57-i)
-
-👉 [Samples of Storyboards for Animated
-Series](https://www.google.com/url?q=https://drive.google.com/drive/folders/1PHSb7JpzoshSH39zbdNWRS_Z6hFaqS09?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865560136&usg=AOvVaw1eqi2YECq7uSN1U8CFxkyd)
-
-👉 [Pixar in a
-Box](https://www.google.com/url?q=https://www.khanacademy.org/computing/pixar/storytelling&sa=D&source=editors&ust=1759597865560262&usg=AOvVaw0brK6WkC7IqdaqnX137VlG)
-has all a bunch of chapters containing short videos showcasing artists
-and directors going through theories and lessons on visual language,
-story structure, and character development.
-
-👉 [Creativity
-tips](https://www.google.com/url?q=https://youtu.be/_cRFCayhzfM&sa=D&source=editors&ust=1759597865560540&usg=AOvVaw3gd2tKnXZKqSZAclBozpXj),
-be inspired by the pursuit of exceptional and ambitious works.
-
-👉 [Cartoon Pitch
-Pro](https://www.google.com/url?q=https://cartoonpitchpro.com/animation-pitch-bible-guide/&sa=D&source=editors&ust=1759597865560721&usg=AOvVaw1d6vH_QRQZrZhmzxdnNDWe)
-has articles that cover a few aspects about how to prepare, develop, and
-present your concept.
-
-👉 [Story
-Structure](https://www.google.com/url?q=https://docs.google.com/document/d/1rGz_BohuHWlEOWjAt_jrlSuqW6xHNco5efrVxSMGvN0/edit?usp%3Dsharing&sa=D&source=editors&ust=1759597865560944&usg=AOvVaw0oDFgp5TvTvNCJVxOP8zxT)
-is a breakdown on all the things to consider when crafting your
-characters and plots.
-
-👉 [Write for
-Animation](https://www.google.com/url?q=https://docs.google.com/document/d/1rGz_BohuHWlEOWjAt_jrlSuqW6xHNco5efrVxSMGvN0/edit?usp%3Dsharing&sa=D&source=editors&ust=1759597865561174&usg=AOvVaw1VAsk6UZZVBNhoGPQYhqpT)
-is a channel that dives into storytelling and development for animated
-films and series.
-
-👉 [Sample
-scripts](https://www.google.com/url?q=https://drive.google.com/drive/folders/1sQVQ5IJeRZV95r5Fiew6Cwsf6jK8Naj2?usp%3Ddrive_link&sa=D&source=editors&ust=1759597865561390&usg=AOvVaw0DazsBAVw9n4zelvndKQpE)
-and various materials on structure, formatting, pitching, and creating
-writing guides.
-
-👉 [Big
-list](https://www.google.com/url?q=http://thecharacterchick.tumblr.com/post/126866334180/your-characters-personality&sa=D&source=editors&ust=1759597865561596&usg=AOvVaw0dkMH7-PNIiioXA8_VOMSd)
-of in-depth character personalities, motivations and traits.
-
-👉 [Informative
-interviews](https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/1S-kOUX0YrSqEPE8BgRUAklNWB5360GopGKCFtNxf9a0/edit?gid%3D0%23gid%3D0&sa=D&source=editors&ust=1759597865561802&usg=AOvVaw3O2q7lYxM-o_tt1ESsJ5-R)
-from experienced artists and creators in the animation industry.
-
-👉 Study the use of
-[tropes](https://www.google.com/url?q=https://youtu.be/lLcM9mh9sic?t%3D10&sa=D&source=editors&ust=1759597865561980&usg=AOvVaw17T3g1iRoTD7lCZmc5PXDA),
-this is a storytelling convention used as a shortcut for describing
-[situations](https://www.google.com/url?q=https://youtu.be/C1GquS_dPaQ&sa=D&source=editors&ust=1759597865562111&usg=AOvVaw1p9EwLbJzyG6m_Lz9AJJya)
-the writer can reasonably assume the audience will recognize.
-
-👉 Brandon McNulty has a growing list of video essays that covers themes,
-conflict, narrative structure, advice on writing dialogue, creating
-dynamic & memorable characters, and many more interesting topics on [his
-channel](https://www.google.com/url?q=https://www.youtube.com/playlist?list%3DPL485VkV9KDCOFJEIiy6tsaN7WGWJrg0jf&sa=D&source=editors&ust=1759597865562473&usg=AOvVaw0tZoreR9tzDAD9bsBdGI8-).
-
-👉 You essentially become the
-[producer](https://www.google.com/url?q=https://youtu.be/WYTXDqsky0k&sa=D&source=editors&ust=1759597865562622&usg=AOvVaw0B0EeFhDx4DxmBGkZRHzSm)
-for your own series/film when creating and developing your own concept,
-and by doing so, you must learn all you can about the animation
-[process](https://www.google.com/url?q=https://youtu.be/isIoa-IND0s?t%3D9&sa=D&source=editors&ust=1759597865562793&usg=AOvVaw1IoelEeSzjTscCb24eC6r2).
-
-👉 Olan Rogers has comprehensive and unique guides for how to develop
-your own animated series with entertaining insight and strategies on
-[his
-channel](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DLn8H4Vyq2XY%26list%3DPLMMQjv6sWkBAee_pXPj_r8BxbcSJ1LSM9%26ab_channel%3DOlanRogers&sa=D&source=editors&ust=1759597865563059&usg=AOvVaw2MkOS-jmgL_HZTkdhELhiD).
-
-Here\'s advice from Aaron Ehasz, the head writer of Avatar The Last
-Airbender, for all aspiring writers and character creators:
+Here\'s advice from Aaron Ehasz, the head writer of _Avatar The Last Airbender_, for all aspiring writers and character creators:
 
 ![image](./images/unnamed_1057.png)
 
-For more information about how to develop and pitch your own animated
-show, read through [Emily Brundige's
-book](https://www.google.com/url?q=https://www.emilybrundige.com/&sa=D&source=editors&ust=1759597865563483&usg=AOvVaw0KTXU-gyszkBwnerl4HIkt),
-she skillfully details how to push and expand upon the idea you have,
-how to think about the extrapolating of your concept, and refining your
-property so you know who your show is for. She covers how to explain the
-driving force behind your story engine, the mechanics of the writing
-process and how to sell your idea to the people you need to convince to
-help you fund your production.
+For more information about how to develop and pitch your own animated show, read through [Emily Brundige's book](https://www.google.com/url?q=https://www.emilybrundige.com/&sa=D&source=editors&ust=1759597865563483&usg=AOvVaw0KTXU-gyszkBwnerl4HIkt), she skillfully details how to push and expand upon the idea you have, how to think about the extrapolating of your concept, and refining your property so you know who your show is for. She covers how to explain the driving force behind your story engine, the mechanics of the writing process and how to sell your idea to the people you need to convince to help you fund your production.
 
 ![image](./images/unnamed_017.jpg)
 
-Story Structure gets complicated to master, here\'s some strategies to
-start with:
+Story Structure gets complicated to master, here\'s some strategies to start with:
 
-\(1\) Tell a great story
+1. Tell a great story
+   - This is easier said than done. But nothing matters if you don't have a great story worth telling. A tale you are passionate about. A screenplay worthy of your creativity and devotion.
+2. Master the format
+   - Anyone can learn the industry standard for margins &amp; overall structure of a screenplay. However, you have to master the subtleties of white space, slug lines, page counts &amp; more. Not to mention the constant threat of spelling mistakes and grammatical errors. Mastering the format liberates your screenplay of distractions and leaves only the story.
+3. No stage directions
+   - You are not the director. Leave out camera shots &amp; notes for actors. If something must be seen then skillfully describe it.
+4. Show, don't tell
+   - The story is revealed through actions and characters. Your exposition shouldn't be obvious to the reader. Show don't tell.
+5. Get in late, get out early
+   - This rule applies to your entire screenplay but also to individual scenes. Cut out the excess and keep your story focused on what matters most.
+6. Know your audience
+   - Never lose sight of who you are writing for even if it's yourself. Every screenplay should be a perfect match for the audience it's intended for.
+7. Create obstacles
+   - Nothing should be easy for your characters. Put them through hell so people will care when (and if) they succeed. There is no suspense without obstacles and avoid cheating by giving them convenient escapes.
+8. Clarity
+   - Every sentence should communicate an idea (or more than one idea) and it should be crystal clear. Only you can describe what your screenplay is about. Show people the exciting moments that previously existed only in your imagination. Be clear about your character\'s motivations and immerse the reader in your world.
+9. Your world, your characters
+   - If you don't have the answers, how can you ask the questions that drive your screenplay? What is your world like? Where did your characters come from? What is your story about?
+10. Less is more
+    - Nearly every rule in this list is related to this rule in some way. Writing with clarity requires a simplification of descriptions. Hiding exposition can sometimes require dialogue to be rewritten and often shortened. Getting into your scenes late and out often, using white space effectively and rewrites in general all point to this one rule. Less is more. Keep it in mind at all times. Make every single word matter and eliminate the ones that slow your screenplay down.
+11. Write what you know
+    - Writing what you know doesn't necessarily mean you have to write only what you've lived. On the other hand, if you don't know anything about sharks and want to write about sharks... Maybe you should go swim with some sharks! Research is key. A screenwriter is a student of life. Seek out the answers to better inform your story. You have to know every detail.
+12. Have something to say
+    - You've got a great story, vivid characters and your structure is perfect. You still can't take your screenplay to the next level unless you have something to say. What does your story mean? What is it truly about? You have to know the answers to these questions and build them into every page.
+13. Entertain
+    - Above all else, your screenplay has to be entertaining. When reading each and every scene in your movie ask yourself one question: Is this entertaining? If the answer is no or not really then you've got some work to do.
 
-This is easier said than done. But nothing matters if you don't have a
-great story worth telling. A tale you are passionate about. A screenplay
-worthy of your creativity and devotion.
+- **Create a Compelling Narrative**
 
-\(2\) Master the format
+  - Show, Don\'t Tell: Don\'t tell the audience that your character is great; show it through their actions and reactions to challenges.
+  - Sympathetic vs. Admirable: Focus on making your character engaging and understandable, not just admirable and perfect.
+  - Balance Strengths and Weaknesses: Give them genuine strengths but also show what they can\'t do, and ensure their skills have a logical explanation.
+  - Avoid universal love: It\'s unrealistic for every character in a story to be head-over-heels for the protagonist. Ensure there are characters who are neutral or even dislike them, which adds depth and realism.
 
-Anyone can learn the industry standard for margins &amp; overall
-structure of a screenplay. However, you have to master the subtleties of
-white space, slug lines, page counts &amp; more. Not to mention the
-constant threat of spelling mistakes and grammatical errors. Mastering
-the format liberates your screenplay of distractions and leaves only the
-story.
+- Give Your Character Real Flaws
+  - Imperfections: Instead of \"cute\" flaws like clumsiness, give your character significant, relatable flaws, such as impatience, impulsiveness, or a specific bias.
+  - Struggle and Failure: A truly perfect character is boring and unrelatable. Let your character fail, face setbacks, and even question their own abilities, which makes their triumphs more earned.
+  - Consequences: Don\'t let your character get away with everything. Their mistakes should have tangible, realistic consequences that force them to learn and grow.
+  - A Mary Sue is the nickname given to a character that is unrealistically perfect, typically an idealized female, who possesses no significant flaws, lacks meaningful weaknesses, and is exceptionally skilled in every area. These characters are often criticized as being unrealistic, embodying authorial wish-fulfillment or self-insertion, and existing solely to serve the plot rather than growing through challenges. The male counterpart is known as a Gary Stu or Marty Stu.
+  - To avoid writing a Mary Sue, give your character genuine flaws, allow them to fail, make them work for their goals, and avoid making them the perfect, universally beloved center of the story. Ground them in a realistic personality with specific likes and dislikes, provide a believable backstory that informs their motivations, and ensure characters who disagree with them are not automatically bad.
 
-\(3\) No stage directions
-
-You are not the director. Leave out camera shots &amp; notes for actors.
-If something must be seen then skillfully describe it.
-
-\(4\) Show, don't tell
-
-The story is revealed through actions and characters. Your exposition
-shouldn't be obvious to the reader. Show don't tell.
-
-\(5\) Get in late, get out early
-
-This rule applies to your entire screenplay but also to individual
-scenes. Cut out the excess and keep your story focused on what matters
-most.
-
-\(6\) Know your audience
-
-Never lose sight of who you are writing for even if it's yourself. Every
-screenplay should be a perfect match for the audience it's intended for.
-
-\(7\) Create obstacles
-
-Nothing should be easy for your characters. Put them through hell so
-people will care when (and if) they succeed. There is no suspense
-without obstacles and avoid cheating by giving them convenient escapes.
-
-\(8\) Clarity
-
-Every sentence should communicate an idea (or more than one idea) and it
-should be crystal clear. Only you can describe what your screenplay is
-about. Show people the exciting moments that previously existed only in
-your imagination. Be clear about your character\'s motivations and
-immerse the reader in your world.
-
-\(9\) Your world, your characters
-
-If you don't have the answers, how can you ask the questions that drive
-your screenplay? What is your world like? Where did your characters come
-from? What is your story about?
-
-\(10\) Less is more
-
-Nearly every rule in this list is related to this rule in some way.
-Writing with clarity requires a simplification of descriptions. Hiding
-exposition can sometimes require dialogue to be rewritten and often
-shortened. Getting into your scenes late and out often, using white
-space effectively and rewrites in general all point to this one rule.
-Less is more. Keep it in mind at all times. Make every single word
-matter and eliminate the ones that slow your screenplay down.
-
-\(11\) Write what you know
-
-Writing what you know doesn't necessarily mean you have to write only
-what you've lived. On the other hand, if you don't know anything about
-sharks and want to write about sharks... Maybe you should go swim with
-some sharks! Research is key. A screenwriter is a student of life. Seek
-out the answers to better inform your story. You have to know every
-detail.
-
-\(12\) Have something to say
-
-You've got a great story, vivid characters and your structure is
-perfect. You still can't take your screenplay to the next level unless
-you have something to say. What does your story mean? What is it truly
-about? You have to know the answers to these questions and build them
-into every page.
-
-\(13\) Entertain
-
-Above all else, your screenplay has to be entertaining. When reading
-each and every scene in your movie ask yourself one question: Is this
-entertaining? If the answer is no or not really then you've got some
-work to do.
-
-Create a Compelling Narrative
-
-- Show, Don\'t Tell: Don\'t tell the audience that your character is
-  great; show it through their actions and reactions to challenges.
-- Sympathetic vs. Admirable: Focus on making your character engaging
-  and understandable, not just admirable and perfect.
-- Balance Strengths and Weaknesses: Give them genuine strengths but
-  also show what they can\'t do, and ensure their skills have a
-  logical explanation.
-- Avoid universal love: It\'s unrealistic for every character in a
-  story to be head-over-heels for the protagonist. Ensure there are
-  characters who are neutral or even dislike them, which adds depth
-  and realism.
-
-Give Your Character Real Flaws
-
-- Imperfections: Instead of \"cute\" flaws like clumsiness, give your
-  character significant, relatable flaws, such as impatience,
-  impulsiveness, or a specific bias.
-- Struggle and Failure: A truly perfect character is boring and
-  unrelatable. Let your character fail, face setbacks, and even
-  question their own abilities, which makes their triumphs more
-  earned.
-- Consequences: Don\'t let your character get away with everything.
-  Their mistakes should have tangible, realistic consequences that
-  force them to learn and grow.
-
-- A Mary Sue is the nickname given to a character that is
-  unrealistically perfect, typically an idealized female, who
-  possesses no significant flaws, lacks meaningful weaknesses, and is
-  exceptionally skilled in every area. These characters are often
-  criticized as being unrealistic, embodying authorial
-  wish-fulfillment or self-insertion, and existing solely to serve the
-  plot rather than growing through challenges. The male counterpart is
-  known as a Gary Stu or Marty Stu.
-- To avoid writing a Mary Sue, give your character genuine flaws,
-  allow them to fail, make them work for their goals, and avoid making
-  them the perfect, universally beloved center of the story. Ground
-  them in a realistic personality with specific likes and dislikes,
-  provide a believable backstory that informs their motivations, and
-  ensure characters who disagree with them are not automatically bad.
-
-Developing an animated show involves several key stages, from initial
-concept to final production. This includes brainstorming ideas, crafting
-a compelling story, designing characters and environments, and finally,
-creating the animation itself. Effective development also requires a
-strong understanding of animation principles, storytelling techniques,
-and the various stages of the production pipeline.
+Developing an animated show involves several key stages, from initial concept to final production. This includes brainstorming ideas, crafting a compelling story, designing characters and environments, and finally, creating the animation itself. Effective development also requires a strong understanding of animation principles, storytelling techniques, and the various stages of the production pipeline.
 
 Here\'s a breakdown of the process...
 
-1\. Ideation and Story Development:
-
-- Brainstorming:\
-  Generate a wide range of ideas, focusing on unique concepts,
-  relatable characters, and engaging storylines.
-- Research and Pre-Production:\
-  Conduct thorough research to refine your ideas, explore potential
-  audiences, and develop a strong premise.
-- Story Structure:\
-  Outline the narrative, including a clear beginning, rising action,
-  climax, falling action, and resolution.
-- Character Development:\
-  Create compelling and memorable characters with distinct
-  personalities, motivations, and relationships.
-- Worldbuilding:\
-  Design the visual and thematic world of your show, including its
-  environment, atmosphere, and overall aesthetic.
-
-2\. Pre-Production:
-
-- Scriptwriting:\
-  Develop a detailed script that outlines the dialogue, action, and
-  visual elements of each scene.
-- Concept Art and Character Design:\
-  Create visual representations of your characters and key locations.
-- Storyboard:\
-  Translate the script into a visual sequence, using panels to map out
-  the action, camera angles, and shot compositions.
-- Animatic:\
-  Assemble the storyboard panels into a rough animation, adding
-  preliminary sound and voice acting to test the flow and timing of
-  the show.
-
-3\. Production:
-
-- Animation:\
-  Bring the characters and scenes to life, using 2D or 3D animation
-  techniques, or stop-motion animation.
-- Backgrounds & FX:
-- The environments, sets, visual effects, and props that surround the
-  characters and the characters interact with help to make the world
-  they're in and tell the story that they are involved with even
-  further in more believable and tactical ways.
-- Sound Design:\
-  Add sound effects, music, and voice acting to enhance the visual
-  experience and create a more immersive world.
-- Compositing and Editing:\
-  Combine all the animated elements, sound, and visual effects to
-  create the final product.
-
-5\. Distribution and Marketing:
-
-Pitching:
-
-Develop a compelling pitch to showcase your show to potential investors,
-networks, or distributors.
-
-Distribution:
-
-Explore various avenues for distributing your show, such as television,
-streaming platforms, or online video sharing websites.
-
-Marketing:
-
-Promote your show to build an audience and generate interest.
-
-Key Considerations:
-
-- Target Audience:\
-  Tailor your show\'s content, style, and tone to resonate with your
-  intended audience.
-- Animation Principles:\
-  Understand the fundamental principles of animation, such as timing,
-  spacing, squash and stretch, anticipation, performance, color
-  theory, art direction and how to add life to your characters through
-  movement and acting.
-- Production Pipeline:\
-  Familiarize yourself with the standard stages of animation
-  production and adapt them to your specific project. What style of
-  art direction and animation style best suits your world and story?
-  2D, 3D, Stop-motion, and how will the production design and
-  technical aspects be developed to match your concept.
-- Collaboration:\
-  Animation is often a very collaborative process, so be prepared to
-  work with other animators, writers, designers, and sound designers,
-  music composers and even people to manage your budgets, schedules
-  and talent resources.
--
+1. **Ideation and Story Development:**
+   - **Brainstorming:** Generate a wide range of ideas, focusing on unique concepts, relatable characters, and engaging storylines.
+   - **Research and Pre-Production:** Conduct thorough research to refine your ideas, explore potentia audiences, and develop a strong premise.
+   - **Story Structure:** Outline the narrative, including a clear beginning, rising action, climax, falling action, and resolution.
+   - **Character Development:** Create compelling and memorable characters with distinct personalities, motivations, and relationships.
+   - **Worldbuilding:** Design the visual and thematic world of your show, including its environment, atmosphere, and overall aesthetic.
+2. **Pre-Production:**
+   - **Scriptwriting:** Develop a detailed script that outlines the dialogue, action, and visual elements of each scene.
+   - **Concept Art and Character Design:** Create visual representations of your characters and key locations.
+   - **Storyboard:** Translate the script into a visual sequence, using panels to map out the action, camera angles, and shot compositions.
+   - **Animatic:** Assemble the storyboard panels into a rough animation, adding preliminary sound and voice acting to test the flow and timing of the show.
+3. **Production:**
+   - **Animation:** Bring the characters and scenes to life, using 2D or 3D animation techniques, or stop-motion animation.
+   - **Backgrounds & FX:** The environments, sets, visual effects, and props that surround the characters and the characters interact with help to make the world they're in and tell the story that they are involved with even further in more believable and tactical ways.
+   - **Sound Design:** Add sound effects, music, and voice acting to enhance the visual experience and create a more immersive world.
+   - **Compositing and Editing:** Combine all the animated elements, sound, and visual effects to create the final product.
+4. **Distribution and Marketing:**
+   - **Pitching:** Develop a compelling pitch to showcase your show to potential investors, networks, or distributors.
+   - **Distribution:** Explore various avenues for distributing your show, such as television, streaming platforms, or online video sharing websites.
+   - **Marketing:** Promote your show to build an audience and generate interest.
+5. **Key Considerations:**
+   - **Target Audience:** Tailor your show\'s content, style, and tone to resonate with your intended audience.
+   - **Animation Principles:** Understand the fundamental principles of animation, such as timing, spacing, squash and stretch, anticipation, performance, color theory, art direction and how to add life to your characters through movement and acting.
+   - **Production Pipeline:** Familiarize yourself with the standard stages of animation production and adapt them to your specific project. What style of art direction and animation style best suits your world and story? 2D, 3D, Stop-motion, and how will the production design and technical aspects be developed to match your concept.
+   - **Collaboration:** Animation is often a very collaborative process, so be prepared to work with other animators, writers, designers, and sound designers, music composers and even people to manage your budgets, schedules and talent resources.
 
 ![image](./images/unnamed_257.jpg)
 
-"Your authentic voice as a storyteller is the most important thing
-you've got." - Alex Haley, writer & author
+> "Your authentic voice as a storyteller is the most important thing you've got." - Alex Haley, writer & author
 
-Creating a Pitch
+#### Creating a Pitch
 
-1\. Break Down Your Concept
+1. **Break Down Your Concept**
+   - Logline: Create a concise one or two sentence summary of your series that captures its essence and hook.
+   - Synopsis: Write a brief overview of the series, including the main characters, setting, and overarching themes.
+   - Pilot Script: Prepare a polished pilot episode script, ideally 4 pages long for a 3 min series, or 8-9 pages long for a 7 min series, or 12-14 pages long for a 11 min series, or 24-28 pages long for a 22 min series. Showcasing your writing style and the tone of the series.
+2. Create Support Material
+   - **Series Bible** - Develop a detailed document that includes:
+     - Character descriptions
+     - Themes, motifs, and arcs
+     - Target audience and market analysis
+     - Episode summaries for the first season (and beyond, if applicable)
+   - **Visual Elements:** Consider including mood boards, concept art, or reference images that convey the visual style of the show, if possible - Designs for at least all the primary characters and environments.
+3. **Research and Networking**
+   - **Know Your Audience:** Understand what types of content the company you're pitching to is currently producing and what aligns with their brand.
+   - **Networking:** Connect with industry professionals, attend pitch festivals, or use platforms like LinkedIn to find contacts at the company you're pitching to or their production partners.
+4. **Craft Your Pitch**
+   - **Elevator Pitch:** Prepare a short, engaging pitch that you can deliver quickly. Focus on the unique aspects of your series. Practice how to summarize the entire world, characters, and main themes in a speech, under a minute long.
+   - **Full Pitch Presentation** - Be ready to present your series in detail. This would include:
+     - The logline and synopsis.
+     - Key themes and character dynamics.
+     - Why it fits with their current content strategy.
+     - Propose original and unique content - Your pitch should focus on fresh and original content. Netflix seeks distinctive narratives that stand out in the saturated market of streaming content. Demonstrate broad appeal and niche interest: Make your content appealing to a wide audience while catering to specific interests.
+   - **Practice:** Rehearse your pitch multiple times to ensure clarity and confidence.
+5. **Find the Right Contacts**
+   - **Representation:** It's often beneficial to have an agent or manager with connections in the industry. They can help you navigate the submission process. Eventually, you may be asked for a Chain of Title and a Certificate of Origin, this is the least fun aspect of the whole process. These are the assets that prove that YOU are the author/artist of this original intellectual property. [Research](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D_JNWfkRywQ8%26ab_channel%3DJ.HortonFilms&sa=D&source=editors&ust=1759597865577916&usg=AOvVaw2mZpkZrAQtllXdxdqMqjEp) how to produce and collect these materials, as the people you are pitching to will need evidence that this is indeed your concept if they wish to proceed with developing the concept further with you.
+   - **Direct Submissions:** If you don't have representation, research if they have a formal submission process or look for opportunities through contests or industry events.​​ Often the company won't accept unsolicited pitch submissions, unless there's a contest or online submission process on their sites to go through. If you can't find a way to contact an executive directly, you will need to find an entertainment lawyer or agent to represent you - Research reputable literary agencies and entertainment law firms, and reach out to them with a query letter introducing yourself and your project. Attend industry events and conferences to network and make connections with professionals who may be able to represent you or refer you to others.
+     - [How To Pitch Your Show](https://www.google.com/url?q=https://robinpiree.com/blog/how-to-pitch-a-show-to-netflix&sa=D&source=editors&ust=1759597865578934&usg=AOvVaw1co6PRTf-JV9fLhvJqkMec)
+6. **Follow Up**
+   - After pitching, follow up with your contact (if applicable) to express gratitude and to keep the conversation going. Be professional and patient, as decisions can take time.
+7. **Be Open to Feedback**
+   - Be prepared to receive constructive criticism or suggestions for changes. Flexibility can be crucial in the development process. It's not very common to receive feedback, don't expect it, and no need to ask for it, they will give you advice if they feel the need.
+8. **Stay Informed & Be Authentic**
+   - Keep up with your broadcaster's content strategy and any announcements regarding their programming to tailor your pitch accordingly. Authenticity and passion for your project can resonate with decision-makers.
 
-- Logline: Create a concise one or two sentence summary of your series
-  that captures its essence and hook.
-- Synopsis: Write a brief overview of the series, including the main
-  characters, setting, and overarching themes.
-- Pilot Script: Prepare a polished pilot episode script, ideally 4
-  pages long for a 3 min series, or 8-9 pages long for a 7 min series,
-  or 12-14 pages long for a 11 min series, or 24-28 pages long for a
-  22 min series. Showcasing your writing style and the tone of the
-  series.
+#### Pitching Summary
 
-2\. Create Support Material
+Pitching a series takes lots of preparation, research, and networking. By presenting a well-developed concept and demonstrating an understanding of that producer's vision or studio's content vision, you can increase your chances of success. When pitching a TV series keep in mind that you are pitching a \"world\". A world in which there are an endless amount of stories to be told. Then you get to enter a mini-production phase, to make a sizzle reel, or [teaser,](https://www.google.com/url?q=https://youtu.be/a6ovfaMkv80&sa=D&source=editors&ust=1759597865580272&usg=AOvVaw0BjOwHs31rO-dZdX_pJ5ci) or [short pilot](https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dn-7NyFkdMbs%26ab_channel%3DTipTut&sa=D&source=editors&ust=1759597865580346&usg=AOvVaw0ev1oJm2FUKYTvafwB6TJB) of your fully [realized idea](https://www.google.com/url?q=https://fyeahfailedcartoonpilots.tumblr.com/index&sa=D&source=editors&ust=1759597865580431&usg=AOvVaw2CJQFK2J0fck8EuPmmg9bC) to test out how it looks and feels. Then that gets reviewed by executives, to see if the proof of concept is ready to go to full series, or if more development or changes need to happen. There's also the art of adapting an already-existing property to be re-made in animated form, that means you need to learn about [option agreements](https://www.google.com/url?q=https://www.youtube.com/shorts/SFf4Im_SXvg?feature%3Dshare&sa=D&source=editors&ust=1759597865580773&usg=AOvVaw2atwkEP_B-Qw-kvxU6eeS4).
 
-- Series Bible - Develop a detailed document that includes:
+Remember, they are more interested in YOU, than your actual idea. You must convince them that if your concept is green lit to go into production that YOU would be able to handle all the problem-solving aspects and any technical or creative obstacles that would come your way. They need to know that YOU would be able to handle the mountain of responsibility that comes with being the showrunner for your own series/film. They are not picking your idea because they think it's a strong idea for their next animated property. They are picking you because they believe YOU can develop and follow-through your concept into full production and successfully complete.
 
-- Character descriptions
-- Themes, motifs, and arcs
-- Target audience and market analysis
-- Episode summaries for the first season (and beyond, if applicable)
-
-- Visual Elements: Consider including mood boards, concept art, or
-  reference images that convey the visual style of the show, if
-  possible - Designs for at least all the primary characters and
-  environments.
-
-3\. Research and Networking
-
-- Know Your Audience: Understand what types of content the company
-  you're pitching to is currently producing and what aligns with their
-  brand.
-- Networking: Connect with industry professionals, attend pitch
-  festivals, or use platforms like LinkedIn to find contacts at the
-  company you're pitching to or their production partners.
-
-4\. Craft Your Pitch
-
-- Elevator Pitch: Prepare a short, engaging pitch that you can deliver
-  quickly. Focus on the unique aspects of your series. Practice how to
-  summarize the entire world, characters, and main themes in a speech,
-  under a minute long.
-- Full Pitch Presentation - Be ready to present your series in detail.
-  This would include:
-
-- The logline and synopsis.
-- Key themes and character dynamics.
-- Why it fits with their current content strategy.
-- Propose original and unique content - Your pitch should focus on
-  fresh and original content. Netflix seeks distinctive narratives
-  that stand out in the saturated market of streaming content.
-  Demonstrate broad appeal and niche interest: Make your content
-  appealing to a wide audience while catering to specific interests.
-
-- Practice: Rehearse your pitch multiple times to ensure clarity and
-  confidence.
-
-5\. Find the Right Contacts
-
-- Representation: It's often beneficial to have an agent or manager
-  with connections in the industry. They can help you navigate the
-  submission process. Eventually, you may be asked for a Chain of
-  Title and a Certificate of Origin, this is the least fun aspect of
-  the whole process. These are the assets that prove that YOU are the
-  author/artist of this original intellectual property.
-  [Research](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D_JNWfkRywQ8%26ab_channel%3DJ.HortonFilms&sa=D&source=editors&ust=1759597865577916&usg=AOvVaw2mZpkZrAQtllXdxdqMqjEp)
-  how to produce and collect these materials, as the people you are
-  pitching to will need evidence that this is indeed your concept if
-  they wish to proceed with developing the concept further with you.
-- Direct Submissions: If you don't have representation, research if
-  they have a formal submission process or look for opportunities
-  through contests or industry events.​​ Often the company won't accept
-  unsolicited pitch submissions, unless there's a contest or online
-  submission process on their sites to go through. If you can't find a
-  way to contact an executive directly, you will need to find an
-  entertainment lawyer or agent to represent you - Research reputable
-  literary agencies and entertainment law firms, and reach out to them
-  with a query letter introducing yourself and your project. Attend
-  industry events and conferences to network and make connections with
-  professionals who may be able to represent you or refer you to
-  others.
-
-- [How To Pitch Your
-  Show](https://www.google.com/url?q=https://robinpiree.com/blog/how-to-pitch-a-show-to-netflix&sa=D&source=editors&ust=1759597865578934&usg=AOvVaw1co6PRTf-JV9fLhvJqkMec)
-
-6\. Follow Up
-
-- After pitching, follow up with your contact (if applicable) to
-  express gratitude and to keep the conversation going. Be
-  professional and patient, as decisions can take time.
-
-7\. Be Open to Feedback
-
-- Be prepared to receive constructive criticism or suggestions for
-  changes. Flexibility can be crucial in the development process. It's
-  not very common to receive feedback, don't expect it, and no need to
-  ask for it, they will give you advice if they feel the need.
-
-8\. Stay Informed & Be Authentic
-
-- Keep up with your broadcaster's content strategy and any
-  announcements regarding their programming to tailor your pitch
-  accordingly. Authenticity and passion for your project can resonate
-  with decision-makers.
-
-Summary:
-
-Pitching a series takes lots of preparation, research, and networking.
-By presenting a well-developed concept and demonstrating an
-understanding of that producer's vision or studio's content vision, you
-can increase your chances of success. When pitching a TV series keep in
-mind that you are pitching a \"world\". A world in which there are an
-endless amount of stories to be told. Then you get to enter a
-mini-production phase, to make a sizzle reel, or
-[teaser,](https://www.google.com/url?q=https://youtu.be/a6ovfaMkv80&sa=D&source=editors&ust=1759597865580272&usg=AOvVaw0BjOwHs31rO-dZdX_pJ5ci)
-or [short
-pilot](https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dn-7NyFkdMbs%26ab_channel%3DTipTut&sa=D&source=editors&ust=1759597865580346&usg=AOvVaw0ev1oJm2FUKYTvafwB6TJB)
-of your fully [realized
-idea](https://www.google.com/url?q=https://fyeahfailedcartoonpilots.tumblr.com/index&sa=D&source=editors&ust=1759597865580431&usg=AOvVaw2CJQFK2J0fck8EuPmmg9bC)
-to test out how it looks and feels. Then that gets reviewed by
-executives, to see if the proof of concept is ready to go to full
-series, or if more development or changes need to happen. There's also
-the art of adapting an already-existing property to be re-made in
-animated form, that means you need to learn about [option
-agreements](https://www.google.com/url?q=https://www.youtube.com/shorts/SFf4Im_SXvg?feature%3Dshare&sa=D&source=editors&ust=1759597865580773&usg=AOvVaw2atwkEP_B-Qw-kvxU6eeS4).
-
-Remember, they are more interested in YOU, than your actual idea. You
-must convince them that if your concept is green lit to go into
-production that YOU would be able to handle all the problem-solving
-aspects and any technical or creative obstacles that would come your
-way. They need to know that YOU would be able to handle the mountain of
-responsibility that comes with being the showrunner for your own
-series/film. They are not picking your idea because they think it's a
-strong idea for their next animated property. They are picking you
-because they believe YOU can develop and follow-through your concept
-into full production and successfully complete.
-
-"The currency of the modern age is authenticity." - Robert Myer Burnett
+> "The currency of the modern age is authenticity." - Robert Myer Burnett
 
 ![image](./images/unnamed_803.jpg)
 
 ### Epilogue
 
-That's it!
+#### That's it
 
-If you had fun doing the assignments (in the sense that it felt
-creative, informative, liberating, and not a chore to do) then this
-might be your calling. Keep pursuing this, keep pushing yourself, keep
-practicing, keep applying to animation or video game studios (even if
-they don't have job postings), and you'll soon find yourself earning a
-living doing this work. You can also create characters of your own, in
-your own style, and show the stages of progression in your online
-portfolio. Stay focused on your tasks and the growth of your skills.
-Stay committed to the work, and always remain devoted to the production
-you are in. Your efforts will pay off, the growth of your expertise and
-your value as an employee will rise the more you dedicate yourself to
-the craft!
+If you had fun doing the assignments (in the sense that it felt creative, informative, liberating, and not a chore to do) then this might be your calling. Keep pursuing this, keep pushing yourself, keep practicing, keep applying to animation or video game studios (even if they don't have job postings), and you'll soon find yourself earning a living doing this work. You can also create characters of your own, in your own style, and show the stages of progression in your online portfolio. Stay focused on your tasks and the growth of your skills. Stay committed to the work, and always remain devoted to the production you are in. Your efforts will pay off, the growth of your expertise and your value as an employee will rise the more you dedicate yourself to the craft!
 
-Repetition is the master of all skill. Always seek out ways to better
-yourself, because you're only in competition with your own self, never
-with others- slow, steady, consistent progress is the secret.
+Repetition is the master of all skill. Always seek out ways to better yourself, because you're only in competition with your own self, never with others- slow, steady, consistent progress is the secret.
 
-Never say: "How did they do that?" \-- Always ask: "How do I do that?"
+> **Never say:** "How did they do that?" \-- **Always ask:** "How do I do that?"
 
-If you would like MORE character design projects to practice various
-styles with, simply go back to Assignments 5,7,8,9,10,11,12 and choose a
-different property from those you haven't tried yet. In this document
-there's 32 styles in all, but feel free to search out other old or
-modern character designs from all the various series & movies out there.
-Delve into as many as you can, and practice drawing other styles,
-there's hundreds more to choose from, and LEARN from.
+If you would like MORE character design projects to practice various styles with, simply go back to **Assignments 5,7,8,9,10,11,12** and choose a different property from those you haven't tried yet. In this document there's 32 styles in all, but feel free to search out other old or modern character designs from all the various series & movies out there. Delve into as many as you can, and practice drawing other styles, there's hundreds more to choose from, and LEARN from.
 
-Places like [Art of Animation: Design
-References](https://www.google.com/url?q=https://characterdesignreferences.com/art-of-animation&sa=D&source=editors&ust=1759597865583467&usg=AOvVaw3c44PLLWOwlv06iN9vobQe),
-[Living Lines
-Library](https://www.google.com/url?q=http://livlily.blogspot.com/2010/11/model-sheets-production-drawings.html&sa=D&source=editors&ust=1759597865583566&usg=AOvVaw0lYpZARj5EWkm5hkT20p8L),
-and the [Character Design Visual
-Library](https://www.google.com/url?q=https://characterdesignreferences.com/visual-library&sa=D&source=editors&ust=1759597865583662&usg=AOvVaw2H42EFwaVj2zleq9dXQShm)
-have endless amounts of design work from other properties to use as
-reference, simply create your OWN assignments and studies to expand your
-portfolio, do not stop practicing!
+> Places like [Art of Animation: Design References](https://www.google.com/url?q=https://characterdesignreferences.com/art-of-animation&sa=D&source=editors&ust=1759597865583467&usg=AOvVaw3c44PLLWOwlv06iN9vobQe), [Living Lines Library](https://www.google.com/url?q=http://livlily.blogspot.com/2010/11/model-sheets-production-drawings.html&sa=D&source=editors&ust=1759597865583566&usg=AOvVaw0lYpZARj5EWkm5hkT20p8L), and the [Character Design Visual Library](https://www.google.com/url?q=https://characterdesignreferences.com/visual-library&sa=D&source=editors&ust=1759597865583662&usg=AOvVaw2H42EFwaVj2zleq9dXQShm) have endless amounts of design work from other properties to use as reference, simply create your OWN assignments and studies to expand your portfolio, do not stop practicing!
 
 ![image](./images/unnamed_521.jpg)
 
-Improve quickly by copying / drawing-over & breaking down all the model
-sheets, concept art, illustrations, production design images and
-character poses you can find - it's all for educational purposes. It's
-the one true way to accelerate your learning, and improve your
-draftsmanship. But copy to learn, not to use. Don't claim these
-trace-offs as your own creations, but use them for practice and
-self-improvement.
+Improve quickly by **copying / drawing-over** & **breaking down** all the model sheets, concept art, illustrations, production design images and character poses you can find - it's all for educational purposes. It's the one true way to accelerate your learning, and improve your draftsmanship. But copy to learn, not to use. Don't claim these trace-offs as your own creations, but use them for practice and self-improvement.
 
-Your brain will inherently know and learn the patterns of shapes,
-contours, and forms you draw to create these images, and it will benefit
-your instinctive art skills in meaningful ways. Draw and Copy other
-people's work to learn from them, break them down and analyze them, then
-you will unconsciously learn how to incorporate their techniques into
-your own work.
+Your brain will inherently know and learn the patterns of shapes, contours, and forms you draw to create these images, and it will benefit your instinctive art skills in meaningful ways. Draw and Copy other people's work to learn from them, break them down and analyze them, then you will unconsciously learn how to incorporate their techniques into your own work.
 
-Then, when creating your own designs - DON'T JUST COPY... If you really
-like the style of a certain show or illustrator, try to incorporate
-aspects of it... without just mimicking the EXACT STYLE. Try to create a
-design that FEELS inspired by other things... but it shouldn't read as
-fanart. Trace and Copy the styles you need to learn from in the
-beginning, to figure out what makes them work, then draw your own
-version. Figure out what aspects of the design style make it unique and
-fresh to YOU, then put your own voice in there. With all this said -
-always listen to those who make sense to you, follow the code of those
-that inspire you, consider the words of advice from [Gabby
-Caldera](https://www.google.com/url?q=https://youtu.be/4uLA72brluc&sa=D&source=editors&ust=1759597865585456&usg=AOvVaw0_NnT0r1wIi6awvMvEJiYo).
+Then, when creating your **own designs** - DON'T JUST COPY... If you really like the style of a certain show or illustrator, try to incorporate aspects of it... without just mimicking the EXACT STYLE. Try to create a design that FEELS inspired by other things... but it shouldn't read as fanart. Trace and Copy the styles you need to learn from in the beginning, to figure out what makes them work, then draw your own version. Figure out what aspects of the design style make it unique and fresh to YOU, then put your own voice in there. With all this said - always listen to those who make sense to you, follow the code of those that inspire you, consider the words of advice from [Gabby Caldera](https://www.google.com/url?q=https://youtu.be/4uLA72brluc&sa=D&source=editors&ust=1759597865585456&usg=AOvVaw0_NnT0r1wIi6awvMvEJiYo).
 
 ![image](./images/unnamed_1488.png)
 
-> "People want to find their passion.
-> But you don't find it, you create it.
-> And you create it by getting good at something.
-> And to get good at stuff, you start by doing something you suck at.
-> Then, you get good.
-> Then, you like it.
-> Then, people ask you how you found your passion.
-> Answer: By starting when you sucked and not giving up."
-> --- Alex Hormozi
+> "People want to find their passion. \
+> But you don't find it, you create it. \
+> And you create it by getting good at something. \
+> And to get good at stuff, you start by doing something you suck at. \
+> Then, you get good. \
+> Then, you like it. \
+> Then, people ask you how you found your passion. \
+> Answer: By starting when you sucked and not giving up." \
+> --- _Alex Hormozi_
 
 ![image](./images/unnamed_008.gif)
 
-Good luck!
+> **Good luck!**
 
-Feel free to report dead links, inform me on proper artists' credits,
-submit to me your assignments for feedback, and send me any requests or
-questions about these exercises: <ron.doucet@gmail.com>
+Feel free to report dead links, inform me on proper artists' credits, submit to me your assignments for feedback, and send me any requests or questions about these exercises: <ron.doucet@gmail.com>
 
 ![image](./images/unnamed_477.png)
 
 ### Donations
 
-To keep these sites alive, updated, and available to all, donations of
-any sorts are welcome and greatly appreciated:
+To keep these sites alive, updated, and available to all, donations of any sorts are welcome and greatly appreciated:
 
-[Paypal](https://www.google.com/url?q=https://paypal.me/floobynooby?country.x%3DCA%26locale.x%3Den_US&sa=D&source=editors&ust=1759597865588380&usg=AOvVaw0TMujxpAQZpXqbzqTYwlsy)
-
-[Ko-fi](https://www.google.com/url?q=https://ko-fi.com/rondoucet&sa=D&source=editors&ust=1759597865588471&usg=AOvVaw15ZDMLbEuAcF6sB7oUZNPc)
-
-[Donorbox](https://www.google.com/url?q=https://donorbox.org/character-design-crash-course&sa=D&source=editors&ust=1759597865588554&usg=AOvVaw2jawt3UQm4wgEYrvG4Rezg)
-
-[Buy Me a
-Coffee](https://www.google.com/url?q=https://www.buymeacoffee.com/floobynooby&sa=D&source=editors&ust=1759597865588638&usg=AOvVaw1Z16PF182PfORbHPRbvfYR)
+- [Paypal](https://www.google.com/url?q=https://paypal.me/floobynooby?country.x%3DCA%26locale.x%3Den_US&sa=D&source=editors&ust=1759597865588380&usg=AOvVaw0TMujxpAQZpXqbzqTYwlsy)
+- [Ko-fi](https://www.google.com/url?q=https://ko-fi.com/rondoucet&sa=D&source=editors&ust=1759597865588471&usg=AOvVaw15ZDMLbEuAcF6sB7oUZNPc)
+- [Donorbox](https://www.google.com/url?q=https://donorbox.org/character-design-crash-course&sa=D&source=editors&ust=1759597865588554&usg=AOvVaw2jawt3UQm4wgEYrvG4Rezg)
+- [Buy Me a Coffee](https://www.google.com/url?q=https://www.buymeacoffee.com/floobynooby&sa=D&source=editors&ust=1759597865588638&usg=AOvVaw1Z16PF182PfORbHPRbvfYR)
 
 ![image](./images/unnamed_501.png)
